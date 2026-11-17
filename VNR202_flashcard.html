@@ -399,7 +399,6 @@ function loadNextCard(){
   $("cardBadgeStatus").textContent = !record ? "Mới (Lần đầu)" : `Đã ôn ${record.reps || 0} lần`;
   
   $("cardMultiBanner").classList.toggle("hidden", !curCard.multi);
-  $("qText").textContent = curCard.q;
   $("cardQText").textContent = curCard.q;
   
   // Render options
