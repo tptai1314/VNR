@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VNR202 – Luyện chọn đáp án (Lặp lại ngắt quãng SM-2)</title>
+<script src="data/questions.js"></script>
+<style>
+:root{
+  --bg:#f8fafc; --ink:#0f172a; --muted:#64748b; --line:#e2e8f0;
+  --card:#ffffff; --brand:#dc2626; --brand-light:#fee2e2; --brand-dark:#991b1b;
+  --ok:#16a34a; --ok-light:#dcfce7; --bad:#dc2626; --bad-light:#fee2e2;
+  --blue:#2563eb; --blue-light:#dbeafe; --warn:#f59e0b; --warn-light:#fef3c7;
+}
+*{box-sizing:border-box}
+body{
+  margin:0; font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+  color:var(--ink); background:linear-gradient(160deg,#fff1f2 0%,#f8fafc 50%,#f1f5f9 100%);
+  min-height:100vh; line-height:1.55;
+}
+.wrap{max-width:880px; margin:0 auto; padding:20px 16px 80px}
+.nav-back{margin-bottom:12px; font-size:.88rem; font-weight:700}
+.nav-back a{color:var(--muted); text-decoration:none}
+.nav-back a:hover{color:var(--brand)}
+header{display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:18px; flex-wrap:wrap; gap:10px}
+h1{font-size:1.4rem; margin:0 0 4px; color:#1e1b4b}
+.sub{color:var(--muted); font-size:.88rem}
+
+.top-controls{display:flex; gap:8px; align-items:center; flex-wrap:wrap}
+button, select{font:inherit}
+button{
+  cursor:pointer; border:0; border-radius:10px; padding:9px 15px; font-weight:700;
+  transition:.15s; display:inline-flex; align-items:center; justify-content:center; gap:6px;
+}
+button:hover{filter:brightness(1.08)}
+button.primary{background:var(--brand); color:#fff}
+button.ghost{background:#fff; color:#334155; border:1px solid var(--line)}
+button.ghost:hover{background:#f1f5f9}
+select{
+  padding:8px 12px; border:1px solid var(--line); border-radius:10px; background:#fff;
+  font-size:.88rem; outline:none;
+}
+
+/* Tabs */
+.view-tabs{display:flex; gap:6px; border-bottom:2px solid var(--line); margin-bottom:18px}
+.vtab{
+  padding:10px 18px; font-weight:800; font-size:.9rem; cursor:pointer; color:var(--muted);
+  border-bottom:2px solid transparent; margin-bottom:-2px; transition:.15s;
+}
+.vtab.active{color:var(--brand); border-bottom-color:var(--brand)}
+
+/* Card presentation */
+.flash-card{
+  background:var(--card); border:1px solid var(--line); border-radius:20px;
+  padding:24px; box-shadow:0 8px 30px rgba(15,23,42,.06); margin-bottom:20px;
+  position:relative;
+}
+.card-header{
+  display:flex; justify-content:space-between; align-items:center; margin-bottom:14px;
+  flex-wrap:wrap; gap:8px; font-size:.82rem;
+}
+.badge-id{background:#fee2e2; color:#991b1b; padding:4px 10px; border-radius:6px; font-weight:800}
+.badge-topic{background:#f1f5f9; color:#475569; padding:4px 10px; border-radius:6px; font-weight:700}
+.badge-status{color:var(--muted); font-weight:600}
+
+.multi-banner{
+  background:#fff7ed; border:1px solid #fed7aa; border-left:5px solid #f97316;
+  padding:10px 14px; border-radius:8px; font-size:.88rem; color:#9a3412; font-weight:700;
+  margin-bottom:14px; display:flex; align-items:center; gap:8px;
+}
+
+.q-text{font-size:1.18rem; font-weight:700; line-height:1.55; color:#0f172a; margin-bottom:18px}
+
+.options-grid{display:flex; flex-direction:column; gap:10px}
+.option-row{
+  display:flex; align-items:flex-start; gap:12px; padding:12px 16px;
+  border:2px solid var(--line); border-radius:12px; cursor:pointer;
+  transition:.15s; background:#fff; font-size:.96rem; line-height:1.45;
+}
+.option-row:hover{border-color:#cbd5e1; background:#f8fafc}
+.option-row.picked{border-color:var(--blue); background:#eff6ff}
+.option-row.correct{border-color:var(--ok)!important; background:var(--ok-light)!important; color:#14532d; font-weight:700}
+.option-row.wrong{border-color:var(--bad)!important; background:var(--bad-light)!important; color:#7f1d1d}
+.opt-tag{
+  flex:0 0 28px; height:28px; border-radius:8px; background:#f1f5f9;
+  display:flex; align-items:center; justify-content:center; font-weight:800;
+  font-size:.85rem; color:#475569;
+}
+.option-row.picked .opt-tag{background:var(--blue); color:#fff}
+.option-row.correct .opt-tag{background:var(--ok); color:#fff}
+.option-row.wrong .opt-tag{background:var(--bad); color:#fff}
+
+.card-note{
+  background:#f8fafc; border:1px solid var(--line); border-left:4px solid var(--blue);
+  border-radius:0 10px 10px 0; padding:12px 16px; margin-top:16px; font-size:.9rem;
+  color:#1e3a8a; line-height:1.55;
+}
+
+/* Action bar below card */
+.action-bar{display:flex; justify-content:space-between; align-items:center; gap:10px; flex-wrap:wrap}
+.rating-buttons{display:grid; grid-template-columns:repeat(4,1fr); gap:8px; flex:1 1 360px}
+.btn-rate{
+  display:flex; flex-direction:column; align-items:center; padding:10px 4px;
+  border-radius:10px; border:1px solid var(--line); background:#fff; cursor:pointer;
+  transition:.15s;
+}
+.btn-rate:hover{filter:brightness(.95); transform:translateY(-1px)}
+.btn-rate b{font-size:.92rem}
+.btn-rate small{font-size:.72rem; color:var(--muted); margin-top:2px}
+.btn-rate.again{color:var(--bad); border-color:#fecaca}
+.btn-rate.again:hover{background:#fee2e2}
+.btn-rate.hard{color:#d97706; border-color:#fde68a}
+.btn-rate.hard:hover{background:#fef3c7}
+.btn-rate.good{color:var(--blue); border-color:#bfdbfe}
+.btn-rate.good:hover{background:#dbeafe}
+.btn-rate.easy{color:var(--ok); border-color:#bbf7d0}
+.btn-rate.easy:hover{background:#dcfce7}
+
+.stats-bar{
+  display:flex; gap:12px; font-size:.84rem; font-weight:700; color:var(--muted);
+  background:#fff; border:1px solid var(--line); border-radius:12px; padding:8px 14px;
+}
+.stats-bar span b{color:var(--ink)}
+
+/* Settings modal */
+.modal-overlay{
+  position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(15,23,42,.5);
+  display:flex; align-items:center; justify-content:center; z-index:999; padding:16px;
+}
+.modal{
+  background:#fff; border-radius:18px; max-width:540px; width:100%; padding:24px;
+  box-shadow:0 16px 40px rgba(0,0,0,.2); max-height:90vh; overflow-y:auto;
+}
+.modal h2{font-size:1.25rem; margin:0 0 16px}
+.modal-row{margin-bottom:14px}
+.modal-row label{display:block; font-size:.85rem; font-weight:700; color:var(--muted); margin-bottom:4px}
+.modal-row input{width:100%; padding:8px 12px; border:1px solid var(--line); border-radius:8px}
+.preset-buttons{display:flex; gap:8px; margin-bottom:16px; flex-wrap:wrap}
+
+/* List tab */
+.list-filter{display:flex; gap:10px; margin-bottom:14px; flex-wrap:wrap}
+.list-filter input{
+  flex:1 1 240px; padding:9px 14px; border:1px solid var(--line); border-radius:10px; outline:none;
+}
+.card-list-item{
+  background:#fff; border:1px solid var(--line); border-radius:12px; padding:14px 18px;
+  margin-bottom:10px; font-size:.9rem;
+}
+.cli-header{display:flex; justify-content:space-between; align-items:center; margin-bottom:6px}
+.cli-q{font-weight:700; color:#0f172a}
+.cli-ans{color:var(--ok); font-weight:800; margin-top:6px}
+
+.hidden{display:none!important}
+.kbd-hint{text-align:center; font-size:.78rem; color:var(--muted); margin-top:16px}
+kbd{background:#e2e8f0; border-radius:4px; padding:2px 6px; font-family:monospace; font-weight:700}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <div class="nav-back"><a href="index.html">← Về trang chủ VNR202</a></div>
+  
+  <header>
+    <div>
+      <h1>VNR202 – Luyện Chọn Đáp Án (Flashcard)</h1>
+      <div class="sub">Thuật toán lặp lại ngắt quãng SM-2 (kiểu Anki) · 415 câu trắc nghiệm</div>
+    </div>
+    <div class="top-controls">
+      <select id="selTopic" onchange="changeTopic(this.value)">
+        <option value="all">📚 Tất cả câu hỏi (415 câu)</option>
+        <option value="period_1858_1930">🌱 Thành lập Đảng & Tiền đề (1858 - 1930)</option>
+        <option value="period_1930_1945">🚩 Đấu tranh giành chính quyền (1930 - 1945)</option>
+        <option value="period_1945_1954">⚔️ Kháng chiến chống Pháp (1945 - 1954)</option>
+        <option value="period_1954_1975">🚀 Kháng chiến chống Mỹ (1954 - 1975)</option>
+        <option value="period_1975_1986">🇻🇳 Cả nước quá độ lên CNXH (1975 - 1986)</option>
+        <option value="period_1986_now">🌐 Đổi mới & Hội nhập (1986 - nay)</option>
+        <option value="tag_so">🔢 Dạng câu: Con số & Bộ số</option>
+        <option value="tag_nam">⏱️ Dạng câu: Mốc thời gian & Năm</option>
+        <option value="tag_nhanvat">🧑 Dạng câu: Tổng Bí thư & Nhân vật</option>
+        <option value="tag_daihoi">🏛️ Dạng câu: Đại hội & Hội nghị TW</option>
+      </select>
+      <button class="ghost" onclick="toggleSettings(true)">⚙️ Cài đặt</button>
+    </div>
+  </header>
+
+  <!-- View tabs -->
+  <div class="view-tabs">
+    <div class="vtab active" id="tabPractice" onclick="switchTab('practice')">🎯 Học hôm nay</div>
+    <div class="vtab" id="tabFree" onclick="switchTab('free')">📚 Học tự do</div>
+    <div class="vtab" id="tabList" onclick="switchTab('list')">📋 Danh sách câu hỏi</div>
+  </div>
+
+  <!-- PRACTICE VIEW -->
+  <div id="viewPractice">
+    <div class="flash-card" id="cardContainer">
+      <div class="card-header">
+        <div>
+          <span class="badge-id" id="cardBadgeId">Câu 1</span>
+          <span class="badge-topic" id="cardBadgeTopic">Giai đoạn</span>
+        </div>
+        <div class="badge-status" id="cardBadgeStatus">Mới (Lần đầu)</div>
+      </div>
+
+      <div class="multi-banner hidden" id="cardMultiBanner">
+        ⚠️ <b>CÂU NÀY CHỌN NHIỀU ĐÁP ÁN:</b> Hãy bấm chọn đủ các đáp án rồi bấm "Kiểm tra"!
+      </div>
+
+      <div class="q-text" id="cardQText">Đang tải câu hỏi...</div>
+      <div class="options-grid" id="cardOptsGrid"></div>
+      <div class="card-note hidden" id="cardNote"></div>
+    </div>
+
+    <div class="action-bar">
+      <div>
+        <button id="btnCheck" class="primary" style="padding:12px 24px" onclick="checkCurrentCard()">
+          ✔️ Kiểm tra
+        </button>
+      </div>
+
+      <div class="rating-buttons hidden" id="ratingButtons">
+        <button class="btn-rate again" onclick="rateCard(1)">
+          <b>Lại</b>
+          <small id="lblAgain">10p</small>
+        </button>
+        <button class="btn-rate hard" onclick="rateCard(2)">
+          <b>Khó</b>
+          <small id="lblHard">1 ngày</small>
+        </button>
+        <button class="btn-rate good" onclick="rateCard(3)">
+          <b>Được</b>
+          <small id="lblGood">3 ngày</small>
+        </button>
+        <button class="btn-rate easy" onclick="rateCard(4)">
+          <b>Dễ</b>
+          <small id="lblEasy">5 ngày</small>
+        </button>
+      </div>
+
+      <div class="stats-bar">
+        <span>Mới: <b id="cntNew" style="color:#2563eb">0</b></span>
+        <span>Học: <b id="cntLearn" style="color:#ea580c">0</b></span>
+        <span>Ôn: <b id="cntReview" style="color:#16a34a">0</b></span>
+        <span>Còn: <b id="cntRemain">0</b></span>
+      </div>
+    </div>
+
+    <div class="kbd-hint">
+      Phím tắt: <kbd>1</kbd>-<kbd>4</kbd> / <kbd>A</kbd>-<kbd>D</kbd> chọn phương án · <kbd>Space</kbd>/<kbd>Enter</kbd> Kiểm tra · Sau kiểm tra: <kbd>1</kbd> Lại, <kbd>2</kbd> Khó, <kbd>3</kbd> Được, <kbd>4</kbd> Dễ · <kbd>Z</kbd> Hoàn tác
+    </div>
+  </div>
+
+  <!-- LIST VIEW -->
+  <div id="viewList" class="hidden">
+    <div class="list-filter">
+      <input type="text" id="listSearch" placeholder="🔍 Tìm kiếm trong danh sách câu hỏi..." oninput="renderCardList()">
+      <button class="ghost" onclick="toggleAllAnswers()">👁️ Hiện/Ẩn tất cả đáp án</button>
+    </div>
+    <div id="cardListContainer"></div>
+  </div>
+</div>
+
+<!-- SETTINGS MODAL -->
+<div class="modal-overlay hidden" id="settingsModal">
+  <div class="modal">
+    <h2>⚙️ Cài đặt thuật toán lặp lại ngắt quãng</h2>
+    
+    <div class="preset-buttons">
+      <button class="ghost" onclick="applyPreset('standard')">Chuẩn Anki</button>
+      <button class="primary" style="background:#ea580c" onclick="applyPreset('cram4')">⏳ Ôn gấp 4 ngày</button>
+      <button class="primary" onclick="applyPreset('cram2')">🔥 Ôn gấp 2 ngày</button>
+    </div>
+
+    <div class="modal-row">
+      <label>Số câu mới mỗi ngày</label>
+      <input type="number" id="cfgNewPerDay" value="30">
+    </div>
+    <div class="modal-row">
+      <label>Ngày thi (YYYY-MM-DD) - tự động nén lịch không vượt quá ngày thi</label>
+      <input type="date" id="cfgExamDate">
+    </div>
+
+    <div style="display:flex; justify-content:space-between; gap:10px; margin-top:20px; flex-wrap:wrap">
+      <button class="primary" onclick="saveSettings()">Lưu cài đặt</button>
+      <button class="ghost" onclick="exportData()">📥 Xuất tiến độ (JSON)</button>
+      <button class="ghost" onclick="resetProgress()">⚠️ Đặt lại tiến độ</button>
+      <button class="ghost" onclick="toggleSettings(false)">Đóng</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const LETTER = ["A","B","C","D"];
+const $ = id => document.getElementById(id);
+const ALL_QS = window.VNR_DATA ? window.VNR_DATA.questions : [];
+
+// SM-2 Default parameters
+const DEF_CONFIG = {
+  newPerDay: 40,
+  startEase: 2.5,
+  examDate: ""
+};
+
+let CFG = Object.assign({}, DEF_CONFIG, loadLocal("vnrCfg", {}));
+let DB = loadLocal("vnrDb", {}); // { cardId: { due: timestamp, step: 0, ease: 2.5, ivl: 0, reps: 0 } }
+let DAY_STATS = loadLocal("vnrDay", { date: "", done: 0 });
+
+let curTopic = "all";
+let curTab = "practice";
+let activeQueue = [];
+let curCard = null;
+let userPicked = [];
+let isChecked = false;
+let undoState = null;
+let showAnswersInList = false;
+
+function loadLocal(k, d){ try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch(e){ return d; } }
+function saveLocal(k, v){ try { localStorage.setItem(k, JSON.stringify(v)); } catch(e){} }
+function todayStr(){ return new Date().toISOString().slice(0,10); }
+
+// Check day change
+if(DAY_STATS.date !== todayStr()){
+  DAY_STATS = { date: todayStr(), done: 0 };
+  saveLocal("vnrDay", DAY_STATS);
+}
+
+function getTopicPool(){
+  let list = ALL_QS.slice();
+  if(curTopic !== "all"){
+    if(curTopic.startsWith("tag_")){
+      list = list.filter(q => q.tags && q.tags.includes(curTopic));
+    } else {
+      list = list.filter(q => q.topic === curTopic);
+    }
+  }
+  return list;
+}
+
+function buildPracticeQueue(){
+  const pool = getTopicPool();
+  const now = Date.now();
+  let reviews = [];
+  let learns = [];
+  let newCards = [];
+  
+  pool.forEach(q => {
+    const record = DB[q.id];
+    if(!record){
+      newCards.push(q);
+    } else if(record.step > 0 && record.due <= now){
+      learns.push(q);
+    } else if(record.due <= now){
+      reviews.push(q);
+    }
+  });
+  
+  if(curTab === "practice"){
+    // Limit new cards
+    const allowedNew = Math.max(0, CFG.newPerDay - DAY_STATS.done);
+    newCards = newCards.slice(0, allowedNew);
+    activeQueue = [...learns, ...reviews, ...newCards];
+  } else {
+    // Free mode
+    activeQueue = pool.slice();
+  }
+  
+  updateCounters(newCards.length, learns.length, reviews.length, activeQueue.length);
+}
+
+function updateCounters(nNew, nLearn, nRev, nTotal){
+  $("cntNew").textContent = nNew;
+  $("cntLearn").textContent = nLearn;
+  $("cntReview").textContent = nRev;
+  $("cntRemain").textContent = nTotal;
+}
+
+function loadNextCard(){
+  userPicked = [];
+  isChecked = false;
+  $("ratingButtons").classList.add("hidden");
+  $("btnCheck").classList.remove("hidden");
+  $("btnCheck").disabled = true;
+  $("cardNote").classList.add("hidden");
+  
+  if(activeQueue.length === 0){
+    $("cardBadgeId").textContent = "Hoàn thành";
+    $("cardBadgeTopic").textContent = "Tuyệt vời";
+    $("cardBadgeStatus").textContent = "—";
+    $("cardMultiBanner").classList.add("hidden");
+    $("cardQText").innerHTML = "🎉 <b>Bạn đã hoàn thành toàn bộ mục tiêu học tập cho chủ đề này hôm nay!</b><br><br>Hãy thư giãn hoặc chọn sang chế độ 'Học tự do' để tiếp tục ôn luyện.";
+    $("cardOptsGrid").innerHTML = "";
+    return;
+  }
+  
+  curCard = activeQueue[0];
+  const record = DB[curCard.id];
+  
+  $("cardBadgeId").textContent = `Câu ${curCard.id}`;
+  $("cardBadgeTopic").textContent = curCard.topic;
+  $("cardBadgeStatus").textContent = !record ? "Mới (Lần đầu)" : `Đã ôn ${record.reps || 0} lần`;
+  
+  $("cardMultiBanner").classList.toggle("hidden", !curCard.multi);
+  $("qText").textContent = curCard.q;
+  $("cardQText").textContent = curCard.q;
+  
+  // Render options
+  const grid = $("cardOptsGrid");
+  grid.innerHTML = "";
+  
+  curCard.options.forEach((optText, optIdx) => {
+    const letter = LETTER[optIdx];
+    const row = document.createElement("div");
+    row.className = "option-row";
+    row.dataset.letter = letter;
+    row.innerHTML = `
+      <div class="opt-tag">${letter}</div>
+      <div class="opt-text">${optText}</div>
+    `;
+    row.onclick = () => pickOption(letter);
+    grid.appendChild(row);
+  });
+}
+
+function pickOption(letter){
+  if(isChecked) return;
+  if(!curCard) return;
+  
+  if(curCard.multi){
+    if(userPicked.includes(letter)){
+      userPicked = userPicked.filter(x => x !== letter);
+    } else {
+      userPicked.push(letter);
+    }
+  } else {
+    userPicked = [letter];
+  }
+  
+  // Update visually
+  document.querySelectorAll(".option-row").forEach(row => {
+    const l = row.dataset.letter;
+    row.classList.toggle("picked", userPicked.includes(l));
+  });
+  
+  $("btnCheck").disabled = userPicked.length === 0;
+}
+
+function checkCurrentCard(){
+  if(!curCard || userPicked.length === 0 || isChecked) return;
+  isChecked = true;
+  $("btnCheck").classList.add("hidden");
+  $("ratingButtons").classList.remove("hidden");
+  
+  const targetLetters = curCard.a.split("");
+  
+  document.querySelectorAll(".option-row").forEach(row => {
+    const l = row.dataset.letter;
+    const isTarget = targetLetters.includes(l);
+    const isSelected = userPicked.includes(l);
+    
+    if(isTarget) row.classList.add("correct");
+    if(isSelected && !isTarget) row.classList.add("wrong");
+  });
+  
+  // Show note
+  if(curCard.note || curCard.multi){
+    const noteEl = $("cardNote");
+    noteEl.classList.remove("hidden");
+    let h = "";
+    if(curCard.multi) h += `<b>⚠️ Đáp án đúng: ${curCard.a}</b><br>`;
+    if(curCard.note) h += `<b>Ghi chú:</b> ${curCard.note}`;
+    noteEl.innerHTML = h;
+  }
+  
+  calculateNextIntervals();
+}
+
+function calculateNextIntervals(){
+  const rec = DB[curCard.id] || { ease: CFG.startEase, ivl: 0, step: 0, reps: 0 };
+  
+  // Labels for 4 buttons
+  $("lblAgain").textContent = "10 phút";
+  $("lblHard").textContent = rec.ivl > 0 ? `${Math.round(rec.ivl * 1.2)} ngày` : "1 ngày";
+  $("lblGood").textContent = rec.ivl > 0 ? `${Math.round(rec.ivl * rec.ease)} ngày` : "2 ngày";
+  $("lblEasy").textContent = rec.ivl > 0 ? `${Math.round(rec.ivl * rec.ease * 1.3)} ngày` : "4 ngày";
+}
+
+function rateCard(rating){
+  if(!curCard || !isChecked) return;
+  
+  undoState = {
+    card: curCard,
+    dbRecord: DB[curCard.id] ? Object.assign({}, DB[curCard.id]) : null,
+    queueIndex: 0
+  };
+  
+  let rec = DB[curCard.id] || { ease: CFG.startEase, ivl: 0, step: 0, reps: 0, due: 0 };
+  const wasNew = !DB[curCard.id];
+  
+  rec.reps = (rec.reps || 0) + 1;
+  const now = Date.now();
+  
+  if(rating === 1){ // Again
+    rec.step = 1;
+    rec.due = now + 10 * 60 * 1000; // 10 mins
+    rec.ease = Math.max(1.3, rec.ease - 0.2);
+    // Push back to queue
+    activeQueue.shift();
+    activeQueue.push(curCard);
+  } else if(rating === 2){ // Hard
+    rec.ease = Math.max(1.3, rec.ease - 0.15);
+    rec.ivl = rec.ivl > 0 ? Math.round(rec.ivl * 1.2) : 1;
+    rec.due = now + rec.ivl * 86400 * 1000;
+    activeQueue.shift();
+  } else if(rating === 3){ // Good
+    rec.ivl = rec.ivl > 0 ? Math.round(rec.ivl * rec.ease) : 2;
+    rec.due = now + rec.ivl * 86400 * 1000;
+    activeQueue.shift();
+  } else if(rating === 4){ // Easy
+    rec.ease += 0.15;
+    rec.ivl = rec.ivl > 0 ? Math.round(rec.ivl * rec.ease * 1.3) : 4;
+    rec.due = now + rec.ivl * 86400 * 1000;
+    activeQueue.shift();
+  }
+  
+  // Exam date cap
+  if(CFG.examDate){
+    const examTime = new Date(CFG.examDate).getTime();
+    if(rec.due > examTime){
+      rec.due = Math.max(now + 3600000, examTime - 86400000);
+    }
+  }
+  
+  DB[curCard.id] = rec;
+  saveLocal("vnrDb", DB);
+  
+  if(wasNew){
+    DAY_STATS.done++;
+    saveLocal("vnrDay", DAY_STATS);
+  }
+  
+  buildPracticeQueue();
+  loadNextCard();
+}
+
+function undoLast(){
+  if(!undoState) return alert("Không có hành động nào để hoàn tác!");
+  if(undoState.dbRecord){
+    DB[undoState.card.id] = undoState.dbRecord;
+  } else {
+    delete DB[undoState.card.id];
+  }
+  saveLocal("vnrDb", DB);
+  activeQueue.unshift(undoState.card);
+  undoState = null;
+  loadNextCard();
+}
+
+function changeTopic(t){
+  curTopic = t;
+  buildPracticeQueue();
+  loadNextCard();
+  if(curTab === "list") renderCardList();
+}
+
+function switchTab(tab){
+  curTab = tab;
+  $("tabPractice").classList.toggle("active", tab === "practice");
+  $("tabFree").classList.toggle("active", tab === "free");
+  $("tabList").classList.toggle("active", tab === "list");
+  
+  $("viewPractice").classList.toggle("hidden", tab === "list");
+  $("viewList").classList.toggle("hidden", tab !== "list");
+  
+  if(tab === "list"){
+    renderCardList();
+  } else {
+    buildPracticeQueue();
+    loadNextCard();
+  }
+}
+
+// Card list view
+function renderCardList(){
+  const container = $("cardListContainer");
+  const query = ($("listSearch").value || "").toLowerCase().trim();
+  const pool = getTopicPool();
+  
+  container.innerHTML = "";
+  
+  pool.forEach(q => {
+    const textAll = (q.q + " " + q.options.join(" ")).toLowerCase();
+    if(query && !textAll.includes(query) && !String(q.id).includes(query)) return;
+    
+    const div = document.createElement("div");
+    div.className = "card-list-item";
+    div.innerHTML = `
+      <div class="cli-header">
+        <span class="badge-id">Câu ${q.id}</span>
+        <span class="badge-topic">${q.topic}</span>
+      </div>
+      <div class="cli-q">${q.q}</div>
+      <div class="cli-ans ${showAnswersInList ? "" : "hidden"}">
+        👉 Đáp án: <b>${q.a}</b> ${q.note ? `(<i>${q.note}</i>)` : ""}
+      </div>
+    `;
+    div.onclick = () => {
+      const a = div.querySelector(".cli-ans");
+      if(a) a.classList.toggle("hidden");
+    };
+    container.appendChild(div);
+  });
+}
+
+function toggleAllAnswers(){
+  showAnswersInList = !showAnswersInList;
+  document.querySelectorAll(".cli-ans").forEach(el => {
+    el.classList.toggle("hidden", !showAnswersInList);
+  });
+}
+
+// Settings
+function toggleSettings(show){
+  $("settingsModal").classList.toggle("hidden", !show);
+  if(show){
+    $("cfgNewPerDay").value = CFG.newPerDay;
+    $("cfgExamDate").value = CFG.examDate || "";
+  }
+}
+
+function applyPreset(p){
+  if(p === "cram4"){
+    CFG.newPerDay = 120;
+    CFG.startEase = 2.0;
+    const d = new Date(); d.setDate(d.getDate() + 4);
+    CFG.examDate = d.toISOString().slice(0,10);
+  } else if(p === "cram2"){
+    CFG.newPerDay = 220;
+    CFG.startEase = 1.8;
+    const d = new Date(); d.setDate(d.getDate() + 2);
+    CFG.examDate = d.toISOString().slice(0,10);
+  } else {
+    CFG.newPerDay = 30;
+    CFG.startEase = 2.5;
+  }
+  toggleSettings(true);
+}
+
+function saveSettings(){
+  CFG.newPerDay = Math.max(5, +$("cfgNewPerDay").value);
+  CFG.examDate = $("cfgExamDate").value;
+  saveLocal("vnrCfg", CFG);
+  toggleSettings(false);
+  buildPracticeQueue();
+  loadNextCard();
+}
+
+function exportData(){
+  const payload = { cfg: CFG, db: DB, day: DAY_STATS, exportedAt: new Date().toISOString() };
+  const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = `VNR202_TienDo_${todayStr()}.json`;
+  a.click();
+}
+
+function resetProgress(){
+  if(confirm("Bạn có chắc chắn muốn đặt lại toàn bộ tiến độ học và lịch ôn của VNR202?")){
+    localStorage.removeItem("vnrDb");
+    localStorage.removeItem("vnrDay");
+    DB = {};
+    DAY_STATS = { date: todayStr(), done: 0 };
+    alert("Đã đặt lại tiến độ!");
+    toggleSettings(false);
+    buildPracticeQueue();
+    loadNextCard();
+  }
+}
+
+// Keyboard shortcuts
+window.addEventListener("keydown", e => {
+  if(!$("settingsModal").classList.contains("hidden")) return;
+  if(curTab === "list") return;
+  
+  const key = e.key.toUpperCase();
+  if(!isChecked){
+    if(["1","A"].includes(key)) pickOption("A");
+    else if(["2","B"].includes(key)) pickOption("B");
+    else if(["3","C"].includes(key)) pickOption("C");
+    else if(["4","D"].includes(key)) pickOption("D");
+    else if(e.key === "Enter" || e.key === " "){
+      if(!$("btnCheck").disabled) checkCurrentCard();
+    }
+  } else {
+    if(key === "1") rateCard(1);
+    else if(key === "2") rateCard(2);
+    else if(key === "3") rateCard(3);
+    else if(key === "4") rateCard(4);
+    else if(key === "Z") undoLast();
+  }
+});
+
+// Init
+buildPracticeQueue();
+loadNextCard();
+</script>
+</body>
+</html>

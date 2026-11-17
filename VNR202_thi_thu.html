@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VNR202 – Thi thử trắc nghiệm Lịch sử Đảng</title>
+<script src="data/questions.js"></script>
+<style>
+:root{
+  --bg:#0f172a; --card:#ffffff; --ink:#0f172a; --muted:#64748b;
+  --ok:#16a34a; --ok-bg:#dcfce7; --bad:#dc2626; --bad-bg:#fee2e2;
+  --brand:#dc2626; --brand-dark:#991b1b; --brand-light:#fee2e2;
+  --blue:#2563eb; --line:#e2e8f0;
+}
+*{box-sizing:border-box}
+body{
+  margin:0; font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+  background:linear-gradient(160deg,#fff1f2 0%,#f8fafc 50%,#f1f5f9 100%);
+  color:var(--ink); min-height:100vh;
+}
+.wrap{max-width:920px; margin:0 auto; padding:20px 16px 60px}
+.nav-back{margin-bottom:14px; font-size:.88rem; font-weight:700}
+.nav-back a{color:var(--muted); text-decoration:none}
+.nav-back a:hover{color:var(--brand)}
+h1{font-size:1.5rem; margin:6px 0 2px; color:#1e1b4b}
+.sub{color:var(--muted); font-size:.92rem; margin-bottom:18px}
+.card{
+  background:var(--card); border:1px solid var(--line); border-radius:18px;
+  padding:22px; box-shadow:0 6px 24px rgba(15,23,42,.06); margin-bottom:18px;
+}
+.row{display:flex; flex-wrap:wrap; gap:14px; margin-bottom:14px}
+.field{flex:1 1 200px}
+label{display:block; font-size:.85rem; color:var(--muted); margin-bottom:6px; font-weight:700}
+select, button{font:inherit}
+select{
+  width:100%; padding:10px 12px; border:1px solid var(--line); border-radius:10px;
+  background:#fff; outline:none; font-size:.92rem;
+}
+select:focus{border-color:var(--brand)}
+button{
+  cursor:pointer; border:0; border-radius:10px; padding:12px 20px; font-weight:700;
+  color:#fff; background:var(--brand); transition:.15s; display:inline-flex;
+  align-items:center; justify-content:center; gap:8px;
+}
+button:hover{filter:brightness(1.08)}
+button.ghost{background:#f1f5f9; color:#334155}
+button.ghost:hover{background:#e2e8f0}
+button.blue{background:var(--blue)}
+button.ok{background:var(--ok)}
+button:disabled{opacity:.5; cursor:not-allowed}
+.hidden{display:none!important}
+
+/* Top bar during quiz */
+.top{
+  display:flex; gap:10px; align-items:center; justify-content:space-between;
+  margin-bottom:14px; flex-wrap:wrap;
+}
+.pills{display:flex; gap:8px; align-items:center; flex-wrap:wrap}
+.pill{
+  background:#fff; border:1px solid var(--line); border-radius:999px;
+  padding:6px 14px; font-weight:700; font-size:.88rem;
+}
+.pill span{color:var(--brand)}
+.pill.ok span{color:var(--ok)}
+.pill.bad span{color:var(--bad)}
+
+.timer{
+  position:relative; height:8px; background:#e2e8f0; border-radius:99px;
+  overflow:hidden; margin-bottom:16px;
+}
+.timer i{
+  display:block; height:100%; background:linear-gradient(90deg,#22c55e,#eab308,#dc2626);
+  width:100%; transition:width .2s linear;
+}
+
+/* Question display */
+.q-box{margin-bottom:18px}
+.q-num{
+  display:inline-block; font-size:.78rem; font-weight:800; background:#fee2e2;
+  color:#991b1b; padding:4px 10px; border-radius:6px; margin-bottom:8px;
+}
+.q-title{font-size:1.15rem; font-weight:700; line-height:1.5; color:#0f172a; margin-bottom:14px}
+.multi-alert{
+  background:#fff7ed; border-left:4px solid #f97316; padding:10px 14px;
+  border-radius:0 8px 8px 0; font-size:.86rem; color:#c2410c; font-weight:700;
+  margin-bottom:14px; display:flex; align-items:center; gap:8px;
+}
+
+.opts{display:flex; flex-direction:column; gap:10px}
+.opt{
+  display:flex; align-items:flex-start; gap:12px; padding:12px 14px;
+  border:2px solid var(--line); border-radius:12px; cursor:pointer;
+  transition:.15s; background:#fff; font-size:.95rem; line-height:1.45;
+}
+.opt:hover{border-color:#cbd5e1; background:#f8fafc}
+.opt.selected{border-color:var(--blue); background:#eff6ff}
+.opt.correct{border-color:var(--ok)!important; background:var(--ok-bg)!important; color:#14532d; font-weight:700}
+.opt.wrong{border-color:var(--bad)!important; background:var(--bad-bg)!important; color:#7f1d1d}
+.opt-tag{
+  flex:0 0 28px; height:28px; border-radius:8px; background:#f1f5f9;
+  display:flex; align-items:center; justify-content:center; font-weight:800;
+  font-size:.85rem; color:#475569;
+}
+.opt.selected .opt-tag{background:var(--blue); color:#fff}
+.opt.correct .opt-tag{background:var(--ok); color:#fff}
+.opt.wrong .opt-tag{background:var(--bad); color:#fff}
+
+.note-box{
+  background:#f8fafc; border:1px solid var(--line); border-left:4px solid var(--blue);
+  border-radius:0 10px 10px 0; padding:12px 16px; margin-top:14px; font-size:.9rem;
+  color:#1e3a8a; line-height:1.55;
+}
+
+.bot{
+  display:flex; justify-content:space-between; align-items:center; gap:10px;
+  margin-top:20px; flex-wrap:wrap;
+}
+
+/* Result Screen */
+.score-banner{
+  text-align:center; padding:28px 16px; background:linear-gradient(135deg,#fff1f2,#fee2e2);
+  border-radius:16px; margin-bottom:20px; border:1px solid #fecaca;
+}
+.score-num{font-size:3rem; font-weight:900; color:var(--brand); line-height:1}
+.score-desc{color:var(--muted); font-size:1rem; margin-top:6px; font-weight:600}
+.filter-tabs{display:flex; gap:8px; margin-bottom:14px; flex-wrap:wrap}
+.ftab{
+  padding:6px 14px; border-radius:999px; border:1px solid var(--line);
+  background:#fff; font-size:.85rem; font-weight:700; cursor:pointer; transition:.15s;
+}
+.ftab.active{background:var(--brand); color:#fff; border-color:var(--brand)}
+.review-item{
+  background:#fff; border:1px solid var(--line); border-radius:12px; padding:14px 16px;
+  margin-bottom:10px; font-size:.9rem;
+}
+.review-item.is-wrong{border-left:4px solid var(--bad)}
+.review-item.is-correct{border-left:4px solid var(--ok)}
+.kbd-hint{font-size:.78rem; color:var(--muted); text-align:center; margin-top:14px}
+kbd{background:#e2e8f0; border-radius:4px; padding:2px 6px; font-family:monospace; font-weight:700}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <div class="nav-back"><a href="index.html">← Về trang chủ VNR202</a></div>
+  <h1>VNR202 – Thi Thử Trắc Nghiệm</h1>
+  <div class="sub">Lịch sử Đảng Cộng sản Việt Nam · Ngân hàng 415 câu trắc nghiệm</div>
+
+  <!-- SETUP SCREEN -->
+  <div id="setup" class="card">
+    <div class="row">
+      <div class="field">
+        <label>Chủ đề ôn tập</label>
+        <select id="nTopic">
+          <option value="all">Tất cả câu hỏi (415 câu)</option>
+          <option value="period_1858_1930">Thành lập Đảng & Tiền đề (1858 - 1930)</option>
+          <option value="period_1930_1945">Đấu tranh giành chính quyền (1930 - 1945)</option>
+          <option value="period_1945_1954">Kháng chiến chống thực dân Pháp (1945 - 1954)</option>
+          <option value="period_1954_1975">Kháng chiến chống Mỹ cứu nước (1954 - 1975)</option>
+          <option value="period_1975_1986">Cả nước quá độ lên CNXH (1975 - 1986)</option>
+          <option value="period_1986_now">Thời kỳ Đổi mới & Hội nhập (1986 - nay)</option>
+          <option value="tag_so">Dạng câu: Con số & Bộ số</option>
+          <option value="tag_nam">Dạng câu: Mốc thời gian & Năm</option>
+          <option value="tag_nhanvat">Dạng câu: Tổng Bí thư & Nhân vật</option>
+          <option value="tag_daihoi">Dạng câu: Đại hội & Hội nghị TW</option>
+        </select>
+      </div>
+      <div class="field">
+        <label>Số lượng câu hỏi</label>
+        <select id="nCount">
+          <option value="20">20 câu (khoảng 10 phút)</option>
+          <option value="40" selected>40 câu (như thi thật - 20 phút)</option>
+          <option value="60">60 câu</option>
+          <option value="100">100 câu</option>
+          <option value="all">Toàn bộ danh sách</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="field">
+        <label>Chế độ làm bài</label>
+        <select id="nMode">
+          <option value="1" selected>Xem kết quả & giải thích ngay từng câu</option>
+          <option value="0">Nộp bài xong mới chấm điểm (như thi thật)</option>
+        </select>
+      </div>
+      <div class="field">
+        <label>Thời gian mỗi câu</label>
+        <select id="nTime">
+          <option value="0">Không giới hạn</option>
+          <option value="15">15 giây / câu</option>
+          <option value="30" selected>30 giây / câu</option>
+          <option value="45">45 giây / câu</option>
+          <option value="60">60 giây / câu</option>
+        </select>
+      </div>
+      <div class="field">
+        <label>Trộn thứ tự</label>
+        <select id="nShuffle">
+          <option value="1" selected>Xáo trộn ngẫu nhiên</option>
+          <option value="0">Theo thứ tự trong ngân hàng đề</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-top:20px; display:flex; gap:12px; flex-wrap:wrap">
+      <button id="btnStart" style="flex:1 1 200px">🚀 Bắt đầu làm bài</button>
+      <button id="btnWrong" class="ghost" style="flex:1 1 200px" disabled>⚠️ Làm lại câu sai ở lượt trước</button>
+    </div>
+    <div id="wrongInfo" style="font-size:.82rem; color:var(--muted); margin-top:8px"></div>
+  </div>
+
+  <!-- QUIZ SCREEN -->
+  <div id="quiz" class="card hidden">
+    <div class="top">
+      <div class="pills">
+        <div class="pill">Câu: <span id="pIdx">1</span>/<span id="pTot">40</span></div>
+        <div class="pill ok">Đúng: <span id="pRight">0</span></div>
+        <div class="pill bad">Sai: <span id="pWrong">0</span></div>
+        <div class="pill">⏱️ <span id="pClock">00:00</span></div>
+      </div>
+      <button id="btnQuit" class="ghost" style="padding:6px 14px; font-size:.85rem">Dừng thi</button>
+    </div>
+
+    <div class="timer"><i id="timerBar"></i></div>
+
+    <div class="q-box">
+      <div class="q-num" id="qBadge">Câu số ?</div>
+      <div class="multi-alert hidden" id="multiAlert">
+        ⚠️ <b>CÂU NÀY CHỌN NHIỀU ĐÁP ÁN:</b> Hãy chọn đủ các phương án đúng rồi bấm "Xác nhận"!
+      </div>
+      <div class="q-title" id="qTitle">Đang tải câu hỏi...</div>
+      <div class="opts" id="qOpts"></div>
+      <div class="note-box hidden" id="qNote"></div>
+    </div>
+
+    <div class="bot">
+      <div>
+        <button id="btnCheck" class="blue hidden">✔️ Xác nhận</button>
+      </div>
+      <div style="display:flex; gap:8px">
+        <button id="btnPrev" class="ghost" disabled>← Câu trước</button>
+        <button id="btnNext" disabled>Câu tiếp theo →</button>
+      </div>
+    </div>
+
+    <div class="kbd-hint">
+      Phím tắt: <kbd>1</kbd>-<kbd>4</kbd> hoặc <kbd>A</kbd>-<kbd>D</kbd> chọn đáp án · <kbd>Space</kbd>/<kbd>Enter</kbd> xác nhận / câu tiếp · <kbd>←</kbd> <kbd>→</kbd> chuyển câu
+    </div>
+  </div>
+
+  <!-- RESULT SCREEN -->
+  <div id="result" class="card hidden">
+    <div class="score-banner">
+      <div class="score-num" id="resScore">0.0</div>
+      <div class="score-desc" id="resDesc">Đang tính điểm...</div>
+    </div>
+
+    <div style="display:flex; gap:10px; margin-bottom:20px; flex-wrap:wrap">
+      <button id="btnRetryAll" style="flex:1">🔄 Làm lại đề này</button>
+      <button id="btnRetryWrong" class="ghost" style="flex:1">⚠️ Ôn lại các câu làm sai</button>
+      <button id="btnBackHome" class="ghost">🏠 Về trang chủ</button>
+    </div>
+
+    <h3 style="font-size:1.1rem; margin:16px 0 10px">Chi tiết từng câu:</h3>
+    <div class="filter-tabs">
+      <div class="ftab active" onclick="filterReview('all', this)">Tất cả (<span id="cntAll">0</span>)</div>
+      <div class="ftab" onclick="filterReview('wrong', this)">Làm sai (<span id="cntWrong">0</span>)</div>
+      <div class="ftab" onclick="filterReview('correct', this)">Làm đúng (<span id="cntCorrect">0</span>)</div>
+      <div class="ftab" onclick="filterReview('skip', this)">Bỏ qua (<span id="cntSkip">0</span>)</div>
+    </div>
+
+    <div id="reviewList"></div>
+  </div>
+</div>
+
+<script>
+const LETTER = ["A","B","C","D"];
+const $ = id => document.getElementById(id);
+const ALL_QS = window.VNR_DATA ? window.VNR_DATA.questions : [];
+
+let pool = [];
+let curIdx = 0;
+let userAnswers = {}; // { index: { selected: ['A'], checked: bool, isCorrect: bool } }
+let timerId = null;
+let clockId = null;
+let startTime = 0;
+let timeLimit = 30; // seconds
+let timeLeft = 30;
+let isImmediate = true;
+
+// Load wrong questions from session
+function updateWrongInfo(){
+  const w = sessionStorage.getItem("vnrWrong");
+  const list = w ? w.split(",").filter(Boolean) : [];
+  $("btnWrong").disabled = list.length === 0;
+  $("wrongInfo").textContent = list.length > 0 
+    ? `Có ${list.length} câu làm sai ở lượt trước sẵn sàng để ôn lại.`
+    : "Chưa có câu sai nào được lưu (làm một lượt để ghi nhận).";
+}
+updateWrongInfo();
+
+function showScreen(id){
+  ["setup", "quiz", "result"].forEach(s => $(s).classList.toggle("hidden", s !== id));
+}
+
+function shuffle(arr){
+  const a = arr.slice();
+  for(let i=a.length-1; i>0; i--){
+    const j = Math.floor(Math.random()*(i+1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+$("btnStart").onclick = () => {
+  const topic = $("nTopic").value;
+  let filtered = ALL_QS.slice();
+  
+  if(topic !== "all"){
+    if(topic.startsWith("tag_")){
+      filtered = filtered.filter(q => q.tags && q.tags.includes(topic));
+    } else {
+      filtered = filtered.filter(q => q.topic === topic);
+    }
+  }
+  
+  if(!filtered.length) return alert("Không tìm thấy câu hỏi nào thuộc chủ đề này!");
+  startQuiz(filtered);
+};
+
+$("btnWrong").onclick = () => {
+  const w = sessionStorage.getItem("vnrWrong");
+  if(!w) return;
+  const ids = w.split(",").filter(Boolean).map(Number);
+  const filtered = ALL_QS.filter(q => ids.includes(q.id));
+  if(!filtered.length) return alert("Không tìm thấy câu sai nào!");
+  startQuiz(filtered);
+};
+
+$("btnQuit").onclick = () => {
+  if(confirm("Bạn có chắc chắn muốn dừng bài thi và xem kết quả?")) finishQuiz();
+};
+
+$("btnBackHome").onclick = () => location.href = "index.html";
+$("btnRetryAll").onclick = () => startQuiz(pool.map(p => ALL_QS.find(q => q.id === p.id)));
+$("btnRetryWrong").onclick = () => {
+  const wrongPool = pool.filter((q, idx) => userAnswers[idx] && !userAnswers[idx].isCorrect);
+  if(!wrongPool.length) return alert("Bạn không làm sai câu nào ở lượt này! Tuyệt vời!");
+  startQuiz(wrongPool);
+};
+
+function startQuiz(list){
+  let countVal = $("nCount").value;
+  let selected = (countVal === "all") ? list.slice() : list.slice(0, Math.min(+countVal, list.length));
+  
+  if($("nShuffle").value === "1"){
+    selected = shuffle(selected);
+  }
+  
+  pool = selected;
+  curIdx = 0;
+  userAnswers = {};
+  timeLimit = +$("nTime").value;
+  isImmediate = $("nMode").value === "1";
+  startTime = Date.now();
+  
+  $("pTot").textContent = pool.length;
+  $("pRight").textContent = "0";
+  $("pWrong").textContent = "0";
+  
+  clearInterval(clockId);
+  clockId = setInterval(() => {
+    const elapsed = Math.floor((Date.now() - startTime) / 1000);
+    const m = String(Math.floor(elapsed / 60)).padStart(2, "0");
+    const s = String(elapsed % 60).padStart(2, "0");
+    $("pClock").textContent = `${m}:${s}`;
+  }, 500);
+  
+  showScreen("quiz");
+  renderQuestion();
+}
+
+function renderQuestion(){
+  const q = pool[curIdx];
+  const state = userAnswers[curIdx] || { selected: [], checked: false, isCorrect: false };
+  
+  $("pIdx").textContent = curIdx + 1;
+  $("qBadge").textContent = `Câu số ${q.id} (Đề gốc)`;
+  $("qTitle").textContent = q.q;
+  
+  // Multi-answer banner
+  $("multiAlert").classList.toggle("hidden", !q.multi);
+  
+  // Options
+  const optsContainer = $("qOpts");
+  optsContainer.innerHTML = "";
+  
+  q.options.forEach((optText, optIdx) => {
+    const letter = LETTER[optIdx];
+    const optDiv = document.createElement("div");
+    optDiv.className = "opt";
+    
+    const isSelected = state.selected.includes(letter);
+    if(isSelected) optDiv.classList.add("selected");
+    
+    // In immediate mode, if checked, show green/red
+    if(isImmediate && state.checked){
+      const isTarget = q.a.includes(letter);
+      if(isTarget) optDiv.classList.add("correct");
+      if(isSelected && !isTarget) optDiv.classList.add("wrong");
+    }
+    
+    optDiv.innerHTML = `
+      <div class="opt-tag">${letter}</div>
+      <div class="opt-text">${optText}</div>
+    `;
+    
+    optDiv.onclick = () => selectOption(letter);
+    optsContainer.appendChild(optDiv);
+  });
+  
+  // Explanations / Notes
+  const noteBox = $("qNote");
+  if(isImmediate && state.checked && (q.note || q.multi)){
+    noteBox.classList.remove("hidden");
+    let noteHtml = "";
+    if(q.multi) noteHtml += `<b>⚠️ Đáp án đúng gồm: ${q.a}</b><br>`;
+    if(q.note) noteHtml += `<b>Ghi chú:</b> ${q.note}`;
+    noteBox.innerHTML = noteHtml;
+  } else {
+    noteBox.classList.add("hidden");
+  }
+  
+  // Buttons
+  $("btnPrev").disabled = curIdx === 0;
+  
+  if(isImmediate){
+    if(q.multi){
+      $("btnCheck").classList.remove("hidden");
+      $("btnCheck").disabled = state.checked || state.selected.length === 0;
+      $("btnNext").disabled = !state.checked;
+    } else {
+      $("btnCheck").classList.add("hidden");
+      $("btnNext").disabled = !state.checked;
+    }
+  } else {
+    $("btnCheck").classList.add("hidden");
+    $("btnNext").disabled = false;
+  }
+  
+  $("btnNext").textContent = (curIdx === pool.length - 1) ? "Nộp bài / Xem điểm" : "Câu tiếp theo →";
+  
+  // Reset Timer
+  resetTimer();
+}
+
+function selectOption(letter){
+  const q = pool[curIdx];
+  let state = userAnswers[curIdx] || { selected: [], checked: false, isCorrect: false };
+  if(isImmediate && state.checked) return; // locked after checked
+  
+  if(q.multi){
+    // Toggle
+    if(state.selected.includes(letter)){
+      state.selected = state.selected.filter(x => x !== letter);
+    } else {
+      state.selected.push(letter);
+    }
+  } else {
+    // Single answer
+    state.selected = [letter];
+    if(isImmediate){
+      checkCurrentAnswer(state);
+    }
+  }
+  
+  userAnswers[curIdx] = state;
+  renderQuestion();
+}
+
+$("btnCheck").onclick = () => {
+  const state = userAnswers[curIdx];
+  if(!state || !state.selected.length) return;
+  checkCurrentAnswer(state);
+  renderQuestion();
+};
+
+function checkCurrentAnswer(state){
+  const q = pool[curIdx];
+  state.checked = true;
+  
+  // Sort and compare
+  const userStr = state.selected.slice().sort().join("");
+  const targetStr = q.a.split("").sort().join("");
+  state.isCorrect = (userStr === targetStr);
+  
+  // Update live scores
+  updateLiveScores();
+}
+
+function updateLiveScores(){
+  let right = 0, wrong = 0;
+  Object.values(userAnswers).forEach(ans => {
+    if(ans.checked){
+      if(ans.isCorrect) right++; else wrong++;
+    }
+  });
+  $("pRight").textContent = right;
+  $("pWrong").textContent = wrong;
+}
+
+function resetTimer(){
+  clearInterval(timerId);
+  if(timeLimit <= 0){
+    $("timerBar").style.width = "100%";
+    return;
+  }
+  
+  timeLeft = timeLimit;
+  $("timerBar").style.width = "100%";
+  
+  timerId = setInterval(() => {
+    timeLeft -= 0.2;
+    const pct = Math.max(0, (timeLeft / timeLimit) * 100);
+    $("timerBar").style.width = pct + "%";
+    
+    if(timeLeft <= 0){
+      clearInterval(timerId);
+      // Auto move
+      if(isImmediate){
+        let state = userAnswers[curIdx] || { selected: [], checked: false, isCorrect: false };
+        if(!state.checked){
+          state.checked = true;
+          state.isCorrect = false;
+          userAnswers[curIdx] = state;
+          updateLiveScores();
+        }
+      }
+      if(curIdx < pool.length - 1){
+        curIdx++;
+        renderQuestion();
+      } else {
+        finishQuiz();
+      }
+    }
+  }, 200);
+}
+
+$("btnPrev").onclick = () => {
+  if(curIdx > 0){
+    curIdx--;
+    renderQuestion();
+  }
+};
+
+$("btnNext").onclick = () => {
+  if(curIdx < pool.length - 1){
+    curIdx++;
+    renderQuestion();
+  } else {
+    finishQuiz();
+  }
+};
+
+function finishQuiz(){
+  clearInterval(timerId);
+  clearInterval(clockId);
+  
+  // In non-immediate mode, check all answers now
+  let right = 0;
+  let wrongIds = [];
+  
+  pool.forEach((q, idx) => {
+    const state = userAnswers[idx] || { selected: [], checked: false, isCorrect: false };
+    const userStr = state.selected.slice().sort().join("");
+    const targetStr = q.a.split("").sort().join("");
+    state.isCorrect = (userStr === targetStr);
+    state.checked = true;
+    userAnswers[idx] = state;
+    
+    if(state.isCorrect){
+      right++;
+    } else {
+      wrongIds.push(q.id);
+    }
+  });
+  
+  // Save wrong questions to session
+  if(wrongIds.length > 0){
+    sessionStorage.setItem("vnrWrong", wrongIds.join(","));
+  }
+  updateWrongInfo();
+  
+  // Calculate score
+  const total = pool.length;
+  const score10 = ((right / total) * 10).toFixed(1);
+  const pct = Math.round((right / total) * 100);
+  
+  $("resScore").textContent = score10 + " / 10";
+  $("resDesc").textContent = `Đúng ${right}/${total} câu (${pct}%). ${
+    score10 >= 8.5 ? "Xuất sắc! Bạn đã nắm rất vững kiến thức Lịch sử Đảng!" :
+    score10 >= 7.0 ? "Khá tốt! Hãy ôn lại các câu sai để chắc chắn đạt điểm A+!" :
+    score10 >= 5.0 ? "Đạt yêu cầu! Nhưng cần cày thêm mẹo để nâng cao điểm số." :
+    "Chưa đạt! Hãy xem kỹ lại các câu sai và cày lại bộ mẹo học thuộc nhé!"
+  }`;
+  
+  renderReviewList();
+  showScreen("result");
+}
+
+function renderReviewList(){
+  let allCnt = pool.length, wrongCnt = 0, correctCnt = 0, skipCnt = 0;
+  
+  pool.forEach((q, idx) => {
+    const ans = userAnswers[idx];
+    if(!ans || ans.selected.length === 0) skipCnt++;
+    else if(ans.isCorrect) correctCnt++;
+    else wrongCnt++;
+  });
+  
+  $("cntAll").textContent = allCnt;
+  $("cntWrong").textContent = wrongCnt;
+  $("cntCorrect").textContent = correctCnt;
+  $("cntSkip").textContent = skipCnt;
+  
+  filterReview("all", document.querySelector(".ftab.active"));
+}
+
+window.filterReview = function(type, tabEl){
+  document.querySelectorAll(".ftab").forEach(t => t.classList.remove("active"));
+  if(tabEl) tabEl.classList.add("active");
+  
+  const container = $("reviewList");
+  container.innerHTML = "";
+  
+  pool.forEach((q, idx) => {
+    const ans = userAnswers[idx] || { selected: [], isCorrect: false };
+    const isSkip = ans.selected.length === 0;
+    const isWrong = !ans.isCorrect && !isSkip;
+    const isCorrect = ans.isCorrect;
+    
+    if(type === "wrong" && !isWrong) return;
+    if(type === "correct" && !isCorrect) return;
+    if(type === "skip" && !isSkip) return;
+    
+    const div = document.createElement("div");
+    div.className = `review-item ${isCorrect ? "is-correct" : "is-wrong"}`;
+    
+    const userChoiceStr = isSkip ? "<i>(Chưa chọn)</i>" : ans.selected.sort().join(", ");
+    
+    div.innerHTML = `
+      <div style="font-weight:800; font-size:.82rem; color:${isCorrect ? "var(--ok)" : "var(--bad)"}">
+        ${isCorrect ? "✅ ĐÚNG" : (isSkip ? "⚠️ BỎ QUA" : "❌ SAI")} · Câu ${idx+1} (ID ${q.id})
+      </div>
+      <div style="font-weight:700; margin:4px 0 8px">${q.q}</div>
+      <div style="font-size:.88rem">
+        <b>Bạn chọn:</b> <span style="color:${isCorrect ? "var(--ok)" : "var(--bad)"}">${userChoiceStr}</span> · 
+        <b>Đáp án đúng:</b> <span style="color:var(--ok); font-weight:700">${q.a}</span>
+      </div>
+      ${q.note ? `<div style="font-size:.84rem; color:var(--muted); margin-top:4px">💡 ${q.note}</div>` : ""}
+    `;
+    container.appendChild(div);
+  });
+};
+
+// Keyboard navigation
+window.addEventListener("keydown", e => {
+  if($("quiz").classList.contains("hidden")) return;
+  const key = e.key.toUpperCase();
+  if(["1","A"].includes(key)) selectOption("A");
+  else if(["2","B"].includes(key)) selectOption("B");
+  else if(["3","C"].includes(key)) selectOption("C");
+  else if(["4","D"].includes(key)) selectOption("D");
+  else if(e.key === "Enter" || e.key === " "){
+    if(!$("btnCheck").classList.contains("hidden") && !$("btnCheck").disabled){
+      $("btnCheck").click();
+    } else if(!$("btnNext").disabled){
+      $("btnNext").click();
+    }
+  }
+  else if(e.key === "ArrowLeft" && !$("btnPrev").disabled) $("btnPrev").click();
+  else if(e.key === "ArrowRight" && !$("btnNext").disabled) $("btnNext").click();
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VNR202 – Mẹo học thuộc 415 câu trắc nghiệm Lịch sử Đảng</title>
+<meta name="description" content="Bí kíp mẹo học thuộc 415 câu trắc nghiệm Lịch sử Đảng Cộng sản Việt Nam (VNR202) có tra cứu nhanh.">
+<style>
+:root{
+  --bg:#f8fafc; --ink:#0f172a; --muted:#64748b; --line:#e2e8f0;
+  --brand:#dc2626; --brand-light:#fee2e2; --brand-dark:#991b1b;
+  --blue:#2563eb; --blue-light:#dbeafe; --ok:#16a34a; --ok-light:#dcfce7;
+  --warn:#f59e0b; --warn-light:#fef3c7; --card:#ffffff;
+}
+*{box-sizing:border-box}
+body{
+  margin:0; font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+  color:var(--ink); background:linear-gradient(160deg,#fff1f2 0%,#f8fafc 40%,#f1f5f9 100%);
+  line-height:1.65;
+}
+.top-nav{
+  background:#0f172a; color:#f8fafc; position:sticky; top:0; z-index:100;
+  padding:10px 16px; display:flex; align-items:center; justify-content:space-between;
+  gap:12px; flex-wrap:wrap; box-shadow:0 4px 12px rgba(0,0,0,.15);
+}
+.nav-links{display:flex; align-items:center; gap:12px; flex-wrap:wrap; font-size:.88rem; font-weight:700}
+.nav-links a{color:#cbd5e1; text-decoration:none; transition:.15s}
+.nav-links a:hover, .nav-links a.active{color:#fff}
+.nav-links a.pill{background:var(--brand); color:#fff; padding:4px 12px; border-radius:999px}
+.nav-links a.pill:hover{background:#b91c1c}
+.nav-search{display:flex; align-items:center; gap:8px}
+.nav-search input{
+  background:#1e293b; border:1px solid #334155; color:#fff; padding:6px 14px;
+  border-radius:20px; font-size:.85rem; outline:none; width:180px; transition:.2s;
+}
+.nav-search input:focus{width:240px; border-color:var(--brand)}
+
+.wrap{max-width:960px; margin:0 auto; padding:24px 16px 80px}
+header{text-align:center; margin-bottom:30px}
+.badge{
+  display:inline-block; background:var(--brand-light); color:var(--brand-dark);
+  font-weight:800; font-size:.78rem; letter-spacing:1px; padding:6px 14px;
+  border-radius:999px; margin-bottom:12px; border:1px solid #fecaca;
+}
+h1{font-size:clamp(1.5rem,3.8vw,2.2rem); margin:0 0 10px; line-height:1.3; color:#1e1b4b}
+h1 span{color:var(--brand)}
+.lead{color:var(--muted); font-size:.95rem; max-width:700px; margin:0 auto}
+
+.jump-bar{
+  display:flex; gap:8px; overflow-x:auto; padding:10px 2px 14px; margin-bottom:24px;
+  scrollbar-width:thin;
+}
+.jump-pill{
+  flex:0 0 auto; text-decoration:none; font-size:.8rem; font-weight:700;
+  background:#fff; color:#334155; border:1px solid var(--line); border-radius:999px;
+  padding:6px 14px; transition:.15s; white-space:nowrap;
+}
+.jump-pill:hover{background:#fee2e2; border-color:var(--brand); color:var(--brand-dark)}
+
+.sec{
+  background:var(--card); border:1px solid var(--line); border-radius:18px;
+  padding:24px; margin-bottom:24px; box-shadow:0 4px 16px rgba(15,23,42,.04);
+}
+h2{
+  font-size:1.25rem; margin:0 0 16px; color:#1e1b4b; display:flex; align-items:center;
+  gap:10px; border-bottom:2px solid #fee2e2; padding-bottom:8px;
+}
+h3{font-size:1.05rem; margin:20px 0 10px; color:#991b1b}
+p{margin:8px 0}
+
+.alert{
+  background:var(--warn-light); border-left:4px solid var(--warn); border-radius:0 12px 12px 0;
+  padding:14px 16px; margin:16px 0; font-size:.9rem; color:#92400e; line-height:1.6;
+}
+.alert-danger{
+  background:#fee2e2; border-left:4px solid var(--brand); color:#991b1b;
+}
+.alert-info{
+  background:var(--blue-light); border-left:4px solid var(--blue); color:#1e40af;
+}
+
+.table-wrap{overflow-x:auto; margin:14px 0; border:1px solid var(--line); border-radius:12px}
+table{border-collapse:collapse; width:100%; font-size:.88rem; background:#fff}
+th, td{border-bottom:1px solid #f1f5f9; padding:10px 12px; text-align:left; vertical-align:top}
+th{background:#f8fafc; font-weight:800; color:#334155; white-space:nowrap}
+tr:last-child td{border-bottom:0}
+tbody tr:hover{background:#fff1f2}
+
+.stats-grid{display:grid; grid-template-columns:repeat(auto-fit,minmax(130px,1fr)); gap:12px; margin-bottom:18px}
+.stat-box{background:#f8fafc; border:1px solid #e2e8f0; border-radius:12px; padding:12px; text-align:center}
+.stat-box b{display:block; font-size:1.5rem; color:var(--brand); line-height:1.2}
+.stat-box small{font-size:.76rem; color:var(--muted); font-weight:600}
+
+.rule-box{
+  background:#fff; border:1px solid #fed7aa; border-radius:12px; padding:14px 18px;
+  margin-bottom:12px; border-left:5px solid #f97316;
+}
+.rule-box b{color:#c2410c}
+
+.timeline{position:relative; padding-left:24px; border-left:3px solid #fecaca; margin:20px 0 20px 10px}
+.tl-item{position:relative; margin-bottom:20px}
+.tl-item::before{
+  content:''; position:absolute; left:-31px; top:4px; width:12px; height:12px;
+  border-radius:50%; background:var(--brand); border:2px solid #fff;
+}
+.tl-year{font-weight:800; color:var(--brand-dark); font-size:.9rem}
+.tl-body{font-size:.9rem; color:#334155}
+
+.tag{display:inline-block; font-size:.72rem; font-weight:700; padding:2px 8px; border-radius:6px; margin-right:4px}
+.tag-red{background:#fee2e2; color:#991b1b}
+.tag-blue{background:#dbeafe; color:#1e40af}
+.tag-green{background:#dcfce7; color:#166534}
+.tag-orange{background:#ffedd5; color:#9a3412}
+
+footer{text-align:center; color:var(--muted); font-size:.82rem; margin-top:40px; padding-top:20px; border-top:1px solid var(--line)}
+footer a{color:var(--brand); text-decoration:none; font-weight:700}
+</style>
+</head>
+<body>
+
+<div class="top-nav">
+  <div class="nav-links">
+    <a href="index.html">🏠 Trang chủ</a>
+    <a href="VNR202_thi_thu.html">📝 Thi thử</a>
+    <a href="VNR202_flashcard.html">✅ Luyện Flashcard</a>
+    <a href="meo-hoc-thuoc.html" class="active">💡 Mẹo học thuộc</a>
+    <a href="VNR202.pdf" class="pill" target="_blank">📄 Đề gốc PDF</a>
+  </div>
+  <div class="nav-search">
+    <input type="text" id="filterInput" placeholder="🔍 Tìm mẹo, từ khóa..." oninput="filterContent(this.value)">
+  </div>
+</div>
+
+<div class="wrap">
+  <header>
+    <div class="badge">VNR202 · LỊCH SỬ ĐẢNG CỘNG SẢN VIỆT NAM</div>
+    <h1>Bí Kíp <span>Mẹo Học Thuộc 415 Câu</span><br>Bao Quát Mọi Dạng Đề</h1>
+    <p class="lead">Tính toán và phân tích trực tiếp từ 415 câu hỏi trắc nghiệm của ngân hàng đề thi gốc. Học nhanh, nhớ lâu, tránh bẫy tử thần.</p>
+  </header>
+
+  <div class="jump-bar">
+    <a class="jump-pill" href="#sec0">📌 0. Con số vàng</a>
+    <a class="jump-pill" href="#sec1">🔢 1. Bộ số ma thuật</a>
+    <a class="jump-pill" href="#sec2">⏱️ 2. Dòng thời gian</a>
+    <a class="jump-pill" href="#sec3">🧑 3. Tổng Bí thư & Lãnh tụ</a>
+    <a class="jump-pill" href="#sec4">🏛️ 4. 13 Kỳ Đại hội</a>
+    <a class="jump-pill" href="#sec5">🚩 5. Hội nghị Trung ương</a>
+    <a class="jump-pill" href="#sec6">⚔️ 6. 4 Chiến lược của Mỹ</a>
+    <a class="jump-pill" href="#sec7">⚠️ 7. Bẫy đề & 3 câu nhiều đáp án</a>
+    <a class="jump-pill" href="#sec8">⚡ 8. Lịch ôn cấp tốc</a>
+  </div>
+
+  <!-- PHẦN 0 -->
+  <section class="sec" id="sec0">
+    <h2>📌 0. NĂM CON SỐ THỐNG KÊ VÀNG TRƯỚC KHI VÀO PHÒNG THI</h2>
+    <div class="stats-grid">
+      <div class="stat-box"><b>415</b><small>TỔNG SỐ CÂU</small></div>
+      <div class="stat-box"><b>412</b><small>CÂU 1 ĐÁP ÁN</small></div>
+      <div class="stat-box"><b style="color:#ea580c">3</b><small>CÂU NHIỀU ĐÁP ÁN</small></div>
+      <div class="stat-box"><b style="color:#2563eb">36.9%</b><small>TỶ LỆ VÀO ĐÁP ÁN A</small></div>
+      <div class="stat-box"><b>6</b><small>CÂU PHỦ ĐỊNH</small></div>
+      <div class="stat-box"><b>6 cặp</b><small>CÂU TRÙNG NGUYÊN VĂN</small></div>
+    </div>
+
+    <div class="alert alert-danger">
+      <b>⚠️ 3 CÂU NHIỀU ĐÁP ÁN (BẮT BUỘC TICK ĐỦ 2 Ô - THIẾU = 0 ĐIỂM):</b><br>
+      • <b>Câu 20:</b> Động lực cách mạng trong Cương lĩnh chính trị đầu tiên → <b>A & D</b> (Công nhân & Nông dân).<br>
+      • <b>Câu 36:</b> Năm 1929, Hội VNCM Thanh niên phân hóa thành → <b>A & B</b> (An Nam CSĐ & Đông Dương CSĐ).<br>
+      • <b>Câu 116:</b> Đại hội lần thứ II (1951) quyết định → <b>B & C</b> (Đổi tên thành Đảng Lao động VN & Lập chính đảng riêng ở Lào, Campuchia).
+    </div>
+
+    <div class="rule-box">
+      <b>🎯 Chiến thuật chọn khi bí hoặc sắp hết giờ:</b><br>
+      1. Phương án <b>A</b> chiếm ưu thế áp đảo với <b>152/415 câu (~37%)</b>. Khi không nhớ đáp án, ngả về <b>A</b> cho xác suất ăn điểm cao nhất.<br>
+      2. <b>"Tất cả các phương án/nhận định trên"</b> chỉ có 2 câu xuất hiện và chỉ đúng 1/2 câu (50%) → <b>KHÔNG</b> chọn theo thói quen phản xạ!
+    </div>
+  </section>
+
+  <!-- PHẦN 1 -->
+  <section class="sec" id="sec1">
+    <h2>🔢 1. CÂU HỎI CON SỐ & "BỘ SỐ" MA THUẬT (HỌC 1 NHỚ 5)</h2>
+    <p>Thay vì học từng con số đơn lẻ, hãy gộp theo các bộ số sau đây:</p>
+    
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th width="12%">Bộ số</th>
+            <th>Nội dung câu hỏi thực tế trong đề</th>
+            <th width="20%">Câu & Đáp án</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><b style="font-size:1.1rem;color:var(--brand)">BỘ 2</b></td>
+            <td>
+              • Bộ Chính trị đề ra <b>mấy kế hoạch</b> giải phóng miền Nam 1975-1976?<br>
+              • Thực dân Pháp tiến hành <b>mấy cuộc khai thác thuộc địa</b> ở Việt Nam?<br>
+              • Đại hội III (1960) xác định cách mạng VN có <b>mấy nhiệm vụ chiến lược</b>?<br>
+              • Đại hội V (1982) đề ra <b>mấy nhiệm vụ chiến lược</b> trong thời kỳ mới?
+            </td>
+            <td>
+              <b>Q15:</b> 2 (B)<br>
+              <b>Q22:</b> 2 (B)<br>
+              <b>Q100:</b> 2 (A)<br>
+              <b>Q48:</b> 2 (B)
+            </td>
+          </tr>
+          <tr>
+            <td><b style="font-size:1.1rem;color:var(--brand)">BỘ 3</b></td>
+            <td>
+              • Hội nghị thành lập Đảng 1930 thông qua <b>mấy văn kiện</b> do Nguyễn Ái Quốc soạn thảo?<br>
+              • Phiên họp đầu tiên của Chính phủ lâm thời 3/9/1945 giải quyết <b>mấy nhiệm vụ cấp bách</b>?<br>
+              • Đại hội IV (1976) nêu lên <b>mấy đặc điểm lớn</b> của cách mạng nước ta?<br>
+              • Chiến dịch Điện Biên Phủ 1954 chia làm <b>mấy đợt tiến công</b>?<br>
+              • Đại hội XI & Đại hội XIII đề ra <b>mấy đột phá chiến lược</b>?
+            </td>
+            <td>
+              <b>Q94:</b> 3 (B)<br>
+              <b>Q44:</b> 3 (B)<br>
+              <b>Q49:</b> 3 (B)<br>
+              <b>Q257:</b> 3 (B)<br>
+              <b>Q377:</b> 3 (A)
+            </td>
+          </tr>
+          <tr>
+            <td><b style="font-size:1.1rem;color:var(--brand)">BỘ 4</b></td>
+            <td>
+              • Từ 1954-1975, Mỹ thực hiện <b>mấy loại hình chiến tranh</b> ở Việt Nam? (Đơn phương, Đặc biệt, Cục bộ, VN hóa)<br>
+              • Đại hội VI (1986) rút ra <b>mấy bài học lớn</b> của công cuộc Đổi mới?
+            </td>
+            <td>
+              <b>Q300:</b> 4 (C)<br>
+              <b>Q409:</b> 4 bài học
+            </td>
+          </tr>
+          <tr>
+            <td><b style="font-size:1.1rem;color:var(--brand)">BỘ 6</b></td>
+            <td>
+              • Cương lĩnh xây dựng đất nước năm 1991 (Đại hội VII) xác định <b>mấy đặc trưng của CNXH</b>?
+            </td>
+            <td><b>Q358:</b> 6 đặc trưng (C)</td>
+          </tr>
+          <tr>
+            <td><b style="font-size:1.1rem;color:var(--brand)">BỘ 8</b></td>
+            <td>
+              • Cương lĩnh bổ sung, phát triển 2011 (Đại hội XI) xác định <b>bao nhiêu đặc trưng & phương hướng</b>?
+            </td>
+            <td>8 đặc trưng & 8 phương hướng</td>
+          </tr>
+          <tr>
+            <td><b style="font-size:1.1rem;color:var(--brand)">BỘ 36</b></td>
+            <td>
+              • Năm 2012 có <b>bao nhiêu nước</b> công nhận cơ chế kinh tế thị trường của Việt Nam?
+            </td>
+            <td><b>Q362:</b> 36 nước (A)</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="alert alert-info">
+      <b>🎯 Thần chú nhớ 3 mốc mục tiêu của Đại hội XIII (2021) – "25 Thấp, 30 Cao, 45 Phát triển":</b><br>
+      • <b>2025 (Q11):</b> Nước đang phát triển, công nghiệp theo hướng hiện đại, <b>vượt qua thu nhập trung bình thấp</b> (Đáp án <b>A</b>).<br>
+      • <b>2030 (100 năm thành lập Đảng):</b> Nước đang phát triển, công nghiệp hiện đại, <b>thu nhập trung bình cao</b>.<br>
+      • <b>2045 (100 năm lập nước):</b> Trở thành <b>nước phát triển, thu nhập cao</b>.
+    </div>
+  </section>
+
+  <!-- PHẦN 2 -->
+  <section class="sec" id="sec2">
+    <h2>⏱️ 2. DÒNG THỜI GIAN LỊCH SỬ THEO MẠCH KỂ XUYÊN SUỐT</h2>
+    <p>Học các mốc năm theo một chuỗi sự kiện liên hoàn để không bị nhớ nhầm:</p>
+
+    <h3>Giai đoạn 1858 – 1945: Từ xâm lăng đến độc lập mùa thu</h3>
+    <div class="timeline">
+      <div class="tl-item">
+        <div class="tl-year">1858 & 5/6/1911</div>
+        <div class="tl-body">1858 Pháp nổ súng Đà Nẵng · 1911 Nguyễn Tất Thành rời bến Nhà Rồng tìm đường cứu nước.</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-year">1919 (Q106)</div>
+        <div class="tl-body">Bản Yêu sách 8 điểm gửi Hội nghị Véc-xây · Gia nhập Đảng Xã hội Pháp · Quốc tế III thành lập.</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-year">7/1920 (Q3, Q151) & 12/1920</div>
+        <div class="tl-body">Đọc Sơ thảo Luận cương Lênin trên báo <i>Nhân đạo</i> → Bước đầu tìm thấy con đường cứu nước · Đại hội Tua sáng lập Đảng CS Pháp.</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-year">6/1925 (Q414) & 1927</div>
+        <div class="tl-body">Thành lập Hội Việt Nam Cách mạng Thanh niên tại Quảng Châu · 1927 xuất bản tác phẩm <i>Đường Kách mệnh</i>.</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-year">1929 (Q36)</div>
+        <div class="tl-body">Hội VNCMTN phân hóa thành 2 đảng (ĐDCSĐ 6/1929 và ANCSĐ 8/1929) · Tháng 9/1929 Tân Việt lập ĐDCS Liên đoàn.</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-year">Tháng 2/1930 & 10/1930 (Q1, Q20, Q138, Q139)</div>
+        <div class="tl-body">3/2/1930: Hợp nhất thành lập Đảng tại Hương Cảng · Tháng 10/1930: Đổi tên thành Đảng CS Đông Dương, Luận cương Trần Phú, bầu Trần Phú làm TBT đầu tiên.</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-year">11/1939 (Q101) & 5/1941 (Q168, Q179, Q310)</div>
+        <div class="tl-body"><b>HNTW 6 (11/1939):</b> MỞ ĐẦU chuyển hướng chỉ đạo chiến lược · <b>HNTW 8 (5/1941):</b> HOÀN CHỈNH chuyển hướng, lập Mặt trận Việt Minh, bầu Trường Chinh làm TBT.</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-year">9/3/1945 & 2/9/1945 (Q16, Q17, Q25, Q126, Q204)</div>
+        <div class="tl-body">9/3: Nhật đảo chính Pháp, Chỉ thị "Nhật - Pháp bắn nhau" · 16/8: Quốc dân Đại hội Tân Trào · 19/8: Khởi nghĩa Hà Nội · 2/9/1945: Tuyên ngôn Độc lập.</div>
+      </div>
+    </div>
+
+    <h3>Giai đoạn 1945 – 1975: Hai cuộc kháng chiến trường kỳ</h3>
+    <div class="timeline">
+      <div class="tl-item">
+        <div class="tl-year">1946 (Q207, Q240, Q241, Q249)</div>
+        <div class="tl-body">6/3 ký Hiệp định Sơ bộ đẩy Tưởng về nước · 14/9 ký Tạm ước · 19/12 Hồ Chủ tịch ra Lời kêu gọi Toàn quốc kháng chiến.</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-year">1947 & 1950 (Q140, Q262)</div>
+        <div class="tl-body">Thu-Đông 1947: Chiến dịch Việt Bắc (đánh bại kế hoạch "đánh nhanh thắng nhanh") · Thu-Đông 1950: Chiến dịch Biên giới (giành thế chủ động).</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-year">2/1951 (Q116, Q253)</div>
+        <div class="tl-body">Đại hội II tại Chiêm Hóa, Tuyên Quang: Đổi tên thành Đảng Lao động Việt Nam, bầu Trường Chinh làm TBT.</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-year">1954 (Q21, Q257, Q259, Q260, Q261)</div>
+        <div class="tl-body">13/3 - 7/5/1954: Điện Biên Phủ toàn thắng sau 56 ngày đêm, 3 đợt · 21/7/1954: Ký Hiệp định Giơnevơ (Phạm Văn Đồng dẫn đầu).</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-year">1959 & 1960 (Q10, Q31, Q39, Q100, Q127, Q242, Q288)</div>
+        <div class="tl-body">HNTW 15 (1/1959) mở đường bạo lực CM miền Nam · 19/5/1959 mở đường Trường Sơn · 1960 Đồng khởi Bến Tre · 9/1960 Đại hội III (2 nhiệm vụ chiến lược) · 20/12/1960 lập Mặt trận Dân tộc GPMNVN (Nguyễn Hữu Thọ).</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-year">1968 & 1972 & 1973 (Q13)</div>
+        <div class="tl-body">Tết Mậu Thân 1968 buộc Mỹ ngừng ném bom miền Bắc · 12 ngày đêm 1972 Điện Biên Phủ trên không · 27/1/1973 ký Hiệp định Pari rút quân Mỹ.</div>
+      </div>
+      <div class="tl-item">
+        <div class="tl-year">Mùa Xuân 1975 (Q15, Q47, Q93, Q160)</div>
+        <div class="tl-body">Chiến dịch Tây Nguyên mở màn then chốt Buôn Ma Thuột (10/3) · Chiến dịch Huế - Đà Nẵng · Chiến dịch Hồ Chí Minh toàn thắng 30/4/1975 ("Thần tốc, thần tốc hơn nữa" - Võ Nguyên Giáp).</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PHẦN 3 -->
+  <section class="sec" id="sec3">
+    <h2>🧑 3. BẢNG TRA CỨU TỔNG BÍ THƯ & NHÂN VẬT LỊCH SỬ</h2>
+    
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Thời gian / Đại hội</th>
+            <th>Tổng Bí thư</th>
+            <th>Dấu ấn & Câu hỏi đề thi</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><b>10/1930 (HNTW 1)</b></td>
+            <td><b style="color:var(--brand)">Trần Phú</b></td>
+            <td>Tổng Bí thư <b>đầu tiên</b>; tác giả Luận cương chính trị 10/1930 (<b>Q138: A</b>)</td>
+          </tr>
+          <tr>
+            <td><b>3/1935 (Đại hội I)</b></td>
+            <td><b>Lê Hồng Phong</b></td>
+            <td>Đại hội I họp tại Ma Cao, khôi phục phong trào sau khủng bố (<b>Q71: C</b>)</td>
+          </tr>
+          <tr>
+            <td><b>1938 – 1940</b></td>
+            <td><b>Nguyễn Văn Cừ</b></td>
+            <td>Chủ trì HNTW 6 mở đầu chuyển hướng chỉ đạo; tác giả <i>"Tự chỉ trích"</i></td>
+          </tr>
+          <tr>
+            <td><b>5/1941 & 1951</b></td>
+            <td><b style="color:var(--brand)">Trường Chinh</b></td>
+            <td>Bầu tại HNTW 8 (<b>Q310: C</b>); bầu tại Đại hội II (<b>Q253: C</b>); tác giả <i>"Kháng chiến nhất định thắng lợi"</i> (<b>Q252: A</b>)</td>
+          </tr>
+          <tr>
+            <td><b>1960, 1976, 1982</b></td>
+            <td><b style="color:var(--brand)">Lê Duẩn</b></td>
+            <td>Bí thư thứ nhất ĐH III (1960); TBT Đại hội IV (<b>Q53: D</b>); TBT Đại hội V (<b>Q315: A</b>)</td>
+          </tr>
+          <tr>
+            <td><b>12/1986 (Đại hội VI)</b></td>
+            <td><b style="color:var(--brand)">Nguyễn Văn Linh</b></td>
+            <td>TBT khởi xướng công cuộc <b>Đổi mới</b>, mục báo <i>"Những việc cần làm ngay"</i> (<b>Q46: C</b>)</td>
+          </tr>
+          <tr>
+            <td><b>12/1997 (HNTW 4 khóa VIII)</b></td>
+            <td><b>Lê Khả Phiêu</b></td>
+            <td>Được bầu làm Tổng Bí thư tại HNTW 4 khóa VIII (<b>Q346: A</b>)</td>
+          </tr>
+          <tr>
+            <td><b>2001 & 2006</b></td>
+            <td><b>Nông Đức Mạnh</b></td>
+            <td>Tổng Bí thư Đại hội IX và X</td>
+          </tr>
+          <tr>
+            <td><b>2011, 2016, 2021</b></td>
+            <td><b>Nguyễn Phú Trọng</b></td>
+            <td>TBT Đại hội XI, XII, XIII; đẩy mạnh chỉnh đốn Đảng, phòng chống tham nhũng</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="rule-box">
+      <b>⭐ Các nhân vật lịch sử quan trọng khác:</b><br>
+      • <b>Đại tướng Võ Nguyên Giáp:</b> Mệnh lệnh lịch sử 7/4/1975: <i>"Thần tốc, thần tốc hơn nữa, táo bạo, táo bạo hơn nữa..."</i> (<b>Q47: A</b>).<br>
+      • <b>Phạm Văn Đồng:</b> Trưởng đoàn đàm phán Hiệp định Giơnevơ 1954 (<b>Q259: C</b>).<br>
+      • <b>Luật sư Nguyễn Hữu Thọ:</b> Chủ tịch Mặt trận Dân tộc Giải phóng miền Nam VN (<b>Q288, Q289: A</b>).<br>
+      • <b>Phạm Hùng:</b> Trưởng đoàn đại biểu miền Nam trong Hội nghị Hiệp thương 11/1975 tại Sài Gòn (<b>Q313: A</b>).<br>
+      • <b>Tôn Đức Thắng:</b> Chủ tịch nước đầu tiên của nước CHXHCN Việt Nam thống nhất 1976 (<b>Q314: B</b>).<br>
+      • <b>Phan Châu Trinh:</b> Xu hướng cải cách nâng cao dân trí, chấn hưng dân khí (<b>Q72: A</b>).
+    </div>
+  </section>
+
+  <!-- PHẦN 4 -->
+  <section class="sec" id="sec4">
+    <h2>🏛️ 4. BẢNG TỪ KHÓA "ĂN TIỀN" CỦA 13 KỲ ĐẠI HỘI ĐẢNG</h2>
+    <p>Thấy từ khóa cốt lõi trong đề bài là khoanh ngay kỳ Đại hội tương ứng:</p>
+    
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Đại hội</th>
+            <th>Năm</th>
+            <th>TBT</th>
+            <th>Từ khóa "cốt lõi" – Thấy là khoanh</th>
+            <th>Câu trong đề</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><b>Đại hội I</b></td>
+            <td>1935</td>
+            <td>Lê Hồng Phong</td>
+            <td>Họp Ma Cao · Khôi phục củng cố phong trào sau khủng bố trắng</td>
+            <td><b>Q71: C</b></td>
+          </tr>
+          <tr>
+            <td><b>Đại hội II</b></td>
+            <td>1951</td>
+            <td>Trường Chinh</td>
+            <td>Họp Chiêm Hóa · <b>Đảng Lao động Việt Nam</b> · Lập Đảng riêng Lào/CPC</td>
+            <td><b>Q116: BC, Q253: C</b></td>
+          </tr>
+          <tr>
+            <td><b>Đại hội III</b></td>
+            <td>1960</td>
+            <td>Lê Duẩn</td>
+            <td>Hà Nội · Đề ra <b>2 nhiệm vụ chiến lược</b> (Bắc XHCN, Nam GPDT)</td>
+            <td><b>Q10: A, Q100: A, Q236: A</b></td>
+          </tr>
+          <tr>
+            <td><b>Đại hội IV</b></td>
+            <td>1976</td>
+            <td>Lê Duẩn</td>
+            <td>Đổi tên lại <b>Đảng Cộng sản Việt Nam</b> · Nêu <b>3 đặc điểm lớn</b> quá độ</td>
+            <td><b>Q5: A, Q49: B, Q53: D</b></td>
+          </tr>
+          <tr>
+            <td><b>Đại hội V</b></td>
+            <td>1982</td>
+            <td>Lê Duẩn</td>
+            <td>2 nhiệm vụ chiến lược mới · <b>Nông nghiệp là mặt trận hàng đầu</b></td>
+            <td><b>Q8: A, Q48: B, Q315: A</b></td>
+          </tr>
+          <tr>
+            <td><b>Đại hội VI</b></td>
+            <td>1986</td>
+            <td>Nguyễn Văn Linh</td>
+            <td><b>KHỞI XƯỚNG ĐỔI MỚI TOÀN DIỆN</b> · Nhìn thẳng sự thật · 4 bài học lớn</td>
+            <td><b>Q5: D, Q46: C, Q409: A</b></td>
+          </tr>
+          <tr>
+            <td><b>Đại hội VII</b></td>
+            <td>1991</td>
+            <td>Đỗ Mười</td>
+            <td><b>Cương lĩnh 1991 (6 đặc trưng)</b> · "Muốn là bạn với tất cả các nước"</td>
+            <td><b>Q52: B, Q358: C</b></td>
+          </tr>
+          <tr>
+            <td><b>Đại hội VIII</b></td>
+            <td>1996</td>
+            <td>Đỗ Mười</td>
+            <td>Nước ta đã thoát khủng hoảng · Đẩy mạnh <b>Công nghiệp hóa, hiện đại hóa</b></td>
+            <td><b>Q12: A</b></td>
+          </tr>
+          <tr>
+            <td><b>Đại hội IX</b></td>
+            <td>2001</td>
+            <td>Nông Đức Mạnh</td>
+            <td>Mô hình: <b>"Kinh tế thị trường định hướng XHCN"</b></td>
+            <td><b>Q318: C, Q319: D</b></td>
+          </tr>
+          <tr>
+            <td><b>Đại hội X</b></td>
+            <td>2006</td>
+            <td>Nông Đức Mạnh</td>
+            <td>Cho phép <b>Đảng viên làm kinh tế tư nhân</b></td>
+            <td><b>Q355: B</b></td>
+          </tr>
+          <tr>
+            <td><b>Đại hội XI</b></td>
+            <td>2011</td>
+            <td>Nguyễn Phú Trọng</td>
+            <td><b>Cương lĩnh bổ sung 2011 (8 đặc trưng, 8 phương hướng)</b> · 3 đột phá</td>
+            <td>Văn kiện 2011</td>
+          </tr>
+          <tr>
+            <td><b>Đại hội XII</b></td>
+            <td>2016</td>
+            <td>Nguyễn Phú Trọng</td>
+            <td>Chỉnh đốn Đảng vững mạnh · Chỉ thị 05 học tập tư tưởng Hồ Chí Minh</td>
+            <td><b>Q41: C, Q369: D</b></td>
+          </tr>
+          <tr>
+            <td><b>Đại hội XIII</b></td>
+            <td>2021</td>
+            <td>Nguyễn Phú Trọng</td>
+            <td>Khát vọng phát triển đất nước · <b>Mục tiêu 2025, 2030, 2045</b></td>
+            <td><b>Q2: B, Q11: A, Q377: A</b></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- PHẦN 5 -->
+  <section class="sec" id="sec5">
+    <h2>🚩 5. CÁC HỘI NGHỊ TRUNG ƯƠNG THEN CHỐT & QUYẾT SÁCH BƯỚC NGOẶT</h2>
+    
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Hội nghị / Quyết sách</th>
+            <th>Thời gian</th>
+            <th>Nội dung cốt lõi bắt buộc thuộc</th>
+            <th>Câu trong đề</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><b>HNTW 6 (khóa I)</b></td>
+            <td>11/1939</td>
+            <td><b>MỞ ĐẦU</b> quá trình chuyển hướng chỉ đạo chiến lược (GPDT hàng đầu)</td>
+            <td><b>Q101: A</b></td>
+          </tr>
+          <tr>
+            <td><b>HNTW 8 (khóa I)</b></td>
+            <td>5/1941</td>
+            <td><b>HOÀN CHỈNH</b> chuyển hướng chiến lược · Lập Việt Minh · Bầu Trường Chinh</td>
+            <td><b>Q168: B, Q179: B</b></td>
+          </tr>
+          <tr>
+            <td><b>HNTW 15 (khóa II)</b></td>
+            <td>1/1959</td>
+            <td>Mở đường cách mạng miền Nam dùng <b>BẠO LỰC CÁCH MẠNG</b> → Đồng khởi</td>
+            <td><b>Q39: D, Q127: B</b></td>
+          </tr>
+          <tr>
+            <td><b>HNTW 13 (khóa III)</b></td>
+            <td>1/1967</td>
+            <td>Mở thêm <b>MẶT TRẬN NGOẠI GIAO</b> kết hợp quân sự và chính trị</td>
+            <td><b>Q24: D</b></td>
+          </tr>
+          <tr>
+            <td><b>HNTW 24 (khóa III)</b></td>
+            <td>9/1975</td>
+            <td>Hoàn thành <b>thống nhất đất nước về mặt Nhà nước</b></td>
+            <td>Nghị quyết 24</td>
+          </tr>
+          <tr>
+            <td><b>HNTW 6 khóa IV</b></td>
+            <td>8/1979</td>
+            <td>Nghị quyết <b>"Làm cho sản xuất bung ra"</b> – Đột phá đổi mới đầu tiên</td>
+            <td>Bước đột phá 1</td>
+          </tr>
+          <tr>
+            <td><b>Chỉ thị 100-CT/TW</b></td>
+            <td>1/1981</td>
+            <td><b>"Khoán 100"</b> trong hợp tác xã nông nghiệp</td>
+            <td>Khoán 100</td>
+          </tr>
+          <tr>
+            <td><b>Nghị quyết 10-NQ/TW</b></td>
+            <td>4/1988</td>
+            <td><b>"Khoán 10"</b> giao quyền tự chủ cho hộ nông dân</td>
+            <td>Khoán 10</td>
+          </tr>
+          <tr>
+            <td><b>HNTW 5 khóa VIII</b></td>
+            <td>7/1998</td>
+            <td>Nghị quyết nền văn hóa tiên tiến đậm đà bản sắc (<b>Tuyên ngôn văn hóa</b>)</td>
+            <td><b>Q6: A</b></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- PHẦN 6 -->
+  <section class="sec" id="sec6">
+    <h2>⚔️ 6. BẢNG SO SÁNH 4 CHIẾN LƯỢC CHIẾN TRANH CỦA MỸ Ở VIỆT NAM</h2>
+    
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Chiến lược</th>
+            <th>Giai đoạn</th>
+            <th>Công thức lực lượng</th>
+            <th>Thủ đoạn / Xương sống</th>
+            <th>Sự kiện làm phá sản</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><b>1. Chiến tranh đơn phương</b></td>
+            <td>1954 – 1960</td>
+            <td>Quân đội tay sai Ngô Đình Diệm + Vũ khí Mỹ</td>
+            <td>Luật 10/59, máy chém khắp miền Nam</td>
+            <td><b>Phong trào Đồng khởi (1960)</b></td>
+          </tr>
+          <tr>
+            <td><b>2. Chiến tranh đặc biệt</b></td>
+            <td>1961 – 1965</td>
+            <td><b>Quân đội Sài Gòn</b> + Cố vấn & vũ khí Mỹ (<b>Q321: D</b>)</td>
+            <td>Quốc sách: <b>Ấp chiến lược</b> ("xương sống")</td>
+            <td><b>Ấp Bắc (1963)</b>, Bình Giã, Ba Gia, Đồng Xoài</td>
+          </tr>
+          <tr>
+            <td><b>3. Chiến tranh cục bộ</b></td>
+            <td>1965 – 1968</td>
+            <td><b>Quân viễn chinh Mỹ (chủ lực)</b> + Đồng minh + Quân ngụy (<b>Q214, Q226: A</b>)</td>
+            <td>2 gọng kìm: <b>"Tìm diệt" & "Bình định"</b></td>
+            <td><b>Tổng tiến công Tết Mậu Thân 1968</b> (<b>Q13: A</b>)</td>
+          </tr>
+          <tr>
+            <td><b>4. Việt Nam hóa chiến tranh</b></td>
+            <td>1969 – 1975</td>
+            <td><b>Quân đội Sài Gòn là lực lượng chủ yếu</b> + Không quân Mỹ</td>
+            <td>"Dùng người Việt đánh người Việt"</td>
+            <td><b>"Điện Biên Phủ trên không" 1972</b> & Mùa Xuân 1975</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- PHẦN 7 -->
+  <section class="sec" id="sec7">
+    <h2>⚠️ 7. CÁC BẪY ĐỀ THI TỬ THẦN BẮT BUỘC PHẢI THUỘC</h2>
+    
+    <div class="alert alert-danger">
+      <h3>⚠️ 1. Ba câu hỏi PHẢI TICK 2 ĐÁP ÁN (Tick thiếu là 0 điểm!)</h3>
+      <p><b>• Câu 20:</b> Động lực cách mạng trong Cương lĩnh chính trị đầu tiên xác định gồm những lực lượng nào? → Đáp án: <b>A và D</b> (Công nhân & Nông dân).</p>
+      <p><b>• Câu 36:</b> Năm 1929, Hội VN Cách mạng Thanh niên phân hóa thành những tổ chức nào? → Đáp án: <b>A và B</b> (An Nam CSĐ & Đông Dương CSĐ).</p>
+      <p><b>• Câu 116:</b> Đại hội lần thứ II (1951) đã quyết định: → Đáp án: <b>B và C</b> (Đổi tên thành Đảng Lao động VN & Lập chính đảng riêng ở Lào, Campuchia).</p>
+    </div>
+
+    <div class="alert alert-info">
+      <h3>🔍 2. Sáu câu hỏi PHỦ ĐỊNH ("Không phải / Không đúng") – Đọc thật kỹ tìm câu SAI</h3>
+      <p>• <b>Q29:</b> "Cuộc CM Đông Dương hiện tại không phải là cuộc CM tư sản dân quyền..." → Trích HNTW 5/1941 (Đáp án <b>C</b>).</p>
+      <p>• <b>Q32:</b> Đâu <b>không phải</b> là điều kiện tạo thời cơ chín muồi của Cách mạng Tháng Tám? → Đáp án <b>C</b> (Quân Đồng minh đã vào giải giáp - Sai vì ta phải giành chính quyền TRƯỚC khi Đồng minh vào).</p>
+      <p>• <b>Q85:</b> Nội dung nào <b>chưa đúng</b> trong các bài học lãnh đạo cách mạng của Đảng? → Đáp án <b>B</b>.</p>
+      <p>• <b>Q357:</b> Đâu <b>không phải</b> là bài học kinh nghiệm của Đại hội X rút ra? → Đáp án <b>D</b>.</p>
+      <p>• <b>Q390:</b> Nội dung nào <b>không đúng</b> trong đặc trưng CNH thời kỳ trước đổi mới? → Đáp án <b>D</b>.</p>
+      <p>• <b>Q411:</b> Đổi mới <b>không phải</b> là thay đổi mục tiêu CNXH mà phải... → Đáp án <b>B</b> (làm cho mục tiêu được thực hiện hiệu quả).</p>
+    </div>
+
+    <div class="rule-box">
+      <h3>👯 3. Sáu cặp câu TRÙNG LẶP NGUYÊN VĂN (Học 1 câu ăn điểm 2 câu)</h3>
+      <p>• <b>Cặp [Q139 & Q170]:</b> Hội nghị BCH TW 10/1930 đổi tên Đảng thành → <b>Đảng Cộng sản Đông Dương</b> (Đáp án: <b>C</b>).</p>
+      <p>• <b>Cặp [Q157 & Q189]:</b> Nhiệm vụ cách mạng trong Luận cương 10/1930 của Trần Phú → <b>Đánh đổ phong kiến và đánh đổ đế quốc</b> (Đáp án: <b>A</b>).</p>
+      <p>• <b>Cặp [Q168 & Q179]:</b> HNTW 8 (5/1941) đã → <b>Hoàn chỉnh chủ trương chuyển hướng chỉ đạo chiến lược</b> (Đáp án: <b>B</b>).</p>
+      <p>• <b>Cặp [Q214 & Q226]:</b> Khi Mỹ thực hiện Chiến tranh cục bộ, Đảng nhận định tình hình: → <b>Xâm lược thực dân mới, thế thua, thất bại và bị động</b> (Đáp án: <b>A</b>).</p>
+      <p>• <b>Cặp [Q288 & Q289]:</b> Mặt trận Dân tộc giải phóng miền Nam VN do ai làm Chủ tịch → <b>Luật sư Nguyễn Hữu Thọ</b> (Đáp án: <b>A</b>).</p>
+      <p>• <b>Cặp [Q373 & Q374]:</b> HNTW 7 khóa XII ban hành Nghị quyết số 27 và 28 về: → <b>Cải cách chính sách tiền lương và bảo hiểm xã hội</b>.</p>
+    </div>
+  </section>
+
+  <!-- PHẦN 8 -->
+  <section class="sec" id="sec8">
+    <h2>⚡ 8. KẾ HOẠCH ÔN TẬP CẤP TỐC (2 NGÀY & 4 NGÀY)</h2>
+    
+    <div class="rule-box" style="border-left-color:var(--brand)">
+      <b style="color:var(--brand)">📅 Kế hoạch 4 ngày – Chắc chắn đạt 9-10 điểm:</b><br>
+      • <b>Ngày 1:</b> Học kỹ Phần 0, 1, 3, 4 (Mẹo con số, Tổng Bí thư, 13 Đại hội Đảng). Mở <a href="VNR202_flashcard.html">VNR202_flashcard.html</a> luyện 100 câu nhóm 1858-1930 và 1930-1945.<br>
+      • <b>Ngày 2:</b> Học Phần 2, 5, 6 (Dòng lịch sử, Hội nghị TW, 4 Chiến lược của Mỹ). Luyện 120 câu Flashcard nhóm 1945-1954 và 1954-1975.<br>
+      • <b>Ngày 3:</b> Học Phần Đổi mới (1986 - nay) và các Bẫy đề thi (Phần 7). Luyện 100 câu nhóm Đổi mới. Thuộc lòng 3 câu nhiều đáp án (Q20, Q36, Q116).<br>
+      • <b>Ngày 4:</b> Mở <a href="VNR202_thi_thu.html">VNR202_thi_thu.html</a> làm 3 lượt đề thi thử (50 câu/lượt có bấm giờ). Sau đó bấm nút <b>"Làm lại câu sai"</b> để quét sạch mọi lỗ hổng trước khi thi.
+    </div>
+
+    <div class="rule-box" style="border-left-color:#eab308">
+      <b style="color:#a16207">🔥 Kế hoạch ôn cấp tốc 2 ngày (Chữa cháy khẩn cấp):</b><br>
+      • <b>Ngày 1:</b> Đọc thuộc Mục 0, 1, 4 và 7 (Mẹo số, Đại hội, 3 câu nhiều đáp án, 6 cặp trùng). Bật <a href="VNR202_flashcard.html">Flashcard</a> chế độ <b>"Ôn gấp 2 ngày"</b> lướt nhanh 415 câu.<br>
+      • <b>Ngày 2:</b> Mở <a href="VNR202_thi_thu.html">Thi thử</a> chọn <b>Toàn bộ 415 câu</b> (bật chế độ <i>Xem đáp án ngay</i>). Sai câu nào ghi nhớ ngay câu đó. Cuối ngày làm lại toàn bộ câu sai cho đến khi đạt 100%.
+    </div>
+  </section>
+
+  <footer>
+    VNR202 – Lịch sử Đảng Cộng sản Việt Nam · Chúc bạn đạt điểm A+ trong kỳ thi sắp tới!
+  </footer>
+</div>
+
+<script>
+function filterContent(query) {
+  query = query.toLowerCase().trim();
+  const tables = document.querySelectorAll('table tbody tr');
+  const items = document.querySelectorAll('.tl-item, .rule-box');
+  
+  if (!query) {
+    tables.forEach(tr => tr.style.display = '');
+    items.forEach(el => el.style.display = '');
+    return;
+  }
+  
+  tables.forEach(tr => {
+    const text = tr.innerText.toLowerCase();
+    tr.style.display = text.includes(query) ? '' : 'none';
+  });
+  
+  items.forEach(el => {
+    const text = el.innerText.toLowerCase();
+    el.style.display = text.includes(query) ? '' : 'none';
+  });
+}
+</script>
+
+</body>
+</html>

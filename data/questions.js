@@ -1,0 +1,6776 @@
+window.VNR_DATA = {
+  "meta": {
+    "course": "VNR202",
+    "title": "Lịch sử Đảng Cộng sản Việt Nam",
+    "total": 415,
+    "singleAnswerCount": 412,
+    "multiAnswerCount": 3,
+    "multiAnswerIds": [
+      20,
+      36,
+      116
+    ],
+    "distribution": {
+      "A": 152,
+      "B": 87,
+      "C": 91,
+      "AD": 1,
+      "D": 82,
+      "AB": 1,
+      "BC": 1
+    },
+    "negativeCount": 6,
+    "duplicatePairs": [
+      [
+        139,
+        170
+      ],
+      [
+        157,
+        189
+      ],
+      [
+        168,
+        179
+      ],
+      [
+        214,
+        226
+      ],
+      [
+        288,
+        289
+      ],
+      [
+        373,
+        374
+      ]
+    ]
+  },
+  "topics": [
+    {
+      "id": "all",
+      "label": "Tất cả câu hỏi",
+      "emoji": "📚"
+    },
+    {
+      "id": "period_1858_1930",
+      "label": "Thành lập Đảng & Tiền đề (1858 - 1930)",
+      "emoji": "🌱"
+    },
+    {
+      "id": "period_1930_1945",
+      "label": "Đấu tranh giành chính quyền (1930 - 1945)",
+      "emoji": "🚩"
+    },
+    {
+      "id": "period_1945_1954",
+      "label": "Kháng chiến chống thực dân Pháp (1945 - 1954)",
+      "emoji": "⚔️"
+    },
+    {
+      "id": "period_1954_1975",
+      "label": "Kháng chiến chống Mỹ cứu nước (1954 - 1975)",
+      "emoji": "🚀"
+    },
+    {
+      "id": "period_1975_1986",
+      "label": "Cả nước quá độ lên CNXH (1975 - 1986)",
+      "emoji": "🇻🇳"
+    },
+    {
+      "id": "period_1986_now",
+      "label": "Thời kỳ Đổi mới & Hội nhập (1986 - nay)",
+      "emoji": "🌐"
+    },
+    {
+      "id": "khac",
+      "label": "Nguyên lý & Bài học chung",
+      "emoji": "📖"
+    },
+    {
+      "id": "tag_so",
+      "label": "Dạng câu: Con số",
+      "emoji": "🔢"
+    },
+    {
+      "id": "tag_nam",
+      "label": "Dạng câu: Mốc thời gian & Năm",
+      "emoji": "⏱️"
+    },
+    {
+      "id": "tag_nhanvat",
+      "label": "Dạng câu: Nhân vật & Tác phẩm",
+      "emoji": "🧑"
+    },
+    {
+      "id": "tag_daihoi",
+      "label": "Dạng câu: Đại hội & Hội nghị TW",
+      "emoji": "🏛️"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "q": "Đại biểu của tổ chức cộng sản nào không tham dự Hội \nnghị thành lập Đảng đầu năm 1930?",
+      "options": [
+        "Đông Dương cộng sản liên đoàn",
+        "An Nam cộng sản Đảng",
+        "Đông Dương cộng sản Đảng",
+        "Quốc tế cộng sản"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 2,
+      "q": "Chủ đề của Đại hội đại biểu toàn quốc lần thứ XIII của \nĐảng Cộng sản Việt Nam là? (Lựa chọn phương án \nđúng nhất).",
+      "options": [
+        "Tăng cường chỉnh đốn Đảng và hệ thống chính trị \ntrong sạch vững mạnh, khơi dậy khát vọng phát triển \nđất nước, phát huy ý chí, sức mạnh đại đoàn kết toàn \ndân tộc kết hợp sức mạnh thời đại, tiếp tục đẩy mạnh \ntoàn diện, đồng bộ công cuộc đổi mới, xây dựng và \nbảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa, \ngiữ vững môi trường hòa bình, ổn định, phấn đấu đến \ngiữa thế kỷ XXI nước ta trở thành nước phát triển theo \nđịnh hướng xã hội chủ nghĩa.",
+        "Tăng cường xây dựng, chỉnh đốn Đảng và hệ thống \nchính trị trong sạch, vững mạnh; khơi dậy ý chí và \nquyết tâm phát triển đất nước, phát huy sức mạnh \nđại đoàn kết toàn dân tộc kết hợp với sức mạnh thời \nđại;....phấn đấu để đến giữa thế kỷ 21, nước ta trở \nthành một nước phát triển, theo định hướng xã hội \nchủ nghĩa.",
+        "Tiếp tục đẩy mạnh toàn diện, đồng bộ công cuộc \nđổi"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 3,
+      "q": "Hồ Chí Minh đọc bản Sơ thảo lần thứ nhất những luận \ncương về vấn đề dân tộc và vấn đề thuộc địa của Lênin \ntrên báo nào?",
+      "options": [
+        "Thợ thuyền",
+        "Tình cảnh công nhân Anh",
+        "Nhân đạo",
+        "Người cùng khổ"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": []
+    },
+    {
+      "id": 4,
+      "q": "Một trong những nội dung kinh nghiệm của Đảng về \nlãnh đạo kháng chiến chống thực dân Pháp và can \nthiệp của Mỹ đó là?",
+      "options": [
+        "Đẩy mạnh phát triển cuộc kháng chiến về mọi mặt.",
+        "Đánh đuổi bọn đế quốc xâm lược, giành độc lập và \nthống nhất thật sự cho dân tộc.",
+        "Đề ra đường lối đúng đắn, sáng tạo, phù hợp với \nthực tiễn lịch sử của cuộc kháng chiến ngay từ những \nngày đầu.",
+        "Kết hợp đấu tranh quân sự và ngoại giao, kết thúc \nthắng lợi cuộc kháng chiến"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 5,
+      "q": "Đâu là nhận định đúng khi đề cập đến Đại hội lần thứ \nIV của Đảng trong các nhận định sau đây?",
+      "options": [
+        "Là Đại hội toàn thắng của sự nghiệp giải phóng dân \ntộc, thống nhất Tổ quốc",
+        "Đại hội khẳng định và xác định đường lối đưa miền \nBắc tiến lên chủ nghĩa xã hội",
+        "Đại hội đã nhìn thẳng vào sự thật, đánh giá đúng sự \nthật, nói rõ sự thật",
+        "Là Đại hội đổi mới toàn diện, đưa đất nước thoát \nkhỏi khủng hoảng kinh tế - xã hội"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 6,
+      "q": "Nghị quyết số 03-NQ/TW tại Hội nghị Trung ương 5 \nkhóa VIII (7/1998) được coi như:",
+      "options": [
+        "Tuyên ngôn văn hóa của Đảng trong thời kỳ thực \nhiện công nghiệp hóa, hiện đại hóa",
+        "Tuyên ngôn văn nghệ của Đảng trong thời kỳ thực \nhiện công nghiệp hóa, hiện đại hóa",
+        "Tuyên ngôn nghệ thuật của Đảng trong thời kỳ thực \nhiện công nghiệp hóa, hiện đại hóa",
+        "Tuyên ngôn văn hóa văn nghệ của Đảng trong thời \nkỳ toàn cầu hóa"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 7,
+      "q": "Trung Quốc cho quân đội chiếm đảo Gạc Ma và các bãi \ncạn Châu Viên, Chữ Thập, Tư Nghĩa ở quần đảo Trường \nSa của Việt Nam vào thời gian nào?",
+      "options": [
+        "Tháng 3/1988.",
+        "Tháng 3/1986.",
+        "Tháng 3/1987.",
+        "Tháng 2/1979."
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 8,
+      "q": "Đại hội lần thứ V của Đảng đã khẳng định: \"Trong \nkhi không một phút lơi lỏng nhiệm vụ củng cố quốc \nphòng, bảo vệ Tổ quốc, Đảng ta và nhân dân phải đặt \nlên hàng đầu...\".\nTừ nào còn thiếu trong nhận định trên?",
+      "options": [
+        "Nhiệm vụ xây dựng chủ nghĩa xã hội",
+        "Mục tiêu của cách mạng Việt Nam",
+        "Vấn đề cơ bản của cách mạng Việt Nam",
+        "Vấn đề cơ bản khi xây dựng chủ nghĩa xã hội"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 9,
+      "q": "Sau Hiệp định Giơnevơ (7/1954) cách mạng Việt Nam \ncó những thuận lợi gì?",
+      "options": [
+        "Hệ thống chủ nghĩa xã hội lớn mạnh.",
+        "Phong trào giải phóng dân tộc trên thế giới lên cao.",
+        "Miền Bắc được hoàn toàn giải phóng, làm hậu \nphương lớn cho cả nước kháng chiến.",
+        "Mỹ âm mưu bá chủ toàn cầu"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 10,
+      "q": "Nhiệm vụ chiến lược của cách mạng được Đại hội \nĐảng toàn quốc lần thứ III đề ra là gì?",
+      "options": [
+        "Tiến hành cách mạng XHCN ở miền Bắc, giải phóng \nmiền Nam khỏi ách thống trị của đế quốc Mỹ và bọn \ntay sai thống nhất nước nhà, hoàn thành độc lập và \ndân chủ trong cả nước.",
+        "Tiến hành cách mạng XHCN ở miền Bắc",
+        "Giải phóng miền Nam khỏi ách thống trị của đế \nquốc Mỹ",
+        "Xây dựng chủ nghĩa xã hội trên cả nước"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 11,
+      "q": "Phấn đấu đến giữa thế kỷ XXI, nước ta trở thành nước \nphát triển theo định hướng xã hội chủ nghĩa. Được đề \ncập trong Đại hội lần thứ mấy của Đảng Cộng sản Việt \nNam?",
+      "options": [
+        "Đại hội Đảng lần thứ XIII.",
+        "Đại hội Đảng lần thứ XII.",
+        "Đại hội Đảng lần thứ XI.",
+        "Đại hội Đảng lần thứ X."
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_so",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 12,
+      "q": "Chiến lược phát triển khoa học và công nghệ, giáo dục \nvà đào tạo đã được đề ra từ năm 1996 nhằm:",
+      "options": [
+        "Thúc đẩy mạnh mẽ sự nghiệp công nghiệp hóa, \nhiện đại hóa đất nước.",
+        "Thúc đẩy mạnh mẽ sự nghiệp công nghiệp hóa đất \nnước.",
+        "Thúc đẩy mạnh mẽ sự nghiệp phát triển kinh tế đất \nnước",
+        "Thúc đẩy mạnh mẽ sự nghiệp giáo dục"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 13,
+      "q": "Vì sao Mỹ buộc phải tuyên bố ngừng hẳn ném bom, \nbắn phá miền Bắc lần thứ nhất?",
+      "options": [
+        "Thất bại trong chiến lược \"Chiến tranh cục bộ\" ở \nmiền Nam",
+        "Thất bại nặng nề trong chiến tranh phá hoại miền \nBắc",
+        "Thất bại trong chiến lược \"Chiến tranh đặc biệt\" ở \nmiền Nam",
+        "Nhân dân thế giới lên án"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 14,
+      "q": "Chế độ cai trị của thực dân Pháp đối với nhân dân Việt \nNam cuối thế kỷ XIX đầu thế kỷ XX là chế độ nào?",
+      "options": [
+        "Dân chủ",
+        "Dân chủ cộng hòa",
+        "Thuộc địa nửa phong kiến",
+        "Cộng hòa đại nghị"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 15,
+      "q": "Cuối năm 1974, đầu năm 1975, Bộ Chính trị đã đề ra \nmấy kế hoạch khi hạ quyết tâm giải phóng miền Nam \ntrong hai năm 1975-1976?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_so"
+      ]
+    },
+    {
+      "id": 16,
+      "q": "Ngày 2/9/1945, quân Pháp trắng trợn gây hấn cho nổ \nsúng vào những người tham gia míttinh mừng ngày \nđộc lập ở đâu?",
+      "options": [
+        "Sài Gòn - Chợ Lớn",
+        "Hà Nội.",
+        "Khu căn cứ cách mạng.",
+        "An toàn khu"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 17,
+      "q": "Ngày 2/9/1945 gắn với sự kiện lịch sử nào?",
+      "options": [
+        "Pháp xâm lược nước ta lần 2",
+        "Ngày Nam Bộ kháng chiến",
+        "Chủ tịch Hồ Chí Minh đọc tuyên ngôn độc lập khai \nsinh nước Việt Nam Dân chủ Cộng hòa",
+        "Ngày toàn quốc kháng chiến chống thực dân Pháp \nxâm lược"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 18,
+      "q": "\"Chiến tranh có thể kéo dài 5 năm, 10 năm, 20 năm \nhoặc lâu hơn nữa. Hà Nội, Hải Phòng và một số thành \nphố, xí nghiệp có thể bị tàn phá, song người Việt Nam \nquyết không sợ. Không có gì quý hơn độc lập, tự do\". \nKhẳng định trên của Chủ tịch Hồ Chí Minh được viết \ntrong tác phẩm nào?",
+      "options": [
+        "Lời kêu gọi",
+        "Đường cách mệnh",
+        "Tuyên ngôn độc lập",
+        "Di chúc"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": []
+    },
+    {
+      "id": 19,
+      "q": "Cách mạng tháng Tám năm 1945 là cuộc cách mạng \ngì?",
+      "options": [
+        "Tư sản",
+        "Xã hội chủ nghĩa",
+        "Giải phóng dân tộc",
+        "Ruộng đất"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 20,
+      "q": "Động lực cách mạng trong Cương lĩnh chính trị đầu \ntiên của Đảng ta xác định bao gồm những lực lượng \nnào?",
+      "options": [
+        "Giai cấp công nhân",
+        "Giai cấp tư sản mại bản",
+        "Giai cấp tư sản dân tộc",
+        "Giai cấp nông dân"
+      ],
+      "a": "AD",
+      "note": "",
+      "multi": true,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 21,
+      "q": "Chiến dịch Điện Biên Phủ bắt đầu vào ngày nào và kết \nthúc vào ngày nào?",
+      "options": [
+        "Bắt đầu 13/3/1954, kết thúc 7/5/1954",
+        "Bắt đầu 1/4/1954, kết thúc 2/5/1954",
+        "Bắt đầu 15/3/1954, kết thúc 25/5/1954",
+        "Bắt đầu 2/3/1954, kết thúc 10/5/1954"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 22,
+      "q": "Trong cuộc xâm lược Việt Nam từ 1858 đến 1945, thực \ndân Pháp đã tiến hành mấy cuộc khai thác thuộc địa?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_so"
+      ]
+    },
+    {
+      "id": 23,
+      "q": "Các cuộc khai thác thuộc địa của thực dân Pháp đã \nlàm xuất hiện ở Việt Nam những giai cấp, tầng lớp mới \nnào?",
+      "options": [
+        "Địa chủ phong kiến, nông dân, công nhân",
+        "Nông dân, công nhân, tiểu tư sản",
+        "Công nhân, tiểu tư sản, tư sản dân tộc",
+        "Tiểu tư sản, tư sản dân tộc, tiểu địa chủ"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 24,
+      "q": "Hội nghị Trung ương 13 (1/1967) chủ trương mở mặt \ntrận nào để tiến công địch?",
+      "options": [
+        "Mặt trận chính trị",
+        "Mặt trận quân sự",
+        "Mặt trận binh vận",
+        "Mặt trận ngoại giao"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 25,
+      "q": "Quốc dân Đại hội Tân Trào được triệu tập bởi:",
+      "options": [
+        "Quốc tế Cộng sản",
+        "Đảng Cộng sản Đông Dương",
+        "Lãnh tụ Hồ Chí Minh",
+        "Tổng bộ Việt Minh"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_nhanvat",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 26,
+      "q": "Tính chất toàn diện trong cuộc kháng chiến chống \nPháp được hiểu là:",
+      "options": [
+        "Kháng chiến trên mọi lĩnh vực kinh tế, quân sự, \nchính trị, văn hóa, giáo dục",
+        "Tất cả mọi người dân đều tham gia kháng chiến",
+        "Kháng chiến lâu dài",
+        "Phải dựa vào sức mình"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 27,
+      "q": "Việt Nam chính thức thiết lập quan hệ ngoại giao với \nMỹ vào thời gian nào?",
+      "options": [
+        "1990",
+        "1994",
+        "1995",
+        "2000"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_so",
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 28,
+      "q": "Điểm khác nhau giữa Luận cương chính trị tháng \n10/1930 với Cương lĩnh chính trị đầu tiên (2/1930) của \nĐảng là:",
+      "options": [
+        "Đường lối quốc tế của cách mạng giải phóng dân \ntộc",
+        "Đường lối tập hợp lực lượng bên trong của cách \nmạng",
+        "Phương pháp tiến hành cách mạng",
+        "Không có điểm khác nhau giữa 2 văn kiện"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 29,
+      "q": "\"Cuộc cách mạng Đông Dương hiện tại không phải là \ncuộc cách mạng tư sản dân quyền, cuộc cách mạng \nphải giải quyết hai vấn đề phản đề và điền địa nữa, mà \nlà cuộc cách mạng chỉ phải giải quyết một vấn đề cần \nkíp \"dân tộc giải phóng\"\". Chủ trương trên của Đảng \nđược khẳng định tại Hội nghị nào?",
+      "options": [
+        "Hội nghị Ban Chấp hành Trung ương tháng \n11/1939",
+        "Hội nghị Cán bộ Trung ương tháng 11/1940",
+        "Hội nghị Ban Chấp hành Trung ương tháng 5/1941",
+        "Hội nghị Ban Thường vụ Trung ương tháng 3/1945"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 30,
+      "q": "Luận cương chính trị của Đảng Cộng sản Đông Dương \ntháng 10/1930 xác định:",
+      "options": [
+        "Mâu thuẫn giai cấp diễn ra gay gắt ở Việt Nam",
+        "Mâu thuẫn dân tộc là chủ yếu",
+        "Nhiệm vụ giải phóng dân tộc được đặt lên hàng \nđầu",
+        "Liên minh dân tộc và giai cấp được thiết lập rộng rãi"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 31,
+      "q": "Tuyến vận tải chiến lược Trường Sơn - đường mòn Hồ \nChí Minh trên bộ chi viện miền Nam đánh Mỹ hình \nthành vào năm:",
+      "options": [
+        "1958",
+        "1959",
+        "1960",
+        "1961"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_so",
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 32,
+      "q": "Đâu không phải là điều kiện tạo nên thời cơ cách mạng \nchín muồi của Tổng khởi nghĩa tháng Tám năm 1945 \nở Việt Nam?",
+      "options": [
+        "Phát xít Nhật đảo chính lật đổ Pháp ở Đông Dương",
+        "Đảng và quần chúng nhân dân đã sẵn sàng hành \nđộng",
+        "Lực lượng trung gian đã ngả hẳn về phía cách \nmạng",
+        "Phát xít Nhật đầu hàng quân Đồng minh không \nđiều kiện"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 33,
+      "q": "Đại hội lần thứ III của Đảng (1960) xác định nhiệm vụ \ntrung tâm trong suốt thời kỳ quá độ lên chủ nghĩa xã \nhội ở Việt Nam là:",
+      "options": [
+        "Cách mạng văn hóa tư tưởng",
+        "Công nghiệp hóa xã hội chủ nghĩa",
+        "Cải tạo xã hôi chủ nghĩa đối với nông nghiệp, thủ \ncông nghiệp",
+        "Phát triển kinh tế quốc doanh"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 34,
+      "q": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ \nlên chủ nghĩa xã hội (bổ sung, phát triển năm 2011) \nđã bổ sung đặc trưng của xã hội xã hội chủ nghĩa mà \nnhân dân ta xây dựng. Điểm bổ sung đó là:",
+      "options": [
+        "Có nền văn hóa tiên tiến, đậm đà bản sắc dân tộc",
+        "Do nhân dân làm chủ",
+        "Dân giàu, nước mạnh, dân chủ, công bằng, văn \nminh",
+        "Có nền kinh tế phát triển cao dựa trên lực lượng sản \nxuất hiện đại và quan hệ sản xuất tiến bộ, phù hợp"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 35,
+      "q": "Hội nghị Trung ương VI khóa XII Ban hành Nghị quyết \nsố 20-NQ/TW ngày 25/10/2017 về:",
+      "options": [
+        "Công tác dân số trong tình hình mới",
+        "Xây dựng văn hóa trong tình hình mới",
+        "Hội nhập trong tình hình mới",
+        "Tăng cường công tác bảo vệ, chăm sóc và nâng cao \nsức khỏe nhân dân trong tình hình mới"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 36,
+      "q": "Năm 1929, Hội Việt Nam Cách mạng Thanh niên phân \nhóa thành:",
+      "options": [
+        "An Nam Cộng sản Đảng",
+        "Đông Dương Cộng sản Đảng",
+        "Đông Dương Cộng sản Liên đoàn",
+        "Đảng Cộng sản Việt Nam"
+      ],
+      "a": "AB",
+      "note": "câu này cả A. An Nam \nCộng sản Đảng và B. Đông \nDương Cộng sản Đảng \nđều đúng.",
+      "multi": true,
+      "topic": "period_1858_1930",
+      "tags": []
+    },
+    {
+      "id": 37,
+      "q": "Đâu là hạn chế của Đảng khi đề ra đường lối cách \nmạng xã hội chủ nghĩa tại Đại hội lần thứ III (9/1960)?",
+      "options": [
+        "Chưa hoàn chỉnh đường lối chiến lược chung của \ncách mạng Việt Nam",
+        "Chưa đề ra chiến lược cách mạng riêng ở 2 miền",
+        "Chưa có dự kiến về chặng đường đầu tiên của thời \nkỳ quá độ lên chủ nghĩa xã hội",
+        "Nhận thức về con đường đi lên chủ nghĩa xã hội còn \ngiản đơn"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 38,
+      "q": "Lãnh tụ Nguyễn Ái Quốc đã đề cập những vấn đề cơ \nbản của một cương lĩnh chính trị, qua đó chuẩn bị về \ntư tường chính trị cho việc thành lập Đảng thông qua \ntác phẩm nào?",
+      "options": [
+        "Đường Kách Mệnh",
+        "Bản án chế độ thực dân Pháp",
+        "Đông Dương",
+        "Điều lệ vắn tắt, Chương trình tóm tắt của Đảng"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 39,
+      "q": "Hội nghị Trung ương nào của Đảng đề ra nghị quyết \nmở đường cho sự bùng nổ của phong trào Đồng Khởi \nở miền Nam đầu năm 1960?",
+      "options": [
+        "Hội nghị Trung ương lần thứ 12 (3/1957)",
+        "Hội nghị Trung ương lần thứ 13 (12/1957)",
+        "Hội nghị Trung ương lần thứ 14 (11/1958)",
+        "Hội nghị Trung ương lần thứ 15 (1/1959)"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 40,
+      "q": "Hội nghị Trung ương 5 khóa XII (5/2017) ban hành \nnghị quyết về phát triển kinh tế tư nhân, trong đó xác \nđịnh:",
+      "options": [
+        "Kinh tế tư nhân là một động lực quan trọng để phát \ntriển kinh tế",
+        "Kinh tế tư nhân giữ vai trò chủ đạo của nền kinh tế",
+        "Kinh tế tư nhân là trụ cột của nền kinh tế",
+        "Kinh tế tư nhân giữ vai trò quyết định trong phát \ntriển kinh tế"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 41,
+      "q": "Đại hội lần thứ mấy của Đảng đã lần đầu tiên khẳng \nđịnh một bài học trong quá trình đổi mới đất nước là \nphải \"lấy lợi ích quốc gia, dân tộc làm mục tiêu cao \nnhất\"?",
+      "options": [
+        "Đại hội X (2006)",
+        "Đại hội XI (2011)",
+        "Đại hội XII (2016)",
+        "Đại hội XIII (2021)"
+      ],
+      "a": "C",
+      "note": "chị mới fix",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_so",
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 42,
+      "q": "Xây dựng, chỉnh đốn Đảng được Đại hội X (2006) xác \nđịnh là:",
+      "options": [
+        "Nhiệm vụ trung tâm",
+        "Nhiệm vụ then chốt",
+        "Nhiệm vụ hàng đầu",
+        "Nhiệm vụ đặc biệt quan trọng"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 43,
+      "q": "Nội dung chủ yếu của đấu tranh giai cấp trong thời kỳ \nĐổi mới được Đảng Cộng sản Việt Nam xác định là:",
+      "options": [
+        "Lật đổ giai cấp địa chủ phong kiến",
+        "Xóa bỏ giai cấp tư sản",
+        "Thực hiện thắng lợi sự nghiệp công nghiệp hóa, \nhiện đại hóa theo định hướng xã hội chủ nghĩa",
+        "Không còn đấu tranh giai cấp"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 44,
+      "q": "Phiên họp đầu tiên của Chính phủ Lâm thời Việt Nam \nDân chủ Cộng hòa ngày 3/9/1945 xác định mấy nhiệm \nvụ lớn trước mắt của chính quyền cách mạng?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_so"
+      ]
+    },
+    {
+      "id": 45,
+      "q": "Trong 5 yếu tố chính để tăng trưởng kinh tế, yếu tố \nnào giữ vai trò quyết định?",
+      "options": [
+        "Vốn, Khoa học - công nghệ",
+        "Con người",
+        "Cơ cấu kinh tế",
+        "Thể chế chính trị và quản lý nhà nước"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 46,
+      "q": "Đại hội VI của Đảng (1986) đã bầu ai làm Tổng Bí thư?",
+      "options": [
+        "Trường Chinh",
+        "Phạm Văn Đồng",
+        "Nguyễn Văn Linh",
+        "Đỗ Mười"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_nhanvat",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 47,
+      "q": "Ai là người ban hành mệnh lệnh \"thần tốc, thần tốc \nhơn nữa, táo bạo, táo bạo hơn nữa, tranh thủ từng \nphút, từng giờ, xốc tới mặt trận, giải phóng miền Nam. \nQuyết chiến và toàn thắng\"?",
+      "options": [
+        "Võ Nguyên Giáp",
+        "Văn Tiến Dũng",
+        "Trần Văn Trà",
+        "Hoàng Văn Thái"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 48,
+      "q": "Đại hội nào của Đảng lần đầu tiên đề ra hai nhiệm vụ \nchiến lược của cách mạng Việt Nam là xây dựng thành \ncông chủ nghĩa xã hội và bảo vệ vững chắc Tổ quốc \nViệt Nam xã hội chủ nghĩa?",
+      "options": [
+        "Đại hội IV (1976)",
+        "Đại hội V (1982)",
+        "Đại hội VI (1986)",
+        "Đại hội VII (1991)"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 49,
+      "q": "Đại hội Đảng lần thứ IV (12/1976) đã nêu lên mấy đặc \nđiểm lớn của cách mạng Việt Nam trong giai đoạn \nmới?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_so",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 50,
+      "q": "\"Trong lúc này nếu không giải quyết được vấn đề dân \ntộc giải phóng, không đòi được độc lập tự do cho toàn \nthể dân tộc, thì chẳng những toàn thể quốc gia dân tộc \ncòn chịu mãi kiếp ngựa trâu mà quyền lợi của bộ phận, \ngiai cấp đến vạn năm cũng không đòi lại được\". Luận \nđiểm trên được đưa ra tại Hội nghị nào của Đảng?",
+      "options": [
+        "Hội nghị Ban Chấp hành Trung ương tháng \n11/1939",
+        "Hội nghị Cán bộ Trung ương tháng 11/1940",
+        "Hội nghị Ban Chấp hành Trung ương tháng 5/1941",
+        "Hội nghị Ban Thường vụ Trung ương tháng 3/1945"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 51,
+      "q": "Động lực của công nghiệp hóa, hiện đại hóa trong thời \nkỳ Đồi môi được đưa ra tại Đại hội VIII của Đảng (1996) \nlà:",
+      "options": [
+        "Giáo dục và đào tạo",
+        "Khoa học và công nghệ",
+        "Quốc phòng an ninh",
+        "Văn hóa xã hội"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 52,
+      "q": "Đường lối đối ngoại \"Việt Nam muốn là bạn với tất cả \ncác nước trong cộng đồng thế giới, phấn đấu vì hòa \nbình, độc lập và phát triển\" được Đảng đề ra tại Đại \nhội lần thứ mấy?",
+      "options": [
+        "Đại hội VI (1986)",
+        "Đại hội VII (1991)",
+        "Đại hội VIII (1996)",
+        "Đại hội IX (2001)"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_so",
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 53,
+      "q": "Đại hội Đảng lần thứ IV (12/1976) đã bầu ai làm Tổng \nBí thư?",
+      "options": [
+        "Tôn Đức Thắng",
+        "Trường Chinh",
+        "Phạm Văn Đồng",
+        "Lê Duẩn"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_nhanvat",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 54,
+      "q": "Đại hội Đảng lần thứ III (9/1960) xác định mục tiêu \nchung trước mắt của cả nước là:",
+      "options": [
+        "Hoàn thành cách mạng xã hội chủ nghĩa",
+        "Lật đổ chế độ độc tài gia đình trị ở miền Nam",
+        "Đánh đuổi quân đội Mỹ khỏi miền Nam",
+        "Giải phóng miền Nam, hòa bình, thống nhất Tổ \nquốc"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 55,
+      "q": "Đại hội lần thứ I Đảng Cộng sản Đông Dương được tổ \nchức tại:",
+      "options": [
+        "Quảng Châu",
+        "Hồng Công",
+        "Ma Cao",
+        "Thượng Hải"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 56,
+      "q": "Nguyên tắc tổ chức cơ bản của Đảng Cộng sản Việt \nNam là:",
+      "options": [
+        "Dân chủ",
+        "Tập trung",
+        "Dân chủ tập trung",
+        "Tập trung dân chủ"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 57,
+      "q": "Thành quả quan trọng nhất của cuộc Tổng tiến công \nvà nổi dậy Tết Mậu Thân (1968) là:",
+      "options": [
+        "Đánh bại ý chí xâm lược của Mỹ",
+        "Đánh bại quân đội Mỹ trên chiến trường",
+        "Đánh bại quân đội Sài Gòn",
+        "Đánh đổ chính quyền Sài Gòn"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 58,
+      "q": "Phương châm tác chiến của Quân đội nhân dân Việt \nNam trong chiến dịch Điện Biên Phủ là:",
+      "options": [
+        "Đánh nhanh, thắng nhanh",
+        "Đánh thần tốc, táo bạo, chắc thắng",
+        "Đánh thần tốc, táo bạo, bất ngờ",
+        "Đánh chắc, tiến chắc"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 59,
+      "q": "Việt Nam chính thức trở thành thành viên của tổ chức \nWTO vào thời gian nào?",
+      "options": [
+        "11/1/2006",
+        "11/1/2007",
+        "11/1/2008",
+        "11/1/2009"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 60,
+      "q": "Chỉ thị Kháng chiến kiến quốc (25/11/1945) xác định \nkẻ thù chính của cách mạng Việt Nam lúc bấy giờ là:",
+      "options": [
+        "Thực dân Pháp",
+        "Thực dân Anh",
+        "Quân đội Tường Giới Thạch",
+        "Lực lượng Việt Quốc, Việt Cách"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 61,
+      "q": "Lãnh tụ Nguyễn Ái Quốc tìm thấy ở Chủ nghĩa Lênin \ncon đường giải phóng cho dân tộc Việt Nam thông qua \nviệc:",
+      "options": [
+        "Gửi Bản yêu sách của nhân dân An Nam (1919)",
+        "Bỏ phiếu tán thành Quốc tế Cộng sản, sáng lập \nĐảng Cộng sản Pháp (1920)",
+        "Đọc Sơ thảo lần thứ nhất những luận cương về vấn \nđề dân tộc và vấn đề thuộc địa (1920)",
+        "Dự Đại hội lần thứ V Quốc tế Cộng sản (1924)"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 62,
+      "q": "Tác động của chương trình khai thác thuộc địa lần thứ \nhai của Pháp đến kinh tế Việt Nam làm cho :",
+      "options": [
+        "Cơ cấu kinh tế Việt Nam mất cân đối, lạc hậu, nghèo \nnàn",
+        "Nền kinh tế Việt Nam phát triển độc lập",
+        "Kinh tế Việt Nam phát triển một cách tự chủ",
+        "Kinh tế Việt Nam phụ thuộc kinh tế Pháp"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 63,
+      "q": "Tính chất của xã hội Việt Nam sau khi thực dân Pháp \nđặt được ách cai trị là gì?\nTính chất của xã hội Việt Nam dưới sự thống trị của \nthực dân Pháp là :",
+      "options": [
+        "Xã hội thuộc địa, nửa phong kiến",
+        "Xã hội phong kiến",
+        "Xã hội thuôc địa",
+        "Xã hội chiếm hữu"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 64,
+      "q": "Sự kiện nào được lãnh tụ Nguyễn Ái Quốc đánh giá \"nó \nchứng tỏ rằng giai cấp vô sản ta đã trưởng thành và \nđủ sức lãnh đạo cách mạng giải phóng dân tộc\"?",
+      "options": [
+        "Quốc tế Cộng sản ra đời (1919)",
+        "Hội Việt Nam Cách mạng Thanh niên ra đời (1925)",
+        "Ba tổ chức cộng sản ra đời (1929)",
+        "Đảng Cộng sản Việt Nam ra đời (1930)"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 65,
+      "q": "Lãnh tụ Nguyễn Ái Quốc sáng lập tờ báo Le Paria \n(Người cùng khổ) và viết nhiều bài trên đó là sự chuẩn \nbị cho sự ra đời của Đảng Cộng sản Việt Nam về mặt:",
+      "options": [
+        "Tư tưởng",
+        "Chính trị",
+        "Tổ chức",
+        "Đạo đức"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": []
+    },
+    {
+      "id": 66,
+      "q": "Trong các nội dung sau đây, nội dung nào không thuộc \nluận cương chính trị tháng 10/1930?",
+      "options": [
+        "Cách mạng Việt Nam phải trải qua hai giai đoạn: \ncách mạng tư sản dân quyền và cách mạng xã hội chủ \nnghĩa",
+        "Cách mạng do Đảng của giai cấp vô sản lãnh đạo",
+        "Cách mạng Việt Nam là một bộ phận của cách mạng \nthế giới",
+        "Lực lượng để đánh đuổi đế quốc và phong kiến là \ncông nông. Đồng thời \"phải biết liên lạc với tiểu tư sản, \ntri thức, trung nông ... để kéo họ về phe vô sản giai \ncấp\""
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 67,
+      "q": "Sự kiện nào được Nguyễn Ái Quốc đánh giá \"là một \nbước ngoặt vô cùng quan trọng trong lịch sử Cách \nmạng Việt Nam ta\"?",
+      "options": [
+        "Đảng Cộng sản Việt Nam ra đời",
+        "Sự thành lập Đảng Cộng sản Pháp",
+        "Sự thành lập hội Việt Nam Cách mạng thanh niên",
+        "Nguyễn Ái Quốc tìm thấy con đường cứu nước"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": [
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 68,
+      "q": "Cương lĩnh đầu tiên của Đảng đã xác định mục tiêu \nchiến lược của cách mạng Việt Nam là gì?",
+      "options": [
+        "Xây dựng một nước Việt Nam dân giàu, nước mạnh, \ndân chủ, công bằng, văn minh",
+        "Xây dựng một nước Việt Nam dân giàu mạnh",
+        "Làm tư sản dân quyền cách mạng và thổ địa cách \nmạng để đi tới xã hội cộng sản",
+        "Cách mạng tư sản dân quyền, lập chính quyền của \ncông nông bằng hình thức Xô viết, để dự bị điều kiện \nđi tới cách mạng xã hội chủ nghĩa"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 69,
+      "q": "Nội dung nào không có trong \"Luận cương chính trị\" \ntháng 10 năm 1930?",
+      "options": [
+        "Đặt nhiệm vụ chống đế quốc, giải phóng dân tộc lên \nhàng đầu.",
+        "Đánh giá không đúng vai trò cách mạng của tầng \nlớp tiểu tư sản, phủ nhận mặt tích cực của tư sản dân \ntộc.",
+        "Không nêu được mâu thuẫn chủ yếu là mâu thuẫn \ngiữa dân tộc Việt Nam và đế quốc Pháp.",
+        "Không đề ra được chiến lược liên minh dân tộc và \ngiai cấp rộng rãi"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 70,
+      "q": "Hình thức đấu tranh chủ yếu trong phong trào \n1930-1931 của nhân dân Nghệ - Tĩnh là gì?",
+      "options": [
+        "Bãi công chính trị.",
+        "Biểu tình có vũ trang tự vệ.",
+        "Mít tinh đòi quyền dân chủ.",
+        "Đưa yêu sách cải thiện đời sống."
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 71,
+      "q": "Đại hội đại biểu toàn quốc của Đảng cộng sản Đông \nDương vào tháng 3-1935 bầu ai làm Tổng bí thư?",
+      "options": [
+        "Trần Phú",
+        "Nguyễn Văn Cừ",
+        "Lê Hồng Phong",
+        "Hà Huy Tập"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_nam",
+        "tag_nhanvat",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 72,
+      "q": "Xu hướng giành độc lập dân tộc theo con đường cải \ncách đất nước gắn với tên tuổi của nhà yêu nước nào?",
+      "options": [
+        "Phan Châu Trinh",
+        "Phan Bội Châu",
+        "Phan Đình Phùng",
+        "Phan Văn Trường"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 73,
+      "q": "Mục tiêu cụ thể trước mắt của phong trào vận động \ndân chủ Đông Dương (1936-1939) là gì?",
+      "options": [
+        "Độc lập dân tộc, gắn với chủ nghĩa xã hội",
+        "Các quyền tự do, dân chủ, cơm áo và hòa bình",
+        "Ruộng đất cho dân cày",
+        "Đánh đổ đế quốc Pháp và tay sai"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 74,
+      "q": "Chủ trương chuyển hướng chiến lược cách mạng từ \nlàm cách mạng tư sản dân quyền sang làm cách mạng \ngiải phóng dân tộc được đặt ra từ Hội nghị nào của \nĐảng?",
+      "options": [
+        "Hội nghị Ban Chấp hành Trung ương tháng \n10/1930",
+        "Hội nghị Ban Chấp hành Trung ương tháng \n11/1939",
+        "Hội nghị Cán bộ Trung ương tháng 11/1940",
+        "Hội nghị Ban Chấp hành Trung ương tháng 5/1941"
+      ],
+      "a": "B",
+      "note": "Hội nghị Trung ương 6 \n(11/1939) mở đầu quá \ntrình chuyển hướng.\nHội nghị Trung ương 7 \n(11/1940) tiếp tục phát \ntriển hướng này.\nHội nghị Trung ương \n8 (5/1941) hoàn thiện \nchủ trương chuyển hướng \nchiến lược.",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 75,
+      "q": "Chiến tranh thế giới thứ II nổ ra vào thời gian nào?",
+      "options": [
+        "1937",
+        "1938",
+        "1939",
+        "1940"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_so",
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 76,
+      "q": "Mâu thuẫn chủ yếu ở Việt Nam cuối thế kỷ XIX đầu thế \nkỷ XX là mâu thuẫn giữa:",
+      "options": [
+        "Địa chủ phong kiến với nông dân",
+        "Tư sản với công nhân",
+        "Tư sản Việt Nam với tư sản Pháp",
+        "Dân tộc Việt Nam với đế quốc Pháp"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 77,
+      "q": "Nội dung nào sai trong Hội nghị Trung ương VIII của \nĐảng (tháng 5 năm 1941)?",
+      "options": [
+        "Đưa nhiệm vụ giải phóng dân tộc lên hàng đầu.",
+        "Chuẩn bị điều kiện để \"đánh đổ địa chủ, chia ruộng \nđất cho dân cày\".",
+        "Thành lập mặt trận Việt Minh để tập hợp lực lượng \ncách mạng nhằm mục tiêu giải phóng dân tộc.",
+        "Xác định chuẩn bị khởi nghĩa là nhiệm vụ trung tâm \ntrong giai đoạn hiện tại"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 78,
+      "q": "Mặt trận Việt Nam độc lập đồng minh được thành lập \nnăm nào?",
+      "options": [
+        "19/5/1940",
+        "19/5/1941",
+        "19/5/1942",
+        "19/5/1943"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 79,
+      "q": "Hội nghị của Ban chấp hành Trung ương nào sau đây \nnhấn mạnh giải phóng dân tộc là nhiệm vụ bức thiết \nnhất?",
+      "options": [
+        "Hội nghị trung ương I tháng 10/1930",
+        "Hội nghị trung ương VI tháng 11/1939",
+        "Hội nghị trung ương VII tháng 11/1940",
+        "Hội nghị trung ương VIII tháng 5/1941"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 80,
+      "q": "Mặt trận dân chủ Đông dương chính thức thành lập \nvào năm nào?",
+      "options": [
+        "Năm 1938",
+        "Năm 1930",
+        "Năm 1941",
+        "Năm 1945"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 81,
+      "q": "Nguyên nhân nào làm cho phong trào ở Nghệ - Tĩnh \nlên cao?",
+      "options": [
+        "Vì Nghệ - Tĩnh đã lập được chính quyền xô viết.",
+        "Vì Nghệ - Tĩnh có tổ chức cộng sản và cơ sở đảng \nkhá mạnh.",
+        "Vì nhân dân ở đây có lòng yêu nước và căm thù giặc \nsâu sắc.",
+        "Vì cơ sở công nghiệp Vinh - Bến Thủy ở Nghệ - Tĩnh \nlà trung tâm kỹ nghệ lớn nhất ở Việt Nam."
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 82,
+      "q": "Để tuyên truyền chủ nghĩa Mác trong giai đoạn \n1932-1933, Đảng Cộng sản Việt Nam đã sử dụng \nphương pháp gì?",
+      "options": [
+        "Tổ chức các hội công khai, như hội cấy, hội cày, hội \nđá bóng...",
+        "Tổ chức các cuộc bút chiến công khai",
+        "Tổ chức các buổi học bí mật",
+        "Tổ chức giải truyền đơn"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 83,
+      "q": "Đặc điểm lớn nhất của cách mạng Việt Nam sau tháng \n7/1954 là:",
+      "options": [
+        "Kẻ thù chính lúc này là đế quốc Mỹ với tiềm lực kinh \ntế và quân sự hùng mạnh",
+        "Miền Bắc đi lên chủ nghĩa xã hội từ một nền nông \nnghiệp lạc hậu",
+        "Miền Nam trở thành thuộc địa kiểu mới, do chính \nquyền đối phương quản lý",
+        "Đất nước bị chia thành hai miền, có hai chế độ chính \ntrị xã hội khác nhau"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 84,
+      "q": "Đặc điểm của nước Việt Nam Dân chủ Cộng hòa ngay \nkhi ra đời là",
+      "options": [
+        "Được các nước lớn công nhận",
+        "Được Liên hợp quốc công nhận",
+        "Không được sự ủng hộ của các nước Đồng minh",
+        "Gắn liền với hậu phương xã hội chủ nghĩa"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 85,
+      "q": "Nội dung nào chưa đúng trong các bài học lãnh đạo \ncách mạng của Đảng để dẫn tới cách mạng Tháng Tám \n1945 thắng lợi?",
+      "options": [
+        "Giương cao ngọn cờ độc lập dân tộc, kết hợp đúng \nđắn hai nhiệm vụ chống đế quốc và chống phong \nkiến.",
+        "Sử dụng lực lượng vũ trang áp đảo tiêu diệt kẻ thù",
+        "Lợi dụng mâu thuẫn trong hàng ngũ kẻ thù.",
+        "Nắm vững nghệ thuật khởi nghĩa, nghệ thuật chọn \nđúng thời cơ."
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 86,
+      "q": "Phong trào Xô Viết Nghệ Tĩnh được bắt đầu từ ngày \ntháng năm nào?",
+      "options": [
+        "1 - 5 - 1930",
+        "1 - 5 - 1931",
+        "19 - 5 - 1930",
+        "19 -8 - 1930"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 87,
+      "q": "Tại Đại hội nào, lần đầu tiên Đảng giương cao ngọn cờ \ntư tưởng Hồ Chí Minh và khẳng định \"lấy chủ nghĩa \nMác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư \ntưởng và kim chỉ nam cho hành động\"?",
+      "options": [
+        "Đại hội VI (1986)",
+        "Đại hội VII (1991)",
+        "Đại hội VIII (1996)",
+        "Đại hội IX (2001)"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 88,
+      "q": "Bài học \"giương cao ngọn cờ độc lập dân tộc, kết \nhợp đúng đắn hai nhiệm vụ chống đế quốc và chống \nphong kiến\" được Đảng rút ra sau thời gian nào?",
+      "options": [
+        "Cách mạng Tháng Tám",
+        "Cách mạng dân tộc dân chủ nhân dân ở miền Nam",
+        "Cách mạng xã hội chủ nghĩa ở miền Bắc",
+        "Cách mạng Tháng Mười"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 89,
+      "q": "Nhân dân ta phải tiến hành tổng khởi nghĩa giành \nchính quyền trước khi quân Đồng minh vào Đông \nDương vì:",
+      "options": [
+        "Đó là lúc so sánh lực lượng có lợi nhất đối với cách \nmạng",
+        "Đó là lúc kẻ thù cũ đã ngã gục nhưng kẻ thù mới \nchưa kịp đến",
+        "Quân Đồng minh có thể dựng ra một chính quyền \ntrái với ý chí và nguyện vọng của nhân dân ta",
+        "Tất cả nhận định trên"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 90,
+      "q": "Kỳ họp thứ nhất Quốc hội khóa VI (24/6 - 3/7/1976) \nquyết định đặt tên nước ta là:",
+      "options": [
+        "Cộng hòa xã hội chủ nghĩa Việt Nam",
+        "Cộng hòa Việt Nam",
+        "Cộng hòa Dân chủ Việt Nam",
+        "Việt Nam Dân chủ Cộng hòa"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": []
+    },
+    {
+      "id": 91,
+      "q": "Lần đầu tiên Ban Chấp hành Trung ương Đảng tại hội \nnghị lần thứ 8 (5-1941) chủ trương thành lập chính \nquyền Nhà nước với hình thức gì?",
+      "options": [
+        "Cộng hòa dân chủ",
+        "Cộng hòa xã hội chủ nghĩa",
+        "Cộng hòa nghị viện",
+        "Cộng hòa nhân dân"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 92,
+      "q": "\"Đoàn kết, tập hợp lực lượng cách mạng nhằm giải \nphóng dân tộc\" là chủ trương của Đảng trong việc \nthành lập tổ chức nào?",
+      "options": [
+        "Mặt trận Việt Minh",
+        "Mặt trận dân chủ thống nhất phản đế Đông Dương",
+        "Mặt trận dân chủ Đông Dương",
+        "Hội phản đế đồng minh"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 93,
+      "q": "Cuộc Tổng tiến công và nổi dậy mùa Xuân 1975 bắt \nđầu bằng chiến dịch nào?",
+      "options": [
+        "Chiến dịch Mậu Thân (1968)",
+        "Chiến dịch Tây Nguyên (3/1975)",
+        "Chiến dịch Huế - Đà Nẵng (3/1975)",
+        "Chiến dịch Hồ Chí Minh (4/1975)"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_nam",
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 94,
+      "q": "Hội nghị thành lập Đảng Cộng sản Việt Nam thông \nqua mấy văn kiện do lãnh tụ Nguyễn Ái Quốc soạn \nthảo?",
+      "options": [
+        "2 văn kiện",
+        "3 văn kiện",
+        "4 văn kiện",
+        "5 văn kiện"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": [
+        "tag_so"
+      ]
+    },
+    {
+      "id": 95,
+      "q": "Trong giai đoạn 1965 - 1968, ở miền Nam, Mỹ đã thực \nhiện chiến lược chiến tranh nào?",
+      "options": [
+        "Chiến tranh đơn phương",
+        "Chiến tranh đặc biệt",
+        "Chiến tranh cục bộ",
+        "Việt Nam hóa chiến tranh"
+      ],
+      "a": "C",
+      "note": "Chiến tranh cục bộ là \ngì =>Cuộc chiến tranh xâm \nlược kiểu mới, tiến hành \nbằng lực lượng quân đội \nMỹ, quân đồng minh và \nquân đội Sài Gòn",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 96,
+      "q": "Chính phủ lâm thời nước Việt Nam dân chủ cộng hòa \nra đời từ tổ chức nào?",
+      "options": [
+        "Việt Minh",
+        "Ủy ban dân tộc giải phóng Việt Nam",
+        "Ủy ban lâm thời khu giải phóng",
+        "Ủy ban khởi nghĩa"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 97,
+      "q": "Ban chấp hành Trung ương Đảng chủ trương thành \nlập nước Việt Nam dân chủ cộng hoà tại Hội nghị nào?",
+      "options": [
+        "Hội nghị trung ương tháng 10/1930",
+        "Hội nghị trung ương VI tháng 11/1939",
+        "Hội nghị trung ương VII tháng 11/1940",
+        "Hội nghị trung ương VIII tháng 5/1941"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 98,
+      "q": "Chống phát xít, chống chiến tranh đế quốc, chống bọn \nphản động thuộc địa và tay sai là nhiệm vụ cách mạng \nđược Đảng đề ra trong giai đoạn nào?",
+      "options": [
+        "1930 - 1931",
+        "1936-1939",
+        "1939 - 1945",
+        "1945-1954"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 99,
+      "q": "Hai khẩu hiệu mà Đảng ta vận dụng trong phong trào \ncách mạng 1930- 1931 là:",
+      "options": [
+        "\"Độc lập dân tộc\" và \"Ruộng đất dân cày\"..",
+        "\"Tự do dân chủ\" và \"cơm áo hòa bình\".",
+        "\"Giải phóng dân tộc\" và \"tịch thu ruộng đất của đế \nquốc Việt gian\".",
+        "\"Chống đế quốc\" và \"Chống phát xít, chống chiến \ntranh\"."
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 100,
+      "q": "Đại hội lần thứ III của Đảng (9/1960) xác định cách \nmạng Việt Nam trong giai đoạn mới phải đồng thời \nthực hiện mấy chiến lược cách mạng?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_so",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 101,
+      "q": "Chủ trương điều chỉnh chiến lược cách mạng của \nĐảng được bắt đầu từ Hội nghị Trung ương nào của \nkhóa I?",
+      "options": [
+        "Hội nghị Trung ương 6 (11/1939)",
+        "Hội nghị Trung ương 7 (11/1940)",
+        "Hội nghị Trung ương 8 (5/1941)"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 102,
+      "q": "Cuộc tập dượt thứ nhất của Đảng chuẩn bị cho thắng \nlợi của cách mạng tháng Tám là giai đoạn :",
+      "options": [
+        "1930-1931",
+        "1936-1939",
+        "1939-1945",
+        "1945-1954"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 103,
+      "q": "Chánh cương vắn tắt, Sách lược vắn tắt do Hội nghị \nthành lập Đảng thông qua đã đặt nhiệm vụ gì lên hàng \nđầu?",
+      "options": [
+        "Nhiệm vụ chống tư sản",
+        "Nhiệm vụ chống phong kiến",
+        "Nhiệm vụ chống tay sai phản động",
+        "Nhiệm vụ chống đế quốc"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": []
+    },
+    {
+      "id": 104,
+      "q": "Điền vào chỗ trống:\nĐêm 9/3/1945, Nhật đảo chính Pháp, ngày 12-3-1945, \n... đã ra Bản Chỉ thị \"Nhật Pháp bắn nhau và hành động \ncủa chúng ta\"",
+      "options": [
+        "Ban Thường vụ Trung ương Đảng",
+        "Trung ương cục miền Nam",
+        "Quốc dân đại hội",
+        "Đại hội toàn quốc của Đảng"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 105,
+      "q": "Đảng chủ trương thành lập mặt trận Việt Minh vì mục \nđích gì?",
+      "options": [
+        "Nhằm tập hợp rộng rãi nông dân chống đế quốc",
+        "Tạm gác lại khẩu hiệu \"đánh đổ địa chủ, chia ruộng \nđất cho dân cày\"",
+        "Để đoàn kết, tập hợp lực lượng cách mạng nhằm \ngiải phóng dân tộc",
+        "Nhằm tranh thủ lực lượng đồng minh chống phát \nxít Nhật"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 106,
+      "q": "Quốc tế cộng sản (Quốc tế III) được thành lập vào năm \nnào?",
+      "options": [
+        "1918",
+        "1919",
+        "1920",
+        "1921"
+      ],
+      "a": "B",
+      "note": "Nguyễn Tất Thành \ntham gia Đảng Xã hội \nPháp vào thời gian nào?",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": [
+        "tag_so",
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 107,
+      "q": "Mục tiêu cụ thể trước mắt của cao trào cách mạng \n1936 - 1939 là:",
+      "options": [
+        "Độc lập dân tộc",
+        "Ruộng đất cho dân cày",
+        "Đánh đổ chế độ thực dân, phong kiến",
+        "Các quyền dân chủ đơn sơ"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 108,
+      "q": "Nguyên nhân chủ yếu và có ý nghĩa quyết định sự \nbùng nổ và phát triển của cao trào cách mạng Việt \nNam năm 1930?",
+      "options": [
+        "Tác động tiêu cực của cuộc khủng hoảng kinh tế \n1929-1933",
+        "Chính sách khủng bố trắng của đế quốc Pháp",
+        "Chính sách tăng cường vơ vét bóc lột của đế quốc \nPháp",
+        "Sự lãnh đạo của Đảng Cộng sản Việt Nam"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 109,
+      "q": "Điểm giống nhau giữa Luận cương chính trị 10-1930 \nvà Cương lĩnh chính trị đầu tiên của Đảng tháng \n2-1930 là:",
+      "options": [
+        "Khẳng định vai trò lãnh đạo cách mạng của Đảng \nCộng sản",
+        "Xác định nhiệm vụ cách mạng là chống đế quốc, \nphong kiến",
+        "Ảnh hưởng quan trọng đối với cách mạng Đông \nDương",
+        "Xác định lực lượng là công- nông"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 110,
+      "q": "Nghị quyết Hội nghị Trung ương 2 khóa VIII (12/1996) \ncoi khoa học và công nghệ, giáo dục và đào tạo là:",
+      "options": [
+        "Quốc sách chiến lược",
+        "Quốc sách hàng đầu",
+        "Quốc sách đặc biệt",
+        "Quốc sách quan trọng nhất"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 111,
+      "q": "Hội nghị trung ương VIII tháng 5/1941 nhấn mạnh \nđiều gì?",
+      "options": [
+        "Giải phóng dân tộc là nhiệm vụ quan trọng",
+        "Giải phóng dân tộc là nhiệm vụ cần thiết",
+        "Giải phóng giai cấp là nhiệm vụ bức thiết nhất",
+        "Giải phóng dân tộc là nhiệm vụ bức thiết nhất"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 112,
+      "q": "Đại hội lần thứ VII của Quốc tế Cộng sản họp vào năm \nnào?",
+      "options": [
+        "1936",
+        "1930",
+        "1935",
+        "1939"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_so",
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 113,
+      "q": "Trong lịch sử Đảng Cộng sản Việt Nam, giai đoạn 1932 \n- 1935 là giai đoạn:",
+      "options": [
+        "Chuẩn bị các điều kiện để giành chính quyền",
+        "Phục hồi hệ thống tổ chức của Đảng",
+        "Đẩy mạnh phong trào đấu tranh",
+        "Hợp tác với phong trào nhân dân Pháp"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 114,
+      "q": "Phát xít Nhật xâm lược nước ta vào ngày tháng, năm \nnào?",
+      "options": [
+        "Ngày 22 Tháng 9-1940",
+        "Ngày 26 Tháng 9-1940",
+        "Ngày 20 Tháng 9-1940",
+        "Ngày 25 Tháng 9-1940"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 115,
+      "q": "Hoạt động chủ yếu của Hội Việt Nam Cách Mạng \nThanh Niên thời kỳ ở Quảng Châu (Trung Quốc) là",
+      "options": [
+        "Xuất bản báo Thanh niên làm cơ quan tuyên truyền \ncủa Hội.",
+        "Thực hiện chủ trương \"vô sản hóa\".",
+        "Mở lớp huấn luyện chính trị, đào tạo cán bộ cách \nmạng.",
+        "Thành lập cơ sở trong nước."
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 116,
+      "q": "Chọn các đáp án đúng. Đại hội lần thứ II Đảng Cộng \nsản Đông Dương (1951) đã quyết định:",
+      "options": [
+        "Giữ nguyên Đảng Cộng sản Đông Dương",
+        "Đổi tên thành Đảng Lao động Việt Nam",
+        "Thành lập chính đảng cách mạng riêng ở 2 nước Lào \nvà Campuchia",
+        "Chỉ thành lập chính đảng cách mạng ở Việt Nam"
+      ],
+      "a": "BC",
+      "note": "",
+      "multi": true,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 117,
+      "q": "Nhiệm vụ cách mạng nào được xác định bởi Cương \nlĩnh chính trị?",
+      "options": [
+        "Đánh đổ phong kiến, đánh đổ đế quốc, 2 nhiệm vụ \ncó quan hệ mật thiết khăng khít với nhau",
+        "Đánh đổ đế quốc Pháp và tư sản phản cách mạng",
+        "Đánh đổ đế quốc Pháp, phong kiến, tư sản phản \ncách mạng làm cho nước nhà độc lập",
+        "Đánh đuổi đế quốc Pháp và phong kiến"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 118,
+      "q": "Chính sách đối ngoại \"làm cho nước mình ít kẻ thù hơn \nhết, nhiều bạn đồng minh hơn hết\" được nêu ra trong \nvăn kiện nào của Đảng?",
+      "options": [
+        "Tuyên ngôn độc lập (2/9/1945)",
+        "Chỉ thị Kháng chiến kiến quốc (25/11/1945)",
+        "Hiến pháp năm 1946 (9/11/1946)",
+        "Lời kêu gọi toàn quốc kháng chiến (19/12/1946)"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 119,
+      "q": "Mặt trận được xây dựng thời kỳ cách mạng 1930- 1931 \ngọi tên là:",
+      "options": [
+        "Mặt trận nhân dân phản đế Đông Dương",
+        "Mặt trận dân chủ Đông Dương",
+        "Hội phản đế Đông Dương",
+        "Mặt trận dân tộc thống nhất phản đế Đông Dương"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 120,
+      "q": "Hiệp định Paris về chấm dứt chiến tranh, lập lại hòa \nbình ở Việt Nam được ký kết (1/1973) đánh dấu hoàn \nthành nhiệm vụ của cách mạng miền Nam, đó là:",
+      "options": [
+        "Thống nhất đất nước",
+        "Giải phóng miền Nam",
+        "Buộc quân đội Mỹ rút khỏi miền Nam",
+        "Chiến tranh kết thúc"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 121,
+      "q": "Đối tượng của cách mạng Việt Nam được xác định \ntrong Cương lĩnh chính trị đầu tiên của Đảng (2/1930) \nlà :",
+      "options": [
+        "Phong kiến, đế quốc",
+        "Đế quốc, tư sản phản cách mạng",
+        "Thực dân Pháp và tư sản mại bản",
+        "Đế quốc, phong kiến và tư sản phản cách mạng"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 122,
+      "q": "Hội Việt Nam Cách mạng Thanh niên hoạt động theo \nkhuynh hướng nào?",
+      "options": [
+        "Khuynh hướng phong kiến",
+        "Khuynh hướng vô sản",
+        "Khuynh hướng tư sản",
+        "Khuynh hướng tiểu tư sản"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": []
+    },
+    {
+      "id": 123,
+      "q": "Chỉ thị Kháng chiến kiến quốc của Trung ương Đảng \nngày 25/11/1945, xác định nhiệm vụ nào là trung tâm, \nbao trùm nhất?",
+      "options": [
+        "Củng cố, bảo vệ chính quyền cách mạng",
+        "Chống thực dân Pháp xâm lược",
+        "Cải thiện đời sống nhân dân",
+        "Củng cố, bảo vệ chính quyền cách mạng"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 124,
+      "q": "Cách mạng tháng Mười Nga thành công (1917) và \nQuốc tế Cộng sản ra đời (1919) có ý nghĩa:",
+      "options": [
+        "Đánh dấu sự thành công của cách mạng vô sản trên \nthế giới",
+        "Thức tỉnh phong trào đấu tranh của giai cấp công \nnhân ở các nước đế quốc",
+        "Thúc đẩy cuộc đấu tranh giai cấp ở các nước thuộc \nđịa, phụ thuộc",
+        "Thức tỉnh phong trào đấu giải phóng dân tộc ở các \nnước thuộc địa, phụ thuộc"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 125,
+      "q": "Sự kiện lịch sử nào ảnh hưởng đến phong trào cách \nmạng nước ta trong những năm 1930-1931?",
+      "options": [
+        "Cách mạng tháng Mười Nga thành công",
+        "Sự thành lập Quốc tế Cộng sản",
+        "Cuộc khủng hoảng kinh tế 1929-1933",
+        "Thắng lợi của cách mạng tháng Tám"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 126,
+      "q": "Khởi nghĩa thắng lợi ở địa phương nào đã tạo điều \nkiện quyết định cho Tổng khởi nghĩa thành công trên \ncả nước trong Cách mạng tháng Tám (1945)?",
+      "options": [
+        "Thái Nguyên",
+        "Hà Nôi",
+        "Huế",
+        "Sài Gòn"
+      ],
+      "a": "B",
+      "note": "Sự kiện nào diễn ra \nvào ngày 19 tháng 8 năm \n1945",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 127,
+      "q": "Nghị quyết Hội nghị Trung ương lần thứ 15 (1/1959) \nđánh dấu sự thay đổi chiến lược trong chỉ đạo cách \nmạng miền Nam ở điểm nào?",
+      "options": [
+        "Chuyển cách mạng miền Nam sang đấu tranh đòi \nquyền tự do dân chủ",
+        "Kết hợp đấu tranh chính trị với đấu tranh vũ trang \nquân sự, tiến tới khởi nghĩa vũ trang giành chính \nquyền về tay nhân dân",
+        "Sử dụng đấu tranh chính trị giành chính quyền về \ntay nhân dân",
+        "Tập trung lực lượng chính trị, lực lượng vũ trang \nđấu tranh giành độc lập dân tộc"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 128,
+      "q": "Chính sách phát triển kinh tế được Đảng đề ra tại Đại \nhội VI (1986) là:",
+      "options": [
+        "Tự cung tự cấp",
+        "Kế hoạch hóa tập trung",
+        "Kinh tế thị trường",
+        "Kinh tế nhiều thành phần"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 129,
+      "q": "Nội dung \"tập trung ưu tiên hoàn thiện thể chế kinh \ntế thị trường định hướng xã hội chủ nghĩa\" được Đại \nhội Đảng lần thứ XIII xác định là:",
+      "options": [
+        "Hoàn thiện hệ thống luật pháp, cơ chế, chính sách",
+        "Ưu tiên chính sách phát triển kinh tế tư nhân",
+        "Ưu tiên chính sách phát triển kinh tế nhà nước",
+        "Tạo lập môi trường đầu tư, kinh doanh thuận lợi, \nlành mạnh, công bằng cho mọi thành phần kinh tế"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 130,
+      "q": "Đâu là hạn chế của Đảng trong quá trình lãnh đạo, chỉ \nđạo các hoạt động quân sự năm 1968?",
+      "options": [
+        "Thiếu tính sáng tạo, bất ngờ, táo bạo",
+        "Có biểu hiện chủ quan trong việc đánh giá tình hình, \nđề ra yêu cầu chưa sát với thực tế",
+        "Các trận đánh không có ý nghĩa chiến lược",
+        "Không buộc địch phải xuống thang chiến tranh"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 131,
+      "q": "Trước cuộc khai thác thuộc địa lần thứ nhất của thực \ndân Pháp (1897 - 1913) ở Việt Nam có những giai cấp \nnào?",
+      "options": [
+        "Địa chủ và nông dân",
+        "Địa chủ, nông dân, tư sản, tiểu tư sản và công nhân",
+        "Địa chủ, nông dân và công nhân",
+        "Nông dân và tiểu tư sản"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 132,
+      "q": "Lê Hồng Phong được bầu làm Tổng bí thư tại Đại hội \nnào của Đảng?",
+      "options": [
+        "Đại hội đại biểu toàn quốc lần thứ II",
+        "Đại hội đại biểu toàn quốc lần thứ III",
+        "Đại hội đại biểu toàn quốc lần thứ I",
+        "Đại hội đại biểu toàn quốc lần thứ IV"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_nhanvat",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 133,
+      "q": "Đâu là lực lượng tạo nên động lực cho cách mạng Việt \nNam được nêu ra trong Chính cương của Đảng Lao \nđộng Việt Nam?\nLực lượng tạo nên động lực cho cách mạng Việt Nam \nđược nêu ra trong Chính cương của Đảng Lao động \nViệt Nam là:",
+      "options": [
+        "Công nhân, nông dân, tiểu tư sản, tư sản dân tộc, \nđịa chủ yêu nước",
+        "Công nhân, nông dân, lao động trí thức",
+        "Công nhân, trí thức, tư sản dân tộc",
+        "Địa chủ, tư sản dân tộc\ne. Công nhân, nông dân, tiểu tư sản, tư sản dân tộc, \nđại địa chủ"
+      ],
+      "a": "A",
+      "note": "chị mới fix",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 134,
+      "q": "Tổ chức Cộng sản nào ra đời đầu tiên ở Việt Nam?",
+      "options": [
+        "Hội Việt Nam cách mạng Thanh Niên",
+        "Đông Dương Cộng sản Đảng",
+        "An Nam Cộng sản đảng",
+        "Đông Dương Cộng sản liên đoàn"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": []
+    },
+    {
+      "id": 135,
+      "q": "Giai cấp công nhân Việt Nam ra đời từ :",
+      "options": [
+        "Cuộc khai thác thuộc địa lần thứ nhất của thực dân \nPháp",
+        "Cuôc khai thác thuộc địa lần thứ hai của thực dân \nPháp",
+        "Cuộc xâm lược lần thứ nhất của thực dân Pháp",
+        "Cuộc xâm lược lần thứ hai của thực dân Pháp"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 136,
+      "q": "Sự kiện nào được Nguyễn Ái Quốc đánh giá \"Nó là quả \ntrứng, mà từ đó nở ra con chim non Cộng sản\"?",
+      "options": [
+        "Cách mạng tháng Mười Nga bùng nổ và thắng lợi",
+        "Sự thành lập Đảng cộng sản Pháp",
+        "Vụ mưu sát tên toàn quyền Méc lanh (Pháp) của \nPhạm Hồng Thái",
+        "Sự thành lập Hội Việt Nam cách mạng thanh niên"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": []
+    },
+    {
+      "id": 137,
+      "q": "Đâu là luận điểm sáng tạo của Hồ Chí Minh khi vận \ndụng chủ nghĩa Mác - Lênin về việc ra đời của Đảng \nCộng sản Việt Nam?",
+      "options": [
+        "Đảng Cộng sản Việt Nam ra đời là tất yếu lịch sử, nó \nlà sản phẩm kết hợp giữa chủ nghĩa Mác với phong \ntrào công nhân Việt Nam.",
+        "Đảng Cộng sản Việt Nam ra đời là tất yếu lịch sử, nó \nlà sản phẩm kết hợp giữa chủ nghĩa Mác với phong \ntrào yêu nước Việt Nam.",
+        "Đảng Cộng sản Việt Nam là sản phẩm của sự kết \nhợp chủ nghĩa Mác-Lênin với phong trào công nhân \nvà phong trào yêu nước của nhân dân Việt Nam.",
+        "Đảng Cộng sản Việt Nam là sản phẩm của sự kết \nhợp phong trào công nhân và phong trào yêu nước \nViệt Nam."
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": []
+    },
+    {
+      "id": 138,
+      "q": "Tổng bí thư đầu tiên của nước ta là :",
+      "options": [
+        "Trần Phú",
+        "Nguyễn Văn Cừ",
+        "Trường Chinh",
+        "Lê Hồng Phong"
+      ],
+      "a": "A",
+      "note": "Tổng Bí thư của \nĐảng được bầu tại Hội \nnghị Trung ương tháng \n10/1930 là:",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 139,
+      "q": "Hội nghị Ban Chấp hành Trung ương Đảng Cộng sản \nViệt Nam (10-1930) đã đổi tên đảng thành :",
+      "options": [
+        "Đông Dương Cộng sản Đảng",
+        "Đảng Lao động Việt Nam",
+        "Đảng Cộng sản Đông Dương",
+        "Đảng An Nam"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 140,
+      "q": "Kết quả lớn nhất mà quân và dân ta đạt được trong \nchiến dịch Việt Bắc - Thu Đông 1947 là",
+      "options": [
+        "Đánh bại âm mưu, kế hoạch đánh nhanh thắng \nnhanh của thực dân Pháp",
+        "Tiêu diệt bộ phận lớn sinh lực địch",
+        "Bộ đội chủ lực ta trưởng thành, lớn mạnh",
+        "Đẩy quân Pháp vào thế bị động trên chiến trường"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 141,
+      "q": "Một trong những tổ chức Cộng sản ra đời ở Việt Nam \nnăm 1929 là:",
+      "options": [
+        "Hội Việt Nam cách mạng Thanh Niên",
+        "Việt Nam Quốc dân đảng",
+        "Tân Việt Cách mạng đảng",
+        "Đông Dương Cộng sản đảng"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": []
+    },
+    {
+      "id": 142,
+      "q": "Trước sự xâm lược của thực dân Pháp, phong trào yêu \nnước do Việt Nam quốc dân Đảng khởi xướng theo \nkhuynh hướng nào sau đây:",
+      "options": [
+        "Khuynh hướng phong kiến",
+        "Khuynh hướng vô sản",
+        "Khuynh hướng dân chủ tư sản",
+        "Khuynh hướng tiểu tư sản"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 143,
+      "q": "Thành phần nào dưới đây trở thành giai cấp, tầng lớp \nbị trị dưới thời Pháp thuộc?",
+      "options": [
+        "Công nhân và nông dân",
+        "Công nhân, nông dân, tiểu tư sản",
+        "Công nhân, nông dân, tiểu tư sản, tư sản dân tộc",
+        "Công nhân, nông dân, tiểu tư sản, tư sản dân tộc, \nđịa chủ nhỏ và vừa"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 144,
+      "q": "Trong cuộc khai thác thuộc địa lần thứ nhất của thực \ndân Pháp (1897 - 1913) ở Việt Nam đã xuất hiện những \ngiai cấp, tầng lớp mới nào?",
+      "options": [
+        "Địa chủ và nông dân",
+        "Tư sản, tiểu tư sản và công nhân",
+        "Địa chủ, nông dân và công nhân",
+        "Nông dân và tiểu tư sản"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 145,
+      "q": "Ai là Tư lệnh Chiến dịch Hồ Chí Minh giải phóng Sài \nGòn - Gia Định tháng 4/1975?",
+      "options": [
+        "Lê Trọng Tấn",
+        "Văn Tiến Dũng",
+        "Trần Văn Trà",
+        "Hoàng Văn Thái"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 146,
+      "q": "Hội nghị Trung ương 6 (8/1979) được coi là bước đột \nphá đầu tiên của Đảng trong lĩnh vực:",
+      "options": [
+        "Đổi mới kinh tế",
+        "Đổi mới hệ thống chính trị",
+        "Đổi mới đường lối đối ngoại",
+        "Đổi mới đường lối văn hóa văn nghệ"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 147,
+      "q": "Trong phong trào yêu nước chống Thực dân Pháp, giai \ncấp nào được coi là động lực của cách mạng?",
+      "options": [
+        "Nông dân",
+        "Công nhân",
+        "Tư sản",
+        "Tiểu tư sản"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 148,
+      "q": "Đảng Cộng sản Việt Nam ra đời là :",
+      "options": [
+        "Tất yếu lịch sử, nó là sản phẩm kết hợp giữa chủ \nnghĩa Mác với phong trào công nhân Việt Nam.",
+        "Sản phẩm kết hợp giữa chủ nghĩa Mác với phong \ntrào yêu nước Việt Nam.",
+        "Sản phẩm của sự kết hợp chủ nghĩa Mác-Lênin với \nphong trào công nhân và phong trào yêu nước",
+        "Sự kết hợp phong trào công nhân và phong trào yêu \nnước Việt Nam."
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 149,
+      "q": "Vào tháng 10/1923, Nguyễn Ái Quốc đến Liên Xô tham \ndự đại hội của :",
+      "options": [
+        "Quốc tế Vô sản",
+        "Quốc tế Nông dân",
+        "Liên hiệp các nước thuộc địa"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": [
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 150,
+      "q": "Nguyễn Ái Quốc đã thành lập Hội Việt Nam cách mạng \nthanh niên ở đâu?",
+      "options": [
+        "Hương Cảng (Trung Quốc)",
+        "Quảng Châu (Trung Quốc)",
+        "Thượng Hải (Trung Quốc)",
+        "Cao Bằng (Việt Nam)"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": []
+    },
+    {
+      "id": 151,
+      "q": "Sự kiện nào đánh dấu Nguyễn Ái Quốc bước đầu tìm \nthấy con đường cứu nước đúng đắn cho dân tộc?",
+      "options": [
+        "Nguyễn Ái Quốc đưa yêu sách đến Hội nghị Véc-xai \n(18/6/1919).",
+        "Nguyễn Ái Quốc tham gia sáng lập Đảng Cộng sản \nPháp (25/12/1925).",
+        "Nguyễn Ái Quốc đọc bản Sơ thảo lần thứ nhất những \nLuận cương về vấn đề dân tộc và vấn đề thuộc địa của \nLênin (7/1920).",
+        "Nguyễn Ái Quốc thành lập tổ chức Hội Việt Nam \nCách mạng Thanh niên (6/1925)."
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_nam",
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 152,
+      "q": "Sự kiện tháng 6-1924 gắn với hoạt động của Nguyễn \nÁi Quốc ở Liên Xô, đó là:",
+      "options": [
+        "Người dự Đại hội Quốc tế Nông dân.",
+        "Người dự Đại hội lần thứ V của Quốc tế Cộng sản.",
+        "Người dự Đại hội Quốc tế Phụ nữ.",
+        "Người dự Đại hội lần thứ VII của Quốc tế Cộng sản."
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 153,
+      "q": "Hoạt động của Phan Bội Châu, Phan Châu Trinh và \nmột số người sống ở nước ngoài có tác dụng quan \ntrọng nhất là:",
+      "options": [
+        "Mở mang dân trí.",
+        "Tìm được con đường cứu nước cho dân tộc.",
+        "Góp phần cải thiện đời sống của nhân dân.",
+        "Cổ vũ, thức tỉnh lòng yêu nước của nhân dân ta."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 154,
+      "q": "Lực lượng chính của cách mạng được xác định trong \nLuận cương chính trị (10-1930) là :",
+      "options": [
+        "Công nhân và nông dân",
+        "Toàn thể nhân dân",
+        "Nông dân và tiểu tư sản",
+        "Nông dân và tư sản dân tộc"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 155,
+      "q": "Hoạt động chủ yếu nhất của Hội Việt Nam Cách mạng \nThanh niên là :",
+      "options": [
+        "Xuất bản báo Thanh niên làm cơ quan tuyên truyền \ncủa Hội",
+        "Thực hiện chủ trương \"vô sản hóa\"",
+        "Mở lớp huấn luyện chính trị, đào tạo cán bộ cách \nmạng.",
+        "Thành lập cơ sở trong nước."
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 156,
+      "q": "Kẻ thù chủ yếu của xã hội Việt Nam trong thời kì \n1930-1931 là :",
+      "options": [
+        "Thực dân Pháp",
+        "Địa chủ phong kiến",
+        "Đế quốc và phong kiến",
+        "Địa chủ phong kiến, tư sản"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 157,
+      "q": "Nhiệm vụ của cách mạng Việt Nam được xác định \ntrong Luận cương chính trị tháng 10/1930 do Trần Phú \nsoạn thảo là :",
+      "options": [
+        "đánh đổ phong kiến và đế quốc",
+        "giải phóng dân tộc.",
+        "đánh đổ đế quốc và tay sai",
+        "đánh đổ đế quốc Pháp, phong kiến và tư sản phản \ncách mạng, làm cho nước Việt Nam độc lập tự do."
+      ],
+      "a": "A",
+      "note": "Người soạn thảo Luận \ncương chính trị của Đảng \nCộng sản Đông Dương \n(10/1930) là:",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 158,
+      "q": "Mặt trận dân tộc thống nhất phản đế Đông Dương \nđược thành lập vài thời gian nào?",
+      "options": [
+        "10-1930",
+        "5-1935",
+        "11-1939",
+        "5-1941"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 159,
+      "q": "Điều kiện nào không tạo ra khả năng đấu tranh công \nkhai, hợp pháp cho phong trào vận động dân chủ \nĐông Dương (1936- 1939)?",
+      "options": [
+        "Nguy cơ chiến tranh thế giới, chủ trương của Quốc \ntế cộng sản và Mặt trận bình dân Pháp lên cầm quyền.",
+        "Chủ trương chuyển hướng chiến lược cách mạng \ncủa Quốc tế cộng sản và tình hình thế giới có nhiều \nthay đổi thuận lợi cho cách mạng.",
+        "Mặt trận nhân dân Pháp lên cầm quyền và những \nthay đổi trong xã hội Việt Nam.",
+        "Mặt trận nhân dân Pháp tan vỡ, chính quyền thực \ndân Pháp ở Việt Nam thi hành chính sách phát xít."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 160,
+      "q": "Ngày 18/3/1975, Bộ Chính trị quyết định:",
+      "options": [
+        "Giải phóng miền Nam trong năm 1975",
+        "Giải phóng miền Nam trong hai năm 1975 - 1976",
+        "Giải phóng miền Nam trong tháng 4 năm 1975",
+        "Giải phóng miền Nam trước mùa mưa năm 1975"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 161,
+      "q": "Nội dung nào sau đây nằm trong Cương lĩnh cách \nmạng đầu tiên của Đảng?",
+      "options": [
+        "Đánh đổ đế quốc chủ nghĩa Pháp và bọn phong \nkiến, làm cho nước Nam hoàn toàn độc lập",
+        "Tư sản dân quyền cách mạng là thời kỳ dự bị để làm \nxã hội cách mạng",
+        "Chỉ có giải phóng giai cấp vô sản mới giải phóng \nđược dân tộc",
+        "Đảng có vững cách mạng mới thành công"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 162,
+      "q": "Qua thực tế lãnh đạo phong trào cách mạng \n1930-1931, Đảng ta đã trưởng thành nhanh chóng. Do \nđó, tháng 4/1931 Đảng ta được Quốc tế Cộng sản công \nnhận:",
+      "options": [
+        "Là một chi bộ của Quốc tế Cộng sản",
+        "Là một bộ phận không thể tách rời của Quốc tế \nCộng sản",
+        "Là một chính đảng của cách mạng Đông Dương",
+        "Là một Đảng của giai cấp công nhân Việt Nam"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 163,
+      "q": "Trong phong trào cách mạng nước ta, giai cấp nào sẽ \nlà lực lượng lãnh đạo cách mạng?",
+      "options": [
+        "Nông dân",
+        "Công nhân",
+        "Tư sản",
+        "Tiểu tư sản"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 164,
+      "q": "Hạn chế lớn nhất của Luận cương chính trị tháng 10 \nnăm 1930 là gì?",
+      "options": [
+        "Đánh giá không đúng khả năng cách mạng của giai \ncấp nông dân",
+        "Không đưa ngọn cờ giải phóng dân tộc lên hàng \nđầu, nặng về đấu tranh giai cấp",
+        "Xác định động lực cách mạng là giai cấp công nhân, \nnông dân, tiểu tư sản trí thức",
+        "Cách mạng Đông Dương lúc đầu là cách mạng tư \nsản dân quyền bỏ qua thời kì tư bản chủ nghĩa, tiến \nthẳng lên con đường xã hội chủ nghĩa"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 165,
+      "q": "Hội nghị trung ương VIII tháng 5/1941 đề ra chủ \ntrương gì?\nHội nghị trung ương VIII tháng 5/1941 chủ trương gì?",
+      "options": [
+        "Thành lập nước Cộng hòa xã hội chủ nghĩa Việt \nNam",
+        "Thành lập nước Việt Nam cộng hòa dân chủ",
+        "Thành lập nước dân chủ cộng hòa Việt Nam",
+        "Thành lập nước Việt Nam dân chủ cộng hòa"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 166,
+      "q": "Sự kiện lịch sử nào dưới đây diễn ra trong phong trào \ndân tộc dân chủ ở Việt Nam từ 1925 đến 1930?",
+      "options": [
+        "Bãi công của công nhân Ba Son",
+        "Bãi công của công nhân Vinh-Bến Thủy",
+        "Phong trào Đông Dương đại hội",
+        "Phong trào phá kho thóc của Nhật"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 167,
+      "q": "Nhân dân Việt Nam thực hiện nhiệm vụ chống chế \nđộ phản động thuộc địa, chống phát xít, chống chiến \ntranh trong phong trào nào sau đây?",
+      "options": [
+        "Phong trào cách mạng 1930-1931.",
+        "Phong trào dân chủ 1936-1939.",
+        "Phong trào dân tộc dân chù 1919-1925.",
+        "Phong trào dân tộc dân chù 1925-1930."
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 168,
+      "q": "Hội nghị lần thứ 8 Ban chấp hành Trung ương Đảng \nCộng sản Đông Dương (5/1941) đã nhấn mạnh nhiệm \nvụ trọng tâm của toàn Đảng, toàn dân là :",
+      "options": [
+        "Xây dựng lực lượng chính trị",
+        "Xây dựng lực lượng vũ trang",
+        "Chuẩn bị khởi nghĩa",
+        "Khởi nghĩa từng phần"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 169,
+      "q": "Đảng Cộng sản Đông Dương quyết định chuyển \nhướng đấu tranh, đặt nhiệm vụ giải phóng dân tộc lên \nhàng đầu trong thời kì 1939-1945 là do :",
+      "options": [
+        "Chiến tranh thế giới thứ hai bùng nổ",
+        "Pháp ra sức vơ vét, bóc lột nhân dân",
+        "Phát xít Nhật vào miền Bắc Việt Nam",
+        "Mâu thuẫn với Pháp-Nhật trở nên gay gắt"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 170,
+      "q": "Hội nghị Ban chấp hành Trung ương Đảng Cộng sản \nĐông Dương (7-1936) đã chủ trương thành lập :",
+      "options": [
+        "Mặt trận thống nhất dân chủ Đông Dương",
+        "Mặt trận Việt Nam độc lập Đồng minh",
+        "Mặt trận thống nhất dân tộc phản đế Đông Dương",
+        "Mặt trận thống nhất nhân dân phản đế Đông \nDương"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 171,
+      "q": "Nhiệm vụ cách mạng được cương lĩnh xác định là :",
+      "options": [
+        "Đánh đổ phong kiến, đánh đổ đế quốc, 2 nhiệm vụ co\n quan hệ mật thiết khăng khít với nhau.",
+        "Đánh đổ đế quốc Pháp và tư sản phản cách mạng",
+        "Đánh đổ đế quốc Pháp, phong kiến, tư sản phản \ncách mạng làm cho nước nhà độc lập.",
+        "Đánh đuổi đế quốc Pháp"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 172,
+      "q": "Lực lượng chủ yếu tham gia phong trào cách mạng \n1930-1931 ở Việt Nam là :",
+      "options": [
+        "Tiểu tư sản, công nhân",
+        "Nông dân, tiểu tư sản",
+        "Công nhân và nông dân",
+        "Nông dân, tư sản dân tộc."
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 173,
+      "q": "Căn cứ địa cách mạng đầu tiên của Việt Nam trong giai \nđoạn 1939-1945 là :",
+      "options": [
+        "Cao Bằng",
+        "Bắc Sơn - Võ Nhai",
+        "Thái Nguyên",
+        "Tuyên Quang"
+      ],
+      "a": "B",
+      "note": "chị mới fix",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 174,
+      "q": "Lực lượng cách mạng được nêu ra trong Luận cương \nchính trị (tháng 10-1930) của Đảng Cộng sản Đông \nDương là :",
+      "options": [
+        "Công nhân, nông dân và tư sản",
+        "Nông dân và tiểu tư sản",
+        "Công nhân, nông dân",
+        "Công nhân, nông dân và trí thức"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 175,
+      "q": "Trong phong trào dân chủ 1936-1939, Nhân dân Việt \nNam thực hiện một trong những nhiệm vụ trực tiếp, \ntrước mắt là đấu tranh chống :",
+      "options": [
+        "Chế độ phản động thuộc địa",
+        "Đế quốc và chế độ phong kiến",
+        "Tư sản và địa chủ",
+        "Đế quốc và tư sản"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 176,
+      "q": "Đường lối kháng chiến chống thực dân Pháp thể hiện \ntập trung trong ba văn kiện quan trọng, đó là:",
+      "options": [
+        "Toàn dân kháng chiến, Lời kêu gọi toàn quốc kháng \nchiến, Kháng chiến nhất định thắng lợi",
+        "Nhật - Pháp bắn nhau và hành động của chúng ta, \nKháng chiến kiến quốc, Kháng chiến nhất định thắng \nlợi",
+        "Toàn dân kháng chiến, Nhật - Pháp bắn nhau và \nhành động của chúng ta, Kháng chiến kiến quốc",
+        "Lời kêu gọi toàn quốc kháng chiến, Nhật - Pháp bắn \nnhau và hành động của chúng ta, Kháng chiến kiến \nquốc"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 177,
+      "q": "Một trong những nội dung của chương trình hành \nđộng của Đảng Cộng sản Đông Dương là :",
+      "options": [
+        "Cải cách ruộng đất",
+        "Cải cách giáo dục",
+        "Đòi tự do, bình đẳng",
+        "Đòi quyền tự do: Phát ngôn, tự do đi lại v.v."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 178,
+      "q": "Nội dung Cương lĩnh chính trị đầu tiên (2/1930) của \nĐảng thể hiện trong:",
+      "options": [
+        "2 văn kiện",
+        "3 văn kiện",
+        "4 văn kiện",
+        "5 văn kiện"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 179,
+      "q": "Hội nghị lần thứ 8 Ban chấp hành Trung ương Đảng \nCộng sản Đông Dương (5/1941) quyết định hình thức \nchính quyền sau cách mạng ở Việt Nam là:",
+      "options": [
+        "Chính phủ cách mạng lâm thời",
+        "Chính phủ Việt Nam Dân chủ Cộng hòa",
+        "Chính phủ Xô viết công-nông-binh",
+        "Chính phủ dân chủ Cộng hòa Đông Dương"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 180,
+      "q": "Sự kiện nào dưới đây đánh dấu khuynh hướng cách \nmạng vô sản giành quyền lãnh đạo đối với cách mạng \nViệt Nam ?",
+      "options": [
+        "Hội Việt Nam Cách mạng thanh niên ra đời",
+        "Tân Việt Cách mạng đảng bị phân hoá.",
+        "Sự ra đời của ba tổ chức cộng sản",
+        "Đảng Cộng sản Việt Nam được thành lập."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": []
+    },
+    {
+      "id": 181,
+      "q": "Vì sao trong những năm 1939-1941 Đảng Cộng sản \nĐông Dương lại phải chuyển hướng chiến lược đấu \ntranh cách mạng?",
+      "options": [
+        "Do sự biến đổi mau lẹ của tình hình thế giới",
+        "Do chính sách thống trị của Pháp - Nhật",
+        "Do yêu cầu của sự nghiệp giải phóng dân tộc đặt ra \ncấp thiết.",
+        "Do yêu cầu giải quyết vấn đề dân tộc trong khuôn \nkhổ từng nước Đông Dương"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 182,
+      "q": "Vì sao trong thời kỳ đổi mới đất nước nhưng vẫn phải \ntiếp tục xây dựng giai cấp công nhân Việt Nam?",
+      "options": [
+        "Giai cấp công nhân là động lực phát triển kinh tế",
+        "Giai cấp công nhân đại diện cho phương thức sản \nxuất hiện đại",
+        "Giai cấp lãnh đạo cách mạng thông qua đội tiên \nphong là Đảng Cộng sản Việt Nam, là giai cấp đại diện \ncho phương thức sản xuất tiên bộ",
+        "Giai cấp công nhân là giai cấp lãnh đạo cách mạng \nthông qua đội tiên phong là Đảng Cộng sản Việt Nam, \nlà giai cấp đại diện cho phương thức sản xuất tiên tiến, \ntiên phong đi đầu trong sự nghiệp công nghiệp hóa - \nhiện đại hóa đất nước"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 183,
+      "q": "Sự khác biệt cơ bản giữa phong trào đấu tranh của \nnhân dân Việt Nam từ năm 1939 đến trước ngày \n9-3-1945 với các phong trào cách mạng trước đó là gì?",
+      "options": [
+        "Chống lại nền thống trị của đế quốc phát xít Pháp - \nNhật",
+        "Nhiệm vụ giải phóng dân tộc đặt ra cấp thiết",
+        "Mâu thuẫn dân tộc phát triển gay gắt",
+        "Có sự liên kết với quốc tế"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 184,
+      "q": "Tổng kết thành tựu 35 năm lãnh đạo công cuộc Đổi \nmới, Đại hội XIII của Đảng (1/2021) khẳng định:",
+      "options": [
+        "Đất nước ta chưa bao giờ giàu mạnh như ngày nay",
+        "Đất nước ta đã cơ bản hoàn thành sự nghiệp công \nnghiệp hóa, hiện đại hóa",
+        "Đất nước ta chưa bao giờ có được cơ đồ, tiềm lực, \nvị thế và uy tín quốc tế như ngày nay",
+        "Đất nước ta đã trở thành một nước công nghiệp \nhiện đại, theo định hướng xã hội chủ nghĩa"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 185,
+      "q": "Công lao to lớn đầu tiên của Nguyễn Ái Quốc đối với \ncách mạng Việt Nam là gì?",
+      "options": [
+        "Tìm được con đường cứu nước đúng đắn",
+        "Thành lập Hội Việt Nam Cách mạng thanh niên",
+        "Chủ trì Hội nghị thành Đảng cộng sản Việt Nam",
+        "Thành lập Đông Dương cộng sản đảng"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": []
+    },
+    {
+      "id": 186,
+      "q": "Mối quan hệ giữa hai khẩu hiệu: \"Độc lập dân tộc và \n\"Ruộng đất cho dân cày được giải quyết như thế nào \ntrong thời kì 1939 - 1945?",
+      "options": [
+        "Tạm gác lại khẩu hiệu cách mạng ruộng đất.",
+        "Tạm gác lại khẩu hiệu cách mạng giải phóng dân \ntộc.",
+        "Tiếp tục thực hiện hai khẩu hiệu trên một cách đồng \nbộ.",
+        "Tạm gác lại việc thực hiện hai khẩu hiệu trên."
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 187,
+      "q": "Nhận xét nào sau đây là phù hợp về Hội Việt Nam cách \nmạng Thanh niên (1925-1929)?",
+      "options": [
+        "Một trong những tổ chức cộng sản đầu tiên ở Việt \nNam",
+        "Là đội tiên phong của giai cấp công nhân Việt Nam",
+        "Là tổ chức tiền thân của Đảng Cộng sản Việt Nam",
+        "Đại diện tiêu biểu của giai cấp tiểu tư sản Việt Nam"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": []
+    },
+    {
+      "id": 188,
+      "q": "Hiệp định Pari về chấm dứt chiến tranh, lập lại hòa \nbình ở Việt Nam được ký kết (1973) đã cam kết:",
+      "options": [
+        "Tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn \nlãnh thổ của nước Việt Nam",
+        "Tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn \nlãnh thổ của nước Việt Nam Dân chủ Cộng hòa",
+        "Tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn \nlãnh thổ của nước Việt Nam Cộng hòa",
+        "Tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn \nlãnh thổ của Cộng hòa Miền Nam Việt Nam"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 189,
+      "q": "Nhiệm vụ của cách mạng Việt Nam được xác định \ntrong Cương lĩnh chính trị đầu tiên của Đảng là gì?",
+      "options": [
+        "Đánh đổ đế quốc Pháp, làm cho nước Việt Nam \nhoàn toàn độc lập",
+        "Đánh đổ phong kiến, tay sai, phát triển theo con \nđường tư bản chủ nghĩa",
+        "Đánh đổ đế quốc Pháp, phong kiến và tư sản phản \ncách mạng làm cho Việt Nam được độc lập tự do",
+        "Đánh đổ đế quốc Pháp, phong kiến làm cho Việt \nNam hoàn toàn độc lập"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 190,
+      "q": "Chánh cương vắn tắt của Đảng, Sách lược vắn tắt của \nĐảng do Nguyễn Ái Quốc soạn thảo được thông qua \ntại Hội nghị thành lập Đảng được xem là:",
+      "options": [
+        "Văn kiện của Đảng",
+        "Tài liệu chính trị đặc biệt của Đảng",
+        "Nghị quyết của Đảng Cộng sản Việt Nam",
+        "Cương lĩnh chính trị đầu tiên của Đảng Cộng sản \nViệt Nam"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 191,
+      "q": "So với trước chiến tranh thế giới thứ nhất, phong trào \nyêu nước Việt Nam trong những năm 1919-1930 có \nnhững điểm mới nào sau đây?",
+      "options": [
+        "Có hai khuynh hướng cùng tồn tại và phát triển",
+        "Diễn ra dưới tác động của cuộc khai thác thuộc địa \ncủa thực dân Pháp",
+        "Giai cấp công nhân nắm lấy vai trò lãnh đạo cách \nmạng giải phóng dân tộc",
+        "Cách mạng Việt Nam nhận được sự ủng hộ, giúp đỡ \ncủa Liên Xô, Trung Quốc"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 192,
+      "q": "Điểm khác biệt và độc đáo nhất của Nguyễn Ái Quốc \ntrong hành trình tìm đường cứu nước so các tiền bối \nkhác ?",
+      "options": [
+        "Hướng đi và cách tiếp cận chân lý.",
+        "Từ yêu nước đến chủ nghĩa Mác -Lê nin.",
+        "Gắn độc lập dân tộc với vấn đề ruộng đất",
+        "Dự đoán chính xác thời cơ cách mạng."
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": []
+    },
+    {
+      "id": 193,
+      "q": "So với phong trào 1930 - 1931, điểm khác biệt về \nphương pháp đấu tranh của thời kì 1936 - 1939 là kết \nhợp đấu tranh :",
+      "options": [
+        "Chính trị và vũ trang",
+        "Nghị trường và đấu tranh báo chí.",
+        "Công khai và bí mật công khai và bí mật",
+        "Ngoại giao với vận động quần chúng"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 194,
+      "q": "Khi nói về triển vọng của cuộc kháng chiến chống \nPháp, Đảng xác định trong Đường lối kháng chiến là :",
+      "options": [
+        "Mặc dù lâu dài, gian khổ, khó khăn song nhất định \nthắng lợi",
+        "Mặc dù phải hy sinh to lớn đến đâu nhưng nhất định \nsẽ thành công",
+        "Mặc dù bị bao vây và chưa được nước nào trên thế \ngiới công nhận, song nhất định thắng lợi",
+        "Nhờ có sự hy sinh to lớn của dân tộc nên cuộc kháng \nchiến sẽ thành công"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 195,
+      "q": "Nguyên nhân căn bản nhất dẫn đến sự thắng lợi của \ncuộc kháng chiến chống Pháp là :",
+      "options": [
+        "Có sự lãnh đạo của Đảng với đường lối kháng chiến \nđúng.",
+        "Có lực lượng vũ trang gồm 3 thứ quân dũng cảm, \nmưu lược.",
+        "Có chính quyền dân chủ nhân dân tổ chức toàn dân \nkháng chiến và xây dựng chế độ mới.",
+        "Có liên minh đoàn kết chiến đấu Việt Nam, Lào, \nCampuchia"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 196,
+      "q": "Đại hội Đảng lần thứ II xác định nhiệm vụ của cách \nmạng Việt Nam là :",
+      "options": [
+        "Đánh đuổi bọn đế quốc xâm lược, xóa bỏ những di \ntích phong kiến và nửa phong kiến, phát triển chế độ \ndân chủ nhân dân",
+        "Đánh đuổi bọn đế quốc xâm lược, giành độc lập \nthống nhất thật sự cho dân tộc, gây cơ sở cho chủ \nnghĩa xã hội",
+        "Đánh đuổi bọn đế quốc xâm lược, giành độc lập \nthống nhất thật sự cho dân tộc, làm cho người cày có \nruộng, phát triển chế độ dân chủ nhân dân",
+        "Làm cho người cày có ruộng, gây cơ sở cho chủ \nnghĩa xã hội, phát triển chế độ dân chủ nhân dân"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 197,
+      "q": "Tại Đại hội lần thứ II Đảng cộng sản Đông Dương \nquyết định tách ra thành ba Đảng cách mạng ở ba \nnước Đông Dương. Ở Việt Nam, Đảng ra hoạt động \ncông khai lấy tên là :",
+      "options": [
+        "Đảng Lao động Việt Nam",
+        "Đảng Dân chủ Việt Nam",
+        "Đảng Cách mạng Việt Nam",
+        "Đảng Xã hội Việt Nam"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 198,
+      "q": "Sự kiện nào đánh dấu Việt Nam thống nhất về mặt \nNhà nước sau năm 1975?",
+      "options": [
+        "Chiến dịch Hồ Chí Minh toàn thắng (4/1975)",
+        "Hội nghị Hiệp thương chính trị của hai đoàn đại biểu \nNam - Bắc (11/1975)",
+        "Tổng tuyển cử bầu Quốc hội khóa VI (4/1976)",
+        "Đại hội Đảng toàn quốc lần thứ IV (12/1976)"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_nam",
+        "tag_nhanvat",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 199,
+      "q": "Đường lối toàn quốc kháng chiến của Đảng vạch ra \nmục tiêu của kháng chiến là:",
+      "options": [
+        "Đánh phản động thực dân Pháp xâm lược, giành \nthống nhất và độc lập",
+        "Đánh phản động phát xít Nhật xâm lược, giành \nthống nhất và độc lập",
+        "Đánh phản động đế quốc Mỹ xâm lược, giành thống \nnhất và độc lập",
+        "Đánh phản động Trung Hoa Dân Quốc xâm lược, \ngiành thống nhất và độc lập"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 200,
+      "q": "Để thực hiện chính sách \"Tố cộng, diệt cộng\" Ngô Định \nDiệm đưa ra :",
+      "options": [
+        "Luật 10/59",
+        "Luật nhân quyền",
+        "Luật bình định",
+        "Các phương án trả lời đều đúng"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 201,
+      "q": "Hội nghị Trung ương Đảng lần thứ 11 tháng 03 năm \n1965 và Hội nghị Trung ương Đảng lần thứ 12 tháng \n12 năm 1965 đề ra khẩu hiệu chung của nhân dân cả \nnước là :",
+      "options": [
+        "Tất cả để đánh thắng giặc Mỹ xâm lược",
+        "Tất cả để thống nhất nước nhà",
+        "Tất cả vì miền Nam ruột thịt",
+        "Các phương án trả lời đều đúng"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 202,
+      "q": "Đâu là nhiệm vụ của cách mạng miền Bắc ngay sau khi \nhiệp định Giơ-ne-vơ năm 1954 về Đông Dương được \nký kết?\nNhiệm vụ của cách mạng miền bắc ngay sau khi Hiệp \nđịnh Giơ-ne-vơ năm 1954 về Đông Dương được kí kết \nlà :",
+      "options": [
+        "Đấu tranh chống đế quốc Mĩ và chính quyền Ngô \nĐình Diệm",
+        "Xây dựng cơ sở vật chất kĩ thuật cho chủ nghĩa xã \nhội",
+        "Hoàn thành cuộc cách mạng dân tộc dân chủ nhân \ndân",
+        "Hàn gắn vết thương chiến tranh, khôi phục kinh tế"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 203,
+      "q": "Tại hội nghị nào, Ban Chấp hành Trung ương Đảng \nquyết định để nhân dân miền Nam sử dụng bạo lực \ncách mạng đánh đổ chính quyền Mĩ- Diệm?",
+      "options": [
+        "Hội nghị Trung ương lần thứ 15 (1-1959)",
+        "Hội nghị Trung ương lần thứ 11 (3-1965)",
+        "Hội nghị Trung ương lần thứ 12 (12-1965)",
+        "Hội nghị Trung ương lần thứ 21 (7/1973)"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 204,
+      "q": "Đại hội II của Đảng Lao động Việt Nam vạch ra tính \nchất của xã hội Việt Nam là:",
+      "options": [
+        "Dân chủ nhân dân, một phần thuộc địa và nửa \nphong kiến",
+        "Dân chủ nhân dân, thuộc địa và nửa phong kiến",
+        "Dân chủ nhân dân và nửa phong kiến",
+        "Một phần thuộc địa và nửa phong kiến"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 205,
+      "q": "Thắng lợi của cuộc kháng chiến chống Mỹ cứu nước \nđã cho ta nhiều bài học quý, bài học nào dưới đây là \nchưa phù hợp với thời kỳ chống Mỹ?",
+      "options": [
+        "Giương cao ngọn cờ độc lập dân tộc và dân chủ.",
+        "Kiên định tư tưởng chiến lược tiến công quyết đánh \nvà quyết thắng đế quốc Mỹ xâm lược.",
+        "Thực hiện chiến tranh nhân dân linh hoạt sáng tạo.",
+        "Coi trọng công tác tổ chức, công tác xây dựng Đảng."
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 206,
+      "q": "Đại hội đại biểu toàn quốc lần thứ hai của Đảng họp \ntại đâu?",
+      "options": [
+        "Cao Bằng",
+        "Bắc Kạn",
+        "Tuyên Quang",
+        "Thái Nguyên"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 207,
+      "q": "Sự kiện nào mở đầu cho giai đoạn \"dàn hòa với Pháp\" \nđể đẩy nhanh quân Tường về nước thời kỳ 1945 - \n1946?",
+      "options": [
+        "Pháp ngừng bắn ở Nam Bộ (10/1945)",
+        "Ký Hiệp định Sơ bộ Việt - Pháp (3/1946)",
+        "Chủ tịch Hồ Chí Minh thăm Pháp (5/1946)",
+        "Đàm phán chính thức Việt - Pháp ở Phôngtennơblô \n(7/1946)"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_nam",
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 208,
+      "q": "Nhiệm vụ chống giặc dốt sau Cách mạng tháng Tám \n(1945) thể hiện qua phong trào nào sau đây?",
+      "options": [
+        "Toàn dân đưa trẻ đến trường",
+        "Toàn dân tham gia xóa nạn mù chữ",
+        "Bình dân học vụ",
+        "Truyền bá quốc ngữ"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 209,
+      "q": "Phong trào mà Đảng ta đã vận động nhân dân chống \nnạn mù chữ diễn ra sau cách mạng tháng Tám năm \n1945 là :",
+      "options": [
+        "Xây dựng nếp sống văn hoá mới",
+        "Bình dân học vụ",
+        "Bài trừ các tệ nạn xã hội",
+        "Xoá bỏ văn hoá thực dân nô dịch phản động"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 210,
+      "q": "Để tránh sự chú ý và đàn áp của Pháp, Đảng ta đã \ntuyên bố tự giải tán vào ngày tháng năm nào và đổi \ntên là gì?",
+      "options": [
+        "2-9-1945- Đảng Cộng sản Đông Dương",
+        "25-11-1945- Hội nghiên cứu Chủ nghĩa Mác-Lênin",
+        "3-2-1946- Đảng Lao động Việt Nam",
+        "11-11-1945- Hội nghiên cứu Chủ nghĩa Mác ở Đông \nDương"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 211,
+      "q": "Bản chỉ thị \"Kháng chiến, kiến quốc\" ngày 25/11/1945 \ncủa Trung ương Đảng đã xác định ai là kẻ thù chính \ncủa cách mạng Việt Nam lúc này?",
+      "options": [
+        "Thực dân Pháp",
+        "Đế quốc Anh",
+        "Bọn quân phiệt quốc dân đảng Trung Hoa",
+        "Phát xít Nhật"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 212,
+      "q": "Đại hội lần thứ III (9-1960), Đảng Lao động Việt Nam \nkhẳng định nhiệm vụ cách mạng giữ vai trò quyết định \nnhất đối với sự phát triển cách mạng cả nước là :",
+      "options": [
+        "Cách mạng xã hội chủ nghĩa ở miền Bắc",
+        "Cách mạng dân tộc dân chủ nhân dân ở miền Nam",
+        "Cách mạng hai miền đều quyết định như nhau",
+        "Các phương án trả lời đều sai"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 213,
+      "q": "Sau khi lên cầm quyền (1969), Tổng thống Mỹ R. Ních \nxơn chủ trương thay chiến lược Chiến tranh cục bộ ở \nmiền Nam bằng chiến lược:",
+      "options": [
+        "Chiến tranh tổng lực",
+        "Chiến tranh đơn phương",
+        "Chiến tranh đặc biệt",
+        "Việt Nam hóa chiến tranh"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 214,
+      "q": "Sau khi Mỹ thực hiện chiến lược \"Chiến tranh cục bộ\", \nđảng nhận định tình hình :",
+      "options": [
+        "Đây là cuộc chiến tranh xâm lược thực dân mới, \nbuộc phải thực thi trong thế thua, thế thất bại và bị \nđộng cho nên nó chứa đựng đầy mâu thuẫn chiến \nlược",
+        "Đây là cuộc chiến tranh xâm lược thực dân cũ, buộc \nphải thực thi trong thế thua, thế thất bại và bị động \ncho nên nó chứa đựng đầy mâu thuẫn chiến lược",
+        "Đây là cuộc chiến tranh xâm lược thực dân hiện đại, \nbuộc phải thực thi trong thế thua, thế thất bại và bị \nđộng cho nên nó chứa đựng đầy mâu thuẫn chiến lược"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 215,
+      "q": "Đầu năm 1953, nhằm cứu vãn tình thế ngày càng xa \nlầy và tìm kiếm giải pháp chính trị có \"danh dự\", Pháp \nvà Mỹ đã đưa một viên tướng Pháp sang làm tổng chỉ \nhuy quân đội pháp ở Đông Dương và lập kế hoạch \nquân sự nào?",
+      "options": [
+        "Nava",
+        "De Castries",
+        "Salan",
+        "Leclerc"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 216,
+      "q": "Trong cương lĩnh thứ ba - Chính cương của Đảng Lao \nđộng Việt Nam (2/1951), Đảng ta đã khẳng định nhận \nthức của mình về triển vọng của cách mạng Việt Nam \nlà:",
+      "options": [
+        "Đi tới xã hội cộng sản",
+        "Tiến tới chủ nghĩa xã hội",
+        "Đi tới xã hội dân chủ",
+        "Tiến tới chủ nghĩa tư bản"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 217,
+      "q": "Mỹ Ngụy không thực thi hiệp định Giơ-ne-vơ bằng \ncách :",
+      "options": [
+        "Ngăn cản hiệp thương, tổng tuyển cử thống nhất \nđất nước",
+        "Ban hành Luật 10/59",
+        "Thực hiện chiến dịch lập ấp chiến lược",
+        "Các phương án trả lời đều đúng"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 218,
+      "q": "Nghị quyết về đường lối cách mạng miền Nam được \nthông qua tại Đại hội nào của Đảng sau đây?",
+      "options": [
+        "Đại hội II",
+        "Đại hội III",
+        "Đại hội IV",
+        "Đại hội I"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 219,
+      "q": "Tình hình nước ta được ví như \"ngàn cân treo sợi tóc\" \nvào thời gian nào?",
+      "options": [
+        "Ngay sau cách mạng Tháng Tám 1945 thành công",
+        "Trước cách mạng Tháng 8",
+        "Ngay sau cuộc kháng chiến chống Mỹ thắng lợi \n1975",
+        "Ngay sau khi Hiệp định Pari được ký kết 1973"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 220,
+      "q": "Khối liên minh nhân dân ba nước Việt-Lào-Campuchia \nđược thành lập khi nào?",
+      "options": [
+        "Tháng 3 năm 1950",
+        "Tháng 3 năm 1953",
+        "Tháng 3 năm 1954",
+        "Tháng 3 năm 1951"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 221,
+      "q": "Để tranh thủ thời gian chống Pháp, Đảng chủ trương \nquan hệ với quân Tưởng Giới Thạch theo khẩu hiệu :",
+      "options": [
+        "Hoa Việt thân thiện",
+        "Hoa Việt bình đẳng",
+        "Hoa Việt tương trợ",
+        "Hoa Việt thân ái"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 222,
+      "q": "Đại hội II Đảng Lao động Việt Nam vạch ra hai đối \ntượng của cách mạng Việt Nam là:",
+      "options": [
+        "Chủ nghĩa đế quốc xâm lược và phong kiến",
+        "Bọn can thiệp Mỹ và phong kiến phản động",
+        "Đế quốc Pháp và phong kiến phản động",
+        "Đế quốc Pháp và bọn can thiệp Mỹ"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 223,
+      "q": "Chính cương của Đảng lao động Việt Nam đã nêu ra \ncác nhiệm vụ cơ bản của cách mạng Việt Nam là:",
+      "options": [
+        "Đánh đuổi bọn đế quốc xâm lược, giành độc lập và \nthống nhất thật sự cho dân tộc, Xóa bỏ những di tích \nphong kiến và nửa phòng kiến, làm cho người cày có \nruộng, Phát triển chế độ dân chủ nhân dân, gây cơ sở \ncho chủ nghĩa xã hội",
+        "Đánh đuổi bọn đế quốc xâm lược, giành độc lập và \nthống nhất thật sự cho dân tộc, Xóa bỏ những di tích \nphong kiến và nửa phòng kiến, làm cho người cày có \nruộng, Phát triển chế độ dân chủ nhân dân, gây cơ sở \ncho xã hội dân chủ.",
+        "Đánh đuổi bọn phong kiến, giành độc lập và thống \nnhất thật sự cho dân tộc, Xóa bỏ những di tích phong \nkiến và nửa phòng kiến, làm cho người cày có ruộng, \nPhát triển chế độ dân chủ nhân dân, gây cơ sở cho chủ \nnghĩa xã hội",
+        "Đánh đuổi bọn đế quốc xâm lược, giành độc lập và \nthống nhất thật sự cho dân tộc, Xóa bỏ những di tích \nphong kiến và nửa phòng kiến, làm cho ngư"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 224,
+      "q": "Sau cách mạng Tháng Tám năm 1945 thành công, \nĐảng Cộng sản Đông Dương xác định thực dân Pháp \nlà kẻ thù như thế nào?\nNgay sau khi cách mạng Tháng Tám 1945 thành công, \nThực dân Pháp được Đảng coi là kẻ thù như thế nào?",
+      "options": [
+        "Kẻ thù chính",
+        "Kẻ thù phụ",
+        "Không nguy hiểm",
+        "Chờ giải giáp của quân đồng minh"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 225,
+      "q": "Đại hội III (9-1960) của Đảng đã thông qua đường lối \nnào?",
+      "options": [
+        "Đánh đuổi thực dân Pháp và can thiệp Mỹ xâm lược, \ngiành độc lập và thống nhất thật sự cho dân tộc",
+        "Cả nước quá độ đi lên chủ nghĩa xã hội",
+        "Phát triển chế độ dân chủ nhân dân, gây cơ sở cho \nchủ nghĩa xã hội",
+        "Đường lối cách mạng xã hội chủ nghĩa ở miền Bắc \nvà cách mạng dân tộc dân chủ nhân dân ở miền Nam"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 226,
+      "q": "Sau khi Mỹ thực hiện chiến lược \"chiến tranh cục bộ\", \nĐảng xác định nhiệm vụ cách mạng của miền Bắc là:",
+      "options": [
+        "Chuyển hướng xây dựng kinh tế, bảo đảm tiếp tục \nxây dựng miền Bắc vững mạnh trong điều kiện có \nchiến tranh",
+        "Tiếp tục xây dựng kinh tế ở miền Bắc làm cho miền \nBắc trở thành hậu phương lớn của cả nước",
+        "Không tiếp tục xây dựng kinh tế ở miền Bắc để tập \ntrung cho phát triển lực lượng quốc phòng",
+        "Không chuyển hướng xây dựng kinh tế, tiếp tục \nphát triển kế hoạch 5 năm ở miền Bắc"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 227,
+      "q": "Đại hội Đảng lần thứ II xác định con đường đi lên chủ \nnghĩa xã hội là một quá trình :",
+      "options": [
+        "Đấu tranh lâu dài, đại thể trải qua ba giai đoạn",
+        "Đấu tranh kiên trì, đại thể trải qua bốn giai đoạn",
+        "Đấu tranh lâu dài, đại thể trải qua năm giai đoạn",
+        "Đấu tranh kiên trì, đại thể trải qua hai giai đoạn"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 228,
+      "q": "Ngày 19/10/1946, Ban Thường vụ Trung ương Đảng \nmở Hội nghị quân sự toàn quốc lần thứ nhất, do Tổng \nBí thư Trường Chinh chủ trì, Hội nghị xác định :",
+      "options": [
+        "\"Không sớm thì muộn, Pháp sẽ đánh mình và mình \nnhất định phải đánh Pháp\"",
+        "\"Không sớm thì muộn, Pháp sẽ tấn công mình và \nmình nhất định phải đánh Pháp\"",
+        "\"Không sớm thì muộn, Pháp sẽ đánh chiếm mình và \nmình nhất định sẽ thắng Pháp\""
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 229,
+      "q": "Cuộc kháng chiến chống Mỹ, cứu nước của nhân dân \nViệt Nam (1954-1975) kết thúc bằng thắng lợi của \nchiến dịch nào?",
+      "options": [
+        "Hồ Chí Minh",
+        "Tây Nguyên",
+        "Huế - Đà Nẵng.",
+        "Đường 14 - Phước Long."
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 230,
+      "q": "Đảng ta đã phát động phong trào gì để ủng hộ nhân \nlực cho Nam Bộ kháng chiến chống Pháp từ ngày \n23-9-1945?",
+      "options": [
+        "Vì miền Nam \"thành đồng Tổ quốc\"",
+        "Hướng về miền Nam ruột thịt",
+        "Nam tiến",
+        "Tất cả trên đúng."
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 231,
+      "q": "Chủ trương nào không có trong Chỉ thị \"Nhật - Pháp \nbắn nhau và hành động của chúng ta\" (3/1945)?",
+      "options": [
+        "Thông qua 10 chính sách lớn của Việt Minh",
+        "Thay khẩu hiệu \"đánh đuổi phát xít Nhật - Pháp\" \nbằng khẩu hiệu \"đánh đuổi phát xít Nhật\"",
+        "Nêu khẩu hiệu \"thành lập chính quyền cách mạng \ncủa nhân dân Đông Dương\"",
+        "Phát động một cao trào kháng Nhật cứu nước"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 232,
+      "q": "Tình hình đất nước ta sau cách mạng tháng tám năm \n1945 được ví như :",
+      "options": [
+        "Nước sôi, lửa bỏng",
+        "Nhẹ như lông hồng",
+        "Ngàn cân treo sợi tóc",
+        "Trứng, nước"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 233,
+      "q": "Đường lối toàn quốc kháng chiến tập trung trong ba \nvăn kiện quan trọng đó là:",
+      "options": [
+        "Toàn dân kháng chiến, Lời kêu gọi toàn quốc kháng \nchiến, Kháng chiến nhất định thắng lợi",
+        "Nhật Pháp bắn nhau và hành động của chúng ta, \nKháng chiến kiến quốc, Kháng chiến nhất định thắng \nlợi",
+        "Toàn dân kháng chiến, Nhật Pháp bắn nhau và hành \nđộng của chúng ta, Kháng chiến kiến quốc",
+        "Lời kêu gọi toàn quốc kháng chiến, Nhật Pháp bắn \nnhau và hành động của chúng ta, Kháng chiến kiến \nquốc"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 234,
+      "q": "Lời kêu gọi toàn quốc kháng chiến của Chủ tịch Hồ Chí \nMinh được phát ra vào thời gian nào?",
+      "options": [
+        "12-12-1946",
+        "22-12-1946",
+        "2-3-1946",
+        "19-12-1946"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 235,
+      "q": "Thống nhất nước nhà về mặt Nhà nước sau năm 1975 \nlà:",
+      "options": [
+        "Thống nhất giữa Chính phủ Việt Nam Dân chủ Cộng \nhòa với Chính phủ Việt Nam Cộng hòa",
+        "Thống nhất giữa Chính phủ Việt Nam Dân chủ Cộng \nhòa với Chính phủ Cách mạng Lâm thời Cộng hòa \nMiền Nam Việt Nam",
+        "Thống nhất giữa Chính phủ Việt Nam Dân chủ Cộng \nhòa với Mặt trận Dân tộc Giải phóng Miền Nam Việt \nNam",
+        "Thống nhất giữa Đảng Lao động Việt Nam với Đảng \nNhân dân Cách mạng Miền Nam Việt Nam"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": []
+    },
+    {
+      "id": 236,
+      "q": "Đại hội lần thứ III của Đảng họp tại thủ đô Hà Nội từ \nngày 5 đến ngày 10/09/1960. Đại hội đã hoàn chỉnh \nđường lối chiến lược chung của cách mạng Việt Nam \ntrong giai đoạn mới và vạch ra hai nhiệm vụ chiến lược \nđó là:",
+      "options": [
+        "Tiến hành cách mạng xã hội chủ nghĩa ở miền Bắc. \nGiải phóng miền Nam khỏi ách thống trị của đế quốc \nMỹ và bọn tay sai, thực hiện thống nhất nước nhà, \nhoàn thành độc lập và dân chủ trong cả nước",
+        "Tiến hành cách mạng dân chủ nhân dân ở miền Bắc. \nGiải phóng miền Nam khỏi ách thống trị của đế quốc \nMỹ và bọn tay sai, thực hiện thống nhất nước nhà, \nhoàn thành độc lập và dân chủ trong cả nước",
+        "Tiến hành cách mạng dân tộc dân chủ ở miền Bắc. \nGiải phóng miền Nam khỏi ách thống trị của đế quốc \nMỹ và bọn tay sai, thực hiện thống nhất nước nhà, \nhoàn thành độc lập và dân chủ trong cả nước"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 237,
+      "q": "Mối quan hệ giữa hai nhiệm vụ cách mạng của hai \nmiền được Đại hội III của Đảng xác định là:",
+      "options": [
+        "Hai nhiệm vụ chiến lược ấy có quan hệ mật thiết với \nnhau và có tác dụng thúc đẩy lẫn nhau",
+        "Hai nhiệm vụ chiến lược ấy có quan hệ quyết định \nlẫn nhau",
+        "Hai nhiệm vụ chiến lược ấy có quan hệ mật thiết với \nnhau",
+        "Hai nhiệm vụ chiến lược ấy có quan hệ độc lập với \nnhau và có tác dụng thúc đẩy lẫn nhau"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 238,
+      "q": "Ngày 23-9-1945 gắn với sự kiện lịch sử nào?",
+      "options": [
+        "Pháp nổ súng xâm lược nước ta lần thứ 2.",
+        "Bác ra lời kêu gọi toàn quốc kháng chiến.",
+        "Nhật đảo chính Pháp độc chiếm Đông Dương.",
+        "Hội nghị quốc dân ở Tân Trào"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 239,
+      "q": "Ta đã nhân nhượng với quân Trung Hoa Dân quốc như \nthế nào?",
+      "options": [
+        "Chấp nhận mọi yêu cầu cải tổ Chính phủ, Quốc hội \ntheo ý chúng Trung Hoa Dân quốc.",
+        "Chấp nhận tiêu tiền Trung Quốc, cung cấp một phần \nlương thực, thực phẩm cho quân Tưởng.",
+        "Chấp nhận tất cả mọi yêu cầu đảm bảo trật tự trị an, \nphương tiện đi lại của quân Tưởng.",
+        "Chấp nhận cung cấp toàn bộ lương thực thực phẩm \ncho quân Tưởng."
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 240,
+      "q": "Nội dung nào dưới đây thuộc Hiệp định Sơ bộ (6 - 3 - \n1946)?",
+      "options": [
+        "Việt Nam là một quốc gia độc lập trong khối Liên \nhợp Pháp.",
+        "Việt Nam là một quốc gia tự trị trong khối Liên hợp \nPháp.",
+        "Việt Nam là một quốc gia tự do trong khối Liên hợp \nPháp.",
+        "Việt Nam là một quốc gia tự chủ trong khối Liên hợp \nPháp."
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 241,
+      "q": "Để kéo dài thời gian chuẩn bị lực lượng cho cuộc \nkháng chiến toàn quốc chống Pháp, sau Hiệp định \nSơ bộ (6/3/1946), Chính phủ nước Việt Nam Dân chủ \nCộng hòa tiếp tục kí với Pháp bản",
+      "options": [
+        "Hiệp định Giơnevơ.",
+        "Hòa ước.",
+        "Hiệp định Pari.",
+        "Tạm ước."
+      ],
+      "a": "D",
+      "note": "Chị mới fix",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 242,
+      "q": "Hội nghị nào của Đảng mở đường cho phong trào \n\"Đồng khởi\" ở miền Nam năm 1960?",
+      "options": [
+        "Hội nghị Trung ương 12 khóa II của Đảng (3/1957)",
+        "Hội nghị Trung ương 1 khóa II của Đảng (12/1957)",
+        "Hội nghị Trung ương 14 khóa II của Đảng (11/1958)",
+        "Hội nghị Trung ương 15 khóa II của Đảng (1/1959)"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 243,
+      "q": "Đường lối kháng chiến chống thực dân Pháp xâm lược \ncủa Đảng (1946-1954) là:",
+      "options": [
+        "Toàn dân, toàn diện, lâu dài và tự lực cánh sinh",
+        "Toàn diện, lâu dài và tự lực cánh sinh",
+        "Chiến tranh nhân dân, toàn diện và tự lực cánh sinh",
+        "Chiến tranh nhân dân, toàn diện, lâu dài và tranh \nthủ ngoại lực"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 244,
+      "q": "Đường lối kháng chiến \"Dựa vào sức mình là chính\" \nđược Đảng xác định là :",
+      "options": [
+        "\"Phải tự cấp, tự túc về mọi mặt\"",
+        "\"Phải đánh địch bằng sức mình\"",
+        "\"Phải tự vũ trang để thắng định về mọi mặt\"",
+        "\"Phải biết tranh thủ sự giúp đỡ của các nước\""
+      ],
+      "a": "A",
+      "note": "Trong giai đoạn 1947 \n- 1949, cuộc kháng chiến \nchống Pháp của nhân dân \nta \"dựa vào.... \"",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 245,
+      "q": "Sau khi giành chính quyền, Đảng chủ trương mở rộng \nmặt trận nào sau đây để tập trung ngọn lửa đấu tranh \nchống Pháp?",
+      "options": [
+        "Mặt trận Việt Minh",
+        "Mặt trận Liên Việt",
+        "Mặt trận Dân chủ",
+        "Mặt trận tổ quốc Việt Nam"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 246,
+      "q": "Từ tháng 9-1945 đến tháng 3-1946 ta chủ trương :",
+      "options": [
+        "Hòa với Tưởng",
+        "Hòa với Pháp",
+        "Đánh Tưởng",
+        "Đánh Pháp"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 247,
+      "q": "Sau cách mạng tháng Tám năm 1945, khó khăn lớn \nnhất đưa nước ta vào tình thế \"ngàn cân treo sợi tóc\" \nlà gì?",
+      "options": [
+        "Khó khăn về thù trong, giặc ngoài",
+        "Nạn đói, nạn dốt đe doạ nghiêm trọng đến nhân \ndân ta",
+        "Ngân sách nhà nước trống rỗng",
+        "Hơn 90% dân số không biết chữ"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 248,
+      "q": "Với chính sách cai trị của thực dân Pháp, sau Cách \nmạng tháng Tám năm 1945, nước ta có khoảng bao \nnhiêu % dân số mù chữ?\nSau Cách mạng tháng Tám năm 1945, tàn dư văn hóa \nlạc hậu của chế độ thực dân, phong kiến để lại hết sức \nnặng nề là :",
+      "options": [
+        "Hơn 60% dân số không biết chữ",
+        "Hơn 70% dân số không biết chữ",
+        "Hơn 80% dân số không biết chữ",
+        "Hơn 90% dân số không biết chữ"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 249,
+      "q": "\"Chúng ta thà hi sinh tất cả, chứ nhất định không chịu \nmất nước, nhất định không chịu làm nô lệ... \" là đoạn \ntrích trong văn kiện nào?",
+      "options": [
+        "Chỉ thị Toàn dân kháng chiến của Ban Thường vụ \nTrung ương Đảng",
+        "Lời kêu gọi toàn quốc kháng chiến của Chủ tịch Hồ \nChí Minh",
+        "Tác phẩm Kháng chiến nhất định thắng lợi của Tổng \nBí thư Trường Chinh",
+        "Chỉ thị sửa soạn khởi nghĩa của Tổng bộ Việt Minh"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 250,
+      "q": "Sau Cách mạng tháng Tám đến 1954, kẻ thù chính của \nnhân dân Việt Nam là :",
+      "options": [
+        "Pháp",
+        "Anh",
+        "Mĩ",
+        "Trung quốc"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 251,
+      "q": "Căn cứ địa cách mạng của ta trong cuộc kháng chiến \nchống Pháp xâm lược lần thứ hai là :",
+      "options": [
+        "Hà Nội",
+        "Biên Giới",
+        "Việt Bắc",
+        "Điện Biên Phủ"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 252,
+      "q": "Ai là tác giả của tác phẩm Kháng chiến nhất định thắng \nlợi?\nTác phẩm \"Kháng chiến nhất định thắng lợi\" là của ai?",
+      "options": [
+        "Trường Chinh",
+        "Võ Nguyên Giáp",
+        "Hồ Chí Minh",
+        "Trần Phú"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 253,
+      "q": "Ai được bầu làm Tổng Bí thư của Đảng tại Đại hội đại \nbiểu lần thứ II (1951)?",
+      "options": [
+        "Trần Phú",
+        "Hồ Chí Minh",
+        "Trường Chinh",
+        "Lê Hồng Phong"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_nhanvat",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 254,
+      "q": "Đại hội nào sau đây được đánh dấu là \" Đại hội kháng \nchiến thắng lợi\" ?",
+      "options": [
+        "Hội nghị thành lập Đảng 1930",
+        "Đại hội Quốc dân ở Tân Trào 1945",
+        "Đại hội lần thứ II của Đảng 1951",
+        "Đại hội Đại biểu lần thứ III của Đảng 1960"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 255,
+      "q": "Kế hoạch quân sự được xem là lớn nhất trong quá \ntrình xâm lược Việt Nam của Pháp từ 1945-1954?",
+      "options": [
+        "Kế hoạch Rơve",
+        "Kế hoạch Nava",
+        "Kế hoạch \"đánh nhanh thắng nhanh\"",
+        "Kế hoạch Đờ Lát đơ Tátxinhi"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 256,
+      "q": "Chiến thắng Phước Long (1/1975) có ý nghĩa như thế \nnào đối với việc Đảng đề ra quyết tâm chiến lược giải \nphóng miền Nam trong hai năm 1975 - 1976?",
+      "options": [
+        "Đòn đánh quan trọng",
+        "Đòn đánh quyết định",
+        "Đòn thăm dò chiến lược",
+        "Đòn đánh mở màn"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": []
+    },
+    {
+      "id": 257,
+      "q": "Chiến dịch Điện Biên Phủ được coi là một chiến dịch \nlịch sử của quân đội ta và được chia làm bao nhiêu \nđợt?",
+      "options": [
+        "2 đợt",
+        "3 đợt",
+        "4 đợt",
+        "5 đợt"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_so"
+      ]
+    },
+    {
+      "id": 258,
+      "q": "Thắng lợi nào của quân và dân ta trong cuộc kháng \nchiến chống Pháp đã làm phá sản hoàn toàn kế hoạch \nNava?",
+      "options": [
+        "Chiến thắng Biên giới Thu - Đông 1950",
+        "Chiến thắng Tây Bắc 1953",
+        "Chiến thắng Điện Biên Phủ 1954",
+        "Chiến thắng Thượng Lào 1954"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 259,
+      "q": "Trưởng đoàn đại diện cho phái đoàn Chính phủ Việt \nNam Dân chủ Cộng hòa tại Hội nghị Giơnevơ là ai?",
+      "options": [
+        "Hồ Chí Minh",
+        "Trường Chinh",
+        "Phạm Văn Đồng",
+        "Võ Nguyên Giáp"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": [
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 260,
+      "q": "Thắng lợi ngoại giao lớn nhất của ta trong cuộc kháng \nchiến chống Pháp từ 1945-1954 là :",
+      "options": [
+        "Hiệp định Sơ bộ 1946",
+        "Tạm ước 1946",
+        "Hiệp định Giơnevơ 1954",
+        "Liên Xô, Trung Quốc đặt quan hệ ngoại giao với ta \n1950"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 261,
+      "q": "Quyền dân tộc cơ bản của Việt Nam trong Hiệp định \nGiơnevơ 1954 là gì?",
+      "options": [
+        "Độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ",
+        "Các bên thực hiện cuộc tập kết, chuyển quân, \nchuyển giao khu vực",
+        "Việt Nam sẽ tiến hành tổng tuyển cử thống nhất đất \nnước",
+        "Các bên tham chiến thực hiện ngừng bắn, lập lại \nhòa bình ở Đông Dương"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 262,
+      "q": "Chiến thắng nào của ta quyết định thắng lợi tại hội \nnghị Giơnevơ 1954?",
+      "options": [
+        "Việt Bắc thu - đông 1947",
+        "Biên giới thu - dông 1950",
+        "Điện Biên Phủ 1954",
+        "Đông xuân 1953-1954"
+      ],
+      "a": "C",
+      "note": "đàm phán diễn ra trong \nbao nhiêu ngày=>75 \nngày",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 263,
+      "q": "Chiến dịch lịch sử Điện Biên Phủ 1954 là đỉnh cao của \n:",
+      "options": [
+        "Khởi nghĩa chống Pháp",
+        "Kháng chiến chống Pháp",
+        "Kháng chiến chống Mĩ",
+        "Chiến tranh chống Pháp"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 264,
+      "q": "Được ghi vào lịch sử dân tộc như một Bạch Đằng, một \nChi Lăng, một Đống Đa thế kỉ XX. Đó là ý nghĩa của \nchiến thắng nào?",
+      "options": [
+        "Cách mạng tháng Tám 1945",
+        "Chiến dịch Điện Biên Phủ 1954",
+        "Chiến dịch Huế- Đà Nẵng 1975",
+        "Chiến dịch Hồ Chí Minh 1975"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_nam",
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 265,
+      "q": "Hiệp định Giơnevơ 1954, quy định việc di chuyển, tập \nkết quân đội ở hai miền Nam - Bắc với giới tuyến quân \nsự tạm thời là :",
+      "options": [
+        "Vĩ tuyến 17",
+        "Vĩ tuyến 18",
+        "Vĩ tuyến 19",
+        "Vĩ tuyến 20"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 266,
+      "q": "Đại hội đại biểu toàn quốc lần thứ III của Đảng được \ntổ chức tại :",
+      "options": [
+        "Sài Gòn",
+        "Hà Nội",
+        "Tân Trào",
+        "Hóc môn"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 267,
+      "q": "Từ 1961-1965, Mĩ thực hiện loại hình chiến lược nào ở \nmiền Nam Việt Nam?",
+      "options": [
+        "Chiến tranh đơn phương",
+        "Chiến tranh đặc biệt",
+        "Chiến tranh cục bộ",
+        "Việt Nam hóa chiến tranh"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 268,
+      "q": "Chiến thắng Điện Biên Phủ năm 1954 của quân dân \nViệt Nam đã:",
+      "options": [
+        "Đánh dấu mốc thắng lợi của cuộc kháng chiến \nchống Pháp",
+        "Làm phá sản hoàn toàn kế hoạch Nava của thực dân \nPháp.",
+        "Buộc Pháp phải ngồi vào đàm phán tại Giơnevơ.",
+        "Bước đầu làm phá sản kế hoạch Nava của thực dân \nPháp."
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 269,
+      "q": "Ngày 12/12/1946, Ban Thường vụ Trung ương Đảng \nđã ra",
+      "options": [
+        "Quân lệnh số 1.",
+        "Lời kêu gọi Tổng khởi nghĩa.",
+        "Chỉ thị Toàn dân kháng chiến.",
+        "Lời kêu gọi toàn quốc kháng chiến."
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 270,
+      "q": "Pháp chấp nhận đàm phán với Việt Nam ở Hội nghị \nGiơnevơ năm 1954 về Đông Dương vì:",
+      "options": [
+        "Sức ép của Liên Xô",
+        "Bị thất bại ở Điện Biên Phủ",
+        "Dư luận nhân dân thế giới phản đối",
+        "Pháp sợ Trung Quốc đưa quân sang giúp đỡ Việt \nNam"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 271,
+      "q": "Hiệp định sơ bộ được Hồ Chí Minh ký với Sanh-tơ-ny \nvào thời gian nào sau đây?",
+      "options": [
+        "6/3/1946",
+        "14/9/1946",
+        "19/12/1946",
+        "10/12/1946"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 272,
+      "q": "Đường lối chung xây dựng XHCN ở miền Bắc \n(1954-1975) được đề cập ở Đại hội lần thứ mấy của \nĐảng?",
+      "options": [
+        "Đại hội II",
+        "Đại hội III",
+        "Đại hội IV",
+        "Đại hội V"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_so",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 273,
+      "q": "Vận mệnh của dân tộc Việt Nam ngay sau khi Cách \nmạng tháng Tám thành công được Chủ tịch Hồ Chí \nMinh đánh giá:",
+      "options": [
+        "Có những thách thức to lớn",
+        "Vô cùng khó khăn, nguy hiểm",
+        "Vô cùng hiểm nghèo",
+        "Ngàn cân treo sợi tóc"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 274,
+      "q": "Đảng ta đã lựa chọn giải pháp gì trong mối quan hệ \nvới thực dân Pháp sau ngày Pháp và Tưởng ký hiệp \nước Trùng Khánh (28-2-1946)?",
+      "options": [
+        "Kháng chiến chống thực dân Pháp",
+        "Chống cả quân đội Tưởng và Pháp",
+        "Nhân nhượng với quân đội Tưởng",
+        "Thương lượng và hoà hoãn với Pháp"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 275,
+      "q": "Cuộc kháng chiến chống thực dân Pháp xâm lược của \nnhân dân Đông Dương (1953 - 1954) kết thúc bằng giải \npháp",
+      "options": [
+        "chính trị",
+        "quân sự",
+        "kinh tế",
+        "văn hóa"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 276,
+      "q": "Đại hội XII của Đảng (2016) nêu rõ mục tiêu, nhiệm vụ \ntổng quát phát triển đất nước 5 năm 2016 - 2020 là:",
+      "options": [
+        "Đổi mới thể chế kinh kế",
+        "Đổi mới mô hình tăng trưởng",
+        "Đổi mới hệ thống chính trị",
+        "Đưa nước ta trở thành nước công nghiệp theo \nhướng hiện đại vào năm 2020"
+      ],
+      "a": "D",
+      "note": "chị mới fix",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 277,
+      "q": "Pháp thực hiện rút quân khỏi miền Nam Việt Nam \ntrong bối cảnh nào ?",
+      "options": [
+        "Tất cả mọi điều khoản được quy định tại Hiệp định \nđã được hoàn tất.",
+        "Pháp đã hoàn tất chuyển giao mọi trách nhiệm thi \nhành Hiệp định Giơ-ne-vơ cho chính quyền Bửu Lộc.",
+        "Pháp đã xúc tiến mọi việc cho công cuộc thống nhất \nđất nước bằng con đường tổng tuyển cử hai miền.",
+        "Rất nhiều điều khoản trong Hiệp định Giơ-ne-vơ \nchưa được hoàn tất."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 278,
+      "q": "Một trong những sự kiện làm bùng nổ phong trào \nĐồng khởi năm 1960 là :",
+      "options": [
+        "Ngăn cản hiệp thương, tổng tuyển cử thống nhất \nđất nước",
+        "Ban hành Luật 10/59",
+        "Lập ấp chiến lược",
+        "Các phương án trả lời đều đúng"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 279,
+      "q": "Hình thức khởi nghĩa chống lại ách thống trị của Mĩ - \nDiệm đã diễn ra đầu tiên ở đâu ?",
+      "options": [
+        "Bến Tre.",
+        "Bình Định.",
+        "Quảng Ngãi.",
+        "Tây Ninh."
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 280,
+      "q": "Nội dung nào không phản ánh thành tựu của kế hoạch \nNhà nước 5 năm (1961 - 1965)?",
+      "options": [
+        "Giá trị sản lượng công nghiệp nặng năm 1965 tăng \n3 lần so với năm 1960.",
+        "Công nghiệp quốc doanh chiếm tỉ trọng 93% trong \ntổng giá trị sản lượng ngành công nghiệp toàn miền \nBắc.",
+        "Công nghiệp nhẹ, tiểu thủ công nghiệp đã giải quyết \nđược 80% hàng tiêu dùng thiết yếu cho nhân dân.",
+        "Thương nghiệp tư nhân được Nhà nước ưu tiên \nphát triển nên đã chiếm lĩnh được thị trường."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 281,
+      "q": "Theo quan điểm của Đại hội Đảng lần thứ IV (12/1976), \nđặc điểm nào sau đây là lớn nhất, quy định nội dung, \nhình thức, bước đi của cách mạng xã hội chủ nghĩa ở \nnước ta trong giai đoạn mới?",
+      "options": [
+        "Tổ quốc ta đã hòa bình, độc lập, thống nhất, cả nước \ntiến lên chủ nghĩa xã hội",
+        "Cách mạng xã hội chủ nghĩa ở nước ta tiến hành \ntrong hoàn cảnh quốc tế thuận lợi",
+        "Nước ta đang ở trong quá trình từ một xã hội mà \nnền kinh tế còn phổ biến là sản xuất nhỏ tiến thẳng \nlên chủ nghĩa xã hội, bỏ qua giai đoạn phát triển tư \nbản chủ nghĩa",
+        "Đất nước còn đối mặt nhiều khó khăn do hậu quả \ncủa chiến tranh và tàn dư của chủ nghĩa thực dân"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 282,
+      "q": "Nội dung nào trong Hiệp định Sơ bộ 6-3-1946 tạo điều \nkiện cho ta có thời gian để chuẩn bị lực lượng đối phó \nlâu dài với Pháp?",
+      "options": [
+        "Pháp công nhận Việt Nam là một quốc gia tự do \ntrong khối liên hiệp Pháp.",
+        "Pháp được đưa 15 ngàn quân ra miền Bắc thay thế \nquân Tưởng",
+        "Hai bên ngừng bắn ở Nam Bộ",
+        "Hai bên thực hiện tập kết, chuyển quân"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 283,
+      "q": "Một trong những khó khăn của nước ta trong những \nnăm 1953-1954 là :",
+      "options": [
+        "Chủ nghĩa đế quốc xâm lược và phong kiến",
+        "Bọn can thiệp Mỹ và phong kiến phản động",
+        "Đế quốc Pháp và phong kiến",
+        "Đế quốc Pháp và bọn can thiệp Mỹ"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 284,
+      "q": "Sau thất bại của Chiến tranh đặc biệt, Mỹ chuyển sang \nloại hình chiến lược chiến tranh nào?",
+      "options": [
+        "Chiến tranh đơn phương.",
+        "Chiến tranh cục bộ.",
+        "Việt Nam hóa chiến tranh.",
+        "Đông Dương hóa chiến tranh."
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 285,
+      "q": "Đặc điểm nổi bật của nước ta sau 1954 là :",
+      "options": [
+        "Đánh đuổi thực dân Pháp và can thiệp Mỹ xâm lược, \ngiành độc lập dân tộc",
+        "Cả nước quá độ đi lên chủ nghĩa xã hội",
+        "Phát triển chế độ dân chủ nhân dân, gây cơ sở cho \nchủ nghĩa xã hội",
+        "Tiến hành động thời cách mạng xã hội chủ nghĩa ở \nmiền Bắc và cách mạng dân tộc dân chủ nhân dân ở \nmiền Nam"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 286,
+      "q": "Quan điểm nào sau đây của Đảng về nhiệm vụ và mối \nquan hệ giữa hai miền sau khi Mỹ thực hiện \"chiến \ntranh cục bộ\"?",
+      "options": [
+        "Trong cuộc chiến tranh chống Mỹ của nhân dân \ncả nước, miền Nam là tiền tuyến lớn, miền Bắc là \nhậu phương lớn. Bảo vệ miền Bắc là nhiệm vụ của cả \nnước.",
+        "Trong cuộc chiến tranh chống Mỹ của nhân dân cả \nnước, miền Nam là hậu phương lớn, miền Bắc là tiền \ntuyến lớn. Bảo vệ miền Bắc là nhiệm vụ của cả nước.",
+        "Trong cuộc chiến tranh chống Mỹ của nhân dân cả \nnước, miền Nam là tiền tuyến lớn, miền Bắc là hậu \nphương lớn. Bảo vệ miền Bắc là nhiệm vụ của miền \nBắc.",
+        "Trong cuộc chiến tranh chống Mỹ của nhân dân cả \nnước, miền Nam là tiền tuyến lớn, miền Bắc là hậu \nphương lớn. Bảo vệ miền Bắc là nhiệm vụ của miền \nNam."
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 287,
+      "q": "Phong trào Đồng khởi làm thất bại loại hình chiến lược \nchiến tranh nào của Mỹ?",
+      "options": [
+        "Chiến tranh đơn phương,",
+        "Chiến tranh đặc biệt",
+        "Chiến tranh cục bộ",
+        "Việt Nam hóa chiến tranh"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 288,
+      "q": "Mặt trận Dân tộc giải phóng miền Nam Việt Nam được \nthảnh lập ở đâu?",
+      "options": [
+        "Bến Tre",
+        "Tây Ninh",
+        "Bình Định",
+        "Tây Nguyên"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 289,
+      "q": "Mặt trận Dân tộc giải phóng miền Nam Việt Nam được \nthành lập do ai làm chủ tịch?",
+      "options": [
+        "Nguyễn Hữu Thọ",
+        "Nguyễn Thị Định",
+        "Võ Nguyên Giáp",
+        "Trường Chinh"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 290,
+      "q": "Âm mưu của Mỹ trong chiến lược chiến tranh đặc biệt \nlà :",
+      "options": [
+        "Dùng người Việt đánh người Việt",
+        "Dùng người Mỹ đánh người Việt",
+        "Dùng người Đông Dương đánh người đông Dương",
+        "Dùng người Việt đánh người Việt và dùng người \nĐông Dương đánh người đông Dương"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 291,
+      "q": "Ý nghĩa quan trọng của phong trào Đồng khởi là :",
+      "options": [
+        "Chuyển cách mạng miền Nam từ thế giữ gìn lực \nlượng sang thế tiến công",
+        "Lật đổ chính quyền Mỹ- Diệm",
+        "Mỹ phải ngồi vào bàn đàm phán",
+        "Mỹ phải kí hiệp định Pari"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 292,
+      "q": "Nhận xét nào là phù hợp khi nói về mối quan hệ của \nhai miền đất nước trong cuộc kháng chiến chống Mỹ?",
+      "options": [
+        "Cách mạng hai miền có mối quan hệ mật thiết với \nnhau và có tác dụng thúc đẩy lẫn nhau",
+        "Cách mạng hai miền có quan hệ quyết định lẫn \nnhau",
+        "Cách mạng hai miền có quan hệ mật thiết với nhau",
+        "Cách mạng hai miền có quan hệ độc lập với nhau và \ncó tác dụng thúc đẩy lẫn nhau"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 293,
+      "q": "Tại sao, cuộc tổng tiến công nổi dậy Mậu Thân 1968 bị \nthất bại vừa mất đất, mất dân, hy sinh nhiều nhưng \nĐảng ta vẫn đánh giá thành công?",
+      "options": [
+        "Chúng ta đã giáng đòn lớn và mạnh buộc Mỹ ngồi \nvào bàn đàm phán.",
+        "Chúng ta đã giáng đòn lớn và mạnh buộc Mỹ kí hiệp \nđịnh Pari.",
+        "Buộc Mỹ phải thừa nhận thất bại của chiến lược Việt \nNam hóa chiến tranh.",
+        "Mỹ buộc phải rút quân về nước."
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 294,
+      "q": "Cuộc kháng chiến chống Mĩ, cứu nước của nhân dân \nta là một cuộc đụng đầu lịch sử vì:",
+      "options": [
+        "Đây là cuộc đấu tranh của một dân tộc nhược tiểu \nchống lại một đế quốc số một thế giới.",
+        "Đây là một cuộc chiến tranh xâm lược, phi nghĩa \nđứng về phía Mĩ - một đại diện cho chủ nghĩa đế quốc.",
+        "Đây là một cuộc chiến phản ánh tập trung những \nmâu thuẫn cơ bản của thời đại.",
+        "Đây là một cuộc chiến tranh chống chủ nghĩa thực \ndân mới của Mĩ, thực hiện giải phóng dân tộc, thống \nnhất đất nước đầu tiên giành thắng lợi."
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 295,
+      "q": "Nét nổi bật nhất về tình hình chính trị ở Việt Nam sau \nkhi Hiệp định Giơnevơ về Đông Dương được ký kết là:",
+      "options": [
+        "Hà Nội được giải phóng",
+        "Pháp rút quân khỏi Miền Bắc",
+        "Đất nước bị chia cắt thành hai miền với hai chế độ \nchính trị - xã hội khác nhau.",
+        "Nhân dân hai miền tiến hành tổ chức hiệp thương \ntổng tuyển cử thống nhất đất nước"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 296,
+      "q": "Hội nghị Trung ương VII khóa XII đã ban hành Nghị \nquyết số 36 - NQ/TW ngày 22/10/2018 về:",
+      "options": [
+        "Chiến lược phát triển bền vững kinh tế biển Việt \nNam đến năm 2030, tầm nhìn đến năm 2045",
+        "Đổi mới mục tiêu, con đường đi lên xã hội chủ nghĩa",
+        "Đổi mới nội dung, phương thức hoạt động, tổ chức \ncán bộ và quan hệ giữa các tổ chức trong hệ thống \nchính trị",
+        "Tăng cường công tác bảo vệ, chăm sóc và nâng cao \nsức khỏe nhân dân trong tình hình mới"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 297,
+      "q": "Định hướng phát triển đất nước đến năm 2030 mà Đại \nhội XIII của Đảng xác định là:",
+      "options": [
+        "Nước đang phát triển có công nghiệp theo hướng \nhiện đại vượt qua mức thu nhập trung bình thấp",
+        "Nước đang phát triển có công nghiệp hiện đại thu \nnhập trung bình cao",
+        "Nước đang phát triển có công nghiệp theo hướng \nhiện đại",
+        "Nước phát triển có thu nhập cao"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 298,
+      "q": "Tại sao cần cải cách chính sách tiền lương, bảo hiểm \nxã hội và trợ cấp ưu đãi người có công giai đoạn 2008 \n- 2012?",
+      "options": [
+        "Việc trả lương đúng cho người lao động là thực hiện \nđầu tư cho phát triển, tạo động lực cho phát triển kinh \ntế - xã hội",
+        "Việc trả lương đúng cho người lao động sẽ khuyến \nkhích người giỏi hăng say lao động và có động lực \nphát triển đất nước",
+        "Việc trả lương đúng cho người lao động là thực hiện \nđầu tư cho phát triển kinh tế - xã hội, góp phần làm \ntrong sạch và nâng cao hiệu lực, hiệu quả hoạt động \ncủa bộ máy nhà nước",
+        "Sẽ tạo động lực cho phát triển kinh tế - xã hội, góp \nphần làm trong sạch và nâng cao hiệu lực, hiệu quả \nhoạt động của bộ máy nhà nước"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 299,
+      "q": "Nội dung nào phản ánh điểm tương đồng về nội dung \ngiữa Hiệp định Giơ-ne-vơ năm 1954 về Đông Dương \nvà Hiệp định Pari năm 1973 về Việt Nam?",
+      "options": [
+        "Hiệp định có sự tham gia của 5 cường quốc trong \nhội đồng bảo an Liên Hợp quốc",
+        "Các bên thừa nhận miền Nam có 2 chính quyền, 2 \nquân đội, 2 vùng kiểm soát và 3 lực lượng chính trị",
+        "Các nước đều cam kết tôn trọng những quyền dân \ntộc cơ bản của nhân dân Việt Nam",
+        "Thỏa thuận các bên ngừng bắn để thực hiện chuyển \nquân, tập kết, chuyển giao khu."
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 300,
+      "q": "Từ năm 1954 đến năm 1975, Mỹ đã thực hiện mấy loại \nhình chiến tranh ở Việt Nam?",
+      "options": [
+        "2 loại hình chiến tranh",
+        "3 loại hình chiến tranh",
+        "4 loại hình chiến tranh",
+        "5 loại hình chiến tranh"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_so"
+      ]
+    },
+    {
+      "id": 301,
+      "q": "So với chiến dịch Điện Biên Phủ 1954 với chiến dịch Hồ \nChí Minh 1975 có khác gì về kết quả và ý nghĩa?",
+      "options": [
+        "Đã đập tan hoàn toàn kế hoạch quân sự của địch, \nbuộc địch phải kí kết hiệp định và rút quân về nước",
+        "Giải phóng hoàn toàn miền Bắc tạo tiền đề hoàn \nthành cuộc cách mạng dân chủ nhân dân trong cả \nnước",
+        "Làm xoay chuyển cục diện chiến tranh, tạo điều kiện \nthuận lợi để giành thắng lợi cuối cùng",
+        "Là dấu mốc kết thúc cuộc chiến tranh giải phóng \ndân tộc, bảo vệ Tổ quốc, chấm dứt ách thống trị của \nthực dân đế quốc"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": []
+    },
+    {
+      "id": 302,
+      "q": "Điều kiện trực tiếp mở ra Phong trào dân chủ 1936 - \n1939 do Đảng lãnh đạo là:",
+      "options": [
+        "Khủng hoảng kinh tế thế giới 1929 - 1933",
+        "Quốc tế Cộng sản thay đổi chủ trương",
+        "Đảng Cộng sản Đông Dương ban hành chính sách \nmới",
+        "Chính phủ Mặt trận nhân dân lên cầm quyền ở Pháp"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": []
+    },
+    {
+      "id": 303,
+      "q": "Nhiệm vụ kinh tế trọng tâm ở miền Bắc sau tháng \n7/1954 được Đảng xác định:",
+      "options": [
+        "Khôi phục và phát triển sản xuất nông nghiệp",
+        "Khôi phục và phát triển sản xuất công nghiệp",
+        "Khôi phục và phát triển tiểu thủ công nghiệp",
+        "Khôi phục và phát triển thương nghiệp"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 304,
+      "q": "Ở Việt Nam, cuộc kháng chiến chống Mĩ, cứu nước \n(1954-1975) có điểm mới nào sau đây so với cuộc \nkháng chiến chống thực dân Pháp (1945-1954)?",
+      "options": [
+        "Hoàn thành đồng thời nhiệm vụ kháng chiến và gây \ndựng cơ sở cho chế độ mới.",
+        "Thực hiện tư tưởng tiến công bằng sức mạnh của \nlực lượng vũ trang ba thứ quân.",
+        "Kết hợp khởi nghĩa từng phần của quần chúng nhân \ndân với chiến tranh cách mạng.",
+        "Tiến hành tuần tự hai cuộc cách mạng ở hai miền \nđất nước với mục tiêu thống nhất."
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": []
+    },
+    {
+      "id": 305,
+      "q": "Trong thời kỳ 1954-1975, cuộc cách mạng dân tộc dân \nchủ nhân dân ở miền Nam Việt Nam có vai trò quyết \nđịnh trực tiếp đối với sự nghiệp giải phóng miền Nam \nvì cuộc cách mạng này",
+      "options": [
+        "bảo vệ vững chắc hậu phương miền Bắc xã hội chủ \nnghĩa.",
+        "làm thất bại hoàn toàn chiến lược toàn cầu của Mỹ.",
+        "trực tiếp xóa bỏ ách áp bức, bóc lột của địa chủ và \ntư sản miền Nam.",
+        "trực tiếp đánh đổ ách thống trị của Mỹ và chính \nquyền Sài Gòn."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": []
+    },
+    {
+      "id": 306,
+      "q": "Lãnh tụ Nguyễn Ái Quốc thành lập Hội Việt Nam Cách \nmạng Thanh niên (1925) là sự chuẩn bị cho sự ra đời \ncủa Đảng Cộng sản Việt Nam về mặt:",
+      "options": [
+        "Tổ chức",
+        "Tư tưởng",
+        "Chính trị",
+        "Đường lối chính sách"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": []
+    },
+    {
+      "id": 307,
+      "q": "Nhân tố hàng đầu đảm bảo thắng lợi của cuộc kháng \nchiến chống Mĩ, cứu nước (1954-1975) là sự lãnh đạo \ncủa Đảng Cộng sản Việt Nam vì Đảng",
+      "options": [
+        "tranh thủ được sự giúp đỡ của các nước xã hội chủ \nnghĩa.",
+        "có đường lối cách mạng đúng đắn, sáng tạo, độc lập \ntự chủ.",
+        "lãnh đạo xây dựng miền Bắc thành hậu phương \nvững mạnh.\n đã kết hợp sức mạnh toàn dân tộc với sức mạnh của \nthời đại."
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": []
+    },
+    {
+      "id": 308,
+      "q": "Khẩu hiệu được Đảng đề ra trong giai đoạn giữ vững \nvà củng cố chính quyền cách mạng 1945 - 1946 là:",
+      "options": [
+        "Việt Nam độc lập muôn năm",
+        "Dân tộc trên hết, Tổ quốc trên hết",
+        "Đoàn kết, đoàn kết, đại đoàn kết",
+        "Mặt trận Việt Minh muôn năm"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 309,
+      "q": "Thực tiễn 30 năm chiến tranh cách mạng Việt Nam \n(1945 - 1975) cho thấy: Hậu phương của chiến tranh \nnhân dân",
+      "options": [
+        "không thể phân biệt rạch ròi với tiền tuyến chỉ bằng \nyếu tố không gian.",
+        "ở phía sau và phân biệt rạch ròi với tiền tuyến bằng \nyếu tố không gian.",
+        "luôn ở phía sau và bảo đảm cung cấp sức người, sức \ncủa cho tiền tuyến.",
+        "là đối xứng của tiền tuyến, thực hiện nhiệm vụ chi \nviện cho tiền tuyến."
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": []
+    },
+    {
+      "id": 310,
+      "q": "Hội nghị Trung ương 8 (5/1941) đã bầu ai làm Tổng Bí \nthư của Đảng?",
+      "options": [
+        "Nguyễn Ái Quốc",
+        "Nguyễn Văn Cừ",
+        "Trường Chinh",
+        "Lê Duẩn"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_nhanvat",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 311,
+      "q": "Sau năm 1975, đất nước ta bước vào thời kì",
+      "options": [
+        "kinh tế thị trường xã hội chủ nghĩa.",
+        "đất nước ta đã hòa bình, độc lập thống nhất, cả \nnước quá độ lên chủ nghĩa xã hội.",
+        "xây dựng xã hội chủ nghĩa.",
+        "công nghiệp hóa, hiện đại hóa."
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 312,
+      "q": "Nhiệm vụ nào được đặt ra một cách bức thiết sau năm \n1975?",
+      "options": [
+        "Điều chỉnh các chủ thể kinh tế, các hành vi sản xuất \nkinh doanh và các quan hệ kinh tế.",
+        "Phát triển các đạo luật, các quy chế, chuẩn mực về \nkinh tế.",
+        "Thống nhất đất nước về mặt nhà nước.",
+        "Khôi phục kinh tế sau chiến tranh."
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": []
+    },
+    {
+      "id": 313,
+      "q": "Đoàn đại biểu miền Nam do ai dẫn đầu để thống nhất \nhiệp thương với miền Bắc sau năm 1975?",
+      "options": [
+        "Phạm Hùng",
+        "Châu Văn Liêm",
+        "Trường Chinh",
+        "Phạm Hữu Thọ"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 314,
+      "q": "Sau đại thắng mùa xuân 1975, đất nước độc lập thống \nnhất, Chủ tịch nước là:",
+      "options": [
+        "Phạm Hùng",
+        "Tôn Đức Thắng",
+        "Phạm Văn Đồng",
+        "Nguyễn Văn Linh"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 315,
+      "q": "Tại Đại hội lần thứ V của Đảng đã bầu chức vụ Tổng Bí \nThư Đảng là:",
+      "options": [
+        "Lê Duẩn",
+        "Trường Chinh",
+        "Phạm Hùng",
+        "Nguyễn Hữu Thọ"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_nhanvat",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 316,
+      "q": "Tổ chức tổng tuyển cử trên toàn lãnh thổ Việt Nam \nbầu ra Quốc hội chung cho cả nước vào đầu năm 1976 \ntheo nguyên tắc nào?",
+      "options": [
+        "Dân chủ, phổ thông, bình đẳng, trực tiếp và bỏ \nphiếu kín.",
+        "Hoàn thiện thể chế về chính trị và ổn định về kinh \ntế.",
+        "Hoàn thiện thể chế đảm bảo đồng bộ các yếu tố thị \ntrường và phát triển đồng bộ các loại thị trường.",
+        "Hoàn thiện thể chế gắn tăng trưởng kinh tế với tiến \nbộ, công bằng xã hội và bảo vệ môi trường."
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": []
+    },
+    {
+      "id": 317,
+      "q": "Đảng Cộng sản Việt Nam xác định thành phần kinh tế \nnhà nước có vai trò như thế nào trong nền kinh tế?\nĐảng xác định vai trò của thành phần kinh tế nhà nước \nlà :",
+      "options": [
+        "Giữ vai trò chủ đạo",
+        "Giữ vai trò đặc biệt",
+        "Giữ vai trò điều phối",
+        "Giữ vai trò thứ yếu"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 318,
+      "q": "Mô hình kinh tế tổng quát của nước ta trong thời kỳ \nquá độ lên chủ nghĩa xã hội được Đại hội IX của Đảng \n(2001) xác định là:",
+      "options": [
+        "Kinh tế thị trường tự do",
+        "Kinh tế hàng hóa nhiều thành phần",
+        "Kinh tế thị trường định hướng xã hội chủ nghĩa",
+        "Kinh tế nhà nước và kinh tế tập thể"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 319,
+      "q": "Mô hình kinh tế thị trường định hướng xã hội chủ \nnghĩa ở nước ta được chính thức nêu ra ở Đại hội nào \ncủa Đảng?",
+      "options": [
+        "Đại hội VI (1986)",
+        "Đại hội VII (1991)",
+        "Đại hội VIII (1996)",
+        "Đại hội IX (2001)"
+      ],
+      "a": "D",
+      "note": "Khái niệm \"kinh tế thị \ntrường định hướng xã hội \nchủ nghĩa\" được Đảng \nđưa vào văn kiện lần đầu \ntiên ở Đại hội\nnào",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 320,
+      "q": "Cơ chế thị trường trong nền kinh tế Việt Nam từ 1986- \n1991 được xem là :",
+      "options": [
+        "Chưa đầy đủ",
+        "Đầy đủ",
+        "Hoàn hảo",
+        "Hoàn thiện"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 321,
+      "q": "Chiến lược \"Chiến tranh đặc biệt\" của Mỹ là gì?",
+      "options": [
+        "Một hình thức mới của chủ nghĩa thực dân cũ, dựa \ntrên nền tảng lực lượng quân nguỵ, dưới sự chỉ huy \ncủa cố vấn Mỹ, bằng phương tiện chiến tranh Mỹ",
+        "Một hình thức chiến tranh của chủ nghĩa thực dân \nmới, được tiến hành bằng quân đội viễn chinh Mỹ và \nquân chư hầu",
+        "Một hình thức chiến tranh của chủ nghĩa thực dân \ncũ, được tiến hành bằng Quân đội lính đánh thuê, dưới \nsự chỉ huy của cố vấn Mỹ, phương tiện chiến tranh Mỹ",
+        "Một hình thức chiến tranh của chủ nghĩa thực dân \nmới, được tiến hành bằng quân đội tay sai, dưới sự chỉ \nhuy của cố vấn Mỹ, bằng phương tiện chiến tranh Mỹ"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1954_1975",
+      "tags": []
+    },
+    {
+      "id": 322,
+      "q": "Điền thêm từ còn thiếu trong câu trích từ Nghị quyết \nHội nghị ban chấp hành Trung ương Đảng lần 24 \n(1975) : \".... đất nước vừa là nguyện vọng tha thiết của \nnhân dân cả nước, vừa là quy luật khách quan cửa sự \nphát triển cách mạng Việt Nam, của lịch sử dân tộc \nViệt Nam\"",
+      "options": [
+        "Độc lập",
+        "Thống nhất",
+        "Giải phóng",
+        "Độc lập và Thống nhất"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 323,
+      "q": "Một trong những bài học trong 10 năm đổi mới đất \nnước 1986-1996 là :",
+      "options": [
+        "Kinh tế thị trường nói chung và kinh tế thị trường \nđịnh hướng XHCN khác nhau hoàn toàn",
+        "Kinh tế thị trường nói chung và kinh tế thị trường \nđịnh hướng XHCN giống nhau về bản chất chỉ khác về \nhình thức",
+        "Kinh tế thị trường nói chung và kinh tế thị trường \nđịnh hướng XHCN giống nhau hoàn toàn.",
+        "Xây dựng nền KT hàng hóa nhiều thành phần vận \nhành cơ chế thị trường, tăng cường quản lý Nhà nước \ntheo định hướng XHCN. Tăng trưởng KT gắn tiến bộ \ncông bằng XH, giữ và phát huy bản sắc văn hóa dân \ntộc, bảo vệ môi trường sinh thái."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 324,
+      "q": "Đâu là một trong những nội dung của Đại hội lần thứ \nIV của Đảng (12/1976)?\nMột trong những nội dung của Đại hội lần thứ 4 của \nĐảng (12-1976) là :",
+      "options": [
+        "Kế hoạch nhà nước 5 năm 1976 - 1980",
+        "Phương hướng đổi mới đất nước",
+        "Tổng kết 10 năm đổi mới đất nước",
+        "Hàn gắn vết tHương chiến tranh"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 325,
+      "q": "Đại hội Đảng lần thứ 8 họp tại Hà Nội từ ngày 28/6 - \n1/7/1996 diễn ra trong bối cảnh nào?",
+      "options": [
+        "Cách mạng khoa học và công nghệ phát triển với \ntrình độ cao, chủ nghĩa xã hội hiện thực lâm vào thoái \ntrào.",
+        "Thời kỳ quá độ lên chủ nghĩa xã hội đạt nhiều thành \ntựu to lớn,",
+        "Cách mạng khoa học và công nghệ phát triển với \ntrình độ cao",
+        "Phong trào giải phóng dân tộc phát triển mạnh"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 326,
+      "q": "Đại hội lần thứ IV của Đảng họp từ 14 - 20/12/1976 tại \nHà Nội quyết định đổi tên Đảng thành :",
+      "options": [
+        "Đảng Lao động Việt Nam",
+        "Đảng Cộng sản Đông Dương",
+        "Đảng Cộng sản Việt Nam",
+        "Đảng Cộng sản Hồ Chí Minh"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_nhanvat",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 327,
+      "q": "Một trong những nhận thức mới của Đảng về chủ \nnghĩa xã hội là :",
+      "options": [
+        "Phát tiển các doanh nghiệp nhà nước",
+        "Các tài sản thuộc sở hữu toàn dân",
+        "Các quỹ dự trữ quốc gia, quỹ bảo hiểm nhà nước",
+        "Xây dựng con người mới XHCN"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 328,
+      "q": "Nhiệm vụ trung tâm của thời kỳ quá độ xây dựng đất \nnước là:",
+      "options": [
+        "Đẩy mạnh Công nghiệp hóa xã hội chủ nghĩa",
+        "Hợp tác xã nông nghiệp theo định hướng xã hội chủ \nnghĩa",
+        "Kinh tế thị trường định hướng xã hội chủ nghĩa",
+        "Nắm vững các quy luật kinh tế của chủ nghĩa xã hội."
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 329,
+      "q": "Mặt trận Tổ quốc Việt Nam, Đoàn thanh niên Lao động \nHCM, Tổng Công đoàn Việt Nam, Hội Liên hiệp phụ nữ \nViệt Nam v.v. được gọi là :",
+      "options": [
+        "Đảng cộng sản Việt Nam.",
+        "Các tổ chức đoàn thể",
+        "Mặt trận tổ quốc Việt Nam",
+        "Các tổ chức chính trị - xã hội"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 330,
+      "q": "Ngày 17/2/1979, quân đội nước nào tấn công phía Bắc \nbiên giới nước ta?",
+      "options": [
+        "Mỹ",
+        "Khơme đỏ",
+        "Trung Quốc",
+        "Pháp"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": []
+    },
+    {
+      "id": 331,
+      "q": "Một trong những mục tiêu của kế hoạch phát triển \nkinh tế và văn hóa 5 năm lần thứ 2 từ 1976 - 1980 của \ncả nước là:",
+      "options": [
+        "Đổi mới tổ chức và phương thức hoạt động của \nĐảng",
+        "Đổi mới tổ chức và phương thức hoạt động của Nhà \nnước",
+        "Đổi mới tổ chức và phương thức hoạt động kinh tế \nxã hội chủ nghĩa",
+        "Bảo đảm nhu cầu đời sống của nhân dân, tích lũy \nđể xây dựng cơ sở vật chất kỹ thuật của chủ nghĩa xã \nhội"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 332,
+      "q": "Trong mười năm từ 1979 - 1989, quan hệ Việt Nam- \nTrung Quốc trong tình hình :",
+      "options": [
+        "Thân thiện",
+        "Phức tạp",
+        "Đóng băng",
+        "Bình thường hóa"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 333,
+      "q": "Một trong những quan điểm của Đảng ta về Công \nnghiệp hóa- hiện đại hóa đất nước là:",
+      "options": [
+        "Tập hợp, vận động, đoàn kết rộng rãi các tầng lớp \nnhân dân",
+        "Đại diện cho quyền và lợi ích hợp pháp của nhân \ndân",
+        "Đề xuất các chủ trương, chính sách về kinh tế, văn \nhóa, an ninh, quốc phòng",
+        "Lấy việc phát huy nguồn lực con người là yếu tố cơ \nbản cho sự phát triển nhanh và bền vững."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 334,
+      "q": "Mục tiêu xây dựng chủ nghĩa xã hội ở Việt Nam là:",
+      "options": [
+        "Mở rộng quan hệ hợp tác với các nước trên thế giới",
+        "Kinh tế tư bản nhà nước",
+        "Kinh tế có vốn đầu tư nước ngoài theo định hướng \nxã hội chủ nghĩa",
+        "Dân giàu, nước mạnh, xã hội công bằng, văn minh"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 335,
+      "q": "Một trong những nhiệm vụ chiến lược mà Đại hội lần \nthứ V của Đảng khẳng định là :",
+      "options": [
+        "Đảm bảo quyền lực thuộc về nhân dân",
+        "Xây dựng lực lượng cho Đảng Cộng sản Việt Nam",
+        "Bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ \nnghĩa",
+        "Xây dựng nhà nước pháp quyền Việt Nam xã hội chủ \nnghĩa"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 336,
+      "q": "Đại hội lần thứ V của Đảng (1982) đã coi lĩnh vực nào \nlà Mặt trận hàng đầu?",
+      "options": [
+        "Công nghiệp",
+        "Nông nghiệp",
+        "Thương nghiệp",
+        "Dịch vụ"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 337,
+      "q": "Đại hội nào được đánh giá là Đại hội đổi mới đất \nnước?",
+      "options": [
+        "Đại hội IV 1976",
+        "Đại hội V 1982",
+        "Đại hội VI 1986",
+        "Đại hội VII 1991"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 338,
+      "q": "Trọng tâm của đổi mới kinh tế tại Đại hội VI (1986) là :",
+      "options": [
+        "Đổi mới cơ chế quản lý, xóa bỏ cơ chế tập trung quan \nliêu hành chính, bao cấp.",
+        "Đổi mới tổ chức và phương thức hoạt động của nhà \nnước",
+        "Đổi mới tổ chức và phương thức hoạt động của các \ntổ chức tư nhân",
+        "Đổi mới tổ chức và phương thức hoạt động của Mặt \ntrận tổ quốc Việt Nam"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 339,
+      "q": "Ba chương trình kinh tế lớn của ta sau đổi mới kinh tế \nlà:",
+      "options": [
+        "Lương thực - thực phẩm, hàng tiêu dùng và hàng \nxuất khẩu",
+        "Lương thực - thực phẩm, hàng tiêu dùng",
+        "Nông-công nghiệp, dịch vụ",
+        "Công nghiệp, thương nghiệp, dịch vụ"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 340,
+      "q": "Một trong những nội dung phát triển kinh tế mà Đại \nhôi Đảng lần thứ VI đề ra là :",
+      "options": [
+        "Mở rộng và nâng cao hiệu quả kinh tế thị trường",
+        "Phát triển kinh tế tư nhân",
+        "Mở rộng và nâng cao hiệu quả kinh tế đối ngoại.",
+        "Mở rộng phất triển kinh tế hợp tác xã"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 341,
+      "q": "Từ ngày 15 - 21/11/1975, Hội nghị Hiệp thương chính \ntrị của 2 đoàn đại biểu miền Bắc - Nam đã họp tại:",
+      "options": [
+        "Sài Gòn",
+        "Huế",
+        "Đà Nẵng",
+        "Hà Nội"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": []
+    },
+    {
+      "id": 342,
+      "q": "Sự lãnh đạo toàn diện và tuyệt đối của Đảng là điểm \ncốt lõi của cơ sở chính trị trong hệ thống gì:",
+      "options": [
+        "Hệ thống chính trị Chuyên chính vô sản",
+        "Hệ thống chính trị Dân chủ nhân dân",
+        "Hệ thống chính trị thời kỳ đổi mới"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 343,
+      "q": "Chủ trương trong quan hệ quốc tế của Việt Nam được \nĐại hội Đảng lần thứ IX đưa ra là:",
+      "options": [
+        "Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các \nnước trong cộng đồng quốc tế, phấn đấu vì hòa bình \nđộc lập và phát triển.",
+        "Việt Nam muốn là bạn, là đối tác tin cậy của các nước \ntrong cộng đồng quốc tế, phấn đấu vì hòa bình độc \nlập và phát triển.",
+        "Việt Nam là bạn, là đối tác tin cậy của các nước trong \ncộng đồng quốc tế, phấn đấu vì hòa bình độc lập và \nphát triển.",
+        "Việt Nam mong là bạn, là đối tác tin cậy của các nước \ntrong cộng đồng quốc tế, phấn đấu vì hòa bình độc \nlập và phát triển."
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 344,
+      "q": "Trong quá trình đổi mới mới đất nước, Đảng cộng sản \nViệt Nam đóng vai trò là :",
+      "options": [
+        "Không tham gia trong hệ thống chính trị",
+        "Đóng vai trò trụ cột",
+        "Thực hiện vai trò một cách hạn chế trong hệ thống \nchính trị",
+        "Đóng vai trò thứ yếu"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 345,
+      "q": "Một trong những bài học về đổi mới đất nước \n(1986-1996 ) là:",
+      "options": [
+        "Kết hợp chặt chẽ đổi mới kinh tế với đổi mới chính \ntrị, lấy đổi mới kinh tế làm trọng tâm, từng bước đổi \nmới chính trị.",
+        "Đổi mới tư duy và phương thức hoạt động của các \nbộ phận cấu thành hệ thống.",
+        "Đổi mới nhận thức và phương thức hoạt động của \ncác bộ phận cấu thành hệ thống.",
+        "Đổi mới tư tưởng và phương thức hoạt động của \ncác bộ phận cấu thành hệ thống."
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 346,
+      "q": "Nghị quyết Trung ương 4, khóa 8 tháng 12/1997 bầu \nai làm Tổng bí thư của Đảng?",
+      "options": [
+        "Lê Khả Phiêu",
+        "Trường Chinh",
+        "Đỗ Mười",
+        "Nguyễn Văn Linh"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 347,
+      "q": "Năm 1998, Việt Nam trở thành thành viên của :",
+      "options": [
+        "ASEAN",
+        "APEC",
+        "Liên Hợp Quốc",
+        "WTO"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 348,
+      "q": "Đường lối đối ngoại \"Việt Nam sẵn sàng là bạn, là đối \ntác tin cậy của các nước trong cộng đồng quốc tế, \nphấn đấu vì hòa bình, độc lập và phát triển\" được đưa \nra ở Đại hội nào của Đảng?",
+      "options": [
+        "Đại hội VII (1991)",
+        "Đại hội VIII (1996)",
+        "Đại hội IX (2001)",
+        "Đại hội X (2006)"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 349,
+      "q": "Trong quan hệ đối ngoại Đại hội 9 đưa ra chủ trương:",
+      "options": [
+        "Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các \nnước trong cộng đồng quốc tế, phấn đấu vì hòa bình, \nđộc lập và phát triển.",
+        "Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các \nnước trong cộng đồng quốc tế,",
+        "Việt Nam sẵn sàng là bạn của tất cả các nước.",
+        "Việt Nam sẵn sàng là bạn và ủng hộ phong trào hòa \nbình thế giới."
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 350,
+      "q": "Hội nghị Trung ương 8 khóa 9 tháng 7/2003 đã ban \nhành:",
+      "options": [
+        "Thực hiện dân chủ xã hội chủ nghĩa",
+        "Kết hợp chặt chẽ ngay từ đầu đổi mới kinh tế với đổi \nmới chính trị",
+        "Đổi mới hệ thống chính trị một cách toàn diện, đồng \nbộ",
+        "Chiến lược bảo vệ Tổ quốc trong tình hình mới."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 351,
+      "q": "Hội nghị Trung ương 7 khóa 9 tháng 3/2003 đã thống \nnhất coi:",
+      "options": [
+        "Đất đai là tài nguyên quốc gia vô cùng quý giá, là tư \nliệu đặc biệt, là nguồn nội lực và nguồn vốn to lớn của \nđất nước.",
+        "Đổi mới tổ chức và phương thức hoạt động của hệ \nthống chính trị làm cho nó phù hợp với đường lối đổi \nmới toàn diện, đồng bộ đất nước.",
+        "Đổi mới hệ thống chính trị một cách toàn diện, đồng \nbộ có kế thừa, có bước đi hình thức và cách làm phù \nhợp.",
+        "Đổi mới quan hệ giữa các bộ phận cấu thành của \nhệ thống chính trị với nhau và với xã hội là rất quan \ntrọng."
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 352,
+      "q": "Đường lối Đổi mới được Đảng đề ra tại Đại hội VI \n(1986) nhằm:",
+      "options": [
+        "Thay đổi mục tiêu xã hội chủ nghĩa",
+        "Làm cho mục tiêu xã hội chủ nghĩa được thực hiện \ntốt hơn",
+        "Từ bỏ những nguyên lý của chủ nghĩa Mác - Lênin",
+        "Thực hiện đa nguyên chính trị, đa đảng đối lập"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 353,
+      "q": "Chủ đề của Đại hội Đảng lần thứ 10 từ ngày 18 - \n25/4/2006 tại Hà Nội là :",
+      "options": [
+        "Nâng cao năng lực lãnh đạo và sức chiến đấu của \nĐảng, phát huy sức mạnh toàn dân tộc",
+        "Nâng cao năng lực lãnh đạo, phát triển công nghiệp \nhóa- hiện đại hóa đất nước.",
+        "Phát triển và hội nhập quốc tế",
+        "Nâng cao năng lực lãnh đạo và sức chiến đấu của \nĐảng, phát huy sức mạnh toàn dân tộc, đẩy mạnh \ntoàn diện công cuộc đổi mới sớm đưa nước ta ra khỏi \ntình trạng kém phát triển."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 354,
+      "q": "Quan điểm mới nổi bật của Đại hội Đảng lần thứ X \n(2006) là đã cho phép:",
+      "options": [
+        "Đảng viên làm kinh tế tư nhân",
+        "Đảng viên tự ứng cử và đề cử",
+        "Đảng viên được tự do xuất cảnh",
+        "Đảng viên được tự do kết hôn với người nước ngoài"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 355,
+      "q": "Chủ trương cho phép đảng viên làm kinh tế tư nhân \nđược Đảng chính thức thông qua tại Đại hội lần thứ \nmấy?",
+      "options": [
+        "Đại hội IX (2001)",
+        "Đại hội X (2006)",
+        "Đại hội XI (2011)",
+        "Đại hội XII (2016)"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_so",
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 356,
+      "q": "Một trong những nội dung mới của Đại hội Đảng lần \nthứ X là:",
+      "options": [
+        "Xây dựng, chỉnh đốn Đảng là nhiệm vụ then chốt \nhàng đầu và cho phép đảng viên làm kinh tế tư nhân.",
+        "Xây dựng chủ nghĩa xã hội",
+        "Xây dựng hệ thống chính trị",
+        "Xây dựng kinh tế tư nhân"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 357,
+      "q": "Đâu không phải là bài học kinh nghiệm mà Đại hội \nĐảng lần thứ X đã rút ra?",
+      "options": [
+        "Đổi mới toàn diện,đồng bộ có kế thừa, bước đi, hình \nthức cách làm phù hợp",
+        "Đổi mới phải vì lợi ích của nhân dân, dựa vào dân, \nphát huy vai trò chủ động, sáng tạo của nhân dân, \nxuất phát từ thực tiễn, nhạy bén với cái mới.",
+        "Phát huy cao độ nội lực, ra sức khai thác ngoại lực, \nkết hợp sức mạnh dân tộc và thời đại trong điều kiện \nmới.",
+        "Lấy đổi mới chính trị làm thứ yếu, đồng thời từng \nbước đổi mới kinh tế."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 358,
+      "q": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên \nchủ nghĩa xã hội được Đại hội Đảng lần thứ VII (1991) \nthông qua xác định xã hội chủ nghĩa mà nhân dân ta \nxây dựng có mấy đặc trưng cơ bản?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "a": "C",
+      "note": "đáp án chuẩn bị mới fix",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_so",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 359,
+      "q": "Hội nghị Trung ương 5 khóa 10 tháng 7/2007 ban \nhành Nghị quyết số 14- NQ/TW về :",
+      "options": [
+        "Tăng cường công tác kiểm tra, giám sát của Đảng",
+        "Tăng cường công tác kiểm tra, giám sát của đoàn \nthể",
+        "Cương lĩnh xây dựng đất nước",
+        "Thay đổi hệ thống chính trị"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 360,
+      "q": "Cương lĩnh Đại hội Đảng lần thứ 11 diễn ra từ 12 - \n19/1/2011 nêu rõ: Xã hội xã hội chủ nghĩa mà nhân \ndân ta xây dựng là một xã hội:",
+      "options": [
+        "Của dân, do dân, vì dân",
+        "Của dân, do dân, vì dân có nền kinh tế phát triển",
+        "Dân giàu, nước mạnh, dân chủ, công bằng, văn \nminh",
+        "Dân giàu, nước mạnh, dân chủ, công bằng, văn \nminh do nhân dân làm chủ"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 361,
+      "q": "Đại hội lần thứ 11 đề ra chiến lược phát triển kinh tế- \nxã hội 2011-2020 là :",
+      "options": [
+        "Phát triển nhanh gắn liền với phát triển bền vững",
+        "Phát tiển gắn với xây dựng",
+        "Đẩy mạnh hội nhập quốc tế",
+        "Xây dựng nền kinh tế tựu chủ"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 362,
+      "q": "Năm 2012 có bao nhiêu nước công nhận cơ chế kinh \ntế thị trường của Việt Nam?",
+      "options": [
+        "36 nước",
+        "38 nước",
+        "40 nước",
+        "44 nước"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_so"
+      ]
+    },
+    {
+      "id": 363,
+      "q": "Việt Nam gia nhập tổ chức ASEAN năm nào?",
+      "options": [
+        "1993",
+        "1994",
+        "1995",
+        "1997"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_so",
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 364,
+      "q": "Đại hội đại biểu toàn quốc lần thứ XIII Đảng Cộng sản \nViệt Nam họp từ ngày nào?",
+      "options": [
+        "từ ngày 23.1-1.2.2021",
+        "từ ngày 25.1-1.2.2021",
+        "từ ngày 26.1-1.2.2021",
+        "từ ngày 24.1-1.2.2021"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_nam",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 365,
+      "q": "Về Kết quả thực hiện Nghị quyết Đại hội XII, Đại hội XIII \nđánh giá lĩnh vực nào dưới đây chưa trở thành động \nlực then chốt thúc đẩy phát triển kinh tế - xã hội?",
+      "options": [
+        "Giáo dục và đào tạo, khoa học và công nghệ",
+        "Khoa học và công nghệ",
+        "Văn hóa xã hội",
+        "Giáo dục và đào tạo"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 366,
+      "q": "Tháng 11/2006, Bộ Chính trị khóa 10 ra Chỉ thị số \n3-NQ/TW là quyết định tổ chức cuộc vận động :",
+      "options": [
+        "Nói đi đôi với làm",
+        "Phát triển kinh tế tăng trưởng ổn định, hiệu quả.",
+        "Thi đua lập thành tích chào mừng Đại hội",
+        "Học tập và làm theo tấm gương đạo đức Hồ Chí \nMinh."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 367,
+      "q": "Tác hại nào do cơ chế quản lý kinh tế tập trung, quan \nliêu, bao cấp vẫn tồn tại đến ngày nay và rất khó xóa \nbỏ?",
+      "options": [
+        "Không tạo được động lực phát triển.",
+        "Không thúc đẩy sản xuất phát triển",
+        "Làm giảm năng suất, chất lượng, hiệu quả.",
+        "Nhiều hiện tượng tiêu cực trong xã hội."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 368,
+      "q": "Khẩu hiệu của Đại hội lần thứ XII của Đàng là :",
+      "options": [
+        "Đoàn kết-Dân chủ-Kỷ cương- Đổi mới",
+        "Đẩy mạnh toàn diện đồng bộ công cuộc đổi mới",
+        "Tăng cường khối Đại đoàn kết toàn dân tộc",
+        "Xây dựng Đảng trong sạch, vững mạnh"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 369,
+      "q": "Bộ Chính trị ban hành Chỉ thị số 5-CT/TW ngày \n15/5/2016 về:",
+      "options": [
+        "Thống nhất nhận thức về kinh tế thị trường định \nhướng XHCN.",
+        "Hoàn thiện thể chế về sở hữu và các thành phần \nkinh tế.",
+        "Học tập và làm theo tư tưởng Hồ Chí Minh.",
+        "Đẩy mạnh học tập và làm theo tư tưởng, đạo đức, \nphong cách Hồ Chí Minh."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_nhanvat",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 370,
+      "q": "Thời gian từ tháng 3 năm 1946 đến ngày 19/12/1946, \nĐảng lãnh đạo nhân dân thực hiện chủ trương chiến \nlược:",
+      "options": [
+        "Hòa để tiến",
+        "Đối đầu với quân đội Pháp",
+        "Đối đầu với quân đội Tưởng",
+        "Giải giáp quân đội Nhật"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1945_1954",
+      "tags": []
+    },
+    {
+      "id": 371,
+      "q": "Mở rộng các lĩnh vực kinh tế thuộc độc quyền nhà \nnước là vi phạm nguyên tắc",
+      "options": [
+        "Hoàn thiện thể chế gắn tăng trưởng kinh tế với tiến \nbộ, công bằng xã hội và bảo vệ môi trường.",
+        "Hoàn thiện thể chế về sở hữu và các thành phần \nkinh tế.",
+        "Hoàn thiện thể chế đảm bảo đồng bộ các yếu tố thị \ntrường và phát triển đồng bộ các loại thị trường.",
+        "Hoàn thiện thể chế chính trị"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 372,
+      "q": "Hội nghị Trung ương 5 khóa 12, tháng 5/2017 chủ \ntrương:",
+      "options": [
+        "Chủ trương phát triển kinh tế thị trường định hướng \nXHCN",
+        "Chủ trương phát triển kinh tế thị trường tư bản chủ \nnghĩa",
+        "Chủ trương phát triển kinh tế chỉ huy",
+        "Hoàn thiện thể chế kinh tế thị trường định hướng \nxã hội chủ nghĩa."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 373,
+      "q": "Hội nghị Trung ương 7 khóa 12 đã ban hành Nghị \nquyết số 27-NQ/TW ngày 21/5/2018 về:",
+      "options": [
+        "Cải cách chính sách tiền lương đối với cán bộ, công \nviên chức, lực lượng vũ trang và người lao động trong \ndoanh nghiệp.",
+        "Xây dựng văn hóa trong tình hình mới",
+        "Hội nhập trong tình hình mới",
+        "Tăng cường công tác bảo vệ, chăm sóc và nâng cao \nsức khỏe nhân dân trong tình hình mới."
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 374,
+      "q": "Hội nghị Trung ương 7 khóa 12 đã ban hành Nghị \nquyết số 28-NQ/TW ngày 23/5/2018 về:",
+      "options": [
+        "Đổi mới mục tiêu, con đường đi lên xã hội chủ nghĩa",
+        "Đổi mới nội dung, phương thức hoạt động, tổ chức \ncán bộ và quan hệ giữa các tổ chức trong hệ thống \nchính trị",
+        "Tăng cường công tác bảo vệ, chăm sóc và nâng cao \nsức khỏe nhân dân trong tình hình mới",
+        "Cải cách chính sách bảo hiểm xã hội."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 375,
+      "q": "Hội nghị trung ương VI khoá 6 (tháng 3 năm 1989) lần \nđầu tiên đưa ra thuật ngữ gì?",
+      "options": [
+        "Kinh tế thị trường định hướng xã hội chủ nghĩa",
+        "Hệ thống chính trị",
+        "Nhà nước pháp quyền xã hội chủ nghĩa",
+        "Đảng lãnh đạo, nhà nước quản lý, nhân dân làm chủ"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 376,
+      "q": "Xây dựng Đảng ngang tầm với thời kì Công nghiệp \nhóa- Hiện đại hóa đất nước đòi hỏi :",
+      "options": [
+        "Thực hiện tốt hơn dân chủ xã hội chủ nghĩa, phát \nhuy đầy đủ quyền làm chủ của nhân dân.",
+        "Thực hiện tốt hơn dân chủ xã hội chủ nghĩa, phát \nhuy đầy đủ quyền tự do của nhân dân.",
+        "Thực hiện tốt hơn dân chủ xã hội chủ nghĩa, phát \nhuy đầy đủ quyền giám sát của nhân dân.",
+        "Đảng phải tiếp tục tự đổi mới, tự chỉnh đốn, nâng \ncao hơn nữa sức chiến đấu và năng lực lãnh đạo của \nmình, khắc phục cho được các biểu hiện tiêu cực và \nyếu kém."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 377,
+      "q": "Đại hội XIII đã đề ra mấy đột phá chiến lược để phát \ntriển đất nước?",
+      "options": [
+        "3 đột phá",
+        "4 đột phá",
+        "5 đột phá",
+        "6 đột phá"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_so",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 378,
+      "q": "Một trong những đột phá chiến lược mà Đại hội XIII \nđề ra là:",
+      "options": [
+        "Xây dựng hệ thống kết cấu hạ tầng đồng bộ, hiện \nđại cả về kinh tế- xã hội",
+        "Đổi mới chính trị, đồng thời, từng bước đổi mới hệ \nthống chính trị",
+        "Đổi mới tư duy an ninh quốc phòng, đồng thời, từng \nbước đổi mới hệ thống chính trị",
+        "Đổi mới an sinh xã hội, đồng thời, từng bước đổi \nmới hệ thống chính trị"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 379,
+      "q": "Mọi công việc của Đảng, Nhà nước phải quán triệt sâu \nsắc lấy dân làm gốc, dân làm trung tâm, kiên trì thực \nhiện phương châm:",
+      "options": [
+        "Dân biết, dân bàn, dân làm, dân kiểm tra, dân giám \nsát, dân thụ hưởng",
+        "Dân biết, dân bàn, dân làm, dân kiểm tra, dân giám \nsát",
+        "Dân biết, dân bàn, dân làm, dân kiểm tra",
+        "Của dân, do dân và vì dân"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 380,
+      "q": "\"Đại diện cho quyền và lợi ích hợp pháp của nhân dân\" \nlà vai trò của tổ chức nào?",
+      "options": [
+        "Đảng Cộng sản Việt Nam",
+        "Đoàn thanh niên Cộng sản Hồ Chí Minh",
+        "Nhà Nước Việt Nam",
+        "Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị \n- xã hội"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": [
+        "tag_nhanvat"
+      ]
+    },
+    {
+      "id": 381,
+      "q": "Việt Nam hoàn thành nhiệm vụ thống nhất đất nước \nvề mặt nhà nước vào",
+      "options": [
+        "tháng 5/1975.",
+        "tháng 9/1975",
+        "tháng 7/1976.",
+        "tháng 12/1976."
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 382,
+      "q": "Một trong những bài học về kinh tế mà Đảng rút ra \ntrong 10 năm đổi mới đất nước 1986 - 1996 là gì?",
+      "options": [
+        "Xây dựng kinh tế bao cấp",
+        "Xây dựng kinh tế Hợp tác xã",
+        "Xây dựng kinh tế tư nhân",
+        "Xây dựng nền kinh tế hàng hóa nhiều thành phần \nvận hành theo cơ chế thị trường"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 383,
+      "q": "Một trong những bài học kinh nghiệm được rút ra \ntrong 10 năm đổi mới đất nước (1986-1996) là:",
+      "options": [
+        "Đổi mới tổ chức và phương thức hoạt động của hệ \nthống chính trị là nhằm thay đổi cách lãnh đạo của \nĐảng, hiệu lực quản lý của nhà nước, phát huy quyền \nlàm chủ của nhân dân.",
+        "Đổi mới tổ chức và phương thức hoạt động của hệ \nthống chính trị là nhằm tăng cường vai trò lãnh đạo \ncủa Đảng, hiệu lực quản lý của nhà nước, phát huy \nquyền làm chủ của nhân dân.",
+        "Kết hợp chặt chẽ đổi mới kinh tế với đổi mới chính \ntrị, lấy đổi mới kinh tế làm trọng tâm, từng bước đổi \nmới chính trị.",
+        "Đổi mới tổ chức và phương thức hoạt động của hệ \nthống chính trị là nhằm giảm bớt vai trò lãnh đạo của \nĐảng, hiệu lực quản lý của nhà nước, phát huy quyền \nlàm chủ của nhân dân."
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 384,
+      "q": "Quan điểm quan trọng về giải quyết các vấn đề xã hội \nthời kỳ đổi mới là:",
+      "options": [
+        "Ưu tiên mục tiêu xã hội trên mục tiêu kinh tế",
+        "Kết hợp các mục tiêu kinh tế với các mục tiêu xã hội",
+        "Chú trọng các mục tiêu kinh tế, từng bước thực hiện \nmục tiêu xã hội",
+        "Thực hiện mục tiêu xã hội trên cơ sở thực hiện thắng \nlợi các mục tiêu kinh tế"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 385,
+      "q": "Tên gọi \"Nước Cộng hoà xã hội chủ nghĩa Việt Nam\" \ncó từ khi nào ?",
+      "options": [
+        "Ngày 2/9/1945.",
+        "Ngày 2/7/1976.",
+        "Ngày 12/2/1951.",
+        "Ngày 2/7/1975."
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 386,
+      "q": "Trong 10 năm đổi mới đất nước vấn đề tăng cường vai \ntrò lãnh đạo của Đảng, coi xây dựng Đảng là :",
+      "options": [
+        "Nhiệm vụ then chốt",
+        "Nhiệm vụ quan trọng",
+        "Động lực phát triển",
+        "Gắn liền với phát triển kinh tế"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 387,
+      "q": "Công nghiệp hóa- Hiện đại hóa đất nước là sự nghiệp \ncủa :",
+      "options": [
+        "Toàn dân",
+        "Đảng Cộng sản Việt Nam",
+        "Cơ quan quản lý nhà nước về văn hóa",
+        "Nhà nước Việt Nam"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 388,
+      "q": "Đại hội lần thứ VIII của Đảng chủ trương tăng trưởng \nkinh tế gắn liền với tiến bộ và công bằng xã hội trong \nđiều kiện nào?",
+      "options": [
+        "Trong cả thời kỳ quá độ và suốt quá trình phát triển",
+        "Trong từng bước và suốt quá trình phát triển",
+        "Trong riêng thời kỳ quá độ và suốt quá trình phát \ntriển",
+        "Trong từng bước và suốt quá trình xây dựng thể chế \nkinh tế thị trường"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 389,
+      "q": "Hội nghị Trung ương 2, khóa 8, tháng 12/1996 nhận \nđịnh phát triển khoa học và công nghệ là :",
+      "options": [
+        "Ưu tiên phát triển hàng đầu trong quá trình công \nnghiệp hóa- hiện đại hóa đất nước",
+        "Quan trọng nhất trong quá trình đổi mới đất nước.",
+        "Ưu tiên phát triển hàng đầu trong quá trình hội \nnhập",
+        "Nhân tố quyết định tăng trưởng kinh tế xã hội"
+      ],
+      "a": "A",
+      "note": "chị mới fix",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 390,
+      "q": "Nội dung nào không đúng trong đặc trưng chủ yếu \ncủa đường lối công nghiệp hoá thời kỳ trước đổi mới?",
+      "options": [
+        "Nóng vội, giản đơn, duy ý chí, ham làm nhanh, làm \nlớn, không quan tâm đến hiệu quả kinh tế - xã hội.",
+        "Công nghiệp hóa theo mô hình nền kinh tế khép kín \nhướng nội và thiên về phát triển công nghiệp nặng.",
+        "Chủ lực thực hiện công nghiệp hóa là Nhà nước và \ncác doanh nghiệp nhà nước.",
+        "Công nghiệp hóa được thực hiện thông qua cơ chế \nthị trường định hướng xã hội chủ nghĩa."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 391,
+      "q": "Hội nghị Trung ương 3, khóa 8 Đảng đã chủ trương:\nHội nghị Trung ương III, khóa VIII (1997) của Đảng đã \nchủ trương:",
+      "options": [
+        "Thực hiện thắng lợi sự nghiệp công nghiệp hóa, \nhiện đại hóa",
+        "Xây dựng đội ngũ cán bộ các cấp có phẩm chất và \nnăng lực, có bản lĩnh chính trị vững vàng",
+        "Xây dựng đội ngũ cán bộ các cấp có phẩm chất và \nnăng lực, có bản lĩnh chính trị vững vàng, đủ về số \nlượng, đồng bộ về cơ cấu",
+        "Liên minh công nhân, nông dân và tầng lớp trí thức"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 392,
+      "q": "Nghị quyết Trung ương III, tháng 6/1997 đã chú trọng \nnội dung nào sau đây?\nNội dung nào của Nghị quyết Trung ương 3, tháng \n6/1997 về phát huy quyền ?",
+      "options": [
+        "Làm chủ của nhân dân",
+        "Lãnh đạo của Đảng",
+        "Của các tổ chức chính trị-xã hội",
+        "Của Mặt trận tổ quốc"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 393,
+      "q": "Hội nghị Trung ương 5 khóa 9 tháng 3/2002 đã thống \nnhất nhận thức về sự cần thiết phát triển kinh tế tập \nthể và thảo luận, thống nhất nhận thức coi:",
+      "options": [
+        "Kinh tế tư nhân đã phát triển rộng khắp trong cả \nnước, đóng góp quan trọng vào phát triển kinh tế",
+        "Kinh tế nhà nước đã phát triển rộng khắp trong cả \nnước, đóng góp quan trọng vào phát triển kinh tế",
+        "Sự lãnh đạo của Đảng quyết định sự phát triển kinh \ntế đất nước",
+        "Chủ nghĩa Mác Lênin, tư tưởng Hồ Chí Minh ngày \ncàng giữ vai trò chủ đạo"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_nhanvat",
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 394,
+      "q": "Đại hội VIII đưa ra luận điểm quan trọng về công \nnghiệp hóa là",
+      "options": [
+        "Giai đoạn chuẩn bị các tiền đề công nghiệp hóa đất \nnước đã cơ bản hoàn thành, cho phép ta chuyển sang \ngiai đoạn đẩy mạnh công nghiệp hóa, hiện đại hóa đất \nnước.",
+        "Công nghiệp hóa được nhận thức là \"công nghiệp \nhóa - hiện đại hóa\".",
+        "Công nghiệp hóa được nhận thức là \"công nghiệp \nhóa- hiện đại hóa gắn với phát triển kinh tế tri thức\".",
+        "Công nghiệp hóa được nhận thức là \"công nghiệp \nhóa- hiện đại hóa gắn với phát triển kinh tế tri thức \ntrong cơ chế thị trường định hướng XHCN và hội nhập \nkinh tế quốc tế\"."
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 395,
+      "q": "Sự kiện lịch sử nào mở ra tiền đề để Việt Nam thúc đẩy \nquan hệ với khu vực và cộng đồng quốc tế?",
+      "options": [
+        "Bình thường hóa quan hệ với Trung Quốc",
+        "Việt Nam tham gia ký Hiệp định Pari (23/10/1991) về \nmột giải pháp toàn diện cho vấn đề Campuchia",
+        "Bình thường hóa quan hệ với Hoa Kỳ",
+        "Việt Nam gia nhập hiệp hội các nước Đông Nam Á \n(Asean)"
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 396,
+      "q": "\"Tranh thủ được nguồn viện trợ đáng kể, góp phần \nkhôi phục đất nước sau chiến tranh\" là một trong \nnhững ý nghĩa của ngoại giao Việt Nam thời kỳ nào?",
+      "options": [
+        "Sau đổi mới (1975-1985)",
+        "Trước đổi mới (1945-1985)",
+        "Sau đổi mới (1985 - 1995)",
+        "Trước đổi mới (1975-1985)"
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 397,
+      "q": "Điền vào chỗ trống. Mục tiêu cụ thể được nêu trong \nđại hội lần thứ XIII của Đảng đó là:\n\"Đến năm 2025, kỷ niệm 50 năm giải phóng hoàn toàn \nmiền Nam, thống nhất đất nước: là nước đang phát \ntriển, có công nghiệp theo hướng hiện đại, vượt qua \nmức thu nhập....\"",
+      "options": [
+        "Trung bình thấp",
+        "Trung bình cao",
+        "Trung bình",
+        "Trung bình kém phát triển"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 398,
+      "q": "Hội nghị Trung ương 8 khóa 9 đã ban hành Nghị quyết \nsố 36-NQ/TW ngày 26/3/2004 về công tác đối với :",
+      "options": [
+        "Biến đổi khí hậu",
+        "Công nghiệp hóa, hiện đại hóa",
+        "Người Việt Nam ở nước ngoài",
+        "Phát triển giáo dục"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 399,
+      "q": "Việt Nam và Trung Quốc bình thường hóa quan hệ vào \nthời gian nào?",
+      "options": [
+        "11-1-2007",
+        "13-7-2001",
+        "10-11-1991",
+        "12-7-1995"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_nam"
+      ]
+    },
+    {
+      "id": 400,
+      "q": "Hội nghị Trung ương 3 khóa 10 ban hành Nghị quyết \nsố 04-NQ/TW ngày 21/8/2006 về:",
+      "options": [
+        "Mở rộng thị trường, trao đổi hàng hóa tăng mạnh \nđã thúc đẩy sản xuất hàng hóa của các nước",
+        "Nguồn vốn, khoa học công nghệ, kinh nghiệm quản \nlý cùng các hình thức đầu tư, hợp tác mang lại lợi ích \ncho các bên.",
+        "Tăng cường sự lãnh đạo của Đảng với công tác đấu \ntranh phòng, chống tham nhũng lãng phí.",
+        "Các nước công nghiệp phát triển thao túng, chi phối \nquá trình toàn cầu hóa tạo ra sự bất bình đẳng trong \nquan hệ quốc tế và làm gia tăng sự phân cực giữa \nnước giàu và nghèo."
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 401,
+      "q": "Một trong những nhiệm vụ trọng tâm trong nhiệm kỳ \nđại hội đã được Đại hội Đảng lần thứ XIII nêu ra là :",
+      "options": [
+        "Tiếp tục đẩy mạnh xây dựng, chỉnh đốn Đảng, xây \ndựng Nhà nước pháp quyền xã hội chủ nghĩa và hệ \nthống chính trị toàn diện, trong sạch, vững mạnh. Đổi \nmới phương thức lãnh đạo, cầm quyền của Đảng",
+        "Ưu tiên phát triển công nghiệp công nghệ trung \nbình, công nghiệp chế tác, công nghiệp phần mềm và \ncông nghiệp bổ trợ có lợi thế cạnh tranh",
+        "Tập trung phát triển công nghiệp nặng, công nghiệp \nchế tác, công nghiệp phần mềm và công nghiệp bổ trợ \ncó lợi thế cạnh tranh",
+        "Khuyến khích phát triển tiểu thủ công nghiệp, \ncông nghiệp chế tác, công nghiệp phần mềm và công \nnghiệp bổ trợ có lợi thế cạnh tranh"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 402,
+      "q": "Tại Đại hội đại biểu toàn quốc lần thứ IV (1976), chủ \ntrương, nhận định nào của Đảng ta được đánh giá là \nchủ quan, nóng vội?\nChủ trương, nhận định nào là hạn chế của Đảng tại \nĐại hội lần thứ IV (1976)?",
+      "options": [
+        "Hoàn thành về cơ bản quá trình đưa nền kinh tế \nnước ta từ sản xuất nhỏ lên sản xuất lớn xã hội chủ \nnghĩa trong khoảng 20 năm",
+        "Quá độ lên chủ nghĩa xã hội ở nước ta là thời kỳ \nkhó khăn, phức tạp, lâu dài, phải trải qua nhiều chặng \nđường",
+        "Nước ta đã thống nhất, cả nước tiến lên chủ nghĩa \nxã hội",
+        "Nước ta đang ở trong quá trình từ một xã hội kinh \ntế sản xuất nhỏ tiến thẳng lên chủ nghĩa xã hội"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1975_1986",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 403,
+      "q": "Trung ương nhận định như thế nào về Chiến lược kinh \ntế Biển ở thế kỉ XXI ?",
+      "options": [
+        "Biển là tiềm năng kinh tế to lớn của đất nước",
+        "Việt Nam phải là quốc gia mạnh về biển.",
+        "Việt Nam phải trở thành quốc gia mạnh về biển, làm \ngiàu từ biển",
+        "Việt Nam phải trở thành quốc gia mạnh về biển, làm \ngiàu từ biển, trên cơ sở phát huy mọi tiềm năng từ \nbiển, phát triển toàn diện các ngành, nghề biển."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 404,
+      "q": "Tại sao phải Tăng cường công tác kiểm tra, giám sát \ncủa Đảng?",
+      "options": [
+        "Đảng là nhân tố hàng đầu lãnh đạo cách mạng Việt \nNam thắng lợi.",
+        "Kiểm tra, giám sát là nội dung rất quan trọng trong \nlãnh đạo của Đảng.",
+        "Kiểm tra, giám sát là nội dung rất quan trọng trong \nlãnh đạo của Đảng, điều kiện để xây dựng Đảng trong \nsạch vững mạnh.",
+        "Kiểm tra, giám sát là nội dung rất quan trọng trong \nlãnh đạo của Đảng, là nhiệm vụ thường xuyên của \ntoàn Đảng, trước hết là cấp ủy và người đứng đầu cấp \nủy."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 405,
+      "q": "Vì sao đất nước đã độc lập vẫn xây dựng giai cấp công \nnhân Việt Nam trong thời kỳ đẩy mạnh công nghiệp \nhóa- hiện đại hóa đất nước?",
+      "options": [
+        "Giai cấp công nhân là động lực phát triển kinh tế",
+        "Giai cấp công nhân đại diện cho phương thức sản \nxuất hiện đại.",
+        "Giai cấp lãnh đạo cách mạng thông qua đội tiền \nphong là Đảng Cộng sản Việt Nam , là giai cấp đại diện \ncho phương thức sản xuất tiên bộ.",
+        "Giai cấp lãnh đạo cách mạng thông qua đội tiền \nphong là Đảng Cộng sản Việt Nam, là giai cấp đại diện \ncho phương thức sản xuất tiên tiến, tiên phong đi đầu \ntrong sự nghiệp công nghiệp hóa- hiện đại hóa đất \nnước."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 406,
+      "q": "Tại sao, Đại hội 5 - 1982 lại nhận thức và coi nông \nnghiệp là mặt trận hàng đầu?",
+      "options": [
+        "Phù hợp với thời kỳ quá độ xây dựng xã hội chủ \nnghĩa.",
+        "Phù hợp với thời kỳ quá độ xây dựng xã hội chủ \nnghĩa, hội nhập quốc tế.",
+        "Nhận thức đó phù hợp với nước ta để khai thác thế \nmạnh, tiềm năng của đất nước về lao động, đất đai, \nngành nghề v.v, tạo tiền đề cho những chặng đường \ntiếp theo.",
+        "Nhận thức đó phù hợp với nước ta để khai thác \nthế mạnh, tiềm năng của đất nước về lao động, đất \nđai, ngành nghề , động lực phát triển công nghiệp \nhóa-hiện đại hóa đất nước."
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 407,
+      "q": "Tại sao, cần cải cách chính sách tiền lương, bảo hiểm \nxã hội và trợ cấp ưu đãi người có công giai đoạn 2008 \n- 2012?",
+      "options": [
+        "Việc trả lương đúng cho người lao động là thực hiện \nđầu tư cho phát triển, tạo động lực cho phát triển kinh \ntế-xã hội.",
+        "Việc trả lương đúng cho người lao động sẽ khuyến \nkhích người giỏi hăng say lao động và đó động lực \nphát triển đất nước.",
+        "Việc trả lương đúng cho người lao động là thực hiện \nđầu tư cho phát triển, tạo động lực cho phát triển kinh \ntế-xã hôi, góp phần làm trong sạch và nâng cao hiệu \nlực, hiệu quả hoạt động của bộ máy nhà nước",
+        "Sẽ tạo động lực cho phát triển kinh tế-xã hôi, góp \nphần làm trong sạch và nâng cao hiệu lực, hiệu quả \nhoạt động của bộ máy nhà nước"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 408,
+      "q": "Đảng đánh giá như thế nào về bộ phận công chức nhà \nnước hiện nay?",
+      "options": [
+        "Tình trạng quan liêu, hách dịch, nhũng nhiễu của \nmột bộ phận công chức chưa được khắc phục",
+        "Tình trạng quan liêu, hách dịch, nhũng nhiễu của \ntất cả công chức còn phổ biến.",
+        "Tình trạng quan liêu, hách dịch, nhũng nhiễu của \nmột bộ phận công chức đã được khắc phục.",
+        "Tình trạng quan liêu, hách dịch, nhũng nhiễu của \ntất cả công chức chưa được khắc phục."
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "khac",
+      "tags": []
+    },
+    {
+      "id": 409,
+      "q": "Nhận xét nào là đúng về hạn chế của nước ta sau 10 \nnăm đổi mới 1986-1996?",
+      "options": [
+        "Việt Nam vẫn là nước nghèo, kém phát triển, xã hội \ncòn nhiều tiêu cực và nhiều vấn đề phải giải quyết.",
+        "Việt Nam vẫn là nước nghèo, kém phát triển, xã hội \ncòn nhiều tiêu cực",
+        "Việt Nam vẫn là nước nghèo, phát triển còn mất cân \nđối",
+        "Việt Nam vẫn là nước nghèo nàn, lạc hậu"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 410,
+      "q": "Đại hội lần thứ VII Quốc tế Cộng sản (7/1935) xác định \nkẻ thù nguy hiểm trước mắt của nhân dân thế giới là:",
+      "options": [
+        "Chủ nghĩa phát xít",
+        "Chủ nghĩa đế quốc",
+        "Chủ nghĩa tư bản",
+        "Chủ nghĩa Tờ rốt kít"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1930_1945",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 411,
+      "q": "Đổi mới không phải là thay đổi mục tiêu chủ nghĩa xã \nhội mà phải",
+      "options": [
+        "làm cho chủ nghĩa xã hội ngày càng tốt đẹp hơn.",
+        "làm cho mục tiêu ấy được thực hiện có hiệu quả.",
+        "làm cho mục tiêu đã đề ra nhanh chóng được thực \nhiện.",
+        "làm cho mục tiêu đã đề ra phù hợp với thực tiễn đất \nnước."
+      ],
+      "a": "B",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 412,
+      "q": "Một trong những nhiệm vụ trọng tâm mà Đại hội XII \nđã nêu (2011-2016)",
+      "options": [
+        "Đẩy mạnh công nghiệp hóa xã hội chủ nghĩa, xây \ndựng cơ sở vật chất - kỹ thuật của chủ nghĩa xã hội, \nđưa nền kinh tế nước ta từ sản xuất lớn lên sản xuất \nđại quy mô xã hội chủ nghĩa.",
+        "Sự nghiệp của nhà nước và các doanh nghiệp liên \ndoanh",
+        "Sự nghiệp của toàn dân, của mọi thành phần kinh \ntế, trong đó kinh tế nhà nước là chủ đạo",
+        "Tập trung thực hiện các giải pháp nâng cao chất \nlượng tăng trưởng, năng suất lao động và sức cạnh \ntranh của nền kinh tế."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": [
+        "tag_daihoi"
+      ]
+    },
+    {
+      "id": 413,
+      "q": "Trong đường lối Chiến lược phát triển kinh tế- xã hội \n2011-2020 Đảng ta chú trọng phát triển vấn đề nào \nsau đây?",
+      "options": [
+        "Phát triển công nghiệp hóa xã hội chủ nghĩa, xây \ndựng cơ sở vật chất - kỹ thuật của chủ nghĩa xã hội",
+        "Phát triển công nghiệp hóa hiện đại hóa nông \nnghiệp nông thôn...",
+        "Đẩy mạnh công nghiệp hóa xã hội chủ nghĩa, xây \ndựng cơ sở vật chất - kỹ thuật của chủ nghĩa xã hội, \nđưa nền kinh tế nước ta từ sản xuất lớn lên sản xuất \nđại quy mô xã hội chủ nghĩa.",
+        "Phát triển nhanh nguồn nhân lực, nhất là nguồn \nnhân lực chất lượng cao."
+      ],
+      "a": "D",
+      "note": "",
+      "multi": false,
+      "topic": "period_1986_now",
+      "tags": []
+    },
+    {
+      "id": 414,
+      "q": "Tháng 6-1925 gắn với sự ra đời của tổ chức nào?",
+      "options": [
+        "Hội Việt Nam cách mạng thanh niên",
+        "Đông Dương Cộng sản Đảng",
+        "Quốc dân Đảng",
+        "Đảng cộng sản Việt Nam"
+      ],
+      "a": "A",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": []
+    },
+    {
+      "id": 415,
+      "q": "Hội nghị thành lập Đảng Cộng sản Việt Nam được tổ \nchức ở đâu?",
+      "options": [
+        "Hà Nội",
+        "Chiêm Hóa (Tuyên Quang)",
+        "Cửu Long- Hương Cảng-Trung Quốc",
+        "Quảng Châu- Trung Quốc"
+      ],
+      "a": "C",
+      "note": "",
+      "multi": false,
+      "topic": "period_1858_1930",
+      "tags": []
+    }
+  ]
+};
