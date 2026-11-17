@@ -285,7 +285,6 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_so",
         "tag_daihoi"
       ]
     },
@@ -543,7 +542,6 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_so",
         "tag_nam"
       ]
     },
@@ -611,7 +609,6 @@
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
-        "tag_so",
         "tag_nam"
       ]
     },
@@ -779,7 +776,6 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_so",
         "tag_nam",
         "tag_daihoi"
       ]
@@ -968,7 +964,6 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_so",
         "tag_nam",
         "tag_daihoi"
       ]
@@ -1344,7 +1339,6 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_so",
         "tag_nam"
       ]
     },
@@ -1847,7 +1841,6 @@
       "multi": false,
       "topic": "period_1858_1930",
       "tags": [
-        "tag_so",
         "tag_nam"
       ]
     },
@@ -1946,7 +1939,6 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_so",
         "tag_nam",
         "tag_daihoi"
       ]
@@ -2984,7 +2976,8 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_so"
       ]
     },
     {
@@ -4479,7 +4472,6 @@
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
-        "tag_so",
         "tag_daihoi"
       ]
     },
@@ -5787,7 +5779,6 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_so",
         "tag_nam",
         "tag_daihoi"
       ]
@@ -5926,7 +5917,6 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_so",
         "tag_nam"
       ]
     },
