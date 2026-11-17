@@ -229,7 +229,7 @@ kbd{background:#e2e8f0; border-radius:4px; padding:2px 6px; font-family:monospac
       <div class="rating-buttons hidden" id="ratingButtons">
         <button class="btn-rate again" onclick="rateCard(1)">
           <b>Lại</b>
-          <small id="lblAgain">10p</small>
+          <small id="lblAgain">1 phút</small>
         </button>
         <button class="btn-rate hard" onclick="rateCard(2)">
           <b>Khó</b>
@@ -506,11 +506,11 @@ function checkCurrentCard(){
 function calculateNextIntervals(){
   const rec = DB[curCard.id] || { ease: CFG.startEase, ivl: 0, step: 0, reps: 0 };
   
-  // Labels for 4 buttons
-  $("lblAgain").textContent = "10 phút";
-  $("lblHard").textContent = rec.ivl > 0 ? `${Math.round(rec.ivl * 1.2)} ngày` : "1 ngày";
-  $("lblGood").textContent = rec.ivl > 0 ? `${Math.round(rec.ivl * rec.ease)} ngày` : "2 ngày";
-  $("lblEasy").textContent = rec.ivl > 0 ? `${Math.round(rec.ivl * rec.ease * 1.3)} ngày` : "4 ngày";
+  // Labels for 4 buttons: bắt đầu từ 1 phút cho câu cần học lại
+  $("lblAgain").textContent = "1 phút";
+  $("lblHard").textContent = rec.ivl > 0 ? `${Math.round(rec.ivl * 1.2)} ngày` : "10 phút";
+  $("lblGood").textContent = rec.ivl > 0 ? `${Math.round(rec.ivl * rec.ease)} ngày` : "1 ngày";
+  $("lblEasy").textContent = rec.ivl > 0 ? `${Math.round(rec.ivl * rec.ease * 1.3)} ngày` : "3 ngày";
 }
 
 function rateCard(rating){
@@ -528,26 +528,34 @@ function rateCard(rating){
   rec.reps = (rec.reps || 0) + 1;
   const now = Date.now();
   
-  if(rating === 1){ // Again
+  if(rating === 1){ // Again - lặp lại sau 1 phút
     rec.step = 1;
-    rec.due = now + 10 * 60 * 1000; // 10 mins
+    rec.due = now + 1 * 60 * 1000; // 1 phút
     rec.ease = Math.max(1.3, rec.ease - 0.2);
     // Push back to queue
     activeQueue.shift();
     activeQueue.push(curCard);
-  } else if(rating === 2){ // Hard
+  } else if(rating === 2){ // Hard - câu khó: lặp lại sau 10 phút nếu mới, hoặc x1.2 ngày nếu đã thuộc
     rec.ease = Math.max(1.3, rec.ease - 0.15);
-    rec.ivl = rec.ivl > 0 ? Math.round(rec.ivl * 1.2) : 1;
-    rec.due = now + rec.ivl * 86400 * 1000;
+    if(rec.ivl > 0){
+      rec.ivl = Math.round(rec.ivl * 1.2);
+      rec.due = now + rec.ivl * 86400 * 1000;
+    } else {
+      rec.step = 2;
+      rec.due = now + 10 * 60 * 1000; // 10 phút cho thẻ mới nhưng khó
+      activeQueue.push(curCard);
+    }
     activeQueue.shift();
-  } else if(rating === 3){ // Good
-    rec.ivl = rec.ivl > 0 ? Math.round(rec.ivl * rec.ease) : 2;
+  } else if(rating === 3){ // Good - thuộc tốt: 1 ngày
+    rec.ivl = rec.ivl > 0 ? Math.round(rec.ivl * rec.ease) : 1;
     rec.due = now + rec.ivl * 86400 * 1000;
+    rec.step = 0;
     activeQueue.shift();
-  } else if(rating === 4){ // Easy
+  } else if(rating === 4){ // Easy - rất dễ: 3 ngày
     rec.ease += 0.15;
-    rec.ivl = rec.ivl > 0 ? Math.round(rec.ivl * rec.ease * 1.3) : 4;
+    rec.ivl = rec.ivl > 0 ? Math.round(rec.ivl * rec.ease * 1.3) : 3;
     rec.due = now + rec.ivl * 86400 * 1000;
+    rec.step = 0;
     activeQueue.shift();
   }
   
