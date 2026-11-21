@@ -39,14 +39,14 @@
 
 Học theo các "Bộ số" gộp chung để nhớ nhanh nhiều câu cùng một lúc:
 
-| Bộ số | Nội dung lịch sử | Câu hỏi & Đáp án |
-|---|---|---|
-| **BỘ 2** | • Kế hoạch giải phóng miền Nam (Bộ Chính trị cuối 1974 - đầu 1975)<br>• Cuộc khai thác thuộc địa của Pháp ở VN (1897-1914 và 1919-1929)<br>• Hai nhiệm vụ chiến lược của CMVN (Đại hội III - 1960: Bắc XHCN, Nam GPDT)<br>• Hai nhiệm vụ chiến lược trong thời kỳ mới (Đại hội V - 1982: Xây dựng CNXH & Bảo vệ Tổ quốc) | **Q15:** 2 kế hoạch (B)<br>**Q22:** 2 cuộc (B)<br>**Q100:** 2 nhiệm vụ (A)<br>**Q48:** 2 nhiệm vụ (B) |
-| **BỘ 3** | • Số văn kiện Hội nghị thành lập Đảng 1930 thông qua (Chính cương, Sách lược, Điều lệ vắn tắt)<br>• Số nhiệm vụ / thứ giặc cấp bách phiên họp đầu tiên 3/9/1945 (Giặc đói, giặc dốt, giặc ngoại xâm)<br>• Số đặc điểm lớn của CMVN trong giai đoạn mới (Đại hội IV - 12/1976)<br>• Số đợt của Chiến dịch Điện Biên Phủ 1954 (Đợt 1: 13-17/3, Đợt 2: 30/3-26/4, Đợt 3: 1-7/5)<br>• Ba khâu đột phá chiến lược (Đại hội XI & Đại hội XIII) | **Q94:** 3 văn kiện (B)<br>**Q44:** 3 nhiệm vụ (B)<br>**Q49:** 3 đặc điểm (B)<br>**Q257:** 3 đợt (B)<br>**Q377:** 3 đột phá (A) |
-| **BỘ 4** | • Số văn kiện thể hiện nội dung Cương lĩnh chính trị đầu tiên 2/1930 (Chính cương, Sách lược, Chương trình, Điều lệ vắn tắt)<br>• Số loại hình chiến tranh của Mỹ ở VN (Đơn phương → Đặc biệt → Cục bộ → VN hóa chiến tranh)<br>• Bốn bài học kinh nghiệm lớn của công cuộc Đổi mới (Đại hội VI - 1986) | **Q178:** 4 văn kiện (C)<br>**Q300:** 4 loại hình (C)<br>**Q409:** 4 bài học lớn |
-| **BỘ 6** | • Số đặc trưng cơ bản của CNXH trong Cương lĩnh xây dựng đất nước năm 1991 (Đại hội VII) | **Q358:** 6 đặc trưng (C) |
-| **BỘ 8** | • Số đặc trưng và số phương hướng xây dựng CNXH trong Cương lĩnh bổ sung, phát triển 2011 (Đại hội XI) | 8 đặc trưng & 8 phương hướng |
-| **BỘ 36** | • Số quốc gia công nhận Việt Nam là nền kinh tế thị trường tính đến năm 2012 | **Q362:** 36 nước (A) |
+| Bộ số | Dấu hiệu nhận biết trong câu hỏi thực tế | Câu & Đáp án chuẩn |
+|:---:|---|:---:|
+| **BỘ 2** | • Thấy hỏi: *Bộ Chính trị (cuối 1974 - đầu 1975) đề ra mấy kế hoạch...* ➔ **2 kế hoạch**<br>• Thấy hỏi: *Thực dân Pháp tiến hành mấy cuộc khai thác thuộc địa...* ➔ **2 cuộc**<br>• Thấy hỏi: *Đại hội III (1960) xác định cách mạng VN thực hiện mấy nhiệm vụ...* ➔ **2 nhiệm vụ**<br>• Thấy hỏi: *Đại hội V (1982) đề ra mấy nhiệm vụ chiến lược thời kỳ mới...* ➔ **2 nhiệm vụ** | **Q15:** 2 (B)<br>**Q22:** 2 (B)<br>**Q100:** 2 (A)<br>**Q48:** 2 (B) |
+| **BỘ 3** | • Thấy hỏi: *Hội nghị thành lập Đảng 1930 thông qua mấy văn kiện do Nguyễn Ái Quốc soạn thảo...* ➔ **3 văn kiện** *(phân biệt Q178)*<br>• Thấy hỏi: *Phiên họp đầu tiên của Chính phủ lâm thời (3/9/1945) nêu mấy nhiệm vụ cấp bách...* ➔ **3 nhiệm vụ** *(giặc đói, giặc dốt, ngoại xâm)*<br>• Thấy hỏi: *Đại hội IV (1976) nêu lên mấy đặc điểm lớn của cách mạng nước ta...* ➔ **3 đặc điểm**<br>• Thấy hỏi: *Chiến dịch Điện Biên Phủ 1954 chia làm mấy đợt...* ➔ **3 đợt**<br>• Thấy hỏi: *Đại hội XI & Đại hội XIII đề ra mấy đột phá chiến lược...* ➔ **3 đột phá** | **Q94:** 3 (B)<br>**Q44:** 3 (B)<br>**Q49:** 3 (B)<br>**Q257:** 3 (B)<br>**Q377:** 3 (A) |
+| **BỘ 4** | • Thấy hỏi: *Nội dung Cương lĩnh chính trị đầu tiên (2/1930) thể hiện trong mấy văn kiện...* ➔ **4 văn kiện** *(Chính cương, Sách lược, Chương trình, Điều lệ)*<br>• Thấy hỏi: *Từ 1954 đến 1975, Mỹ thực hiện mấy loại hình chiến tranh ở VN...* ➔ **4 loại hình** *(Đơn phương, Đặc biệt, Cục bộ, VN hóa)*<br>• Thấy hỏi: *Đại hội VI (1986) rút ra mấy bài học lớn của công cuộc Đổi mới...* ➔ **4 bài học** | **Q178:** 4 văn kiện (C)<br>**Q300:** 4 loại hình (C)<br>**Q409:** 4 bài học lớn (A) |
+| **BỘ 6** | • Thấy hỏi: *Cương lĩnh xây dựng đất nước năm 1991 (Đại hội VII) nêu mấy đặc trưng của CNXH...* ➔ **6 đặc trưng** | **Q358:** 6 đặc trưng (C) |
+| **BỘ 8** | • Thấy hỏi: *Cương lĩnh bổ sung, phát triển 2011 (Đại hội XI) xác định bao nhiêu đặc trưng & phương hướng...* ➔ **8 đặc trưng & 8 phương hướng** | 8 đặc trưng & 8 phương hướng |
+| **BỘ 36** | • Thấy hỏi: *Năm 2012 có bao nhiêu nước công nhận kinh tế thị trường của VN...* ➔ **36 nước** | **Q362:** 36 nước (A) |
 
 ### 🎯 Mẹo nhớ các mốc mục tiêu của Đại hội XIII (2021)
 Mục tiêu phát triển đất nước theo 3 mốc tăng dần – nhớ theo câu thần chú: **"25 thấp - 30 cao - 45 phát triển"**:
