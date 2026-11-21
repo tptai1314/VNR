@@ -58,147 +58,112 @@ Mục tiêu phát triển đất nước theo 3 mốc tăng dần – nhớ theo
 
 ## 2. NHÓM 2 – DÒNG THỜI GIAN & CÁC MỐC NĂM QUAN TRỌNG
 
-Đừng học từng năm rời rạc! Hãy học theo trục thời gian tuyến tính kể thành một câu chuyện lịch sử:
+Đừng học từng năm rời rạc! Hãy học theo mẹo nhận diện từ khóa câu hỏi để chọn ngay mốc sự kiện:
 
 ### 2.1. Giai đoạn 1858 – 1930: Hành trình tìm đường cứu nước & Thành lập Đảng
-- **1858:** Thực dân Pháp nổ súng tấn công bán đảo Sơn Trà (Đà Nẵng), mở đầu cuộc xâm lược.
-- **5/6/1911:** Nguyễn Tất Thành rời bến cảng Nhà Rồng trên tàu Đô đốc Latouche-Tréville ra đi tìm đường cứu nước.
-- **1919 (Q106):** Nguyễn Ái Quốc gửi Bản Yêu sách 8 điểm của nhân dân An Nam tới Hội nghị Véc-xây; gia nhập Đảng Xã hội Pháp; Quốc tế Cộng sản (Quốc tế III) thành lập tại Mát-xcơ-va.
-- **7/1920 (Q151):** Nguyễn Ái Quốc đọc bản *Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa* của Lênin trên báo *Nhân đạo (L'Humanité)* (Q3) → Bước đầu tìm thấy con đường giải phóng dân tộc (con đường cách mạng vô sản).
-- **12/1920:** Dự Đại hội Tua của Đảng Xã hội Pháp, bỏ phiếu tán thành gia nhập Quốc tế III và tham gia sáng lập Đảng Cộng sản Pháp → Đánh dấu bước ngoặt chuyển từ chủ nghĩa yêu nước sang chủ nghĩa cộng sản.
-- **10/1923 (Q149):** Đến Liên Xô dự Hội nghị Quốc tế Nông dân.
-- **6/1925 (Q414):** Thành lập **Hội Việt Nam Cách mạng Thanh niên** tại Quảng Châu (Trung Quốc), xuất bản tuần báo *Thanh niên*.
-- **1927:** Xuất bản tác phẩm lý luận kinh điển **"Đường Kách mệnh"**.
-- **1929 (Q36):** Sự phân hóa của Hội VNCM Thanh niên và sự ra đời của 3 tổ chức cộng sản:
-  - Tháng 6/1929: **Đông Dương Cộng sản Đảng** (thành lập tại Hà Nội).
-  - Tháng 8/1929: **An Nam Cộng sản Đảng** (thành lập tại Nam Kỳ).
-  - Tháng 9/1929: **Đông Dương Cộng sản Liên đoàn** (tiền thân là Tân Việt Cách mạng Đảng).
-- **6/1 – 7/2/1930 (Q415):** Hội nghị hợp nhất các tổ chức cộng sản họp tại Cửu Long (Hương Cảng, Trung Quốc) do Nguyễn Ái Quốc chủ trì.
-  - Tổ chức không tham dự hội nghị: **Đông Dương Cộng sản Liên đoàn** (Q1).
-  - Thông qua Cương lĩnh chính trị đầu tiên: xác định động lực CM là **Công nhân & Nông dân** (Q20: AD).
-- **10/1930 (Q138, Q139, Q157, Q170, Q189):** Hội nghị BCH Trung ương lâm thời tại Hương Cảng:
-  - Đổi tên Đảng thành **Đảng Cộng sản Đông Dương**.
-  - Thông qua **Luận cương chính trị** do **Trần Phú** khởi thảo.
-  - Bầu **Trần Phú** làm Tổng Bí thư đầu tiên của Đảng.
+- • Thấy hỏi: *Pháp nổ súng tấn công bán đảo Sơn Trà mở đầu cuộc xâm lược năm nào...* ➔ **Năm 1858**
+- • Thấy hỏi: *Nguyễn Tất Thành rời bến cảng Nhà Rồng ra đi tìm đường cứu nước ngày nào...* ➔ **Ngày 5/6/1911**
+- • Thấy hỏi: *Nguyễn Ái Quốc gửi Bản Yêu sách 8 điểm / gia nhập Đảng Xã hội Pháp / Quốc tế III thành lập...* ➔ **Năm 1919 (Q106: B)**
+- • Thấy hỏi: *Nguyễn Ái Quốc đọc bản Sơ thảo Luận cương Lênin trên báo nào / thời gian nào...* ➔ **Tháng 7/1920 (Q151: C) & Báo Nhân đạo (Q3: C)** *(bước đầu tìm thấy con đường cứu nước)*
+- • Thấy hỏi: *Sự kiện đánh dấu bước ngoặt từ chủ nghĩa yêu nước sang chủ nghĩa cộng sản...* ➔ **Bỏ phiếu tán thành gia nhập Quốc tế III và sáng lập Đảng CS Pháp tại Đại hội Tua (12/1920)**
+- • Thấy hỏi: *Nguyễn Ái Quốc đến Liên Xô dự Hội nghị Quốc tế Nông dân năm nào...* ➔ **Năm 1923 (Q149: B)**
+- • Thấy hỏi: *Hội Việt Nam Cách mạng Thanh niên thành lập ở đâu / năm nào...* ➔ **Quảng Châu - Trung Quốc (6/1925) (Q414: C)**
+- • Thấy hỏi: *Tác phẩm lý luận kinh điển xuất bản năm 1927 của Nguyễn Ái Quốc là gì...* ➔ **Đường Kách mệnh**
+- • Thấy hỏi: *Năm 1929, Hội VNCM Thanh niên phân hóa thành mấy tổ chức...* ➔ **[A] Đông Dương Cộng sản Đảng (6/1929) & [B] An Nam Cộng sản Đảng (8/1929) (Q36: AB)**
+- • Thấy hỏi: *Hội nghị hợp nhất các tổ chức cộng sản diễn ra ở đâu / thời gian nào...* ➔ **Cửu Long, Hương Cảng, Trung Quốc (đầu năm 1930) (Q415)**
+- • Thấy hỏi: *Tổ chức cộng sản nào KHÔNG tham dự Hội nghị thành lập Đảng đầu năm 1930...* ➔ **Đông Dương Cộng sản Liên đoàn (Q1: A)** *(gia nhập sau)*
+- • Thấy hỏi: *Động lực cách mạng trong Cương lĩnh chính trị đầu tiên là gì...* ➔ **Công nhân & Nông dân (Q20: AD)**
+- • Thấy hỏi: *Hội nghị Trung ương 1 (10/1930) đổi tên Đảng thành gì / thông qua văn kiện gì / bầu ai...* ➔ **Đảng Cộng sản Đông Dương (Q139: C, Q170: D) · Luận cương chính trị (Q157: A, Q189: C) · Tổng Bí thư Trần Phú (Q138: A)**
 
 ### 2.2. Giai đoạn 1930 – 1945: Đấu tranh giành chính quyền & Cách mạng Tháng Tám
-- **1930 – 1931:** Cao trào cách mạng với đỉnh cao là **Xô viết Nghệ - Tĩnh**; nguyên nhân bùng nổ do tác động khủng hoảng kinh tế thế giới 1929-1933 và chính sách khủng bố trắng của Pháp (Q108, Q125).
-- **7/1935 (Q71, Q112, Q410):** Đại hội VII Quốc tế Cộng sản tại Mát-xcơ-va xác định kẻ thù nguy hiểm trước mắt là **chủ nghĩa phát xít**; Đại hội I của Đảng (3/1935) họp tại Ma Cao bầu **Lê Hồng Phong** làm Tổng Bí thư.
-- **1936 – 1939 (Q107, Q159):** Phong trào Dân chủ đòi tự do, dân sinh, dân chủ, cơm áo, hòa bình; thành lập Mặt trận Dân chủ Đông Dương.
-- **11/1939 (Q101, HNTW 6):** Họp tại Bà Điểm (Hóc Môn) do Nguyễn Văn Cừ chủ trì → **MỞ ĐẦU** chuyển hướng chỉ đạo chiến lược: đặt nhiệm vụ giải phóng dân tộc lên hàng đầu.
-- **11/1940 (HNTW 7):** Họp tại Đình Bảng (Bắc Ninh) → Tiếp tục duy trì chủ trương chuyển hướng, quyết định duy trì lực lượng du kích Bắc Sơn.
-- **5/1941 (Q168, Q179, Q310, HNTW 8):** Họp tại Pác Bó (Cao Bằng) do Nguyễn Ái Quốc chủ trì:
-  - **HOÀN CHỈNH** chủ trương chuyển hướng chỉ đạo chiến lược.
-  - Thành lập **Mặt trận Việt Nam Độc lập Đồng minh (Việt Minh)** ngày 19/5/1941.
-  - Bầu **Trường Chinh** làm Tổng Bí thư.
-- **22/12/1944:** Thành lập **Đội Việt Nam Tuyên truyền Giải phóng quân** tại Nguyên Bình (Cao Bằng) do Võ Nguyên Giáp chỉ huy.
-- **9/3/1945 (Q204):** Nhật đảo chính Pháp độc chiếm Đông Dương. Ban Thường vụ TW ra Chỉ thị lịch sử: *"Nhật - Pháp bắn nhau và hành động của chúng ta"*.
-- **14 – 15/8/1945:** Hội nghị toàn quốc của Đảng họp tại Tân Trào (Tuyên Quang) quyết định phát động Tổng khởi nghĩa giành chính quyền.
-- **16/8/1945 (Q25):** Đại hội Quốc dân Tân Trào do Tổng bộ Việt Minh triệu tập, thông qua 10 chính sách của Việt Minh, bầu Ủy ban Dân tộc Giải phóng (Chính phủ lâm thời) do Hồ Chí Minh làm Chủ tịch.
-- **19/8/1945 (Q126):** Khởi nghĩa thắng lợi rực rỡ tại thủ đô Hà Nội, tạo thế chẻ tre cho cả nước.
-- **2/9/1945 (Q16, Q17):** Chủ tịch Hồ Chí Minh đọc bản **Tuyên ngôn Độc lập** tại Quảng trường Ba Đình, khai sinh nước Việt Nam Dân chủ Cộng hòa; quân Pháp nổ súng khiêu khích tại Sài Gòn - Chợ Lớn.
+- • Thấy hỏi: *Đỉnh cao của phong trào cách mạng 1930 - 1931 là gì...* ➔ **Xô viết Nghệ - Tĩnh (Q108, Q125)**
+- • Thấy hỏi: *Đại hội VII Quốc tế Cộng sản (7/1935) xác định kẻ thù trước mắt là ai...* ➔ **Chủ nghĩa phát xít (Q112: C, Q410)**
+- • Thấy hỏi: *Đại hội lần thứ I của Đảng (3/1935) họp ở đâu / bầu ai làm TBT...* ➔ **Họp tại Ma Cao · Bầu Lê Hồng Phong (Q71: C)**
+- • Thấy hỏi: *Mục tiêu đấu tranh đòi tự do, dân sinh, dân chủ, cơm áo, hòa bình trong thời kỳ nào...* ➔ **Phong trào Dân chủ 1936 - 1939 (Q107, Q159)**
+- • Thấy hỏi: *Hội nghị MỞ ĐẦU quá trình chuyển hướng chỉ đạo chiến lược (đặt GPDT lên hàng đầu)...* ➔ **Hội nghị TW 6 (11/1939) tại Bà Điểm, Hóc Môn do Nguyễn Văn Cừ chủ trì (Q101: A)**
+- • Thấy hỏi: *Hội nghị HOÀN CHỈNH chủ trương chuyển hướng chỉ đạo chiến lược / thành lập Mặt trận Việt Minh...* ➔ **Hội nghị TW 8 (5/1941) tại Pác Bó do Nguyễn Ái Quốc chủ trì (Q168: B, Q179: B, Q310: C)**
+- • Thấy hỏi: *Đội Việt Nam Tuyên truyền Giải phóng quân thành lập ngày nào...* ➔ **22/12/1944 tại Cao Bằng do Võ Nguyên Giáp chỉ huy**
+- • Thấy hỏi: *Chỉ thị "Nhật - Pháp bắn nhau và hành động của chúng ta" ban hành khi nào...* ➔ **12/3/1945 (ngay sau khi Nhật đảo chính Pháp 9/3/1945) (Q204)**
+- • Thấy hỏi: *Đại hội Quốc dân Tân Trào thông qua Lệnh Tổng khởi nghĩa họp vào ngày nào...* ➔ **16 - 17/8/1945 (Q209)**
+- • Thấy hỏi: *Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập khai sinh nước VNDCCH ngày nào...* ➔ **Ngày 2/9/1945 tại Quảng trường Ba Đình (Q17: C)**
 
 ### 2.3. Giai đoạn 1945 – 1954: Kháng chiến chống thực dân Pháp
-- **3/9/1945 (Q44):** Phiên họp đầu tiên của Chính phủ lâm thời xác định 6 nhiệm vụ cấp bách (giải quyết 3 thứ giặc: giặc đói, giặc dốt, giặc ngoại xâm).
-- **25/11/1945:** Ban Thường vụ TW ra Chỉ thị **"Kháng chiến kiến quốc"**.
-- **6/1/1946:** Cuộc Tổng tuyển cử đầu tiên trong lịch sử dân tộc bầu Quốc hội khóa I.
-- **6/3/1946 (Q207, Q240):** Ký **Hiệp định Sơ bộ** với Pháp nhằm đẩy 20 vạn quân Tưởng về nước, tránh đối đầu cùng lúc nhiều kẻ thù.
-- **14/9/1946 (Q241):** Ký **Tạm ước Việt - Pháp** để kéo dài thời gian chuẩn bị lực lượng kháng chiến.
-- **19/12/1946 (Q249):** Hồ Chí Minh ra **"Lời kêu gọi Toàn quốc kháng chiến"**: *"Chúng ta thà hi sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ"*.
-- **Thu - Đông 1947 (Q140):** Chiến dịch Việt Bắc bẻ gãy gọng kìm của Pháp, đập tan hoàn toàn kế hoạch "đánh nhanh thắng nhanh".
-- **Thu - Đông 1950 (Q262):** Chiến dịch Biên giới – chiến dịch đầu tiên ta chủ động mở, giành thế chủ động chiến lược trên chiến trường chính Bắc Bộ.
-- **2/1951 (Q116, Q253):** **Đại hội đại biểu toàn quốc lần thứ II** họp tại Chiêm Hóa (Tuyên Quang):
-  - Đảng ra hoạt động công khai lấy tên là **Đảng Lao động Việt Nam**.
-  - Tách để thành lập chính đảng cách mạng riêng ở Lào và Campuchia (Q116: BC).
-  - Bầu **Trường Chinh** làm Tổng Bí thư.
-- **13/3 – 7/5/1954 (Q21, Q257, Q263, Q264):** **Chiến dịch Điện Biên Phủ** toàn thắng sau 56 ngày đêm với 3 đợt tiến công tiêu diệt toàn bộ tập đoàn cứ điểm của tướng Đờ Cát, đập tan kế hoạch Nava.
-- **21/7/1954 (Q259, Q260, Q261):** Ký **Hiệp định Giơnevơ**, phái đoàn ta do **Phạm Văn Đồng** làm trưởng đoàn; Pháp và các nước công nhận độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Việt Nam.
+- • Thấy hỏi: *Phiên họp đầu tiên của Chính phủ Lâm thời (3/9/1945) xác định 3 nhiệm vụ cấp bách là gì...* ➔ **Diệt giặc đói, diệt giặc dốt, diệt giặc ngoại xâm (Q44: B)**
+- • Thấy hỏi: *Chỉ thị "Kháng chiến kiến quốc" của Ban Thường vụ TW ban hành ngày nào...* ➔ **25/11/1945 (Q118: B)**
+- • Thấy hỏi: *Cuộc Tổng tuyển cử đầu tiên bầu Quốc hội khóa I diễn ra ngày nào...* ➔ **Ngày 6/1/1946 (Q211)**
+- • Thấy hỏi: *Hiệp định Sơ bộ hòa hoãn với Pháp để đuổi 20 vạn quân Tưởng ký ngày nào...* ➔ **Ngày 6/3/1946 (Q207: B, Q271: A)**
+- • Thấy hỏi: *Lời kêu gọi toàn quốc kháng chiến của Chủ tịch Hồ Chí Minh phát động ngày nào...* ➔ **Đêm 19/12/1946 (Q234: D, Q249: B)**
+- • Thấy hỏi: *Chiến dịch đánh bại chiến lược "đánh nhanh thắng nhanh" của Pháp là gì...* ➔ **Chiến dịch Việt Bắc thu - đông 1947**
+- • Thấy hỏi: *Chiến dịch giành quyền chủ động chiến lược trên chiến trường chính Bắc Bộ là gì...* ➔ **Chiến dịch Biên giới thu - đông 1950 (Q258: A)**
+- • Thấy hỏi: *Đại hội đại biểu lần thứ II của Đảng (2/1951) quyết định gì...* ➔ **Đổi tên thành Đảng Lao động VN (Q116: BC) · Bầu Trường Chinh làm TBT (Q253: C)**
+- • Thấy hỏi: *Chiến dịch Điện Biên Phủ diễn ra trong thời gian nào / chia mấy đợt...* ➔ **13/3/1954 đến 7/5/1954 (Q21: A) · Chia làm 3 đợt tiến công (Q257: B)**
+- • Thấy hỏi: *Hiệp định Giơnevơ chấm dứt chiến tranh ở Đông Dương ký kết ngày nào...* ➔ **21/7/1954 (Q259: C, Q260: C)**
 
 ### 2.4. Giai đoạn 1954 – 1975: Kháng chiến chống Mỹ, cứu nước
-- **1/1959 (Q39, Q127):** **Nghị quyết HNTW 15** mở đường cho cách mạng miền Nam sử dụng **bạo lực cách mạng**, kết hợp đấu tranh chính trị với vũ trang.
-- **19/5/1959 (Q31):** Mở đường vận tải chiến lược Trường Sơn (Đường mòn Hồ Chí Minh).
-- **1960 (Q242):** Phong trào **Đồng khởi** nổ ra tại Bến Tre, lan khắp Nam Bộ và Tây Nguyên.
-- **9/1960 (Q10, Q100, Q236, Q272):** **Đại hội đại biểu toàn quốc lần thứ III** tại Hà Nội:
-  - Xác định **2 nhiệm vụ chiến lược**: Cách mạng XHCN ở miền Bắc (hậu phương quyết định nhất) và Cách mạng Dân tộc Dân chủ nhân dân ở miền Nam (tiền tuyến quyết định trực tiếp).
-  - Bầu **Lê Duẩn** làm Bí thư thứ nhất.
-- **20/12/1960 (Q288, Q289):** Thành lập **Mặt trận Dân tộc Giải phóng miền Nam Việt Nam**, do Luật sư **Nguyễn Hữu Thọ** làm Chủ tịch.
-- **1961 – 1965 (Q321):** Đánh bại chiến lược **"Chiến tranh đặc biệt"** của Mỹ (dùng quân đội Sài Gòn + cố vấn Mỹ + quốc sách Ấp chiến lược).
-- **1965 – 1968 (Q13, Q214, Q226):** Đánh bại chiến lược **"Chiến tranh cục bộ"** (quân Mỹ viễn chinh giữ vai trò chủ lực + quân đồng minh + quân ngụy; mở đầu bằng trận Vạn Tường 8/1965).
-- **1/1967 (Q24):** Nghị quyết HNTW 13 chủ trương mở thêm **mặt trận ngoại giao** phối hợp quân sự và chính trị.
-- **Xuân Mậu Thân 1968 (Q13):** Cuộc Tổng tiến công và nổi dậy đồng loạt đánh đòn bất ngờ làm sụp đổ ý chí xâm lược của Mỹ, buộc Mỹ tuyên bố ngừng ném bom miền Bắc không điều kiện và chấp nhận ngồi vào bàn đàm phán Pari.
-- **1969 – 1973:** Đánh bại chiến lược **"Việt Nam hóa chiến tranh"** ("dùng người Việt đánh người Việt").
-- **12 ngày đêm cuối năm 1972:** Trận **"Điện Biên Phủ trên không"** đập tan cuộc tập kích chiến lược bằng máy bay B52 vào Hà Nội, Hải Phòng.
-- **27/1/1973:** Ký **Hiệp định Pari**, buộc toàn bộ quân viễn chinh Mỹ và chư hầu phải rút khỏi Việt Nam.
-- **4/3 – 30/4/1975 (Q15, Q47, Q93, Q160):** **Cuộc Tổng tiến công và nổi dậy Mùa Xuân 1975**:
-  - Mở màn then chốt bằng **Chiến dịch Tây Nguyên** (đòn điểm huyệt giải phóng Buôn Ma Thuột 10/3).
-  - Tiếp theo là **Chiến dịch Huế - Đà Nẵng** (tháng 3/1975).
-  - Đỉnh cao là **Chiến dịch Hồ Chí Minh** (26/4 - 30/4/1975) với mệnh lệnh lịch sử của Đại tướng Võ Nguyên Giáp: *"Thần tốc, thần tốc hơn nữa; táo bạo, táo bạo hơn nữa..."* (Q47). Đúng 11h30 ngày 30/4/1975 cờ cách mạng tung bay trên nóc Dinh Độc Lập.
+- • Thấy hỏi: *Hội nghị mở đường cho cách mạng miền Nam sử dụng bạo lực cách mạng (dẫn tới Đồng khởi)...* ➔ **Hội nghị TW 15 (1/1959) (Q39: D, Q127: B, Q203: A)**
+- • Thấy hỏi: *Phong trào Đồng khởi bùng nổ tiêu biểu nhất ở đâu / năm nào...* ➔ **Bến Tre (1960)**
+- • Thấy hỏi: *Mặt trận Dân tộc Giải phóng miền Nam VN thành lập ngày nào / ai làm Chủ tịch...* ➔ **Ngày 20/12/1960 · Luật sư Nguyễn Hữu Thọ (Q288, Q289: A)**
+- • Thấy hỏi: *Chiến thắng quân sự mở đầu đánh bại chiến lược "Chiến tranh đặc biệt" của Mỹ...* ➔ **Chiến thắng Ấp Bắc (1/1963) (Q321: D)**
+- • Thấy hỏi: *Chiến thắng quân sự mở đầu đánh bại chiến lược "Chiến tranh cục bộ" của Mỹ...* ➔ **Trận Vạn Tường (8/1965)**
+- • Thấy hỏi: *Cuộc tiến công làm phá sản hoàn toàn "Chiến tranh cục bộ", buộc Mỹ xuống thang ném bom miền Bắc...* ➔ **Tổng tiến công và nổi dậy Tết Mậu Thân 1968 (Q13: A)**
+- • Thấy hỏi: *Chiến thắng đập tan cuộc tập kích B52 của Mỹ vào Hà Nội, Hải Phòng...* ➔ **Trận "Điện Biên Phủ trên không" (12 ngày đêm 12/1972)**
+- • Thấy hỏi: *Hiệp định Pari về chấm dứt chiến tranh, lập lại hòa bình ở VN ký kết ngày nào...* ➔ **Ngày 27/1/1973**
+- • Thấy hỏi: *Trận mở màn then chốt cho cuộc Tổng tiến công và nổi dậy mùa Xuân 1975 là gì...* ➔ **Chiến dịch Tây Nguyên (tháng 3/1975) (Q93: B)**
+- • Thấy hỏi: *Chiến dịch giải phóng hoàn toàn miền Nam thống nhất đất nước ngày 30/4/1975 là...* ➔ **Chiến dịch Hồ Chí Minh (Q47: A, Q160: D)**
 
 ### 2.5. Giai đoạn 1975 – 1986: Cả nước thống nhất, quá độ lên CNXH
-- **11/1975 (Q313, Q341):** Hội nghị Hiệp thương chính trị thống nhất hai miền tại Sài Gòn (đoàn miền Nam do Phạm Hùng dẫn đầu).
-- **25/4/1976 (Q198, Q316):** Tổng tuyển cử bầu Quốc hội chung khóa VI theo nguyên tắc: phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín.
-- **7/1976 (Q314):** Quốc hội khóa VI họp kỳ đầu tiên, đặt tên nước là **Cộng hòa xã hội chủ nghĩa Việt Nam**, bầu **Tôn Đức Thắng** làm Chủ tịch nước đầu tiên.
-- **12/1976 (Q5, Q49, Q53, Q326):** **Đại hội lần thứ IV của Đảng**:
-  - Đổi tên Đảng thành **Đảng Cộng sản Việt Nam**.
-  - Bầu **Lê Duẩn** làm Tổng Bí thư.
-  - Nêu 3 đặc điểm lớn của cách mạng nước ta thời kỳ quá độ (Q49).
-- **1979 (Q330):** Chiến đấu bảo vệ biên giới Tây Nam (chống Khơ-me Đỏ) và bảo vệ biên giới phía Bắc (chống quân bành trướng Trung Quốc tấn công ngày 17/2/1979).
-- **8/1979:** HNTW 6 khóa IV với quyết sách lịch sử: *"Làm cho sản xuất bung ra"* – bước đột phá đầu tiên mở đường cho Đổi mới kinh tế.
-- **1/1981:** Ban Bí thư ban hành **Chỉ thị 100-CT/TW** về khoán sản phẩm đến nhóm và người lao động trong hợp tác xã nông nghiệp (**"Khoán 100"**).
-- **3/1982 (Q8, Q48, Q315):** **Đại hội lần thứ V của Đảng**: Xác định 2 nhiệm vụ chiến lược; coi **nông nghiệp là mặt trận hàng đầu**; bầu **Lê Duẩn** làm Tổng Bí thư.
+- • Thấy hỏi: *Hội nghị Hiệp thương chính trị thống nhất hai miền họp ở đâu / ai làm trưởng đoàn miền Nam...* ➔ **Sài Gòn (11/1975) · Đồng chí Phạm Hùng (Q313: A)**
+- • Thấy hỏi: *Kỳ họp Quốc hội khóa VI đổi tên nước thành CHXHCN Việt Nam / bầu ai làm Chủ tịch nước...* ➔ **Tháng 7/1976 · Bác Tôn Đức Thắng làm Chủ tịch nước (Q314: B)**
+- • Thấy hỏi: *Đại hội IV của Đảng (12/1976) quyết định đổi tên Đảng thành gì / nêu mấy đặc điểm...* ➔ **Đổi tên lại thành Đảng Cộng sản Việt Nam · Nêu 3 đặc điểm lớn (Q5: A, Q49: B, Q53: D)**
+- • Thấy hỏi: *Nghị quyết "Làm cho sản xuất bung ra" – Đột phá đầu tiên của Đổi mới kinh tế là...* ➔ **Hội nghị TW 6 khóa IV (8/1979)**
+- • Thấy hỏi: *Chủ trương "Khoán 100" trong nông nghiệp ban hành khi nào...* ➔ **Chỉ thị 100-CT/TW của Ban Bí thư (1/1981)**
+- • Thấy hỏi: *Đại hội V (1982) khẳng định ngành nào là mặt trận hàng đầu...* ➔ **Nông nghiệp là mặt trận hàng đầu (Q8: A, Q48: B)**
 
 ### 2.6. Giai đoạn 1986 – nay: Thời kỳ Đổi mới và Hội nhập quốc tế sâu rộng
-- **12/1986 (Q5, Q46, Q409, Q441):** **Đại hội VI của Đảng** – **ĐẠI HỘI ĐỔI MỚI TOÀN DIỆN**:
-  - Dũng cảm nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật.
-  - Bầu **Nguyễn Văn Linh** làm Tổng Bí thư.
-- **3/1988 (Q7):** Trung Quốc dùng vũ lực chiếm đóng đảo Gạc Ma, Châu Viên, Chữ Thập ở quần đảo Trường Sa của Việt Nam.
-- **4/1988:** Bộ Chính trị ra **Nghị quyết số 10-NQ/TW** (**"Khoán 10"**) giao quyền sử dụng đất lâu dài và tự chủ cho hộ nông dân.
-- **6/1991 (Q52, Q358):** **Đại hội VII của Đảng**:
-  - Thông qua **Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên CNXH (Cương lĩnh 1991)** với **6 đặc trưng**.
-  - Đề ra đường lối đối ngoại: *"Việt Nam muốn là bạn với tất cả các nước trong cộng đồng quốc tế, phấn đấu vì hòa bình, độc lập và phát triển"*.
-- **11/7/1995 (Q27):** Bình thường hóa và chính thức thiết lập quan hệ ngoại giao Việt Nam – Hoa Kỳ.
-- **28/7/1995 (Q363):** Việt Nam chính thức gia nhập **ASEAN** (trở thành thành viên thứ 7).
-- **1996 (Q12):** **Đại hội VIII của Đảng**: Khẳng định nước ta đã ra khỏi khủng hoảng kinh tế - xã hội, bước sang thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa.
-- **12/1997 (Q346):** HNTW 4 khóa VIII bầu **Lê Khả Phiêu** làm Tổng Bí thư.
-- **7/1998 (Q6):** Nghị quyết TW 5 khóa VIII về xây dựng và phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc (được coi là *"Tuyên ngôn văn hóa của Đảng"*).
-- **2001 (Q318, Q319):** **Đại hội IX của Đảng**: Chính thức xác định mô hình kinh tế tổng quát thời kỳ quá độ là **"Kinh tế thị trường định hướng xã hội chủ nghĩa"**.
-- **2006 (Q355):** **Đại hội X của Đảng**: Cho phép đảng viên làm kinh tế tư nhân.
-- **1/2007:** Việt Nam chính thức gia nhập Tổ chức Thương mại Thế giới (**WTO**).
-- **2011 (Q361):** **Đại hội XI của Đảng**: Thông qua **Cương lĩnh bổ sung, phát triển năm 2011** (xác định 8 đặc trưng và 8 phương hướng); Chiến lược phát triển kinh tế - xã hội 2011-2020 đề ra **3 đột phá chiến lược**.
-- **2016 (Q41, Q369, Q412):** **Đại hội XII của Đảng**: Đẩy mạnh xây dựng chỉnh đốn Đảng; Chỉ thị số 05-CT/TW về học tập tư tưởng, đạo đức, phong cách Hồ Chí Minh.
-- **2021 (Q2, Q11, Q377):** **Đại hội XIII của Đảng**: Khơi dậy khát vọng phát triển đất nước phồn vinh, hạnh phúc; xác định 3 mốc mục tiêu 2025, 2030, 2045.
+- • Thấy hỏi: *Đại hội khởi xướng công cuộc Đổi mới toàn diện đất nước / bầu ai làm TBT...* ➔ **Đại hội VI (12/1986) · Tổng Bí thư Nguyễn Văn Linh (Q46: C, Q409: A)**
+- • Thấy hỏi: *Trung Quốc dùng vũ lực chiếm đóng đảo Gạc Ma vào thời gian nào...* ➔ **Tháng 3/1988 (Q7: A)**
+- • Thấy hỏi: *Nghị quyết "Khoán 10" coi hộ nông dân là đơn vị kinh tế tự chủ ban hành khi nào...* ➔ **Nghị quyết 10 của Bộ Chính trị (4/1988)**
+- • Thấy hỏi: *Thông qua Cương lĩnh 1991 (6 đặc trưng) / Đường lối "Việt Nam muốn là bạn với tất cả các nước"...* ➔ **Đại hội VII (6/1991) (Q52: B, Q358: C)**
+- • Thấy hỏi: *Việt Nam bình thường hóa quan hệ ngoại giao với Hoa Kỳ vào năm nào...* ➔ **Năm 1995 (11/7/1995) (Q27: C)**
+- • Thấy hỏi: *Việt Nam chính thức gia nhập tổ chức ASEAN vào năm nào...* ➔ **Năm 1995 (28/7/1995) (Q363: C)**
+- • Thấy hỏi: *Đại hội VIII (1996) tuyên bố đất nước bước vào thời kỳ gì...* ➔ **Thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa (Q12: A)**
+- • Thấy hỏi: *Nghị quyết coi là "Tuyên ngôn văn hóa của Đảng" trong thời kỳ CNH - HĐH...* ➔ **Nghị quyết TW 5 khóa VIII (7/1998) (Q6: A)**
+- • Thấy hỏi: *Đại hội lần đầu tiên đưa mô hình "Kinh tế thị trường định hướng XHCN" vào văn kiện...* ➔ **Đại hội IX (2001) (Q318: C, Q319: D)**
+- • Thấy hỏi: *Chủ trương cho phép đảng viên làm kinh tế tư nhân được thông qua tại Đại hội nào...* ➔ **Đại hội X (2006) (Q355: B)**
+- • Thấy hỏi: *Việt Nam chính thức gia nhập Tổ chức Thương mại Thế giới (WTO) vào năm nào...* ➔ **Tháng 1/2007**
+- • Thấy hỏi: *Đại hội thông qua Cương lĩnh bổ sung 2011 (8 đặc trưng, 8 phương hướng)...* ➔ **Đại hội XI (2011)**
+- • Thấy hỏi: *Năm 2012 có bao nhiêu nước công nhận nền kinh tế thị trường của Việt Nam...* ➔ **36 nước (Q362: A)**
+- • Thấy hỏi: *Đại hội XIII (2021) xác định mấy đột phá chiến lược / mục tiêu đến năm nào...* ➔ **3 đột phá chiến lược (Q377: A) · Mục tiêu 2025, 2030, 2045 (Q2: B, Q11: A)**
 
 ---
 
 ## 3. NHÓM 3 – BẢNG TRA CỨU TỔNG BÍ THƯ QUA CÁC THỜI KỲ & NHÂN VẬT LỊCH SỬ
 
-### 3.1. Bảng Tổng Bí thư – Nhớ chuẩn theo kỳ Đại hội / Hội nghị
+### 3.1. Bảng Tổng Bí thư – Dấu hiệu nhận biết câu hỏi ➔ Đáp án chọn nhanh
 
-| Thời gian / Đại hội | Tổng Bí thư | Ghi chú & Câu hỏi trong đề |
-|---|---|---|
-| **10/1930** (HNTW 1) | **Trần Phú** | **Tổng Bí thư đầu tiên** của Đảng; tác giả Luận cương chính trị 10/1930 (**Q138: A**) |
-| **3/1935** (Đại hội I) | **Lê Hồng Phong** | Đại hội lần thứ I họp tại Ma Cao (**Q71: C**) |
-| **1936 – 1938** | **Hà Huy Tập** | Tổng Bí thư thời kỳ Mặt trận Dân chủ |
-| **1938 – 1940** | **Nguyễn Văn Cừ** | Chủ trì HNTW 6 mở đầu chuyển hướng chỉ đạo chiến lược; tác giả tác phẩm *"Tự chỉ trích"* |
-| **5/1941** (HNTW 8) & **1951** (Đại hội II) | **Trường Chinh** | Bầu tại HNTW 8 (**Q310: C**); bầu tại Đại hội II (**Q253: C**); tác giả sách *"Kháng chiến nhất định thắng lợi"* (**Q252: A**) |
-| **1960** (Đại hội III), **1976** (Đại hội IV), **1982** (Đại hội V) | **Lê Duẩn** | Bí thư thứ nhất Đại hội III; Tổng Bí thư Đại hội IV (**Q53: D**); tái cử Đại hội V (**Q315: A**) |
-| **12/1986** (Đại hội VI) | **Nguyễn Văn Linh** | Tổng Bí thư khởi xướng Đổi mới, tác giả mục báo *"Những việc cần làm ngay"* (**Q46: C**) |
-| **1991** (Đại hội VII) | **Đỗ Mười** | Tổng Bí thư nhiệm kỳ Cương lĩnh 1991 |
-| **12/1997** (HNTW 4 khóa VIII) | **Lê Khả Phiêu** | Bầu làm Tổng Bí thư tại HNTW 4 khóa VIII (**Q346: A**) |
-| **2001** (Đại hội IX) & **2006** (Đại hội X) | **Nông Đức Mạnh** | Tổng Bí thư Đại hội IX và X |
-| **2011** (ĐH XI), **2016** (ĐH XII), **2021** (ĐH XIII) | **Nguyễn Phú Trọng** | Tổng Bí thư Cương lĩnh 2011, đẩy mạnh phòng chống tham nhũng, chỉnh đốn Đảng |
+| Thời gian / Đại hội | Dấu hiệu nhận biết trong câu hỏi thực tế | Tổng Bí thư cần chọn |
+|:---:|---|:---:|
+| **10/1930** (HNTW 1) | • Thấy hỏi: *Tổng Bí thư đầu tiên của Đảng / Tác giả Luận cương 10/1930 là ai...* | ➔ **Trần Phú (Q138: A, Q157: A)** |
+| **3/1935** (Đại hội I) | • Thấy hỏi: *Tổng Bí thư được bầu tại Đại hội I họp ở Ma Cao là ai...* | ➔ **Lê Hồng Phong (Q71: C)** |
+| **1936 – 1938** | • Thấy hỏi: *Tổng Bí thư của Đảng thời kỳ Mặt trận Dân chủ Đông Dương...* | ➔ **Hà Huy Tập** |
+| **1938 – 1940** | • Thấy hỏi: *Chủ trì HNTW 6 (11/1939) / Tác giả tác phẩm "Tự chỉ trích" là ai...* | ➔ **Nguyễn Văn Cừ** |
+| **5/1941 & 1951** | • Thấy hỏi: *Được bầu Tổng Bí thư tại HNTW 8 (1941) và Đại hội II (1951) / Tác giả "Kháng chiến nhất định thắng lợi"...* | ➔ **Trường Chinh (Q252: A, Q253: C, Q310: C)** |
+| **1960 – 1986** | • Thấy hỏi: *Bí thư thứ nhất Đại hội III (1960) / Tổng Bí thư Đại hội IV (1976) và Đại hội V (1982)...* | ➔ **Lê Duẩn (Q53: D, Q315: A)** |
+| **12/1986** (Đại hội VI) | • Thấy hỏi: *Tổng Bí thư khởi xướng Đổi mới / Tác giả chuyên mục "Những việc cần làm ngay"...* | ➔ **Nguyễn Văn Linh (Q46: C)** |
+| **1991** (Đại hội VII) | • Thấy hỏi: *Tổng Bí thư được bầu tại Đại hội VII (1991) nhiệm kỳ Cương lĩnh 1991...* | ➔ **Đỗ Mười** |
+| **12/1997** | • Thấy hỏi: *Được bầu làm Tổng Bí thư tại Hội nghị TW 4 khóa VIII (12/1997)...* | ➔ **Lê Khả Phiêu (Q346: A)** |
+| **2001 & 2006** | • Thấy hỏi: *Tổng Bí thư được bầu tại Đại hội IX (2001) và Đại hội X (2006)...* | ➔ **Nông Đức Mạnh** |
+| **2011 – 2021** | • Thấy hỏi: *Tổng Bí thư tại các Đại hội XI (2011), XII (2016), XIII (2021)...* | ➔ **Nguyễn Phú Trọng** |
 
-### 3.2. Nhân vật & Câu nói / Tác phẩm nổi tiếng
-- **Chủ tịch Hồ Chí Minh:**
-  - *"Không có gì quý hơn độc lập, tự do"* (Lời kêu gọi chống Mỹ 1966).
-  - *"Chúng ta thà hi sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ"* → Lời kêu gọi toàn quốc kháng chiến 19/12/1946 (**Q249: B**).
-  - Tác phẩm: *Bản án chế độ thực dân Pháp* (1925), *Đường Kách mệnh* (1927), *Chính cương, Sách lược vắn tắt* (1930), *Tuyên ngôn Độc lập* (1945), *Lời kêu gọi toàn quốc kháng chiến* (1946).
-- **Đại tướng Võ Nguyên Giáp:** Mệnh lệnh lịch sử ngày 7/4/1975 trong Chiến dịch Hồ Chí Minh: *"Thần tốc, thần tốc hơn nữa, táo bạo, táo bạo hơn nữa, tranh thủ từng giờ, từng phút, xốc tới mặt trận, giải phóng miền Nam..."* (**Q47: A**).
-- **Đồng chí Phạm Văn Đồng:** Trưởng phái đoàn đại diện Chính phủ Việt Nam Dân chủ Cộng hòa đàm phán và ký Hiệp định Giơnevơ 1954 (**Q259: C**).
-- **Luật sư Nguyễn Hữu Thọ:** Chủ tịch Ủy ban Trung ương Mặt trận Dân tộc Giải phóng miền Nam Việt Nam thành lập ngày 20/12/1960 (**Q288, Q289: A**).
-- **Đồng chí Phạm Hùng:** Trưởng đoàn đại biểu miền Nam tham dự Hội nghị Hiệp thương chính trị thống nhất Tổ quốc tháng 11/1975 tại Sài Gòn (**Q313: A**).
-- **Bác Tôn Đức Thắng:** Chủ tịch nước đầu tiên của nước Cộng hòa XHCN Việt Nam thống nhất năm 1976 (**Q314: B**).
-- **Phan Bội Châu vs Phan Châu Trinh:** Bạo động giành độc lập = Phan Bội Châu; Cải cách văn hóa, nâng cao dân trí = Phan Châu Trinh (**Q72: A**).
+### 3.2. Nhân vật & Câu nói / Tác phẩm nổi tiếng – Thấy câu hỏi ➔ Chọn ngay
+
+- • Thấy hỏi: *Câu trích "Chúng ta thà hi sinh tất cả, chứ nhất định không chịu mất nước..." ở văn kiện nào...* ➔ **Lời kêu gọi toàn quốc kháng chiến của Chủ tịch Hồ Chí Minh (19/12/1946) (Q249: B)**
+- • Thấy hỏi: *Ai ban hành mệnh lệnh "Thần tốc, thần tốc hơn nữa, táo bạo, táo bạo hơn nữa..."...* ➔ **Đại tướng Võ Nguyên Giáp (Q47: A)**
+- • Thấy hỏi: *Trưởng phái đoàn Chính phủ VNDCCH đàm phán và ký Hiệp định Giơnevơ 1954 là ai...* ➔ **Phạm Văn Đồng (Q259: C)**
+- • Thấy hỏi: *Chủ tịch Ủy ban Trung ương Mặt trận Dân tộc Giải phóng miền Nam VN (20/12/1960) là ai...* ➔ **Luật sư Nguyễn Hữu Thọ (Q288, Q289: A)**
+- • Thấy hỏi: *Trưởng đoàn đại biểu miền Nam dự Hội nghị Hiệp thương chính trị thống nhất Tổ quốc (11/1975)...* ➔ **Phạm Hùng (Q313: A)**
+- • Thấy hỏi: *Chủ tịch nước đầu tiên của nước Cộng hòa XHCN Việt Nam thống nhất (1976) là ai...* ➔ **Bác Tôn Đức Thắng (Q314: B)**
+- • Thấy hỏi: *Giành độc lập theo con đường CẢI CÁCH văn hóa, nâng cao dân trí gắn với ai...* ➔ **Phan Châu Trinh (Q72: A)** *(nếu bạo động vũ trang = Phan Bội Châu)*
 
 ---
 
@@ -206,39 +171,38 @@ Mục tiêu phát triển đất nước theo 3 mốc tăng dần – nhớ theo
 
 Gặp tên Đại hội trong câu hỏi hoặc đáp án, tìm ngay từ khóa tương ứng:
 
-| Đại hội | Năm | Địa điểm | TBT được bầu | Từ khóa "cốt lõi" – Thấy là chọn |
-|---|---|---|---|---|
-| **Đại hội I** | 3/1935 | Ma Cao (TQ) | Lê Hồng Phong | Khôi phục phong trào sau khủng bố trắng (**Q71: C**) |
-| **Đại hội II** | 2/1951 | Chiêm Hóa (Tuyên Quang) | Trường Chinh | "Đại hội kháng chiến kiến quốc" · Đổi tên thành **Đảng Lao động Việt Nam** · Tách Đảng riêng cho Lào và Campuchia (**Q116: BC**, **Q253: C**) |
-| **Đại hội III** | 9/1960 | Hà Nội | Lê Duẩn | "Đại hội xây dựng CNXH ở miền Bắc và đấu tranh giải phóng miền Nam" · Đề ra **2 nhiệm vụ chiến lược** (**Q10: A**, **Q100: A**, **Q236: A**, **Q272: B**) |
-| **Đại hội IV** | 12/1976 | Hà Nội | Lê Duẩn | "Đại hội toàn thắng" · Đổi tên lại thành **Đảng Cộng sản Việt Nam** · Nêu **3 đặc điểm lớn** của thời kỳ quá độ (**Q5: A**, **Q49: B**, **Q53: D**, **Q326: C**) |
-| **Đại hội V** | 3/1982 | Hà Nội | Lê Duẩn | Đề ra 2 nhiệm vụ chiến lược mới · Xác định **Nông nghiệp là mặt trận hàng đầu** (**Q8: A**, **Q48: B**, **Q315: A**) |
-| **Đại hội VI** | 12/1986 | Hà Nội | Nguyễn Văn Linh | **KHỞI XƯỚNG ĐỔI MỚI TOÀN DIỆN** · Nhìn thẳng vào sự thật · Đổi mới kinh tế là trọng tâm (**Q5: D**, **Q46: C**, **Q409: A**, **Q441: B**) |
-| **Đại hội VII** | 6/1991 | Hà Nội | Đỗ Mười | Thông qua **Cương lĩnh 1991 (6 đặc trưng)** · Đối ngoại "Việt Nam muốn là bạn với tất cả các nước" (**Q52: B**, **Q358: C**) |
-| **Đại hội VIII**| 6/1996 | Hà Nội | Đỗ Mười | Đẩy mạnh **Công nghiệp hóa, hiện đại hóa** · Nước ta đã thoát khỏi khủng hoảng kinh tế (**Q12: A**) |
-| **Đại hội IX** | 4/2001 | Hà Nội | Nông Đức Mạnh | Chính thức đưa mô hình **Kinh tế thị trường định hướng XHCN** vào văn kiện (**Q318: C**, **Q319: D**) |
-| **Đại hội X**  | 4/2006 | Hà Nội | Nông Đức Mạnh | Cho phép **đảng viên làm kinh tế tư nhân** (**Q355: B**) |
-| **Đại hội XI** | 1/2011 | Hà Nội | Nguyễn Phú Trọng | Thông qua **Cương lĩnh bổ sung 2011 (8 đặc trưng, 8 phương hướng)** · 3 đột phá chiến lược |
-| **Đại hội XII**| 1/2016 | Hà Nội | Nguyễn Phú Trọng | Tăng cường xây dựng chỉnh đốn Đảng trong sạch, vững mạnh · Chỉ thị 05 học tập tư tưởng HCM (**Q41: C**) |
-| **Đại hội XIII**| 1/2021 | Hà Nội | Nguyễn Phú Trọng | Khát vọng phát triển đất nước · **Mục tiêu 2025, 2030, 2045** (**Q2: B**, **Q11: A**, **Q377: A**) |
+| Kỳ Đại hội | Dấu hiệu nhận biết trong câu hỏi thực tế | Đáp án đúng cần chọn ngay |
+|:---:|---|:---:|
+| **Đại hội I** (1935) | • Thấy hỏi: *Đại hội họp ở Ma Cao (3/1935) bầu ai làm TBT / nhiệm vụ chủ yếu là gì...* | ➔ **Lê Hồng Phong (Q71: C) & Khôi phục phong trào cách mạng** |
+| **Đại hội II** (1951) | • Thấy hỏi: *Đại hội kháng chiến kiến quốc / Đổi tên Đảng thành gì / Quyết định về Lào và Campuchia...* | ➔ **Đảng Lao động Việt Nam & Lập chính đảng riêng cho Lào, Campuchia (Q116: BC, Q253: C)** |
+| **Đại hội III** (1960) | • Thấy hỏi: *Xác định 2 nhiệm vụ chiến lược (Bắc XHCN, Nam GPDT) tại Đại hội nào...* | ➔ **Đại hội III (1960) (Q10: A, Q100: A, Q272: B)** |
+| **Đại hội IV** (1976) | • Thấy hỏi: *Đại hội toàn thắng / Đổi tên lại thành Đảng CS Việt Nam / Nêu 3 đặc điểm lớn...* | ➔ **Đại hội IV (12/1976) (Q5: A, Q49: B, Q53: D)** |
+| **Đại hội V** (1982) | • Thấy hỏi: *Xác định nông nghiệp là mặt trận hàng đầu / 2 nhiệm vụ chiến lược mới tại Đại hội nào...* | ➔ **Đại hội V (1982) (Q8: A, Q48: B, Q315: A)** |
+| **Đại hội VI** (1986) | • Thấy hỏi: *Đại hội khởi xướng công cuộc Đổi mới toàn diện / Nhìn thẳng vào sự thật là Đại hội nào...* | ➔ **Đại hội VI (12/1986) (Q5: D, Q46: C, Q409: A)** |
+| **Đại hội VII** (1991) | • Thấy hỏi: *Thông qua Cương lĩnh 1991 (6 đặc trưng) / Đường lối "Việt Nam muốn là bạn với tất cả các nước"...* | ➔ **Đại hội VII (1991) (Q52: B, Q358: C)** |
+| **Đại hội VIII** (1996) | • Thấy hỏi: *Tuyên bố nước ta thoát khỏi khủng hoảng kinh tế, đẩy mạnh CNH - HĐH tại Đại hội nào...* | ➔ **Đại hội VIII (1996) (Q12: A)** |
+| **Đại hội IX** (2001) | • Thấy hỏi: *Lần đầu tiên đưa khái niệm "Kinh tế thị trường định hướng XHCN" vào văn kiện tại Đại hội nào...* | ➔ **Đại hội IX (2001) (Q318: C, Q319: D)** |
+| **Đại hội X** (2006) | • Thấy hỏi: *Chủ trương cho phép đảng viên làm kinh tế tư nhân được thông qua tại Đại hội nào...* | ➔ **Đại hội X (2006) (Q355: B)** |
+| **Đại hội XI** (2011) | • Thấy hỏi: *Thông qua Cương lĩnh bổ sung, phát triển 2011 (8 đặc trưng, 8 phương hướng)...* | ➔ **Đại hội XI (2011)** |
+| **Đại hội XII** (2016) | • Thấy hỏi: *Đại hội lần thứ mấy khẳng định một trong những nhiệm vụ trọng tâm là nâng cao năng lực lãnh đạo...* | ➔ **Đại hội XII (2016) (Q41: C)** |
+| **Đại hội XIII** (2021) | • Thấy hỏi: *Chủ đề Đại hội / Mục tiêu phấn đấu 2025, 2030, 2045 / Đề ra 3 đột phá chiến lược...* | ➔ **Đại hội XIII (2021) (Q2: B, Q11: A, Q377: A)** |
 
 ---
 
 ## 5. NHÓM 5 – CÁC HỘI NGHỊ TRUNG ƯƠNG THEN CHỐT & NGHỊ QUYẾT BƯỚC NGOẶT
 
-| Hội nghị / Quyết sách | Thời gian | Địa điểm / Chủ trì | Nội dung cốt lõi bắt buộc phải nhớ |
-|---|---|---|---|
-| **HNTW 6 (khóa I)** | 11/1939 | Bà Điểm, Hóc Môn (Nguyễn Văn Cừ) | **MỞ ĐẦU** quá trình chuyển hướng chỉ đạo chiến lược: đặt GPDT lên hàng đầu (**Q101: A**) |
-| **HNTW 7 (khóa I)** | 11/1940 | Đình Bảng, Bắc Ninh (Trường Chinh) | Tiếp tục phát triển hướng chiến lược; duy trì du kích Bắc Sơn |
-| **HNTW 8 (khóa I)** | 5/1941 | Pác Bó, Cao Bằng (Nguyễn Ái Quốc) | **HOÀN CHỈNH** chủ trương chuyển hướng chỉ đạo chiến lược; lập Mặt trận Việt Minh; bầu Trường Chinh làm TBT (**Q168: B**, **Q179: B**, **Q310: C**) |
-| **HNTW 15 (khóa II)** | 1/1959 | Hà Nội | Mở đường cho cách mạng miền Nam sử dụng **BẠO LỰC CÁCH MẠNG**; kết hợp chính trị và quân sự → Dẫn tới Đồng khởi 1960 (**Q39: D**, **Q127: B**) |
-| **HNTW 13 (khóa III)** | 1/1967 | Hà Nội | Mở thêm **Mặt trận Ngoại giao** phối hợp với mặt trận quân sự và chính trị (**Q24: D**) |
-| **HNTW 21 (khóa III)** | 7/1973 | Hà Nội | Khẳng định con đường cách mạng miền Nam vẫn là con đường bạo lực cách mạng sau Hiệp định Pari |
-| **HNTW 24 (khóa III)** | 9/1975 | Hà Nội | Đề ra nhiệm vụ **hoàn thành thống nhất đất nước về mặt Nhà nước** |
-| **HNTW 6 khóa IV** | 8/1979 | Hà Nội | Nghị quyết: *"Làm cho sản xuất bung ra"* – **Đột phá đầu tiên** về đổi mới kinh tế |
-| **Chỉ thị 100-CT/TW** | 1/1981 | Ban Bí thư | **"Khoán 100"**: khoán sản phẩm đến nhóm và người lao động trong nông nghiệp |
-| **Nghị quyết 10-NQ/TW**| 4/1988 | Bộ Chính trị | **"Khoán 10"**: giải phóng triệt để sức sản xuất nông nghiệp, hộ nông dân là đơn vị kinh tế tự chủ |
-| **HNTW 5 khóa VIII** | 7/1998 | Hà Nội | Ban hành Nghị quyết về *"Xây dựng nền văn hóa Việt Nam tiên tiến, đậm đà bản sắc dân tộc"* (**Tuyên ngôn văn hóa**) (**Q6: A**) |
+| Hội nghị / Quyết sách | Dấu hiệu nhận biết trong câu hỏi thực tế | Quyết sách / Đáp án cần chọn ngay |
+|:---:|---|:---:|
+| **HNTW 6 (11/1939)** | • Thấy hỏi: *Hội nghị MỞ ĐẦU sự chuyển hướng chỉ đạo chiến lược, đưa nhiệm vụ GPDT lên hàng đầu...* | ➔ **Hội nghị Trung ương 6 (11/1939) (Q101: A)** |
+| **HNTW 8 (5/1941)** | • Thấy hỏi: *Hội nghị HOÀN CHỈNH chuyển hướng chỉ đạo chiến lược / Thành lập Mặt trận Việt Minh...* | ➔ **Hội nghị Trung ương 8 (5/1941) (Q168: B, Q179: B, Q310: C)** |
+| **HNTW 15 (1/1959)** | • Thấy hỏi: *Hội nghị mở đường cho cách mạng miền Nam sử dụng BẠO LỰC CÁCH MẠNG (dẫn tới Đồng khởi)...* | ➔ **Hội nghị Trung ương 15 (1/1959) (Q39: D, Q127: B)** |
+| **HNTW 13 (1/1967)** | • Thấy hỏi: *Hội nghị chủ trương mở thêm MẶT TRẬN NGOẠI GIAO kết hợp quân sự và chính trị...* | ➔ **Hội nghị Trung ương 13 (1/1967) (Q24: D)** |
+| **HNTW 21 (7/1973)** | • Thấy hỏi: *Hội nghị khẳng định con đường cách mạng miền Nam vẫn là con đường bạo lực cách mạng sau Hiệp định Pari...* | ➔ **Hội nghị Trung ương 21 (7/1973)** |
+| **HNTW 24 (9/1975)** | • Thấy hỏi: *Hội nghị đề ra nhiệm vụ hoàn thành thống nhất đất nước về mặt Nhà nước...* | ➔ **Hội nghị Trung ương 24 (9/1975)** |
+| **HNTW 6 khóa IV (8/1979)** | • Thấy hỏi: *Nghị quyết "Làm cho sản xuất bung ra" – Đột phá đầu tiên đổi mới kinh tế tại Hội nghị nào...* | ➔ **Hội nghị Trung ương 6 khóa IV (8/1979)** |
+| **Chỉ thị 100 (1/1981)** | • Thấy hỏi: *Chủ trương "Khoán sản phẩm đến nhóm và người lao động trong nông nghiệp" (Khoán 100)...* | ➔ **Chỉ thị 100-CT/TW của Ban Bí thư (1/1981)** |
+| **Nghị quyết 10 (4/1988)**| • Thấy hỏi: *Chủ trương "Khoán 10" coi hộ nông dân là đơn vị kinh tế tự chủ do cơ quan nào ban hành...* | ➔ **Nghị quyết 10 của Bộ Chính trị (4/1988)** |
+| **HNTW 5 khóa VIII (7/1998)**| • Thấy hỏi: *Nghị quyết xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc ("Tuyên ngôn văn hóa")...* | ➔ **Hội nghị Trung ương 5 khóa VIII (7/1998) (Q6: A)** |
 
 ---
 
@@ -246,12 +210,12 @@ Gặp tên Đại hội trong câu hỏi hoặc đáp án, tìm ngay từ khóa 
 
 Rất nhiều bạn bị nhầm lẫn giữa các chiến lược chiến tranh của Mỹ. Học bảng này là giải quyết trọn vẹn:
 
-| Chiến lược | Giai đoạn | Công thức lực lượng | Thủ đoạn & Xương sống | Điểm then chốt / Thất bại |
-|---|---|---|---|---|
-| **1. Chiến tranh đơn phương** | 1954 – 1960 | Quân đội tay sai Ngô Đình Diệm + Vũ khí & Tiền của Mỹ | Luật 10/59 "đặt cộng sản ra ngoài vòng pháp luật", lê máy chém khắp miền Nam | Phá sản bởi **Phong trào Đồng khởi (1960)** |
-| **2. Chiến tranh đặc biệt** | 1961 – 1965 | **Quân đội Sài Gòn** + Cố vấn, vũ khí, phương tiện chiến tranh của Mỹ (**Q321: D**) | Dùng người Việt đánh người Việt · Quốc sách: **Ấp chiến lược** ("xương sống") · Trực thăng vận, thiết xa vận | Phá sản bởi chiến thắng **Ấp Bắc (1963)**, Bình Giã, Ba Gia, Đồng Xoài (1964-1965) |
-| **3. Chiến tranh cục bộ** | 1965 – 1968 | **Quân viễn chinh Mỹ (giữ vai trò chủ lực)** + Quân đồng minh + Quân đội Sài Gòn (**Q214: A**, **Q226: A**) | Chiến lược 2 cuộc hành quân: **"Tìm diệt" và "Bình định"** · Đưa quân viễn chinh Mỹ trực tiếp tham chiến | Mở đầu: trận Vạn Tường (8/1965). Phá sản hoàn toàn bởi **Tổng tiến công Tết Mậu Thân 1968** (**Q13: A**) |
-| **4. Việt Nam hóa chiến tranh** | 1969 – 1975 | **Quân đội Sài Gòn là lực lượng chủ yếu** + Hỏa lực, không quân, hậu cần Mỹ | "Dùng người Việt đánh người Việt", "Dùng người Đông Dương đánh người Đông Dương" · Mở rộng sang Lào và Campuchia | Thất bại bởi trận **"Điện Biên Phủ trên không" 1972** và kết thúc hoàn toàn bằng **Đại thắng Mùa Xuân 1975** |
+| Chiến lược của Mỹ | Dấu hiệu nhận biết trong câu hỏi thực tế | Đáp án then chốt cần chọn ngay |
+|:---:|---|:---:|
+| **1. Chiến tranh đơn phương** (1954-1960) | • Thấy hỏi: *Mỹ áp dụng Luật 10/59, lê máy chém khắp miền Nam, phá sản bởi Phong trào Đồng khởi...* | ➔ **Chiến tranh đơn phương (1954-1960)** |
+| **2. Chiến tranh đặc biệt** (1961-1965) | • Thấy hỏi: *Công thức: "Quân đội Sài Gòn + Cố vấn Mỹ", Quốc sách "Ấp chiến lược", Trực thăng vận...*<br>• Thấy hỏi: *Chiến thắng Ấp Bắc 1963 / Bình Giã làm phá sản chiến lược nào...* | ➔ **Chiến tranh đặc biệt (Q321: D)** |
+| **3. Chiến tranh cục bộ** (1965-1968) | • Thấy hỏi: *Đưa QUÂN VIỄN CHINH MỸ trực tiếp tham chiến làm chủ lực + Quân đồng minh...*<br>• Thấy hỏi: *Chiến lược 2 gọng kìm "Tìm diệt" và "Bình định" / Trận Vạn Tường / Bị phá sản bởi Tết Mậu Thân 1968...* | ➔ **Chiến tranh cục bộ (Q13: A, Q214: A, Q226: A)** |
+| **4. Việt Nam hóa chiến tranh** (1969-1975) | • Thấy hỏi: *Công thức: "Quân đội Sài Gòn là chủ yếu + Hỏa lực Mỹ", "Dùng người Việt đánh người Việt"...*<br>• Thấy hỏi: *Bị đánh bại bởi trận "Điện Biên Phủ trên không" 1972 và Chiến dịch Hồ Chí Minh 1975...* | ➔ **Việt Nam hóa chiến tranh** |
 
 ---
 
