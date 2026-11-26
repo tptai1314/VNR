@@ -126,21 +126,12 @@ tbody tr:hover{background:#fff1f2}
 }
 .btn-toggle-deck:hover{background:#e2e8f0; border-color:#94a3b8}
 .sec-deck-box{
-  display:block; margin-top:14px; background:#f8fafc; border:1px solid var(--line);
-  border-radius:12px; padding:12px;
+  display:block; margin-top:16px;
 }
 .sec-deck-title{
-  font-size:.86rem; font-weight:800; color:#0f172a; margin-bottom:10px;
+  font-size:.9rem; font-weight:800; color:#0f172a; margin:14px 0 8px;
   display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;
 }
-.sec-deck-item{
-  background:#fff; border:1px solid var(--line); border-radius:8px;
-  padding:9px 12px; margin-bottom:8px; font-size:.86rem;
-}
-.sec-deck-item:last-child{margin-bottom:0}
-.sec-deck-q{font-weight:700; color:#0f172a; margin-bottom:3px}
-.sec-deck-a{color:#15803d; font-weight:700}
-.sec-deck-note{color:#1e3a8a; font-size:.82rem; margin-top:3px}
 
 .practice-cta{
   display:inline-flex; align-items:center; gap:6px; margin-top:0;
@@ -4591,6 +4582,10 @@ function getQuestionsByTag(tagId) {
   return window.VNR_DATA.questions.filter(q => q.tags && q.tags.includes(tagId));
 }
 
+function escHtml(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
 function renderAllSectionDecks() {
   document.querySelectorAll('.deck-cnt').forEach(el => {
     const tagId = el.getAttribute('data-tag');
@@ -4600,17 +4595,32 @@ function renderAllSectionDecks() {
   document.querySelectorAll('.sec-deck-box').forEach(box => {
     const tagId = box.id.replace('deck-', '');
     const list = getQuestionsByTag(tagId);
-    const header = `<div class="sec-deck-title"><span>📋 Toàn bộ ${list.length} câu hỏi &amp; mẹo nhận biết thuộc phần này (khớp 100% bộ Flashcard):</span></div>`;
-    const itemsHtml = list.map(q => {
+    const rowsHtml = list.map(q => {
+      const qClean = escHtml(q.q.replace(/\s+/g, ' ').trim());
       const ansIdx = q.a.split('').map(c => c.charCodeAt(0) - 65);
-      const ansText = ansIdx.map(i => q.options[i] || '').join(' ; ');
-      return `<div class="sec-deck-item">
-        <div class="sec-deck-q"><span style="color:#dc2626">Q${q.id}.</span> ${q.q.replace(/\n/g, ' ')}</div>
-        <div class="sec-deck-a">✅ [${q.a}] ${ansText}</div>
-        <div class="sec-deck-note">${q.note || ''}</div>
-      </div>`;
+      const ansText = escHtml(ansIdx.map(i => (q.options[i] || '').replace(/\s+/g, ' ').trim()).join(' ; '));
+      const noteClean = escHtml((q.note || '').replace(/^[🔎⚠️✅🔁⚡📏\[\]·\s]+/, '').trim());
+      return `<tr>
+        <td style="text-align:center; white-space:nowrap"><b style="color:var(--brand)">Q${q.id}</b></td>
+        <td>• Thấy hỏi: <i>${qClean}</i></td>
+        <td>➔ <b style="color:var(--brand)">${ansText}</b> <span style="color:#64748b; font-size:.82rem">(Đ/A: ${q.a})</span></td>
+      </tr>`;
     }).join('');
-    box.innerHTML = header + itemsHtml;
+
+    box.innerHTML = `
+      <div class="sec-deck-title"><span>📋 Bảng tra full 100% (${list.length} câu) — Khớp hoàn toàn với bộ Flashcard của phần này:</span></div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th style="width:70px; text-align:center">Câu</th>
+              <th>Dấu hiệu nhận biết trong câu hỏi thực tế</th>
+              <th style="width:34%">Đáp án đúng cần chọn ngay</th>
+            </tr>
+          </thead>
+          <tbody>${rowsHtml}</tbody>
+        </table>
+      </div>`;
   });
 }
 
