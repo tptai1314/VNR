@@ -525,8 +525,7 @@ window.VNR_DATA = {
       "topic": "period_1930_1945",
       "tags": [
         "tag_daihoi",
-        "tag_daihoi_only",
-        "tag_nhanvat"
+        "tag_nam"
       ]
     },
     {

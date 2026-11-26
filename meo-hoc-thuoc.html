@@ -113,8 +113,34 @@ tbody tr:hover{background:#fff1f2}
 .tag-orange{background:#ffedd5; color:#9a3412}
 
 
+
+.sec-actions{
+  display:flex; justify-content:space-between; align-items:center; gap:10px;
+  flex-wrap:wrap; margin-top:16px; padding-top:12px; border-top:1px dashed var(--line);
+}
+.btn-toggle-deck{
+  display:inline-flex; align-items:center; gap:6px;
+  background:#f1f5f9; color:#0f172a; border:1px solid #cbd5e1;
+  padding:8px 14px; border-radius:999px; font-size:.84rem; font-weight:700;
+  cursor:pointer; transition:.15s;
+}
+.btn-toggle-deck:hover{background:#e2e8f0; border-color:#94a3b8}
+.sec-deck-box{
+  display:none; margin-top:12px; background:#f8fafc; border:1px solid var(--line);
+  border-radius:12px; padding:12px; max-height:480px; overflow-y:auto;
+}
+.sec-deck-box.open{display:block}
+.sec-deck-item{
+  background:#fff; border:1px solid var(--line); border-radius:8px;
+  padding:9px 12px; margin-bottom:8px; font-size:.86rem;
+}
+.sec-deck-item:last-child{margin-bottom:0}
+.sec-deck-q{font-weight:700; color:#0f172a; margin-bottom:3px}
+.sec-deck-a{color:#15803d; font-weight:700}
+.sec-deck-note{color:#1e3a8a; font-size:.82rem; margin-top:3px}
+
 .practice-cta{
-  display:inline-flex; align-items:center; gap:6px; margin-top:14px;
+  display:inline-flex; align-items:center; gap:6px; margin-top:0;
   background:var(--brand); color:#fff!important; text-decoration:none;
   padding:8px 16px; border-radius:999px; font-size:.86rem; font-weight:700;
   box-shadow:0 3px 10px rgba(220,38,38,.25); transition:.15s;
@@ -124,6 +150,7 @@ tbody tr:hover{background:#fff1f2}
 footer{text-align:center; color:var(--muted); font-size:.82rem; margin-top:40px; padding-top:20px; border-top:1px solid var(--line)}
 footer a{color:var(--brand); text-decoration:none; font-weight:700}
 </style>
+<script src="data/questions.js"></script>
 </head>
 <body>
 
@@ -231,7 +258,11 @@ footer a{color:var(--brand); text-decoration:none; font-weight:700}
       </table>
     </div>
   
-    <div style="text-align:right"><a class="practice-cta" href="VNR202_flashcard.html?topic=tag_sinhdoi&tab=free">🎯 Luyện Flashcard: Cụm sinh đôi dễ nhầm (39 câu) ➔</a></div>
+    <div class="sec-actions">
+      <button type="button" class="btn-toggle-deck" onclick="toggleSectionDeck('tag_sinhdoi', this)">📋 Xem đủ <span class="deck-cnt" data-tag="tag_sinhdoi">...</span> câu &amp; mẹo của phần này</button>
+      <a class="practice-cta" href="VNR202_flashcard.html?topic=tag_sinhdoi&tab=free">🎯 Luyện Flashcard: Cụm sinh đôi dễ nhầm (<span class="deck-cnt" data-tag="tag_sinhdoi">...</span> câu) ➔</a>
+    </div>
+    <div class="sec-deck-box" id="deck-tag_sinhdoi"></div>
   </section>
 
   <!-- PHẦN 1 -->
@@ -326,7 +357,11 @@ footer a{color:var(--brand); text-decoration:none; font-weight:700}
       • <b>2045 (100 năm lập nước):</b> Trở thành <b>nước phát triển, thu nhập cao</b>.
     </div>
   
-    <div style="text-align:right"><a class="practice-cta" href="VNR202_flashcard.html?topic=tag_so&tab=free">🎯 Luyện Flashcard Mục 1: Bộ số ma thuật (12 câu) ➔</a></div>
+    <div class="sec-actions">
+      <button type="button" class="btn-toggle-deck" onclick="toggleSectionDeck('tag_so', this)">📋 Xem đủ <span class="deck-cnt" data-tag="tag_so">...</span> câu &amp; mẹo của phần này</button>
+      <a class="practice-cta" href="VNR202_flashcard.html?topic=tag_so&tab=free">🎯 Luyện Flashcard: Mục 1: Bộ số ma thuật (<span class="deck-cnt" data-tag="tag_so">...</span> câu) ➔</a>
+    </div>
+    <div class="sec-deck-box" id="deck-tag_so"></div>
   </section>
 
   <!-- PHẦN 2 -->
@@ -402,7 +437,11 @@ footer a{color:var(--brand); text-decoration:none; font-weight:700}
       </div>
     </div>
   
-    <div style="text-align:right"><a class="practice-cta" href="VNR202_flashcard.html?topic=tag_nam&tab=free">🎯 Luyện Flashcard Mục 2: Mốc thời gian & Năm (60 câu) ➔</a></div>
+    <div class="sec-actions">
+      <button type="button" class="btn-toggle-deck" onclick="toggleSectionDeck('tag_nam', this)">📋 Xem đủ <span class="deck-cnt" data-tag="tag_nam">...</span> câu &amp; mẹo của phần này</button>
+      <a class="practice-cta" href="VNR202_flashcard.html?topic=tag_nam&tab=free">🎯 Luyện Flashcard: Mục 2: Mốc thời gian & Năm (<span class="deck-cnt" data-tag="tag_nam">...</span> câu) ➔</a>
+    </div>
+    <div class="sec-deck-box" id="deck-tag_nam"></div>
   </section>
 
   <!-- PHẦN 3 -->
@@ -490,7 +529,11 @@ footer a{color:var(--brand); text-decoration:none; font-weight:700}
       • Thấy hỏi: <i>Giành độc lập theo con đường CẢI CÁCH nâng cao dân trí gắn với ai</i> ➔ Chọn <b>Phan Châu Trinh (Q72: A)</b> (nếu bạo động vũ trang = Phan Bội Châu).
     </div>
   
-    <div style="text-align:right"><a class="practice-cta" href="VNR202_flashcard.html?topic=tag_nhanvat&tab=free">🎯 Luyện Flashcard Mục 3: Tổng Bí thư & Nhân vật (33 câu) ➔</a></div>
+    <div class="sec-actions">
+      <button type="button" class="btn-toggle-deck" onclick="toggleSectionDeck('tag_nhanvat', this)">📋 Xem đủ <span class="deck-cnt" data-tag="tag_nhanvat">...</span> câu &amp; mẹo của phần này</button>
+      <a class="practice-cta" href="VNR202_flashcard.html?topic=tag_nhanvat&tab=free">🎯 Luyện Flashcard: Mục 3: Tổng Bí thư & Nhân vật (<span class="deck-cnt" data-tag="tag_nhanvat">...</span> câu) ➔</a>
+    </div>
+    <div class="sec-deck-box" id="deck-tag_nhanvat"></div>
   </section>
 
   <!-- PHẦN 4 -->
@@ -577,7 +620,11 @@ footer a{color:var(--brand); text-decoration:none; font-weight:700}
       </table>
     </div>
   
-    <div style="text-align:right"><a class="practice-cta" href="VNR202_flashcard.html?topic=tag_daihoi_only&tab=free">🎯 Luyện Flashcard Mục 4: 13 Kỳ Đại hội Đảng (85 câu) ➔</a></div>
+    <div class="sec-actions">
+      <button type="button" class="btn-toggle-deck" onclick="toggleSectionDeck('tag_daihoi_only', this)">📋 Xem đủ <span class="deck-cnt" data-tag="tag_daihoi_only">...</span> câu &amp; mẹo của phần này</button>
+      <a class="practice-cta" href="VNR202_flashcard.html?topic=tag_daihoi_only&tab=free">🎯 Luyện Flashcard: Mục 4: 13 Kỳ Đại hội Đảng (<span class="deck-cnt" data-tag="tag_daihoi_only">...</span> câu) ➔</a>
+    </div>
+    <div class="sec-deck-box" id="deck-tag_daihoi_only"></div>
   </section>
 
   <!-- PHẦN 5 -->
@@ -649,7 +696,11 @@ footer a{color:var(--brand); text-decoration:none; font-weight:700}
       </table>
     </div>
   
-    <div style="text-align:right"><a class="practice-cta" href="VNR202_flashcard.html?topic=tag_hoinghi&tab=free">🎯 Luyện Flashcard Mục 5: Hội nghị TW & Nghị quyết (40 câu) ➔</a></div>
+    <div class="sec-actions">
+      <button type="button" class="btn-toggle-deck" onclick="toggleSectionDeck('tag_hoinghi', this)">📋 Xem đủ <span class="deck-cnt" data-tag="tag_hoinghi">...</span> câu &amp; mẹo của phần này</button>
+      <a class="practice-cta" href="VNR202_flashcard.html?topic=tag_hoinghi&tab=free">🎯 Luyện Flashcard: Mục 5: Hội nghị TW & Nghị quyết (<span class="deck-cnt" data-tag="tag_hoinghi">...</span> câu) ➔</a>
+    </div>
+    <div class="sec-deck-box" id="deck-tag_hoinghi"></div>
   </section>
 
   <!-- PHẦN 6 -->
@@ -700,7 +751,11 @@ footer a{color:var(--brand); text-decoration:none; font-weight:700}
       </table>
     </div>
   
-    <div style="text-align:right"><a class="practice-cta" href="VNR202_flashcard.html?topic=tag_chienluoc_my&tab=free">🎯 Luyện Flashcard Mục 6: 4 Chiến lược của Mỹ (24 câu) ➔</a></div>
+    <div class="sec-actions">
+      <button type="button" class="btn-toggle-deck" onclick="toggleSectionDeck('tag_chienluoc_my', this)">📋 Xem đủ <span class="deck-cnt" data-tag="tag_chienluoc_my">...</span> câu &amp; mẹo của phần này</button>
+      <a class="practice-cta" href="VNR202_flashcard.html?topic=tag_chienluoc_my&tab=free">🎯 Luyện Flashcard: Mục 6: 4 Chiến lược của Mỹ (<span class="deck-cnt" data-tag="tag_chienluoc_my">...</span> câu) ➔</a>
+    </div>
+    <div class="sec-deck-box" id="deck-tag_chienluoc_my"></div>
   </section>
 
   <!-- PHẦN 7 -->
@@ -738,7 +793,11 @@ footer a{color:var(--brand); text-decoration:none; font-weight:700}
       <p>• <b>Cặp [Q373 & Q374]:</b> HNTW 7 khóa XII ban hành Nghị quyết số 27 và 28 về: → <b>Cải cách chính sách tiền lương và bảo hiểm xã hội</b>.</p>
     </div>
   
-    <div style="text-align:right"><a class="practice-cta" href="VNR202_flashcard.html?topic=tag_bay&tab=free">🎯 Luyện Flashcard Mục 7: Toàn bộ Bẫy đề thi (31 câu) ➔</a></div>
+    <div class="sec-actions">
+      <button type="button" class="btn-toggle-deck" onclick="toggleSectionDeck('tag_bay', this)">📋 Xem đủ <span class="deck-cnt" data-tag="tag_bay">...</span> câu &amp; mẹo của phần này</button>
+      <a class="practice-cta" href="VNR202_flashcard.html?topic=tag_bay&tab=free">🎯 Luyện Flashcard: Mục 7: Toàn bộ Bẫy đề thi (<span class="deck-cnt" data-tag="tag_bay">...</span> câu) ➔</a>
+    </div>
+    <div class="sec-deck-box" id="deck-tag_bay"></div>
   </section>
 
   <!-- PHẦN 8 -->
@@ -4547,6 +4606,43 @@ function filterContent(query) {
     el.style.display = text.includes(query) ? '' : 'none';
   });
 }
+
+function getQuestionsByTag(tagId) {
+  if (!window.VNR_DATA || !window.VNR_DATA.questions) return [];
+  return window.VNR_DATA.questions.filter(q => q.tags && q.tags.includes(tagId));
+}
+
+function toggleSectionDeck(tagId, btn) {
+  const box = document.getElementById('deck-' + tagId);
+  if (!box) return;
+  const isOpen = box.classList.toggle('open');
+  if (isOpen && !box.dataset.loaded) {
+    const list = getQuestionsByTag(tagId);
+    box.innerHTML = list.map(q => {
+      const ansIdx = q.a.split('').map(c => c.charCodeAt(0) - 65);
+      const ansText = ansIdx.map(i => q.options[i] || '').join(' ; ');
+      return `<div class="sec-deck-item">
+        <div class="sec-deck-q"><span style="color:#dc2626">Q${q.id}.</span> ${q.q.replace(/\n/g, ' ')}</div>
+        <div class="sec-deck-a">✅ [${q.a}] ${ansText}</div>
+        <div class="sec-deck-note">${q.note || ''}</div>
+      </div>`;
+    }).join('');
+    box.dataset.loaded = '1';
+  }
+  const cnt = getQuestionsByTag(tagId).length;
+  btn.innerHTML = isOpen
+    ? `🔼 Thu gọn danh sách ${cnt} câu`
+    : `📋 Xem đủ ${cnt} câu &amp; mẹo của phần này`;
+}
+
+// Sync exact counts on load
+document.addEventListener('DOMContentLoaded', () => {
+  document.querySelectorAll('.deck-cnt').forEach(el => {
+    const tagId = el.getAttribute('data-tag');
+    el.textContent = getQuestionsByTag(tagId).length;
+  });
+});
+
 </script>
 
 </body>

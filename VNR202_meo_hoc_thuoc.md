@@ -95,7 +95,7 @@ Mục tiêu phát triển đất nước theo 3 mốc tăng dần – nhớ theo
 - • Thấy hỏi: *Hội nghị HOÀN CHỈNH chủ trương chuyển hướng chỉ đạo chiến lược / thành lập Mặt trận Việt Minh...* ➔ **Hội nghị TW 8 (5/1941) tại Pác Bó do Nguyễn Ái Quốc chủ trì (Q168: B, Q179: B, Q310: C)**
 - • Thấy hỏi: *Đội Việt Nam Tuyên truyền Giải phóng quân thành lập ngày nào...* ➔ **22/12/1944 tại Cao Bằng do Võ Nguyên Giáp chỉ huy**
 - • Thấy hỏi: *Chỉ thị "Nhật - Pháp bắn nhau và hành động của chúng ta" ban hành khi nào...* ➔ **12/3/1945 (ngay sau khi Nhật đảo chính Pháp 9/3/1945) (Q204)**
-- • Thấy hỏi: *Đại hội Quốc dân Tân Trào thông qua Lệnh Tổng khởi nghĩa họp vào ngày nào...* ➔ **16 - 17/8/1945 (Q209)**
+- • Thấy hỏi: *Quốc dân Đại hội Tân Trào (16–17/8/1945) do ai triệu tập / thông qua gì...* ➔ **Do Tổng bộ Việt Minh triệu tập (Q25: D) · Thông qua Lệnh Tổng khởi nghĩa & 10 chính sách lớn của Việt Minh**
 - • Thấy hỏi: *Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập khai sinh nước VNDCCH ngày nào...* ➔ **Ngày 2/9/1945 tại Quảng trường Ba Đình (Q17: C)**
 
 ### 2.3. Giai đoạn 1945 – 1954: Kháng chiến chống thực dân Pháp
