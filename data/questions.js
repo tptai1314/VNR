@@ -120,7 +120,7 @@ window.VNR_DATA = {
         "Quốc tế cộng sản"
       ],
       "a": "A",
-      "note": "⚠️ PHỦ ĐỊNH: Tổ chức KHÔNG tham dự Hội nghị thành lập Đảng 1930 ➔ 'Đông Dương cộng sản liên đoàn' (gia nhập sau ngày 24/2/1930).",
+      "note": "⚠️ PHỦ ĐỊNH: Thấy 'KHÔNG tham dự Hội nghị thành lập Đảng 1930' ➔ Nhớ: 'Đông Dương cộng sản liên đoàn' (gia nhập sau ngày 24/2/1930).",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -134,7 +134,7 @@ window.VNR_DATA = {
         "Tiếp tục đẩy mạnh toàn diện, đồng bộ công cuộc \nđổi"
       ],
       "a": "B",
-      "note": "⚡ 3 ĐÁP ÁN (LOẠI C) · 📏 DÀI: Chủ đề Đại hội XIII ➔ Chọn câu mở đầu 'Tăng cường xây dựng, chỉnh đốn Đảng...' có mốc 'giữa thế kỷ 21'.",
+      "note": "🔎 Thấy: 'Chủ đề Đại hội XIII' ➔ Nhớ cụm mở đầu 'Tăng cường xây dựng, chỉnh đốn Đảng...' và mốc 'giữa thế kỷ 21 trở thành nước phát triển'.",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -151,7 +151,7 @@ window.VNR_DATA = {
         "Người cùng khổ"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: Đọc Luận cương Lênin trên báo ➔ 'Nhân đạo' (L'Humanité).",
+      "note": "🔎 Thấy: 'đọc Sơ thảo Luận cương Lênin trên báo nào' ➔ Nhớ: Báo 'Nhân đạo' (L'Humanité).",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": []
@@ -166,7 +166,7 @@ window.VNR_DATA = {
         "Kết hợp đấu tranh quân sự và ngoại giao, kết thúc \nthắng lợi cuộc kháng chiến"
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'Đề ra đường lối đúng đắn sáng tạo phù · với thực tiễn lịch sử của · ngay từ...'",
+      "note": "🔎 Thấy: 'nội dung kinh nghiệm của Đảng về lãnh đạo kháng chiến chống thực...' ➔ 🎯 Nhớ: 'Đề ra đường lối đúng đắn sáng tạo phù · với thực tiễn lịch sử của · ngay từ...'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -181,7 +181,7 @@ window.VNR_DATA = {
         "Là Đại hội đổi mới toàn diện, đưa đất nước thoát \nkhỏi khủng hoảng kinh tế - xã hội"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'thắng của · nghiệp giải phóng dân tộc thống nhất Tổ quốc'",
+      "note": "🔎 Thấy: 'nhận định đúng khi đề cập đến Đại hội lần thứ IV của Đảng trong các...' ➔ 🎯 Nhớ: 'thắng của · nghiệp giải phóng dân tộc thống nhất Tổ quốc'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -198,7 +198,7 @@ window.VNR_DATA = {
         "Tuyên ngôn văn hóa văn nghệ của Đảng trong thời \nkỳ toàn cầu hóa"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'văn hóa của Đảng trong thời kỳ thực hiện công nghiệp hóa, hiện đại hóa'",
+      "note": "🔎 Thấy: 'Nghị quyết số 03-NQ/TW tại Hội nghị Trung ương 5 khóa VIII (7/1998)...' ➔ 🎯 Nhớ: 'văn hóa của Đảng trong thời kỳ thực hiện công nghiệp hóa, hiện đại hóa'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -215,7 +215,7 @@ window.VNR_DATA = {
         "Tháng 2/1979."
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Tháng 3/1988.'",
+      "note": "🔎 Thấy: 'Trung Quốc cho quân đội chiếm đảo Gạc Ma và các bãi cạn Châu Viên,...' ➔ 🎯 Nhớ: 'Tháng 3/1988.'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -232,7 +232,7 @@ window.VNR_DATA = {
         "Vấn đề cơ bản khi xây dựng chủ nghĩa xã hội"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Nhiệm vụ xây dựng chủ nghĩa xã hội'",
+      "note": "🔎 Thấy: 'Đại hội lần thứ V của Đảng đã khẳng định: \"Trong khi không một phút...' ➔ 🎯 Nhớ: 'Nhiệm vụ xây dựng chủ nghĩa xã hội'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -249,7 +249,7 @@ window.VNR_DATA = {
         "Mỹ âm mưu bá chủ toàn cầu"
       ],
       "a": "C",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'Miền Bắc được hoàn · làm hậu phương · cho cả nước kháng chiến'",
+      "note": "🔎 Thấy: 'Sau Hiệp định Giơnevơ (7/1954) cách mạng Việt Nam có những thuận...' ➔ 🎯 Nhớ: 'Miền Bắc được hoàn · làm hậu phương · cho cả nước kháng chiến'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -264,7 +264,7 @@ window.VNR_DATA = {
         "Xây dựng chủ nghĩa xã hội trên cả nước"
       ],
       "a": "A",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'và bọn tay sai · nhất · nhà hoàn thành độc lập và dân · trong'",
+      "note": "🔎 Thấy: 'Nhiệm vụ chiến lược của cách mạng được Đại hội Đảng toàn quốc lần...' ➔ 🎯 Nhớ: 'và bọn tay sai · nhất · nhà hoàn thành độc lập và dân'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -281,7 +281,7 @@ window.VNR_DATA = {
         "Đại hội Đảng lần thứ X."
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Đại hội Đảng lần thứ XIII.'",
+      "note": "🔎 Thấy: 'Phấn đấu đến giữa thế kỷ XXI, nước ta trở thành nước phát triển...' ➔ 🎯 Nhớ: 'Đại hội Đảng lần thứ XIII.'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -298,7 +298,7 @@ window.VNR_DATA = {
         "Thúc đẩy mạnh mẽ sự nghiệp giáo dục"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: '...công nghiệp hóa, hiện đại hóa đất nước.'",
+      "note": "🔎 Thấy: 'Chiến lược phát triển khoa học và công nghệ, giáo dục và đào tạo đã...' ➔ 🎯 Nhớ: '...công nghiệp hóa, hiện đại hóa đất nước.'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -313,7 +313,7 @@ window.VNR_DATA = {
         "Nhân dân thế giới lên án"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'cục bộ'",
+      "note": "🔎 Thấy: 'Vì sao Mỹ buộc phải tuyên bố ngừng hẳn ném bom, bắn phá miền Bắc...' ➔ 🎯 Nhớ: '...lược \"Chiến tranh cục bộ\" ở miền Nam'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -328,7 +328,7 @@ window.VNR_DATA = {
         "Cộng hòa đại nghị"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Thuộc địa nửa phong kiến'",
+      "note": "🔎 Thấy: 'Chế độ cai trị của thực dân Pháp đối với nhân dân Việt Nam cuối thế...' ➔ 🎯 Nhớ: 'Thuộc địa nửa phong kiến'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -343,7 +343,7 @@ window.VNR_DATA = {
         "4"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: '2'",
+      "note": "🔎 Thấy: 'Cuối năm 1974, đầu năm 1975, Bộ Chính trị đã đề ra mấy kế hoạch khi...' ➔ 🎯 Nhớ: '2'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -360,7 +360,7 @@ window.VNR_DATA = {
         "An toàn khu"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Sài Gòn - Chợ Lớn'",
+      "note": "🔎 Thấy: 'Ngày 2/9/1945, quân Pháp trắng trợn gây hấn cho nổ súng vào những...' ➔ 🎯 Nhớ: 'Sài Gòn - Chợ Lớn'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -375,7 +375,7 @@ window.VNR_DATA = {
         "Ngày toàn quốc kháng chiến chống thực dân Pháp \nxâm lược"
       ],
       "a": "C",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'Chủ tịch Hồ Chí Minh đọc tuyên ngôn độc lập khai sinh · Việt · chủ Cộng hòa'",
+      "note": "🔎 Thấy: 'Ngày 2/9/1945 gắn với sự kiện lịch sử' ➔ 🎯 Nhớ: 'Chủ tịch Hồ Chí Minh đọc tuyên ngôn độc lập khai sinh · Việt · chủ Cộng hòa'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -392,7 +392,7 @@ window.VNR_DATA = {
         "Di chúc"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Lời kêu gọi'",
+      "note": "🔎 Thấy: '\"Chiến tranh có thể kéo dài 5 năm, 10 năm, 20 năm hoặc lâu hơn nữa....' ➔ 🎯 Nhớ: 'Lời kêu gọi'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": []
@@ -407,7 +407,7 @@ window.VNR_DATA = {
         "Ruộng đất"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Giải phóng dân tộc'",
+      "note": "🔎 Thấy: 'Cách mạng tháng Tám năm 1945 là cuộc cách mạng gì' ➔ 🎯 Nhớ: 'Giải phóng dân tộc'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -422,7 +422,7 @@ window.VNR_DATA = {
         "Giai cấp nông dân"
       ],
       "a": "AD",
-      "note": "⚠️ 2 ĐÁP ÁN (AD): Động lực CM trong Cương lĩnh đầu tiên = Công nhân (A) + Nông dân (D). Tick thiếu = 0 điểm!",
+      "note": "⚠️ 2 ĐÁP ÁN (AD): Thấy 'Động lực CM trong Cương lĩnh đầu tiên' ➔ Nhớ đủ 2 giai cấp: Công nhân (A) + Nông dân (D).",
       "multi": true,
       "topic": "khac",
       "tags": [
@@ -439,7 +439,7 @@ window.VNR_DATA = {
         "Bắt đầu 2/3/1954, kết thúc 10/5/1954"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Bắt đầu 13/3/1954, kết thúc 7/5/1954'",
+      "note": "🔎 Thấy: 'Chiến dịch Điện Biên Phủ bắt đầu vào ngày nào và kết thúc vào ngày' ➔ 🎯 Nhớ: 'Bắt đầu 13/3/1954, kết thúc 7/5/1954'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -456,7 +456,7 @@ window.VNR_DATA = {
         "4"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: '2'",
+      "note": "🔎 Thấy: 'Trong cuộc xâm lược Việt Nam từ 1858 đến 1945, thực dân Pháp đã...' ➔ 🎯 Nhớ: '2'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -473,7 +473,7 @@ window.VNR_DATA = {
         "Tiểu tư sản, tư sản dân tộc, tiểu địa chủ"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Công nhân, tiểu tư sản, tư sản dân tộc'",
+      "note": "🔎 Thấy: 'Các cuộc khai thác thuộc địa của thực dân Pháp đã làm xuất hiện ở...' ➔ 🎯 Nhớ: 'Công nhân, tiểu tư sản, tư sản dân tộc'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -488,7 +488,7 @@ window.VNR_DATA = {
         "Mặt trận ngoại giao"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Mặt trận ngoại giao'",
+      "note": "🔎 Thấy: 'Hội nghị Trung ương 13 (1/1967) chủ trương mở mặt trận nào để tiến...' ➔ 🎯 Nhớ: 'Mặt trận ngoại giao'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -505,7 +505,7 @@ window.VNR_DATA = {
         "Tổng bộ Việt Minh"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Tổng bộ Việt Minh'",
+      "note": "🔎 Thấy: 'Quốc dân Đại hội Tân Trào được triệu tập bởi' ➔ 🎯 Nhớ: 'Tổng bộ Việt Minh'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -523,7 +523,7 @@ window.VNR_DATA = {
         "Phải dựa vào sức mình"
       ],
       "a": "A",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'trên · lĩnh vực kinh tế quân sự chính trị văn hóa giáo dục'",
+      "note": "🔎 Thấy: 'Tính chất toàn diện trong cuộc kháng chiến chống Pháp được hiểu' ➔ 🎯 Nhớ: 'trên · lĩnh vực kinh tế quân sự chính trị văn hóa giáo dục'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -538,7 +538,7 @@ window.VNR_DATA = {
         "2000"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: '1995'",
+      "note": "🔎 Thấy: 'Việt Nam chính thức thiết lập quan hệ ngoại giao với Mỹ vào thời...' ➔ 🎯 Nhớ: '1995'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -555,7 +555,7 @@ window.VNR_DATA = {
         "Không có điểm khác nhau giữa 2 văn kiện"
       ],
       "a": "B",
-      "note": "🎯 PHÂN BIỆT CƯƠNG LĨNH vs LUẬN CƯƠNG: Khác nhau lớn nhất = 'Đường lối tập hợp lực lượng bên trong' (Cương lĩnh rộng rãi, Luận cương chỉ công-nông).",
+      "note": "🔎 Thấy: 'Điểm khác nhau giữa Luận cương 10/1930 và Cương lĩnh 2/1930' ➔ Nhớ: 'Đường lối tập hợp lực lượng bên trong' (Cương lĩnh rộng rãi, Luận cương chỉ công-nông).",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -572,7 +572,7 @@ window.VNR_DATA = {
         "Hội nghị Ban Thường vụ Trung ương tháng 3/1945"
       ],
       "a": "C",
-      "note": "⚠️ PHỦ ĐỊNH: Trích 'không phải là CM tư sản dân quyền... mà chỉ giải quyết 1 vấn đề cần kíp là dân tộc giải phóng' ➔ HNTW 8 (tháng 5/1941).",
+      "note": "⚠️ PHỦ ĐỊNH: Thấy câu trích 'không phải là CM tư sản dân quyền... mà chỉ giải quyết 1 vấn đề cần kíp là dân tộc giải phóng' ➔ Nhớ: HNTW 8 (tháng 5/1941).",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -590,7 +590,7 @@ window.VNR_DATA = {
         "Liên minh dân tộc và giai cấp được thiết lập rộng rãi"
       ],
       "a": "A",
-      "note": "🎯 PHÂN BIỆT LUẬN CƯƠNG 10/1930: Nhấn mạnh 'Mâu thuẫn giai cấp diễn ra gay gắt' (khác Cương lĩnh đặt mâu thuẫn dân tộc lên đầu).",
+      "note": "🔎 Thấy: 'Luận cương chính trị tháng 10/1930 xác định mâu thuẫn' ➔ Nhớ: 'Mâu thuẫn giai cấp diễn ra gay gắt' (khác Cương lĩnh đặt mâu thuẫn dân tộc lên đầu).",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -605,7 +605,7 @@ window.VNR_DATA = {
         "1961"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: '1959'",
+      "note": "🔎 Thấy: 'Tuyến vận tải chiến lược Trường Sơn - đường mòn Hồ Chí Minh trên bộ...' ➔ 🎯 Nhớ: '1959'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -622,7 +622,7 @@ window.VNR_DATA = {
         "Phát xít Nhật đầu hàng quân Đồng minh không \nđiều kiện"
       ],
       "a": "C",
-      "note": "⚠️ PHỦ ĐỊNH: KHÔNG PHẢI điều kiện thời cơ CM Tháng Tám ➔ 'Lực lượng trung gian đã ngả hẳn về phía cách mạng'.",
+      "note": "⚠️ PHỦ ĐỊNH: Thấy 'KHÔNG PHẢI điều kiện thời cơ chín muồi CM Tháng Tám' ➔ Nhớ: 'Lực lượng trung gian đã ngả hẳn về phía cách mạng'.",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -637,7 +637,7 @@ window.VNR_DATA = {
         "Phát triển kinh tế quốc doanh"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Công nghiệp hóa xã hội chủ nghĩa'",
+      "note": "🔎 Thấy: 'Đại hội lần thứ III của Đảng (1960) xác định nhiệm vụ trung tâm...' ➔ 🎯 Nhớ: 'Công nghiệp hóa xã hội chủ nghĩa'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -654,7 +654,7 @@ window.VNR_DATA = {
         "Có nền kinh tế phát triển cao dựa trên lực lượng sản \nxuất hiện đại và quan hệ sản xuất tiến bộ, phù hợp"
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'giàu nước mạnh · công bằng · minh'",
+      "note": "🔎 Thấy: 'Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã...' ➔ 🎯 Nhớ: 'Dân giàu, nước mạnh, dân chủ, công bằng, văn minh'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -671,7 +671,7 @@ window.VNR_DATA = {
         "Tăng cường công tác bảo vệ, chăm sóc và nâng cao \nsức khỏe nhân dân trong tình hình mới"
       ],
       "a": "D",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'Tăng cường · bảo vệ chăm sóc và nâng cao sức khỏe nhân'",
+      "note": "🔎 Thấy: 'Hội nghị Trung ương VI khóa XII Ban hành Nghị quyết số 20-NQ/TW...' ➔ 🎯 Nhớ: 'Tăng cường · bảo vệ chăm sóc và nâng cao sức khỏe nhân'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -688,7 +688,7 @@ window.VNR_DATA = {
         "Đảng Cộng sản Việt Nam"
       ],
       "a": "AB",
-      "note": "⚠️ 2 ĐÁP ÁN (AB): Hội VNCM Thanh niên (1929) phân hóa thành An Nam CSĐ (A) + Đông Dương CSĐ (B). (ĐDCS Liên đoàn là từ Tân Việt!).",
+      "note": "⚠️ 2 ĐÁP ÁN (AB): Thấy '1929 Hội VNCM Thanh niên phân hóa thành' ➔ Nhớ đủ 2 đảng: An Nam CSĐ (A) + Đông Dương CSĐ (B). (ĐDCS Liên đoàn là từ Tân Việt!).",
       "multi": true,
       "topic": "period_1858_1930",
       "tags": []
@@ -703,7 +703,7 @@ window.VNR_DATA = {
         "Nhận thức về con đường đi lên chủ nghĩa xã hội còn \ngiản đơn"
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'Nhận thức · con · đi · còn giản đơn'",
+      "note": "🔎 Thấy: 'hạn chế của Đảng khi đề ra đường lối cách mạng xã hội chủ nghĩa tại...' ➔ 🎯 Nhớ: 'Nhận thức · con · đi'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -720,7 +720,7 @@ window.VNR_DATA = {
         "Điều lệ vắn tắt, Chương trình tóm tắt của Đảng"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Đường Kách Mệnh'",
+      "note": "🔎 Thấy: 'Lãnh tụ Nguyễn Ái Quốc đã đề cập những vấn đề cơ bản của một cương...' ➔ 🎯 Nhớ: 'Đường Kách Mệnh'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": [
@@ -737,7 +737,7 @@ window.VNR_DATA = {
         "Hội nghị Trung ương lần thứ 15 (1/1959)"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Hội nghị Trung ương lần thứ 15 (1/1959)'",
+      "note": "🔎 Thấy: 'Hội nghị Trung ương nào của Đảng đề ra nghị quyết mở đường cho sự...' ➔ 🎯 Nhớ: 'Hội nghị Trung ương lần thứ 15 (1/1959)'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -755,7 +755,7 @@ window.VNR_DATA = {
         "Kinh tế tư nhân giữ vai trò quyết định trong phát \ntriển kinh tế"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: '...là một động lực quan trọng để phát triển kinh tế'",
+      "note": "🔎 Thấy: 'Hội nghị Trung ương 5 khóa XII (5/2017) ban hành nghị quyết về phát...' ➔ 🎯 Nhớ: '...là một động lực quan trọng để phát triển kinh tế'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -772,7 +772,7 @@ window.VNR_DATA = {
         "Đại hội XIII (2021)"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Đại hội XII (2016)'",
+      "note": "🔎 Thấy: '\"lấy lợi ích quốc gia, dân tộc làm mục tiêu cao nhất\"' ➔ 🎯 Nhớ: 'Đại hội XII (2016)'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -790,7 +790,7 @@ window.VNR_DATA = {
         "Nhiệm vụ đặc biệt quan trọng"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Nhiệm vụ then chốt'",
+      "note": "🔎 Thấy: 'Xây dựng, chỉnh đốn Đảng được Đại hội X (2006) xác định' ➔ 🎯 Nhớ: 'Nhiệm vụ then chốt'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -807,7 +807,7 @@ window.VNR_DATA = {
         "Không còn đấu tranh giai cấp"
       ],
       "a": "C",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'Thực hiện thắng lợi sự nghiệp công nghiệp hóa hiện đại hóa theo định hướng xã...'",
+      "note": "🔎 Thấy: 'Nội dung chủ yếu của đấu tranh giai cấp trong thời kỳ Đổi mới được...' ➔ 🎯 Nhớ: 'Thực hiện thắng lợi sự nghiệp công nghiệp hóa hiện đại hóa theo định hướng xã...'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -822,7 +822,7 @@ window.VNR_DATA = {
         "5"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: '3'",
+      "note": "🔎 Thấy: 'Phiên họp đầu tiên của Chính phủ Lâm thời Việt Nam Dân chủ Cộng hòa...' ➔ 🎯 Nhớ: '3'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -839,7 +839,7 @@ window.VNR_DATA = {
         "Thể chế chính trị và quản lý nhà nước"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Con người'",
+      "note": "🔎 Thấy: 'Trong 5 yếu tố chính để tăng trưởng kinh tế, yếu tố nào giữ vai trò...' ➔ 🎯 Nhớ: 'Con người'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -854,7 +854,7 @@ window.VNR_DATA = {
         "Đỗ Mười"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Nguyễn Văn Linh'",
+      "note": "🔎 Thấy: 'Đại hội VI của Đảng (1986) đã bầu ai làm Tổng Bí thư' ➔ 🎯 Nhớ: 'Nguyễn Văn Linh'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -872,7 +872,7 @@ window.VNR_DATA = {
         "Hoàng Văn Thái"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Võ Nguyên Giáp'",
+      "note": "🔎 Thấy: 'Ai là người ban hành mệnh lệnh \"thần tốc, thần tốc hơn nữa, táo...' ➔ 🎯 Nhớ: 'Võ Nguyên Giáp'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -889,7 +889,7 @@ window.VNR_DATA = {
         "Đại hội VII (1991)"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Đại hội V (1982)'",
+      "note": "🔎 Thấy: 'Đại hội nào của Đảng lần đầu tiên đề ra hai nhiệm vụ chiến lược của...' ➔ 🎯 Nhớ: 'Đại hội V (1982)'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -907,7 +907,7 @@ window.VNR_DATA = {
         "5"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: '3'",
+      "note": "🔎 Thấy: 'Đại hội Đảng lần thứ IV (12/1976) đã nêu lên mấy đặc điểm lớn của...' ➔ 🎯 Nhớ: '3'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -925,7 +925,7 @@ window.VNR_DATA = {
         "Hội nghị Ban Thường vụ Trung ương tháng 3/1945"
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: '1941'",
+      "note": "🔎 Thấy: '\"Trong lúc này nếu không giải quyết được vấn đề dân tộc giải phóng,...' ➔ 🎯 Nhớ: 'Hội nghị Ban Chấp hành Trung ương tháng 5/1941'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -943,7 +943,7 @@ window.VNR_DATA = {
         "Văn hóa xã hội"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Khoa học và công nghệ'",
+      "note": "🔎 Thấy: 'Động lực của công nghiệp hóa, hiện đại hóa trong thời kỳ Đồi môi...' ➔ 🎯 Nhớ: 'Khoa học và công nghệ'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -960,7 +960,7 @@ window.VNR_DATA = {
         "Đại hội IX (2001)"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Đại hội VII (1991)'",
+      "note": "🔎 Thấy: 'Đường lối đối ngoại \"Việt Nam muốn là bạn với tất cả các nước trong...' ➔ 🎯 Nhớ: 'Đại hội VII (1991)'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -978,7 +978,7 @@ window.VNR_DATA = {
         "Lê Duẩn"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Lê Duẩn'",
+      "note": "🔎 Thấy: 'Đại hội Đảng lần thứ IV (12/1976) đã bầu ai làm Tổng Bí thư' ➔ 🎯 Nhớ: 'Lê Duẩn'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -996,7 +996,7 @@ window.VNR_DATA = {
         "Giải phóng miền Nam, hòa bình, thống nhất Tổ \nquốc"
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'Giải phóng · hòa bình thống nhất Tổ quốc'",
+      "note": "🔎 Thấy: 'Đại hội Đảng lần thứ III (9/1960) xác định mục tiêu chung trước mắt...' ➔ 🎯 Nhớ: 'Giải phóng miền Nam, hòa bình, thống nhất Tổ quốc'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -1013,7 +1013,7 @@ window.VNR_DATA = {
         "Thượng Hải"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Ma Cao'",
+      "note": "🔎 Thấy: 'Đại hội lần thứ I Đảng Cộng sản Đông Dương được tổ chức tại' ➔ 🎯 Nhớ: 'Ma Cao'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -1030,7 +1030,7 @@ window.VNR_DATA = {
         "Tập trung dân chủ"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Tập trung dân chủ'",
+      "note": "🔎 Thấy: 'Nguyên tắc tổ chức cơ bản của Đảng Cộng sản Việt Nam' ➔ 🎯 Nhớ: 'Tập trung dân chủ'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -1045,7 +1045,7 @@ window.VNR_DATA = {
         "Đánh đổ chính quyền Sài Gòn"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Đánh bại ý chí xâm lược của Mỹ'",
+      "note": "🔎 Thấy: 'Thành quả quan trọng nhất của cuộc Tổng tiến công và nổi dậy Tết...' ➔ 🎯 Nhớ: 'Đánh bại ý chí xâm lược của Mỹ'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -1060,7 +1060,7 @@ window.VNR_DATA = {
         "Đánh chắc, tiến chắc"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Đánh chắc, tiến chắc'",
+      "note": "🔎 Thấy: 'Phương châm tác chiến của Quân đội nhân dân Việt Nam trong chiến...' ➔ 🎯 Nhớ: 'Đánh chắc, tiến chắc'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -1075,7 +1075,7 @@ window.VNR_DATA = {
         "11/1/2009"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: '11/1/2007'",
+      "note": "🔎 Thấy: 'Việt Nam chính thức trở thành thành viên của tổ chức WTO vào thời...' ➔ 🎯 Nhớ: '11/1/2007'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -1092,7 +1092,7 @@ window.VNR_DATA = {
         "Lực lượng Việt Quốc, Việt Cách"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Thực dân Pháp'",
+      "note": "🔎 Thấy: 'Chỉ thị Kháng chiến kiến quốc (25/11/1945) xác định kẻ thù chính...' ➔ 🎯 Nhớ: 'Thực dân Pháp'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -1107,7 +1107,7 @@ window.VNR_DATA = {
         "Dự Đại hội lần thứ V Quốc tế Cộng sản (1924)"
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'Đọc Sơ thảo · nhất những luận cương về vấn đề · tộc và vấn đề thuộc địa'",
+      "note": "🔎 Thấy: 'Lãnh tụ Nguyễn Ái Quốc tìm thấy ở Chủ nghĩa Lênin con đường giải...' ➔ 🎯 Nhớ: 'Đọc Sơ thảo · nhất những luận cương về vấn đề · tộc và vấn đề thuộc địa'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -1125,7 +1125,7 @@ window.VNR_DATA = {
         "Kinh tế Việt Nam phụ thuộc kinh tế Pháp"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Cơ cấu · mất cân đối lạc hậu nghèo nàn'",
+      "note": "🔎 Thấy: 'Tác động của chương trình khai thác thuộc địa lần thứ hai của Pháp...' ➔ 🎯 Nhớ: 'Cơ cấu · mất cân đối lạc hậu nghèo nàn'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -1140,7 +1140,7 @@ window.VNR_DATA = {
         "Xã hội chiếm hữu"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Xã hội thuộc địa, nửa phong kiến'",
+      "note": "🔎 Thấy: 'Tính chất của xã hội Việt Nam sau khi thực dân Pháp đặt được ách...' ➔ 🎯 Nhớ: 'Xã hội thuộc địa, nửa phong kiến'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -1155,7 +1155,7 @@ window.VNR_DATA = {
         "Đảng Cộng sản Việt Nam ra đời (1930)"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Đảng Cộng sản Việt Nam ra đời (1930)'",
+      "note": "🔎 Thấy: 'Sự kiện nào được lãnh tụ Nguyễn Ái Quốc đánh giá \"nó chứng tỏ rằng...' ➔ 🎯 Nhớ: 'Đảng Cộng sản Việt Nam ra đời (1930)'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -1172,7 +1172,7 @@ window.VNR_DATA = {
         "Đạo đức"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Tư tưởng'",
+      "note": "🔎 Thấy: 'Lãnh tụ Nguyễn Ái Quốc sáng lập tờ báo Le Paria (Người cùng khổ) và...' ➔ 🎯 Nhớ: 'Tư tưởng'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": []
@@ -1187,7 +1187,7 @@ window.VNR_DATA = {
         "Lực lượng để đánh đuổi đế quốc và phong kiến là \ncông nông. Đồng thời \"phải biết liên lạc với tiểu tư sản, \ntri thức, trung nông ... để kéo họ về phe vô sản giai \ncấp\""
       ],
       "a": "D",
-      "note": "⚠️ PHỦ ĐỊNH (Luận cương 10/1930): KHÔNG thuộc Luận cương ➔ Câu nhắc tới 'tiểu tư sản, trí thức, trung nông, địa chủ vừa và nhỏ' (đó là Cương lĩnh 2/1930!).",
+      "note": "⚠️ PHỦ ĐỊNH: Thấy 'KHÔNG thuộc Luận cương 10/1930' ➔ Nhớ câu nhắc tới 'tiểu tư sản, trí thức, trung nông, địa chủ vừa và nhỏ' (đó là của Cương lĩnh 2/1930!).",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -1202,7 +1202,7 @@ window.VNR_DATA = {
         "Nguyễn Ái Quốc tìm thấy con đường cứu nước"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Đảng Cộng sản Việt Nam ra đời'",
+      "note": "🔎 Thấy: 'Sự kiện nào được Nguyễn Ái Quốc đánh giá \"là một bước ngoặt vô cùng...' ➔ 🎯 Nhớ: 'Đảng Cộng sản Việt Nam ra đời'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": [
@@ -1219,7 +1219,7 @@ window.VNR_DATA = {
         "Cách mạng tư sản dân quyền, lập chính quyền của \ncông nông bằng hình thức Xô viết, để dự bị điều kiện \nđi tới cách mạng xã hội chủ nghĩa"
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'Làm · và thổ địa · cộng'",
+      "note": "🔎 Thấy: 'Cương lĩnh đầu tiên của Đảng đã xác định mục tiêu chiến lược của...' ➔ 🎯 Nhớ: 'Làm · và thổ địa · cộng'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -1236,7 +1236,7 @@ window.VNR_DATA = {
         "Không đề ra được chiến lược liên minh dân tộc và \ngiai cấp rộng rãi"
       ],
       "a": "A",
-      "note": "⚠️ PHỦ ĐỊNH (Luận cương 10/1930): KHÔNG CÓ trong Luận cương ➔ 'Đặt nhiệm vụ chống đế quốc, giải phóng dân tộc lên hàng đầu'.",
+      "note": "⚠️ PHỦ ĐỊNH: Thấy 'KHÔNG CÓ trong Luận cương 10/1930' ➔ Nhớ: 'Đặt nhiệm vụ chống đế quốc, giải phóng dân tộc lên hàng đầu' (Luận cương nặng giai cấp).",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -1251,7 +1251,7 @@ window.VNR_DATA = {
         "Đưa yêu sách cải thiện đời sống."
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Biểu tình có vũ trang tự vệ.'",
+      "note": "🔎 Thấy: 'Hình thức đấu tranh chủ yếu trong phong trào 1930-1931 của nhân dân...' ➔ 🎯 Nhớ: 'Biểu tình có vũ trang tự vệ.'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -1266,7 +1266,7 @@ window.VNR_DATA = {
         "Hà Huy Tập"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Lê Hồng Phong'",
+      "note": "🔎 Thấy: 'Đại hội đại biểu toàn quốc của Đảng cộng sản Đông Dương vào tháng...' ➔ 🎯 Nhớ: 'Lê Hồng Phong'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -1285,7 +1285,7 @@ window.VNR_DATA = {
         "Phan Văn Trường"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Phan Châu Trinh'",
+      "note": "🔎 Thấy: 'Xu hướng giành độc lập dân tộc theo con đường cải cách đất nước gắn...' ➔ 🎯 Nhớ: 'Phan Châu Trinh'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -1302,7 +1302,7 @@ window.VNR_DATA = {
         "Đánh đổ đế quốc Pháp và tay sai"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Các quyền tự do, dân chủ, cơm áo và hòa bình'",
+      "note": "🔎 Thấy: 'Mục tiêu cụ thể trước mắt của phong trào vận động dân chủ Đông...' ➔ 🎯 Nhớ: 'Các quyền tự do, dân chủ, cơm áo và hòa bình'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -1317,7 +1317,7 @@ window.VNR_DATA = {
         "Hội nghị Ban Chấp hành Trung ương tháng 5/1941"
       ],
       "a": "B",
-      "note": "🎯 Điểm khác biệt: '1939'",
+      "note": "🔎 Thấy: 'Chủ trương chuyển hướng chiến lược cách mạng từ làm cách mạng tư...' ➔ 🎯 Nhớ: 'Hội nghị Ban Chấp hành Trung ương tháng 11/1939'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -1335,7 +1335,7 @@ window.VNR_DATA = {
         "1940"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: '1939'",
+      "note": "🔎 Thấy: 'Chiến tranh thế giới thứ II nổ ra vào thời gian' ➔ 🎯 Nhớ: '1939'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -1352,7 +1352,7 @@ window.VNR_DATA = {
         "Dân tộc Việt Nam với đế quốc Pháp"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Dân tộc Việt Nam với đế quốc Pháp'",
+      "note": "🔎 Thấy: 'Mâu thuẫn chủ yếu ở Việt Nam cuối thế kỷ XIX đầu thế kỷ XX là mâu...' ➔ 🎯 Nhớ: 'Dân tộc Việt Nam với đế quốc Pháp'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -1367,7 +1367,7 @@ window.VNR_DATA = {
         "Xác định chuẩn bị khởi nghĩa là nhiệm vụ trung tâm \ntrong giai đoạn hiện tại"
       ],
       "a": "B",
-      "note": "🎯 Điểm khác biệt: 'điều kiện · đánh đổ địa chủ chia ruộng đất cho · cày'",
+      "note": "🔎 Thấy: 'sai trong Hội nghị Trung ương VIII của Đảng (tháng 5 năm 1941)' ➔ 🎯 Nhớ: 'điều kiện · đánh đổ địa chủ chia ruộng đất cho · cày'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -1384,7 +1384,7 @@ window.VNR_DATA = {
         "19/5/1943"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: '19/5/1941'",
+      "note": "🔎 Thấy: 'Mặt trận Việt Nam độc lập đồng minh được thành lập năm' ➔ 🎯 Nhớ: '19/5/1941'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -1401,7 +1401,7 @@ window.VNR_DATA = {
         "Hội nghị trung ương VIII tháng 5/1941"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Hội nghị trung ương VIII tháng 5/1941'",
+      "note": "🔎 Thấy: 'Hội nghị của Ban chấp hành Trung ương nào sau đây nhấn mạnh giải...' ➔ 🎯 Nhớ: 'Hội nghị trung ương VIII tháng 5/1941'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -1419,7 +1419,7 @@ window.VNR_DATA = {
         "Năm 1945"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Năm 1938'",
+      "note": "🔎 Thấy: 'Mặt trận dân chủ Đông dương chính thức thành lập vào năm' ➔ 🎯 Nhớ: 'Năm 1938'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -1436,7 +1436,7 @@ window.VNR_DATA = {
         "Vì cơ sở công nghiệp Vinh - Bến Thủy ở Nghệ - Tĩnh \nlà trung tâm kỹ nghệ lớn nhất ở Việt Nam."
       ],
       "a": "B",
-      "note": "🎯 Điểm khác biệt: 'tổ chức cộng sản · đảng khá mạnh'",
+      "note": "🔎 Thấy: 'Nguyên nhân nào làm cho phong trào ở Nghệ - Tĩnh lên cao' ➔ 🎯 Nhớ: 'tổ chức cộng sản · đảng khá mạnh'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -1451,7 +1451,7 @@ window.VNR_DATA = {
         "Tổ chức giải truyền đơn"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Tổ chức các cuộc bút chiến công khai'",
+      "note": "🔎 Thấy: 'Để tuyên truyền chủ nghĩa Mác trong giai đoạn 1932-1933, Đảng Cộng...' ➔ 🎯 Nhớ: 'Tổ chức các cuộc bút chiến công khai'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -1466,7 +1466,7 @@ window.VNR_DATA = {
         "Đất nước bị chia thành hai miền, có hai chế độ chính \ntrị xã hội khác nhau"
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'Đất nước bị chia · hai · có hai chế độ · trị'",
+      "note": "🔎 Thấy: 'Đặc điểm lớn nhất của cách mạng Việt Nam sau tháng 7/1954' ➔ 🎯 Nhớ: 'Đất nước bị chia · hai · có hai chế độ'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -1481,7 +1481,7 @@ window.VNR_DATA = {
         "Gắn liền với hậu phương xã hội chủ nghĩa"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Không được sự ủng hộ của các nước Đồng minh'",
+      "note": "🔎 Thấy: 'Đặc điểm của nước Việt Nam Dân chủ Cộng hòa ngay khi ra đời' ➔ 🎯 Nhớ: 'Không được sự ủng hộ của các nước Đồng minh'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -1496,7 +1496,7 @@ window.VNR_DATA = {
         "Nắm vững nghệ thuật khởi nghĩa, nghệ thuật chọn \nđúng thời cơ."
       ],
       "a": "B",
-      "note": "⚠️ PHỦ ĐỊNH: CHƯA ĐÚNG trong bài học lãnh đạo CM ➔ 'Sử dụng lực lượng vũ trang áp đảo tiêu diệt kẻ thù'.",
+      "note": "⚠️ PHỦ ĐỊNH: Thấy 'CHƯA ĐÚNG trong bài học lãnh đạo CM' ➔ Nhớ: 'Sử dụng lực lượng vũ trang áp đảo tiêu diệt kẻ thù'.",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -1511,7 +1511,7 @@ window.VNR_DATA = {
         "19 -8 - 1930"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: '1 - 5 - 1930'",
+      "note": "🔎 Thấy: 'Phong trào Xô Viết Nghệ Tĩnh được bắt đầu từ ngày tháng năm' ➔ 🎯 Nhớ: '1 - 5 - 1930'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -1528,7 +1528,7 @@ window.VNR_DATA = {
         "Đại hội IX (2001)"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Đại hội VII (1991)'",
+      "note": "🔎 Thấy: 'Tại Đại hội nào, lần đầu tiên Đảng giương cao ngọn cờ tư tưởng Hồ...' ➔ 🎯 Nhớ: 'Đại hội VII (1991)'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -1546,7 +1546,7 @@ window.VNR_DATA = {
         "Cách mạng Tháng Mười"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Cách mạng Tháng Tám'",
+      "note": "🔎 Thấy: 'Bài học \"giương cao ngọn cờ độc lập dân tộc, kết hợp đúng đắn hai...' ➔ 🎯 Nhớ: 'Cách mạng Tháng Tám'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -1563,7 +1563,7 @@ window.VNR_DATA = {
         "Tất cả nhận định trên"
       ],
       "a": "D",
-      "note": "✅ DUY NHẤT ĐÚNG: Trong 6 câu có 'Tất cả / đều đúng', CHỈ DUY NHẤT Q89 chọn D là đúng!",
+      "note": "🔎 Thấy: 'Vì sao phải Tổng khởi nghĩa TRƯỚC KHI quân Đồng minh vào' ➔ Cả 3 lý do đều đúng ➔ Chọn 'Tất cả nhận định trên' (D).",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -1578,7 +1578,7 @@ window.VNR_DATA = {
         "Việt Nam Dân chủ Cộng hòa"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Cộng hòa xã hội chủ nghĩa Việt Nam'",
+      "note": "🔎 Thấy: 'Kỳ họp thứ nhất Quốc hội khóa VI (24/6 - 3/7/1976) quyết định đặt...' ➔ 🎯 Nhớ: 'Cộng hòa xã hội chủ nghĩa Việt Nam'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": []
@@ -1593,7 +1593,7 @@ window.VNR_DATA = {
         "Cộng hòa nhân dân"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Cộng hòa dân chủ'",
+      "note": "🔎 Thấy: 'Lần đầu tiên Ban Chấp hành Trung ương Đảng tại hội nghị lần thứ 8...' ➔ 🎯 Nhớ: 'Cộng hòa dân chủ'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -1608,7 +1608,7 @@ window.VNR_DATA = {
         "Hội phản đế đồng minh"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Mặt trận Việt Minh'",
+      "note": "🔎 Thấy: '\"Đoàn kết, tập hợp lực lượng cách mạng nhằm giải phóng dân tộc\"' ➔ 🎯 Nhớ: 'Mặt trận Việt Minh'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -1623,7 +1623,7 @@ window.VNR_DATA = {
         "Chiến dịch Hồ Chí Minh (4/1975)"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Chiến dịch Tây Nguyên (3/1975)'",
+      "note": "🔎 Thấy: 'Cuộc Tổng tiến công và nổi dậy mùa Xuân 1975 bắt đầu bằng chiến dịch' ➔ 🎯 Nhớ: 'Chiến dịch Tây Nguyên (3/1975)'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -1641,7 +1641,7 @@ window.VNR_DATA = {
         "5 văn kiện"
       ],
       "a": "B",
-      "note": "⚠️ PHÂN BIỆT Q94 vs Q178: Hội nghị thành lập Đảng thông qua mấy văn kiện do NAQ soạn ➔ '3 văn kiện' (Còn Q178 hỏi Cương lĩnh thể hiện trong mấy văn kiện = 4).",
+      "note": "⚠️ PHÂN BIỆT Q94 vs Q178: Thấy 'Hội nghị thành lập Đảng thông qua mấy văn kiện do NAQ soạn' ➔ Nhớ: '3 văn kiện' (Chính cương, Sách lược, Điều lệ vắn tắt).",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": [
@@ -1658,7 +1658,7 @@ window.VNR_DATA = {
         "Việt Nam hóa chiến tranh"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Chiến tranh cục bộ'",
+      "note": "🔎 Thấy: 'Trong giai đoạn 1965 - 1968, ở miền Nam, Mỹ đã thực hiện chiến lược...' ➔ 🎯 Nhớ: 'Chiến tranh cục bộ'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -1673,7 +1673,7 @@ window.VNR_DATA = {
         "Ủy ban khởi nghĩa"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Ủy ban dân tộc giải phóng Việt Nam'",
+      "note": "🔎 Thấy: 'Chính phủ lâm thời nước Việt Nam dân chủ cộng hòa ra đời từ tổ chức' ➔ 🎯 Nhớ: 'Ủy ban dân tộc giải phóng Việt Nam'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -1688,7 +1688,7 @@ window.VNR_DATA = {
         "Hội nghị trung ương VIII tháng 5/1941"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Hội nghị trung ương VIII tháng 5/1941'",
+      "note": "🔎 Thấy: 'Ban chấp hành Trung ương Đảng chủ trương thành lập nước Việt Nam...' ➔ 🎯 Nhớ: 'Hội nghị trung ương VIII tháng 5/1941'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -1706,7 +1706,7 @@ window.VNR_DATA = {
         "1945-1954"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: '1936-1939'",
+      "note": "🔎 Thấy: 'Chống phát xít, chống chiến tranh đế quốc, chống bọn phản động...' ➔ 🎯 Nhớ: '1936-1939'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -1723,7 +1723,7 @@ window.VNR_DATA = {
         "\"Chống đế quốc\" và \"Chống phát xít, chống chiến \ntranh\"."
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: '\"Độc lập dân tộc\" và \"Ruộng đất dân cày\"..'",
+      "note": "🔎 Thấy: 'Hai khẩu hiệu mà Đảng ta vận dụng trong phong trào cách mạng 1930-...' ➔ 🎯 Nhớ: '\"Độc lập dân tộc\" và \"Ruộng đất dân cày\"..'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -1738,7 +1738,7 @@ window.VNR_DATA = {
         "5"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: '2'",
+      "note": "🔎 Thấy: 'Đại hội lần thứ III của Đảng (9/1960) xác định cách mạng Việt Nam...' ➔ 🎯 Nhớ: '2'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -1755,7 +1755,7 @@ window.VNR_DATA = {
         "Hội nghị Trung ương 8 (5/1941)"
       ],
       "a": "A",
-      "note": "[⚡ 3 ĐÁP ÁN (LOẠI C)] 🎯 Chốt nhanh: 'Hội nghị Trung ương 6 (11/1939)'",
+      "note": "🔎 Thấy: 'Chủ trương điều chỉnh chiến lược cách mạng của Đảng được bắt đầu từ...' ➔ 🎯 Nhớ: 'Hội nghị Trung ương 6 (11/1939)'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -1773,7 +1773,7 @@ window.VNR_DATA = {
         "1945-1954"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: '1930-1931'",
+      "note": "🔎 Thấy: 'Cuộc tập dượt thứ nhất của Đảng chuẩn bị cho thắng lợi của cách...' ➔ 🎯 Nhớ: '1930-1931'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -1790,7 +1790,7 @@ window.VNR_DATA = {
         "Nhiệm vụ chống đế quốc"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Nhiệm vụ chống đế quốc'",
+      "note": "🔎 Thấy: 'Chánh cương vắn tắt, Sách lược vắn tắt do Hội nghị thành lập Đảng...' ➔ 🎯 Nhớ: 'Nhiệm vụ chống đế quốc'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": []
@@ -1805,7 +1805,7 @@ window.VNR_DATA = {
         "Đại hội toàn quốc của Đảng"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Ban Thường vụ Trung ương Đảng'",
+      "note": "🔎 Thấy: '\"Nhật Pháp bắn nhau và hành động của chúng ta\"' ➔ 🎯 Nhớ: 'Ban Thường vụ Trung ương Đảng'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -1822,7 +1822,7 @@ window.VNR_DATA = {
         "Nhằm tranh thủ lực lượng đồng minh chống phát \nxít Nhật"
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'Để đoàn kết · cách mạng · giải phóng · tộc'",
+      "note": "🔎 Thấy: 'Đảng chủ trương thành lập mặt trận Việt Minh vì mục đích gì' ➔ 🎯 Nhớ: 'Để đoàn kết · cách mạng · giải phóng'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -1837,7 +1837,7 @@ window.VNR_DATA = {
         "1921"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: '1919'",
+      "note": "🔎 Thấy: 'Quốc tế cộng sản (Quốc tế III) được thành lập vào năm' ➔ 🎯 Nhớ: '1919'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": [
@@ -1854,7 +1854,7 @@ window.VNR_DATA = {
         "Các quyền dân chủ đơn sơ"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Các quyền dân chủ đơn sơ'",
+      "note": "🔎 Thấy: 'Mục tiêu cụ thể trước mắt của cao trào cách mạng 1936 - 1939' ➔ 🎯 Nhớ: 'Các quyền dân chủ đơn sơ'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -1869,7 +1869,7 @@ window.VNR_DATA = {
         "Sự lãnh đạo của Đảng Cộng sản Việt Nam"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Sự lãnh đạo của Đảng Cộng sản Việt Nam'",
+      "note": "🔎 Thấy: 'Nguyên nhân chủ yếu và có ý nghĩa quyết định sự bùng nổ và phát...' ➔ 🎯 Nhớ: 'Sự lãnh đạo của Đảng Cộng sản Việt Nam'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -1884,7 +1884,7 @@ window.VNR_DATA = {
         "Xác định lực lượng là công- nông"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Khẳng · vai trò lãnh đạo · của Đảng Cộng sản'",
+      "note": "🔎 Thấy: 'Điểm giống nhau giữa Luận cương chính trị 10-1930 và Cương lĩnh...' ➔ 🎯 Nhớ: 'Khẳng · vai trò lãnh đạo · của Đảng Cộng sản'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -1901,7 +1901,7 @@ window.VNR_DATA = {
         "Quốc sách quan trọng nhất"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Quốc sách hàng đầu'",
+      "note": "🔎 Thấy: 'Nghị quyết Hội nghị Trung ương 2 khóa VIII (12/1996) coi khoa học...' ➔ 🎯 Nhớ: 'Quốc sách hàng đầu'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -1918,7 +1918,7 @@ window.VNR_DATA = {
         "Giải phóng dân tộc là nhiệm vụ bức thiết nhất"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Giải phóng dân tộc là nhiệm vụ bức thiết nhất'",
+      "note": "🔎 Thấy: 'Hội nghị trung ương VIII tháng 5/1941 nhấn mạnh điều gì' ➔ 🎯 Nhớ: 'Giải phóng dân tộc là nhiệm vụ bức thiết nhất'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -1935,7 +1935,7 @@ window.VNR_DATA = {
         "1939"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: '1935'",
+      "note": "🔎 Thấy: 'Đại hội lần thứ VII của Quốc tế Cộng sản họp vào năm' ➔ 🎯 Nhớ: '1935'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -1953,7 +1953,7 @@ window.VNR_DATA = {
         "Hợp tác với phong trào nhân dân Pháp"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Phục hồi hệ thống tổ chức của Đảng'",
+      "note": "🔎 Thấy: 'Trong lịch sử Đảng Cộng sản Việt Nam, giai đoạn 1932 - 1935 là giai...' ➔ 🎯 Nhớ: 'Phục hồi hệ thống tổ chức của Đảng'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -1968,7 +1968,7 @@ window.VNR_DATA = {
         "Ngày 25 Tháng 9-1940"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Ngày 22 Tháng 9-1940'",
+      "note": "🔎 Thấy: 'Phát xít Nhật xâm lược nước ta vào ngày tháng, năm' ➔ 🎯 Nhớ: 'Ngày 22 Tháng 9-1940'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -1985,7 +1985,7 @@ window.VNR_DATA = {
         "Thành lập cơ sở trong nước."
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'Mở lớp huấn luyện chính trị đào tạo cán bộ cách mạng'",
+      "note": "🔎 Thấy: 'Hoạt động chủ yếu của Hội Việt Nam Cách Mạng Thanh Niên thời kỳ ở...' ➔ 🎯 Nhớ: 'Mở lớp huấn luyện chính trị đào tạo cán bộ cách mạng'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -2000,7 +2000,7 @@ window.VNR_DATA = {
         "Chỉ thành lập chính đảng cách mạng ở Việt Nam"
       ],
       "a": "BC",
-      "note": "⚠️ 2 ĐÁP ÁN (BC): Đại hội II (1951) quyết định: Đổi tên thành Đảng Lao động VN (B) + Lập chính đảng riêng ở Lào, Campuchia (C).",
+      "note": "⚠️ 2 ĐÁP ÁN (BC): Thấy 'Đại hội II (1951) quyết định' ➔ Nhớ đủ 2 ý: Đổi tên thành Đảng Lao động VN (B) + Lập chính đảng riêng ở Lào, Campuchia (C).",
       "multi": true,
       "topic": "period_1945_1954",
       "tags": [
@@ -2017,7 +2017,7 @@ window.VNR_DATA = {
         "Đánh đuổi đế quốc Pháp và phong kiến"
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'làm cho nước nhà độc lập'",
+      "note": "🔎 Thấy: 'Nhiệm vụ cách mạng nào được xác định bởi Cương lĩnh chính trị' ➔ 🎯 Nhớ: 'làm cho nước nhà độc lập'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -2032,7 +2032,7 @@ window.VNR_DATA = {
         "Lời kêu gọi toàn quốc kháng chiến (19/12/1946)"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Chỉ thị Kháng chiến kiến quốc (25/11/1945)'",
+      "note": "🔎 Thấy: 'Chính sách đối ngoại — \"làm cho nước mình ít kẻ thù hơn hết, nhiều bạn đồng minh hơn hết\"' ➔ 🎯 Nhớ: 'Chỉ thị Kháng chiến kiến quốc (25/11/1945)'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -2049,7 +2049,7 @@ window.VNR_DATA = {
         "Mặt trận dân tộc thống nhất phản đế Đông Dương"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Hội phản đế Đông Dương'",
+      "note": "🔎 Thấy: 'Mặt trận được xây dựng thời kỳ cách mạng 1930- 1931 gọi tên' ➔ 🎯 Nhớ: 'Hội phản đế Đông Dương'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -2064,7 +2064,7 @@ window.VNR_DATA = {
         "Chiến tranh kết thúc"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Buộc quân đội Mỹ rút khỏi miền Nam'",
+      "note": "🔎 Thấy: 'Hiệp định Paris về chấm dứt chiến tranh, lập lại hòa bình ở Việt...' ➔ 🎯 Nhớ: 'Buộc quân đội Mỹ rút khỏi miền Nam'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -2079,7 +2079,7 @@ window.VNR_DATA = {
         "Đế quốc, phong kiến và tư sản phản cách mạng"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Đế quốc, phong kiến và tư sản phản cách mạng'",
+      "note": "🔎 Thấy: 'Đối tượng của cách mạng Việt Nam được xác định trong Cương lĩnh...' ➔ 🎯 Nhớ: 'Đế quốc, phong kiến và tư sản phản cách mạng'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -2096,7 +2096,7 @@ window.VNR_DATA = {
         "Khuynh hướng tiểu tư sản"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Khuynh hướng vô sản'",
+      "note": "🔎 Thấy: 'Hội Việt Nam Cách mạng Thanh niên hoạt động theo khuynh hướng' ➔ 🎯 Nhớ: 'Khuynh hướng vô sản'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": []
@@ -2111,7 +2111,7 @@ window.VNR_DATA = {
         "Củng cố, bảo vệ chính quyền cách mạng"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Củng cố, bảo vệ chính quyền cách mạng'",
+      "note": "🔎 Thấy: 'Chỉ thị Kháng chiến kiến quốc của Trung ương Đảng ngày 25/11/1945,...' ➔ 🎯 Nhớ: 'Củng cố, bảo vệ chính quyền cách mạng'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -2126,7 +2126,7 @@ window.VNR_DATA = {
         "Thức tỉnh phong trào đấu giải phóng dân tộc ở các \nnước thuộc địa, phụ thuộc"
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'giải phóng dân tộc'",
+      "note": "🔎 Thấy: 'Cách mạng tháng Mười Nga thành công (1917) và Quốc tế Cộng sản ra...' ➔ 🎯 Nhớ: 'giải phóng dân tộc'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -2141,7 +2141,7 @@ window.VNR_DATA = {
         "Thắng lợi của cách mạng tháng Tám"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Cuộc khủng hoảng kinh tế 1929-1933'",
+      "note": "🔎 Thấy: 'Sự kiện lịch sử nào ảnh hưởng đến phong trào cách mạng nước ta...' ➔ 🎯 Nhớ: 'Cuộc khủng hoảng kinh tế 1929-1933'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -2156,7 +2156,7 @@ window.VNR_DATA = {
         "Sài Gòn"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Hà Nôi'",
+      "note": "🔎 Thấy: 'Khởi nghĩa thắng lợi ở địa phương nào đã tạo điều kiện quyết định...' ➔ 🎯 Nhớ: 'Hà Nôi'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -2171,7 +2171,7 @@ window.VNR_DATA = {
         "Tập trung lực lượng chính trị, lực lượng vũ trang \nđấu tranh giành độc lập dân tộc"
       ],
       "a": "B",
-      "note": "🎯 Điểm khác biệt: 'Kết hợp · với · quân sự tiến tới khởi nghĩa'",
+      "note": "🔎 Thấy: 'Nghị quyết Hội nghị Trung ương lần thứ 15 (1/1959) đánh dấu sự thay...' ➔ 🎯 Nhớ: 'Kết hợp · với · quân sự tiến tới khởi nghĩa'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -2188,7 +2188,7 @@ window.VNR_DATA = {
         "Kinh tế nhiều thành phần"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Kinh tế nhiều thành phần'",
+      "note": "🔎 Thấy: 'Chính sách phát triển kinh tế được Đảng đề ra tại Đại hội VI (1986)' ➔ 🎯 Nhớ: 'Kinh tế nhiều thành phần'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -2203,7 +2203,7 @@ window.VNR_DATA = {
         "Tạo lập môi trường đầu tư, kinh doanh thuận lợi, \nlành mạnh, công bằng cho mọi thành phần kinh tế"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Hoàn thiện hệ thống luật pháp cơ chế'",
+      "note": "🔎 Thấy: 'Nội dung \"tập trung ưu tiên hoàn thiện thể chế kinh tế thị trường...' ➔ 🎯 Nhớ: 'Hoàn thiện hệ thống luật pháp, cơ chế, chính sách'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -2218,7 +2218,7 @@ window.VNR_DATA = {
         "Không buộc địch phải xuống thang chiến tranh"
       ],
       "a": "B",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'biểu hiện chủ quan trong việc · giá tình hình đề ra yêu cầu chưa sát với thực tế'",
+      "note": "🔎 Thấy: 'hạn chế của Đảng trong quá trình lãnh đạo, chỉ đạo các hoạt động...' ➔ 🎯 Nhớ: 'biểu hiện chủ quan trong việc · giá tình hình đề ra yêu cầu chưa sát với thực tế'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -2233,7 +2233,7 @@ window.VNR_DATA = {
         "Nông dân và tiểu tư sản"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Địa chủ và nông dân'",
+      "note": "🔎 Thấy: 'Trước cuộc khai thác thuộc địa lần thứ nhất của thực dân Pháp (1897...' ➔ 🎯 Nhớ: 'Địa chủ và nông dân'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -2248,7 +2248,7 @@ window.VNR_DATA = {
         "Đại hội đại biểu toàn quốc lần thứ IV"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Đại hội đại biểu toàn quốc lần thứ I'",
+      "note": "🔎 Thấy: 'Lê Hồng Phong được bầu làm Tổng bí thư tại Đại hội nào của Đảng' ➔ 🎯 Nhớ: 'Đại hội đại biểu toàn quốc lần thứ I'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -2266,7 +2266,7 @@ window.VNR_DATA = {
         "Địa chủ, tư sản dân tộc\ne. Công nhân, nông dân, tiểu tư sản, tư sản dân tộc, \nđại địa chủ"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'yêu nước'",
+      "note": "🔎 Thấy: 'lực lượng tạo nên động lực cho cách mạng Việt Nam được nêu ra trong...' ➔ 🎯 Nhớ: '...sản dân tộc, địa chủ yêu nước'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -2281,7 +2281,7 @@ window.VNR_DATA = {
         "Đông Dương Cộng sản liên đoàn"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Đông Dương Cộng sản Đảng'",
+      "note": "🔎 Thấy: 'Tổ chức Cộng sản nào ra đời đầu tiên ở Việt Nam' ➔ 🎯 Nhớ: 'Đông Dương Cộng sản Đảng'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": []
@@ -2296,7 +2296,7 @@ window.VNR_DATA = {
         "Cuộc xâm lược lần thứ hai của thực dân Pháp"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'ộc'",
+      "note": "🔎 Thấy: 'Giai cấp công nhân Việt Nam ra đời từ' ➔ 🎯 Nhớ: 'ộc khai thác thuộc địa...'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -2311,7 +2311,7 @@ window.VNR_DATA = {
         "Sự thành lập Hội Việt Nam cách mạng thanh niên"
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'Hội Việt Nam · thanh niên'",
+      "note": "🔎 Thấy: '\"Nó là quả trứng, mà từ đó nở ra con chim non Cộng sản\"' ➔ 🎯 Nhớ: 'Sự thành lập Hội Việt Nam cách mạng thanh niên'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": []
@@ -2326,7 +2326,7 @@ window.VNR_DATA = {
         "Đảng Cộng sản Việt Nam là sản phẩm của sự kết \nhợp phong trào công nhân và phong trào yêu nước \nViệt Nam."
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'Lênin · dân'",
+      "note": "🔎 Thấy: 'luận điểm sáng tạo của Hồ Chí Minh khi vận dụng chủ nghĩa Mác -...' ➔ 🎯 Nhớ: '...hợp chủ nghĩa Mác-Lênin với phong trào công...'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": []
@@ -2341,7 +2341,7 @@ window.VNR_DATA = {
         "Lê Hồng Phong"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Trần Phú'",
+      "note": "🔎 Thấy: 'Tổng bí thư đầu tiên của nước ta' ➔ 🎯 Nhớ: 'Trần Phú'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -2358,7 +2358,7 @@ window.VNR_DATA = {
         "Đảng An Nam"
       ],
       "a": "C",
-      "note": "[🔁 TRÙNG Q170] 🎯 Chốt nhanh: 'Đảng Cộng sản Đông Dương'",
+      "note": "[🔁 Trùng ý Q170] 🔎 Thấy: 'Hội nghị Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam (10-1930)...' ➔ 🎯 Nhớ: 'Đảng Cộng sản Đông Dương'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -2375,7 +2375,7 @@ window.VNR_DATA = {
         "Đẩy quân Pháp vào thế bị động trên chiến trường"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Đánh bại âm mưu kế hoạch đánh nhanh thắng nhanh của thực dân'",
+      "note": "🔎 Thấy: 'Kết quả lớn nhất mà quân và dân ta đạt được trong chiến dịch Việt...' ➔ 🎯 Nhớ: 'Đánh bại âm mưu kế hoạch đánh nhanh thắng nhanh của thực dân'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -2390,7 +2390,7 @@ window.VNR_DATA = {
         "Đông Dương Cộng sản đảng"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Đông Dương Cộng sản đảng'",
+      "note": "🔎 Thấy: 'tổ chức Cộng sản ra đời ở Việt Nam năm 1929' ➔ 🎯 Nhớ: 'Đông Dương Cộng sản đảng'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": []
@@ -2405,7 +2405,7 @@ window.VNR_DATA = {
         "Khuynh hướng tiểu tư sản"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Khuynh hướng dân chủ tư sản'",
+      "note": "🔎 Thấy: 'Trước sự xâm lược của thực dân Pháp, phong trào yêu nước do Việt...' ➔ 🎯 Nhớ: 'Khuynh hướng dân chủ tư sản'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -2420,7 +2420,7 @@ window.VNR_DATA = {
         "Công nhân, nông dân, tiểu tư sản, tư sản dân tộc, \nđịa chủ nhỏ và vừa"
       ],
       "a": "D",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'địa chủ nhỏ · vừa'",
+      "note": "🔎 Thấy: 'Thành phần nào dưới đây trở thành giai cấp, tầng lớp bị trị dưới...' ➔ 🎯 Nhớ: 'địa chủ nhỏ · vừa'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -2435,7 +2435,7 @@ window.VNR_DATA = {
         "Nông dân và tiểu tư sản"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Tư sản, tiểu tư sản và công nhân'",
+      "note": "🔎 Thấy: 'Trong cuộc khai thác thuộc địa lần thứ nhất của thực dân Pháp (1897...' ➔ 🎯 Nhớ: 'Tư sản, tiểu tư sản và công nhân'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -2450,7 +2450,7 @@ window.VNR_DATA = {
         "Hoàng Văn Thái"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Văn Tiến Dũng'",
+      "note": "🔎 Thấy: 'Ai là Tư lệnh Chiến dịch Hồ Chí Minh giải phóng Sài Gòn - Gia Định...' ➔ 🎯 Nhớ: 'Văn Tiến Dũng'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -2467,7 +2467,7 @@ window.VNR_DATA = {
         "Đổi mới đường lối văn hóa văn nghệ"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Đổi mới kinh tế'",
+      "note": "🔎 Thấy: 'Hội nghị Trung ương 6 (8/1979) được coi là bước đột phá đầu tiên...' ➔ 🎯 Nhớ: 'Đổi mới kinh tế'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -2484,7 +2484,7 @@ window.VNR_DATA = {
         "Tiểu tư sản"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Nông dân'",
+      "note": "🔎 Thấy: 'Trong phong trào yêu nước chống Thực dân Pháp, giai cấp nào được...' ➔ 🎯 Nhớ: 'Nông dân'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -2499,7 +2499,7 @@ window.VNR_DATA = {
         "Sự kết hợp phong trào công nhân và phong trào yêu \nnước Việt Nam."
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'của · Lênin'",
+      "note": "🔎 Thấy: 'Đảng Cộng sản Việt Nam ra đời' ➔ 🎯 Nhớ: 'Sản phẩm của sự kết hợp chủ nghĩa...'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -2513,7 +2513,7 @@ window.VNR_DATA = {
         "Liên hiệp các nước thuộc địa"
       ],
       "a": "B",
-      "note": "[⚡ 3 ĐÁP ÁN (LOẠI C)] 🎯 Chốt nhanh: 'Quốc tế Nông dân'",
+      "note": "🔎 Thấy: 'Vào tháng 10/1923, Nguyễn Ái Quốc đến Liên Xô tham dự đại hội của' ➔ 🎯 Nhớ: 'Quốc tế Nông dân'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": [
@@ -2531,7 +2531,7 @@ window.VNR_DATA = {
         "Cao Bằng (Việt Nam)"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Quảng Châu (Trung Quốc)'",
+      "note": "🔎 Thấy: 'Nguyễn Ái Quốc đã thành lập Hội Việt Nam cách mạng thanh niên ở đâu' ➔ 🎯 Nhớ: 'Quảng Châu (Trung Quốc)'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": []
@@ -2546,7 +2546,7 @@ window.VNR_DATA = {
         "Nguyễn Ái Quốc thành lập tổ chức Hội Việt Nam \nCách mạng Thanh niên (6/1925)."
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'đọc bản Sơ thảo lần thứ nhất những Luận cương về vấn đề dân tộc và vấn đề thuộc...'",
+      "note": "🔎 Thấy: 'Sự kiện nào đánh dấu Nguyễn Ái Quốc bước đầu tìm thấy con đường cứu...' ➔ 🎯 Nhớ: 'đọc bản Sơ thảo lần thứ nhất những Luận cương về vấn đề dân tộc và vấn đề thuộc...'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -2564,7 +2564,7 @@ window.VNR_DATA = {
         "Người dự Đại hội lần thứ VII của Quốc tế Cộng sản."
       ],
       "a": "B",
-      "note": "🎯 Điểm khác biệt: '...lần thứ V của Quốc tế Cộng sản.'",
+      "note": "🔎 Thấy: 'Sự kiện tháng 6-1924 gắn với hoạt động của Nguyễn Ái Quốc ở Liên Xô,' ➔ 🎯 Nhớ: 'Người dự Đại hội lần thứ V của Quốc tế Cộng sản.'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -2581,7 +2581,7 @@ window.VNR_DATA = {
         "Cổ vũ, thức tỉnh lòng yêu nước của nhân dân ta."
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'Cổ vũ thức tỉnh lòng yêu · ta'",
+      "note": "🔎 Thấy: 'Hoạt động của Phan Bội Châu, Phan Châu Trinh và một số người sống ở...' ➔ 🎯 Nhớ: 'Cổ vũ, thức tỉnh lòng yêu nước của nhân dân ta.'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -2596,7 +2596,7 @@ window.VNR_DATA = {
         "Nông dân và tư sản dân tộc"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Công nhân và nông dân'",
+      "note": "🔎 Thấy: 'Lực lượng chính của cách mạng được xác định trong Luận cương chính...' ➔ 🎯 Nhớ: 'Công nhân và nông dân'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -2611,7 +2611,7 @@ window.VNR_DATA = {
         "Thành lập cơ sở trong nước."
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'Mở lớp huấn luyện chính trị đào tạo cán bộ cách mạng'",
+      "note": "🔎 Thấy: 'Hoạt động chủ yếu nhất của Hội Việt Nam Cách mạng Thanh niên' ➔ 🎯 Nhớ: 'Mở lớp huấn luyện chính trị đào tạo cán bộ cách mạng'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -2626,7 +2626,7 @@ window.VNR_DATA = {
         "Địa chủ phong kiến, tư sản"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Đế quốc và phong kiến'",
+      "note": "🔎 Thấy: 'Kẻ thù chủ yếu của xã hội Việt Nam trong thời kì 1930-1931' ➔ 🎯 Nhớ: 'Đế quốc và phong kiến'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -2641,7 +2641,7 @@ window.VNR_DATA = {
         "đánh đổ đế quốc Pháp, phong kiến và tư sản phản \ncách mạng, làm cho nước Việt Nam độc lập tự do."
       ],
       "a": "A",
-      "note": "[🔁 TRÙNG Q189] 🎯 Chốt nhanh: 'đánh đổ phong kiến và đế quốc'",
+      "note": "[🔁 Trùng ý Q189] 🔎 Thấy: 'Nhiệm vụ của cách mạng Việt Nam được xác định trong Luận cương...' ➔ 🎯 Nhớ: 'đánh đổ phong kiến và đế quốc'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -2656,7 +2656,7 @@ window.VNR_DATA = {
         "5-1941"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: '11-1939'",
+      "note": "🔎 Thấy: 'Mặt trận dân tộc thống nhất phản đế Đông Dương được thành lập vài...' ➔ 🎯 Nhớ: '11-1939'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -2673,7 +2673,7 @@ window.VNR_DATA = {
         "Mặt trận nhân dân Pháp tan vỡ, chính quyền thực \ndân Pháp ở Việt Nam thi hành chính sách phát xít."
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'tan vỡ chính · thực · thi hành chính sách phát xít'",
+      "note": "🔎 Thấy: 'Điều kiện nào không tạo ra khả năng đấu tranh công khai, hợp pháp...' ➔ 🎯 Nhớ: 'tan vỡ chính · thực · thi hành chính sách phát xít'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -2688,7 +2688,7 @@ window.VNR_DATA = {
         "Giải phóng miền Nam trước mùa mưa năm 1975"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Giải phóng miền Nam trước mùa mưa năm 1975'",
+      "note": "🔎 Thấy: 'Ngày 18/3/1975, Bộ Chính trị quyết định' ➔ 🎯 Nhớ: 'Giải phóng miền Nam trước mùa mưa năm 1975'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -2705,7 +2705,7 @@ window.VNR_DATA = {
         "Đảng có vững cách mạng mới thành công"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Đánh đổ đế quốc chủ nghĩa Pháp và bọn phong kiến · cho nước Nam hoàn toàn độc...'",
+      "note": "🔎 Thấy: 'nằm trong Cương lĩnh cách mạng đầu tiên của Đảng' ➔ 🎯 Nhớ: 'Đánh đổ đế quốc chủ nghĩa Pháp và bọn phong kiến · cho nước Nam hoàn toàn độc...'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -2722,7 +2722,7 @@ window.VNR_DATA = {
         "Là một Đảng của giai cấp công nhân Việt Nam"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Là một chi bộ của Quốc tế Cộng sản'",
+      "note": "🔎 Thấy: 'Qua thực tế lãnh đạo phong trào cách mạng 1930-1931, Đảng ta đã...' ➔ 🎯 Nhớ: 'Là một chi bộ của Quốc tế Cộng sản'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -2737,7 +2737,7 @@ window.VNR_DATA = {
         "Tiểu tư sản"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Công nhân'",
+      "note": "🔎 Thấy: 'Trong phong trào cách mạng nước ta, giai cấp nào sẽ là lực lượng...' ➔ 🎯 Nhớ: 'Công nhân'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -2752,7 +2752,7 @@ window.VNR_DATA = {
         "Cách mạng Đông Dương lúc đầu là cách mạng tư \nsản dân quyền bỏ qua thời kì tư bản chủ nghĩa, tiến \nthẳng lên con đường xã hội chủ nghĩa"
       ],
       "a": "B",
-      "note": "🎯 Điểm khác biệt: 'đưa ngọn cờ giải phóng · tộc · hàng · nặng về đấu tranh'",
+      "note": "🔎 Thấy: 'Hạn chế lớn nhất của Luận cương chính trị tháng 10 năm 1930' ➔ 🎯 Nhớ: 'đưa ngọn cờ giải phóng · tộc · hàng'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -2767,7 +2767,7 @@ window.VNR_DATA = {
         "Thành lập nước Việt Nam dân chủ cộng hòa"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Thành lập nước Việt Nam dân chủ cộng hòa'",
+      "note": "🔎 Thấy: 'Hội nghị trung ương VIII tháng 5/1941 đề ra chủ trương gì? Hội nghị...' ➔ 🎯 Nhớ: 'Thành lập nước Việt Nam dân chủ cộng hòa'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -2784,7 +2784,7 @@ window.VNR_DATA = {
         "Phong trào phá kho thóc của Nhật"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Bãi công của công nhân Ba Son'",
+      "note": "🔎 Thấy: 'Sự kiện lịch sử nào dưới đây diễn ra trong phong trào dân tộc dân...' ➔ 🎯 Nhớ: 'Bãi công của công nhân Ba Son'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -2801,7 +2801,7 @@ window.VNR_DATA = {
         "Phong trào dân tộc dân chù 1925-1930."
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Phong trào dân chủ 1936-1939.'",
+      "note": "🔎 Thấy: 'Nhân dân Việt Nam thực hiện nhiệm vụ chống chế độ phản động thuộc...' ➔ 🎯 Nhớ: 'Phong trào dân chủ 1936-1939.'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -2818,7 +2818,7 @@ window.VNR_DATA = {
         "Khởi nghĩa từng phần"
       ],
       "a": "C",
-      "note": "[🔁 TRÙNG Q179] 🎯 Chốt nhanh: 'Chuẩn bị khởi nghĩa'",
+      "note": "[🔁 Trùng ý Q179] 🔎 Thấy: 'Hội nghị lần thứ 8 Ban chấp hành Trung ương Đảng Cộng sản Đông...' ➔ 🎯 Nhớ: 'Chuẩn bị khởi nghĩa'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -2833,7 +2833,7 @@ window.VNR_DATA = {
         "Mâu thuẫn với Pháp-Nhật trở nên gay gắt"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Mâu thuẫn với Pháp-Nhật trở nên gay gắt'",
+      "note": "🔎 Thấy: 'Đảng Cộng sản Đông Dương quyết định chuyển hướng đấu tranh, đặt...' ➔ 🎯 Nhớ: 'Mâu thuẫn với Pháp-Nhật trở nên gay gắt'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -2848,7 +2848,7 @@ window.VNR_DATA = {
         "Mặt trận thống nhất nhân dân phản đế Đông \nDương"
       ],
       "a": "D",
-      "note": "[🔁 TRÙNG Q139] 🎯 Điểm khác biệt: 'nhân'",
+      "note": "[🔁 Trùng ý Q139] 🔎 Thấy: 'Hội nghị Ban chấp hành Trung ương Đảng Cộng sản Đông Dương (7-1936)...' ➔ 🎯 Nhớ: 'Mặt trận thống nhất nhân dân phản đế Đông Dương'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -2865,7 +2865,7 @@ window.VNR_DATA = {
         "Đánh đuổi đế quốc Pháp"
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'ánh · làm cho nước nhà độc lập'",
+      "note": "🔎 Thấy: 'Nhiệm vụ cách mạng được cương lĩnh xác định' ➔ 🎯 Nhớ: 'ánh · làm cho nước nhà độc lập'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -2882,7 +2882,7 @@ window.VNR_DATA = {
         "Nông dân, tư sản dân tộc."
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Công nhân và nông dân'",
+      "note": "🔎 Thấy: 'Lực lượng chủ yếu tham gia phong trào cách mạng 1930-1931 ở Việt Nam' ➔ 🎯 Nhớ: 'Công nhân và nông dân'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -2897,7 +2897,7 @@ window.VNR_DATA = {
         "Tuyên Quang"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Bắc Sơn - Võ Nhai'",
+      "note": "🔎 Thấy: 'Căn cứ địa cách mạng đầu tiên của Việt Nam trong giai đoạn 1939-1945' ➔ 🎯 Nhớ: 'Bắc Sơn - Võ Nhai'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -2912,7 +2912,7 @@ window.VNR_DATA = {
         "Công nhân, nông dân và trí thức"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Công nhân, nông dân'",
+      "note": "🔎 Thấy: 'Lực lượng cách mạng được nêu ra trong Luận cương chính trị (tháng...' ➔ 🎯 Nhớ: 'Công nhân, nông dân'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -2927,7 +2927,7 @@ window.VNR_DATA = {
         "Đế quốc và tư sản"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Chế độ phản động thuộc địa'",
+      "note": "🔎 Thấy: 'Trong phong trào dân chủ 1936-1939, Nhân dân Việt Nam thực hiện một...' ➔ 🎯 Nhớ: 'Chế độ phản động thuộc địa'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -2942,7 +2942,7 @@ window.VNR_DATA = {
         "Lời kêu gọi toàn quốc kháng chiến, Nhật - Pháp bắn \nnhau và hành động của chúng ta, Kháng chiến kiến \nquốc"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Toàn dân kháng chiến, Lời kêu gọi toàn quốc kháng chiến, Kháng chiến nhất...'",
+      "note": "🔎 Thấy: 'Đường lối kháng chiến chống thực dân Pháp thể hiện tập trung trong...' ➔ 🎯 Nhớ: 'Toàn dân kháng chiến, Lời kêu gọi toàn quốc kháng chiến, Kháng chiến nhất...'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -2957,7 +2957,7 @@ window.VNR_DATA = {
         "Đòi quyền tự do: Phát ngôn, tự do đi lại v.v."
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'Đòi quyền · Phát ngôn · đi lại'",
+      "note": "🔎 Thấy: 'nội dung của chương trình hành động của Đảng Cộng sản Đông Dương' ➔ 🎯 Nhớ: 'Đòi quyền tự do: Phát ngôn, tự do đi lại v.v.'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -2972,7 +2972,7 @@ window.VNR_DATA = {
         "5 văn kiện"
       ],
       "a": "C",
-      "note": "⚠️ PHÂN BIỆT Q178 vs Q94: Nội dung Cương lĩnh đầu tiên (2/1930) thể hiện trong ➔ '4 văn kiện' (Chính cương, Sách lược, Chương trình, Điều lệ vắn tắt).",
+      "note": "⚠️ PHÂN BIỆT Q178 vs Q94: Thấy 'Nội dung Cương lĩnh đầu tiên (2/1930) thể hiện trong' ➔ Nhớ: '4 văn kiện' (thêm Chương trình tóm tắt).",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -2990,7 +2990,7 @@ window.VNR_DATA = {
         "Chính phủ dân chủ Cộng hòa Đông Dương"
       ],
       "a": "B",
-      "note": "[🔁 TRÙNG Q168] 🎯 Chốt nhanh: 'Chính phủ Việt Nam Dân chủ Cộng hòa'",
+      "note": "[🔁 Trùng ý Q168] 🔎 Thấy: 'Hội nghị lần thứ 8 Ban chấp hành Trung ương Đảng Cộng sản Đông...' ➔ 🎯 Nhớ: 'Chính phủ Việt Nam Dân chủ Cộng hòa'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -3005,7 +3005,7 @@ window.VNR_DATA = {
         "Đảng Cộng sản Việt Nam được thành lập."
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Đảng Cộng sản Việt Nam được thành lập.'",
+      "note": "🔎 Thấy: 'Sự kiện nào dưới đây đánh dấu khuynh hướng cách mạng vô sản giành...' ➔ 🎯 Nhớ: 'Đảng Cộng sản Việt Nam được thành lập.'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": []
@@ -3020,7 +3020,7 @@ window.VNR_DATA = {
         "Do yêu cầu giải quyết vấn đề dân tộc trong khuôn \nkhổ từng nước Đông Dương"
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'nghiệp · phóng · đặt ra cấp thiết'",
+      "note": "🔎 Thấy: 'Vì sao trong những năm 1939-1941 Đảng Cộng sản Đông Dương lại phải...' ➔ 🎯 Nhớ: 'nghiệp · phóng · đặt ra cấp thiết'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -3035,7 +3035,7 @@ window.VNR_DATA = {
         "Giai cấp công nhân là giai cấp lãnh đạo cách mạng \nthông qua đội tiên phong là Đảng Cộng sản Việt Nam, \nlà giai cấp đại diện cho phương thức sản xuất tiên tiến, \ntiên phong đi đầu trong sự nghiệp công nghiệp hóa - \nhiện đại hóa đất nước"
       ],
       "a": "D",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'tiến · đi đầu trong sự nghiệp · nghiệp hóa · hóa đất nước'",
+      "note": "🔎 Thấy: 'Vì sao trong thời kỳ đổi mới đất nước nhưng vẫn phải tiếp tục xây...' ➔ 🎯 Nhớ: 'tiến · đi đầu trong sự nghiệp · nghiệp hóa'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -3050,7 +3050,7 @@ window.VNR_DATA = {
         "Có sự liên kết với quốc tế"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Nhiệm vụ giải phóng dân tộc đặt ra cấp thiết'",
+      "note": "🔎 Thấy: 'Sự khác biệt cơ bản giữa phong trào đấu tranh của nhân dân Việt Nam...' ➔ 🎯 Nhớ: 'Nhiệm vụ giải phóng dân tộc đặt ra cấp thiết'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -3065,7 +3065,7 @@ window.VNR_DATA = {
         "Đất nước ta đã trở thành một nước công nghiệp \nhiện đại, theo định hướng xã hội chủ nghĩa"
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: '...chưa bao giờ có được cơ đồ, tiềm lực, vị thế và uy tín quốc tế như ngày nay'",
+      "note": "🔎 Thấy: 'Tổng kết thành tựu 35 năm lãnh đạo công cuộc Đổi mới, Đại hội XIII...' ➔ 🎯 Nhớ: '...chưa bao giờ có được cơ đồ, tiềm lực, vị thế và uy tín quốc tế như ngày nay'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -3082,7 +3082,7 @@ window.VNR_DATA = {
         "Thành lập Đông Dương cộng sản đảng"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Tìm được con đường cứu nước đúng đắn'",
+      "note": "🔎 Thấy: 'Công lao to lớn đầu tiên của Nguyễn Ái Quốc đối với cách...' ➔ 🎯 Nhớ: 'Tìm được con đường cứu nước đúng đắn'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": []
@@ -3097,7 +3097,7 @@ window.VNR_DATA = {
         "Tạm gác lại việc thực hiện hai khẩu hiệu trên."
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Tạm gác lại khẩu hiệu cách mạng ruộng đất.'",
+      "note": "🔎 Thấy: 'Mối quan hệ giữa hai khẩu hiệu — \"Độc lập dân tộc và \"' ➔ 🎯 Nhớ: 'Tạm gác lại khẩu hiệu cách mạng ruộng đất.'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -3112,7 +3112,7 @@ window.VNR_DATA = {
         "Đại diện tiêu biểu của giai cấp tiểu tư sản Việt Nam"
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'tiền thân · Đảng'",
+      "note": "🔎 Thấy: 'Nhận xét nào sau đây là phù hợp về Hội Việt Nam cách mạng Thanh...' ➔ 🎯 Nhớ: 'Là tổ chức tiền thân của Đảng Cộng sản Việt Nam'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": []
@@ -3127,7 +3127,7 @@ window.VNR_DATA = {
         "Tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn \nlãnh thổ của Cộng hòa Miền Nam Việt Nam"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: '...nước Việt Nam'",
+      "note": "🔎 Thấy: 'Hiệp định Pari về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam...' ➔ 🎯 Nhớ: '...nước Việt Nam'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -3142,7 +3142,7 @@ window.VNR_DATA = {
         "Đánh đổ đế quốc Pháp, phong kiến làm cho Việt \nNam hoàn toàn độc lập"
       ],
       "a": "C",
-      "note": "[🔁 TRÙNG Q157] 🎯 Điểm khác biệt: 'và · sản phản cách mạng · được · tự do'",
+      "note": "[🔁 Trùng ý Q157] 🔎 Thấy: 'Nhiệm vụ của cách mạng Việt Nam được xác định trong Cương lĩnh...' ➔ 🎯 Nhớ: 'và · sản phản cách mạng · được'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": [
@@ -3159,7 +3159,7 @@ window.VNR_DATA = {
         "Cương lĩnh chính trị đầu tiên của Đảng Cộng sản \nViệt Nam"
       ],
       "a": "D",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'Cương lĩnh · đầu tiên của'",
+      "note": "🔎 Thấy: 'Chánh cương vắn tắt của Đảng, Sách lược vắn tắt của Đảng do Nguyễn...' ➔ 🎯 Nhớ: 'Cương lĩnh · đầu tiên của'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": [
@@ -3176,7 +3176,7 @@ window.VNR_DATA = {
         "Cách mạng Việt Nam nhận được sự ủng hộ, giúp đỡ \ncủa Liên Xô, Trung Quốc"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Có hai khuynh hướng cùng tồn tại và phát triển'",
+      "note": "🔎 Thấy: 'So với trước chiến tranh thế giới thứ nhất, phong trào yêu nước...' ➔ 🎯 Nhớ: 'Có hai khuynh hướng cùng tồn tại và phát triển'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -3191,7 +3191,7 @@ window.VNR_DATA = {
         "Dự đoán chính xác thời cơ cách mạng."
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Hướng đi và cách tiếp cận chân lý.'",
+      "note": "🔎 Thấy: 'Điểm khác biệt và độc đáo nhất của Nguyễn Ái Quốc trong hành trình...' ➔ 🎯 Nhớ: 'Hướng đi và cách tiếp cận chân lý.'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": []
@@ -3206,7 +3206,7 @@ window.VNR_DATA = {
         "Ngoại giao với vận động quần chúng"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Công khai và bí mật công khai và bí mật'",
+      "note": "🔎 Thấy: 'So với phong trào 1930 - 1931, điểm khác biệt về phương pháp đấu...' ➔ 🎯 Nhớ: 'Công khai và bí mật công khai và bí mật'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -3221,7 +3221,7 @@ window.VNR_DATA = {
         "Nhờ có sự hy sinh to lớn của dân tộc nên cuộc kháng \nchiến sẽ thành công"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'lâu dài gian khổ khó khăn'",
+      "note": "🔎 Thấy: 'Khi nói về triển vọng của cuộc kháng chiến chống Pháp, Đảng xác...' ➔ 🎯 Nhớ: 'lâu dài gian khổ khó khăn'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -3236,7 +3236,7 @@ window.VNR_DATA = {
         "Có liên minh đoàn kết chiến đấu Việt Nam, Lào, \nCampuchia"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'sự lãnh đạo của Đảng với đường lối · đúng'",
+      "note": "🔎 Thấy: 'Nguyên nhân căn bản nhất dẫn đến sự thắng lợi của cuộc kháng chiến...' ➔ 🎯 Nhớ: 'sự lãnh đạo của Đảng với đường lối · đúng'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -3251,7 +3251,7 @@ window.VNR_DATA = {
         "Làm cho người cày có ruộng, gây cơ sở cho chủ \nnghĩa xã hội, phát triển chế độ dân chủ nhân dân"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'xóa bỏ những di tích phong kiến và nửa phong kiến'",
+      "note": "🔎 Thấy: 'Đại hội Đảng lần thứ II xác định nhiệm vụ của cách mạng Việt Nam' ➔ 🎯 Nhớ: 'xóa bỏ những di tích phong kiến và nửa phong kiến'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -3268,7 +3268,7 @@ window.VNR_DATA = {
         "Đảng Xã hội Việt Nam"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Đảng Lao động Việt Nam'",
+      "note": "🔎 Thấy: 'Tại Đại hội lần thứ II Đảng cộng sản Đông Dương quyết định tách ra...' ➔ 🎯 Nhớ: 'Đảng Lao động Việt Nam'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -3285,7 +3285,7 @@ window.VNR_DATA = {
         "Đại hội Đảng toàn quốc lần thứ IV (12/1976)"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Tổng tuyển cử bầu Quốc hội khóa VI (4/1976)'",
+      "note": "🔎 Thấy: 'Sự kiện nào đánh dấu Việt Nam thống nhất về mặt Nhà nước sau năm...' ➔ 🎯 Nhớ: 'Tổng tuyển cử bầu Quốc hội khóa VI (4/1976)'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -3304,7 +3304,7 @@ window.VNR_DATA = {
         "Đánh phản động Trung Hoa Dân Quốc xâm lược, \ngiành thống nhất và độc lập"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: '...thực dân Pháp xâm lược, giành thống nhất và độc lập'",
+      "note": "🔎 Thấy: 'Đường lối toàn quốc kháng chiến của Đảng vạch ra mục tiêu của kháng...' ➔ 🎯 Nhớ: '...thực dân Pháp xâm lược, giành thống nhất và độc lập'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -3319,7 +3319,7 @@ window.VNR_DATA = {
         "Các phương án trả lời đều đúng"
       ],
       "a": "A",
-      "note": "[⚠️ BẪY \"ĐỀU ĐÚNG\" SAI] 🎯 Chốt nhanh: 'Luật 10/59'",
+      "note": "[⚠️ Cẩn thận bẫy \"đều đúng\"] 🔎 Thấy: 'Để thực hiện chính sách — \"Tố cộng, diệt cộng\"' ➔ 🎯 Nhớ: 'Luật 10/59'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -3334,7 +3334,7 @@ window.VNR_DATA = {
         "Các phương án trả lời đều đúng"
       ],
       "a": "A",
-      "note": "[⚠️ BẪY \"ĐỀU ĐÚNG\" SAI] 🎯 Chốt nhanh: 'Tất cả để đánh thắng giặc Mỹ xâm lược'",
+      "note": "[⚠️ Cẩn thận bẫy \"đều đúng\"] 🔎 Thấy: 'Hội nghị Trung ương Đảng lần thứ 11 tháng 03 năm 1965 và Hội nghị...' ➔ 🎯 Nhớ: 'Tất cả để đánh thắng giặc Mỹ xâm lược'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -3351,7 +3351,7 @@ window.VNR_DATA = {
         "Hàn gắn vết thương chiến tranh, khôi phục kinh tế"
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'Hàn gắn vết thương chiến · khôi phục kinh tế'",
+      "note": "🔎 Thấy: 'nhiệm vụ của cách mạng miền Bắc ngay sau khi hiệp định Giơ-ne-vơ...' ➔ 🎯 Nhớ: 'Hàn gắn vết thương chiến tranh, khôi phục kinh tế'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -3366,7 +3366,7 @@ window.VNR_DATA = {
         "Hội nghị Trung ương lần thứ 21 (7/1973)"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Hội nghị Trung ương lần thứ 15 (1-1959)'",
+      "note": "🔎 Thấy: 'Tại hội nghị nào, Ban Chấp hành Trung ương Đảng quyết định để nhân...' ➔ 🎯 Nhớ: 'Hội nghị Trung ương lần thứ 15 (1-1959)'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -3384,7 +3384,7 @@ window.VNR_DATA = {
         "Một phần thuộc địa và nửa phong kiến"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Dân chủ nhân dân, một phần thuộc địa và nửa phong kiến'",
+      "note": "🔎 Thấy: 'Đại hội II của Đảng Lao động Việt Nam vạch ra tính chất của xã hội...' ➔ 🎯 Nhớ: 'Dân chủ nhân dân, một phần thuộc địa và nửa phong kiến'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -3401,7 +3401,7 @@ window.VNR_DATA = {
         "Coi trọng công tác tổ chức, công tác xây dựng Đảng."
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Giương cao ngọn cờ độc lập · tộc · chủ'",
+      "note": "🔎 Thấy: 'Thắng lợi của cuộc kháng chiến chống Mỹ cứu nước đã cho ta nhiều...' ➔ 🎯 Nhớ: 'Giương cao ngọn cờ độc lập dân tộc và dân chủ.'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -3416,7 +3416,7 @@ window.VNR_DATA = {
         "Thái Nguyên"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Tuyên Quang'",
+      "note": "🔎 Thấy: 'Đại hội đại biểu toàn quốc lần thứ hai của Đảng họp tại đâu' ➔ 🎯 Nhớ: 'Tuyên Quang'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -3433,7 +3433,7 @@ window.VNR_DATA = {
         "Đàm phán chính thức Việt - Pháp ở Phôngtennơblô \n(7/1946)"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Ký Hiệp định Sơ bộ Việt - Pháp (3/1946)'",
+      "note": "🔎 Thấy: 'Sự kiện nào mở đầu cho giai đoạn — \"dàn hòa với Pháp\"' ➔ 🎯 Nhớ: 'Ký Hiệp định Sơ bộ Việt - Pháp (3/1946)'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -3451,7 +3451,7 @@ window.VNR_DATA = {
         "Truyền bá quốc ngữ"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Bình dân học vụ'",
+      "note": "🔎 Thấy: 'Nhiệm vụ chống giặc dốt sau Cách mạng tháng Tám (1945) thể hiện qua...' ➔ 🎯 Nhớ: 'Bình dân học vụ'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -3466,7 +3466,7 @@ window.VNR_DATA = {
         "Xoá bỏ văn hoá thực dân nô dịch phản động"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Bình dân học vụ'",
+      "note": "🔎 Thấy: 'Phong trào mà Đảng ta đã vận động nhân dân chống nạn mù chữ diễn ra...' ➔ 🎯 Nhớ: 'Bình dân học vụ'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -3481,7 +3481,7 @@ window.VNR_DATA = {
         "11-11-1945- Hội nghiên cứu Chủ nghĩa Mác ở Đông \nDương"
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: '11-11-1945- Hội nghiên cứu Chủ nghĩa Mác ở Đông Dương'",
+      "note": "🔎 Thấy: 'Để tránh sự chú ý và đàn áp của Pháp, Đảng ta đã tuyên bố tự giải...' ➔ 🎯 Nhớ: '11-11-1945- Hội nghiên cứu Chủ nghĩa Mác ở Đông Dương'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -3498,7 +3498,7 @@ window.VNR_DATA = {
         "Phát xít Nhật"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Thực dân Pháp'",
+      "note": "🔎 Thấy: 'Bản chỉ thị — \"Kháng chiến, kiến quốc\"' ➔ 🎯 Nhớ: 'Thực dân Pháp'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -3515,7 +3515,7 @@ window.VNR_DATA = {
         "Các phương án trả lời đều sai"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Cách mạng xã hội chủ nghĩa ở miền Bắc'",
+      "note": "🔎 Thấy: 'Đại hội lần thứ III (9-1960), Đảng Lao động Việt Nam khẳng định...' ➔ 🎯 Nhớ: 'Cách mạng xã hội chủ nghĩa ở miền Bắc'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -3532,7 +3532,7 @@ window.VNR_DATA = {
         "Việt Nam hóa chiến tranh"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Việt Nam hóa chiến tranh'",
+      "note": "🔎 Thấy: 'Sau khi lên cầm quyền (1969), Tổng thống Mỹ R. Ních xơn chủ trương...' ➔ 🎯 Nhớ: 'Việt Nam hóa chiến tranh'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -3546,7 +3546,7 @@ window.VNR_DATA = {
         "Đây là cuộc chiến tranh xâm lược thực dân hiện đại, \nbuộc phải thực thi trong thế thua, thế thất bại và bị \nđộng cho nên nó chứa đựng đầy mâu thuẫn chiến lược"
       ],
       "a": "A",
-      "note": "[⚡ 3 ĐÁP ÁN (LOẠI C) · 🔁 TRÙNG Q226] 🎯 Điểm khác biệt: 'mới'",
+      "note": "[🔁 Trùng ý Q226] 🔎 Thấy: 'Sau khi Mỹ thực hiện chiến lược — \"Chiến tranh cục bộ\"' ➔ 🎯 Nhớ: 'mới, buộc phải thực thi...'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -3561,7 +3561,7 @@ window.VNR_DATA = {
         "Leclerc"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Nava'",
+      "note": "🔎 Thấy: 'Đầu năm 1953, nhằm cứu vãn tình thế ngày càng xa lầy và tìm kiếm...' ➔ 🎯 Nhớ: 'Nava'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -3576,7 +3576,7 @@ window.VNR_DATA = {
         "Tiến tới chủ nghĩa tư bản"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Tiến tới chủ nghĩa xã hội'",
+      "note": "🔎 Thấy: 'Trong cương lĩnh thứ ba - Chính cương của Đảng Lao động Việt Nam...' ➔ 🎯 Nhớ: 'Tiến tới chủ nghĩa xã hội'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -3593,7 +3593,7 @@ window.VNR_DATA = {
         "Các phương án trả lời đều đúng"
       ],
       "a": "A",
-      "note": "[⚠️ BẪY \"ĐỀU ĐÚNG\" SAI · 📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'Ngăn cản hiệp thương tổng tuyển cử thống nhất đất nước'",
+      "note": "[⚠️ Cẩn thận bẫy \"đều đúng\"] 🔎 Thấy: 'Mỹ Ngụy không thực thi hiệp định Giơ-ne-vơ bằng cách' ➔ 🎯 Nhớ: 'Ngăn cản hiệp thương tổng tuyển cử thống nhất đất nước'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -3608,7 +3608,7 @@ window.VNR_DATA = {
         "Đại hội I"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Đại hội III'",
+      "note": "🔎 Thấy: 'Nghị quyết về đường lối cách mạng miền Nam được thông qua tại Đại...' ➔ 🎯 Nhớ: 'Đại hội III'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -3625,7 +3625,7 @@ window.VNR_DATA = {
         "Ngay sau khi Hiệp định Pari được ký kết 1973"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Ngay sau cách mạng Tháng Tám 1945 thành công'",
+      "note": "🔎 Thấy: 'Tình hình nước ta được ví như — \"ngàn cân treo sợi tóc\"' ➔ 🎯 Nhớ: 'Ngay sau cách mạng Tháng Tám 1945 thành công'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -3642,7 +3642,7 @@ window.VNR_DATA = {
         "Tháng 3 năm 1951"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Tháng 3 năm 1951'",
+      "note": "🔎 Thấy: 'Khối liên minh nhân dân ba nước Việt-Lào-Campuchia được thành lập...' ➔ 🎯 Nhớ: 'Tháng 3 năm 1951'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -3659,7 +3659,7 @@ window.VNR_DATA = {
         "Hoa Việt thân ái"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Hoa Việt thân thiện'",
+      "note": "🔎 Thấy: 'Để tranh thủ thời gian chống Pháp, Đảng chủ trương quan hệ với quân...' ➔ 🎯 Nhớ: 'Hoa Việt thân thiện'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -3674,7 +3674,7 @@ window.VNR_DATA = {
         "Đế quốc Pháp và bọn can thiệp Mỹ"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Chủ nghĩa đế quốc xâm lược và phong kiến'",
+      "note": "🔎 Thấy: 'Đại hội II Đảng Lao động Việt Nam vạch ra hai đối tượng của cách...' ➔ 🎯 Nhớ: 'Chủ nghĩa đế quốc xâm lược và phong kiến'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -3691,7 +3691,7 @@ window.VNR_DATA = {
         "Đánh đuổi bọn đế quốc xâm lược, giành độc lập và \nthống nhất thật sự cho dân tộc, Xóa bỏ những di tích \nphong kiến và nửa phòng kiến, làm cho ngư"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'đế quốc xâm lược, giành độc lập và thống nhất thật sự cho dân tộc, Xóa bỏ...'",
+      "note": "🔎 Thấy: 'Chính cương của Đảng lao động Việt Nam đã nêu ra các nhiệm vụ cơ...' ➔ 🎯 Nhớ: 'đế quốc xâm lược, giành độc lập và thống nhất thật sự cho dân tộc, Xóa bỏ...'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -3706,7 +3706,7 @@ window.VNR_DATA = {
         "Chờ giải giáp của quân đồng minh"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Kẻ thù chính'",
+      "note": "🔎 Thấy: 'Sau cách mạng Tháng Tám năm 1945 thành công, Đảng Cộng sản Đông...' ➔ 🎯 Nhớ: 'Kẻ thù chính'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -3721,7 +3721,7 @@ window.VNR_DATA = {
         "Đường lối cách mạng xã hội chủ nghĩa ở miền Bắc \nvà cách mạng dân tộc dân chủ nhân dân ở miền Nam"
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'Đường lối cách mạng · miền Bắc · cách mạng · miền Nam'",
+      "note": "🔎 Thấy: 'Đại hội III (9-1960) của Đảng đã thông qua đường lối' ➔ 🎯 Nhớ: 'Đường lối cách mạng · miền Bắc · cách mạng'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -3738,7 +3738,7 @@ window.VNR_DATA = {
         "Không chuyển hướng xây dựng kinh tế, tiếp tục \nphát triển kế hoạch 5 năm ở miền Bắc"
       ],
       "a": "A",
-      "note": "[🔁 TRÙNG Q214] 🎯 Điểm khác biệt: 'bảo đảm · vững mạnh trong điều kiện có chiến tranh'",
+      "note": "[🔁 Trùng ý Q214] 🔎 Thấy: 'Sau khi Mỹ thực hiện chiến lược — \"chiến tranh cục bộ\"' ➔ 🎯 Nhớ: 'bảo đảm · vững mạnh trong điều kiện có chiến tranh'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -3753,7 +3753,7 @@ window.VNR_DATA = {
         "Đấu tranh kiên trì, đại thể trải qua hai giai đoạn"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'ba'",
+      "note": "🔎 Thấy: 'Đại hội Đảng lần thứ II xác định con đường đi lên chủ nghĩa xã hội...' ➔ 🎯 Nhớ: 'Đấu tranh lâu dài, đại thể trải qua ba giai đoạn'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -3769,7 +3769,7 @@ window.VNR_DATA = {
         "\"Không sớm thì muộn, Pháp sẽ đánh chiếm mình và \nmình nhất định sẽ thắng Pháp\""
       ],
       "a": "A",
-      "note": "[⚡ 3 ĐÁP ÁN (LOẠI C)] 🎯 Điểm khác biệt: '...đánh mình và mình nhất định phải đánh Pháp\"'",
+      "note": "🔎 Thấy: 'Ngày 19/10/1946, Ban Thường vụ Trung ương Đảng mở Hội nghị quân sự...' ➔ 🎯 Nhớ: '...đánh mình và mình nhất định phải đánh Pháp\"'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -3786,7 +3786,7 @@ window.VNR_DATA = {
         "Đường 14 - Phước Long."
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Hồ Chí Minh'",
+      "note": "🔎 Thấy: 'Cuộc kháng chiến chống Mỹ, cứu nước của nhân dân Việt Nam...' ➔ 🎯 Nhớ: 'Hồ Chí Minh'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -3803,7 +3803,7 @@ window.VNR_DATA = {
         "Tất cả trên đúng."
       ],
       "a": "C",
-      "note": "[⚠️ BẪY \"ĐỀU ĐÚNG\" SAI] 🎯 Chốt nhanh: 'Nam tiến'",
+      "note": "[⚠️ Cẩn thận bẫy \"đều đúng\"] 🔎 Thấy: 'Đảng ta đã phát động phong trào gì để ủng hộ nhân lực cho Nam Bộ...' ➔ 🎯 Nhớ: 'Nam tiến'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -3818,7 +3818,7 @@ window.VNR_DATA = {
         "Phát động một cao trào kháng Nhật cứu nước"
       ],
       "a": "A",
-      "note": "⚠️ PHỦ ĐỊNH: KHÔNG CÓ trong Chỉ thị 'Nhật - Pháp bắn nhau' (3/1945) ➔ 'Thông qua 10 chính sách lớn của Việt Minh' (thuộc Đại hội Tân Trào 8/1945).",
+      "note": "⚠️ PHỦ ĐỊNH: Thấy 'KHÔNG CÓ trong Chỉ thị Nhật - Pháp bắn nhau (3/1945)' ➔ Nhớ: 'Thông qua 10 chính sách lớn của Việt Minh' (thuộc Đại hội Tân Trào 8/1945).",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -3833,7 +3833,7 @@ window.VNR_DATA = {
         "Trứng, nước"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Ngàn cân treo sợi tóc'",
+      "note": "🔎 Thấy: 'Tình hình đất nước ta sau cách mạng tháng tám năm 1945 được ví như' ➔ 🎯 Nhớ: 'Ngàn cân treo sợi tóc'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -3848,7 +3848,7 @@ window.VNR_DATA = {
         "Lời kêu gọi toàn quốc kháng chiến, Nhật Pháp bắn \nnhau và hành động của chúng ta, Kháng chiến kiến \nquốc"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Toàn dân kháng chiến, Lời kêu gọi toàn quốc kháng chiến, Kháng chiến nhất...'",
+      "note": "🔎 Thấy: 'Đường lối toàn quốc kháng chiến tập trung trong ba văn kiện quan...' ➔ 🎯 Nhớ: 'Toàn dân kháng chiến, Lời kêu gọi toàn quốc kháng chiến, Kháng chiến nhất...'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -3863,7 +3863,7 @@ window.VNR_DATA = {
         "19-12-1946"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: '19-12-1946'",
+      "note": "🔎 Thấy: 'Lời kêu gọi toàn quốc kháng chiến của Chủ tịch Hồ Chí Minh được...' ➔ 🎯 Nhớ: '19-12-1946'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -3880,7 +3880,7 @@ window.VNR_DATA = {
         "Thống nhất giữa Đảng Lao động Việt Nam với Đảng \nNhân dân Cách mạng Miền Nam Việt Nam"
       ],
       "a": "B",
-      "note": "🎯 Điểm khác biệt: 'Lâm thời'",
+      "note": "🔎 Thấy: 'Thống nhất nước nhà về mặt Nhà nước sau năm 1975' ➔ 🎯 Nhớ: '...Chính phủ Cách mạng Lâm thời Cộng hòa Miền Nam...'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": []
@@ -3894,7 +3894,7 @@ window.VNR_DATA = {
         "Tiến hành cách mạng dân tộc dân chủ ở miền Bắc. \nGiải phóng miền Nam khỏi ách thống trị của đế quốc \nMỹ và bọn tay sai, thực hiện thống nhất nước nhà, \nhoàn thành độc lập và dân chủ trong cả nước"
       ],
       "a": "A",
-      "note": "[⚡ 3 ĐÁP ÁN (LOẠI C)] 🎯 Điểm khác biệt: 'xã hội · nghĩa'",
+      "note": "🔎 Thấy: 'Đại hội lần thứ III của Đảng họp tại thủ đô Hà Nội từ ngày 5 đến...' ➔ 🎯 Nhớ: 'xã hội · nghĩa'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -3911,7 +3911,7 @@ window.VNR_DATA = {
         "Hai nhiệm vụ chiến lược ấy có quan hệ độc lập với \nnhau và có tác dụng thúc đẩy lẫn nhau"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: '...mật thiết với nhau và có tác dụng thúc đẩy lẫn nhau'",
+      "note": "🔎 Thấy: 'Mối quan hệ giữa hai nhiệm vụ cách mạng của hai miền được Đại hội...' ➔ 🎯 Nhớ: '...mật thiết với nhau và có tác dụng thúc đẩy lẫn nhau'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -3928,7 +3928,7 @@ window.VNR_DATA = {
         "Hội nghị quốc dân ở Tân Trào"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Pháp nổ súng xâm lược nước ta lần thứ 2.'",
+      "note": "🔎 Thấy: 'Ngày 23-9-1945 gắn với sự kiện lịch sử' ➔ 🎯 Nhớ: 'Pháp nổ súng xâm lược nước ta lần thứ 2.'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -3943,7 +3943,7 @@ window.VNR_DATA = {
         "Chấp nhận cung cấp toàn bộ lương thực thực phẩm \ncho quân Tưởng."
       ],
       "a": "B",
-      "note": "🎯 Điểm khác biệt: 'tiêu tiền · một phần'",
+      "note": "🔎 Thấy: 'Ta đã nhân nhượng với quân Trung Hoa Dân quốc' ➔ 🎯 Nhớ: 'tiêu tiền · một phần'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -3958,7 +3958,7 @@ window.VNR_DATA = {
         "Việt Nam là một quốc gia tự chủ trong khối Liên hợp \nPháp."
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: '...tự do trong khối Liên hợp Pháp.'",
+      "note": "🔎 Thấy: 'thuộc Hiệp định Sơ bộ (6 - 3 - 1946)' ➔ 🎯 Nhớ: '...tự do trong khối Liên hợp Pháp.'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -3973,7 +3973,7 @@ window.VNR_DATA = {
         "Tạm ước."
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Tạm ước.'",
+      "note": "🔎 Thấy: 'Để kéo dài thời gian chuẩn bị lực lượng cho cuộc kháng chiến toàn...' ➔ 🎯 Nhớ: 'Tạm ước.'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -3988,7 +3988,7 @@ window.VNR_DATA = {
         "Hội nghị Trung ương 15 khóa II của Đảng (1/1959)"
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: '...15 khóa II của Đảng (1/1959)'",
+      "note": "🔎 Thấy: '\"Đồng khởi\"' ➔ 🎯 Nhớ: 'Hội nghị Trung ương 15 khóa II của Đảng (1/1959)'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -4006,7 +4006,7 @@ window.VNR_DATA = {
         "Chiến tranh nhân dân, toàn diện, lâu dài và tranh \nthủ ngoại lực"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Toàn dân, toàn diện, lâu dài và tự lực cánh sinh'",
+      "note": "🔎 Thấy: 'Đường lối kháng chiến chống thực dân Pháp xâm lược của Đảng...' ➔ 🎯 Nhớ: 'Toàn dân, toàn diện, lâu dài và tự lực cánh sinh'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4021,7 +4021,7 @@ window.VNR_DATA = {
         "\"Phải biết tranh thủ sự giúp đỡ của các nước\""
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: '\"Phải tự cấp, tự túc về mọi mặt\"'",
+      "note": "🔎 Thấy: 'Đường lối kháng chiến — \"Dựa vào sức mình là chính\"' ➔ 🎯 Nhớ: '\"Phải tự cấp, tự túc về mọi mặt\"'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -4036,7 +4036,7 @@ window.VNR_DATA = {
         "Mặt trận tổ quốc Việt Nam"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Mặt trận Việt Minh'",
+      "note": "🔎 Thấy: 'Sau khi giành chính quyền, Đảng chủ trương mở rộng mặt trận nào sau...' ➔ 🎯 Nhớ: 'Mặt trận Việt Minh'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -4051,7 +4051,7 @@ window.VNR_DATA = {
         "Đánh Pháp"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Hòa với Tưởng'",
+      "note": "🔎 Thấy: 'Từ tháng 9-1945 đến tháng 3-1946 ta chủ trương' ➔ 🎯 Nhớ: 'Hòa với Tưởng'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -4066,7 +4066,7 @@ window.VNR_DATA = {
         "Hơn 90% dân số không biết chữ"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Khó khăn về thù trong, giặc ngoài'",
+      "note": "🔎 Thấy: '\"ngàn cân treo sợi tóc\"' ➔ 🎯 Nhớ: 'Khó khăn về thù trong, giặc ngoài'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -4081,7 +4081,7 @@ window.VNR_DATA = {
         "Hơn 90% dân số không biết chữ"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Hơn 90% dân số không biết chữ'",
+      "note": "🔎 Thấy: 'Với chính sách cai trị của thực dân Pháp, sau Cách mạng tháng Tám...' ➔ 🎯 Nhớ: 'Hơn 90% dân số không biết chữ'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -4096,7 +4096,7 @@ window.VNR_DATA = {
         "Chỉ thị sửa soạn khởi nghĩa của Tổng bộ Việt Minh"
       ],
       "a": "B",
-      "note": "🎯 Điểm khác biệt: 'Lời kêu gọi · quốc · Chủ tịch Hồ Chí'",
+      "note": "🔎 Thấy: '\"Chúng ta thà hi sinh tất cả, chứ nhất định không chịu mất nước,...' ➔ 🎯 Nhớ: 'Lời kêu gọi · quốc · Chủ tịch Hồ Chí'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -4113,7 +4113,7 @@ window.VNR_DATA = {
         "Trung quốc"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Pháp'",
+      "note": "🔎 Thấy: 'Sau Cách mạng tháng Tám đến 1954, kẻ thù chính của nhân dân Việt Nam' ➔ 🎯 Nhớ: 'Pháp'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4128,7 +4128,7 @@ window.VNR_DATA = {
         "Điện Biên Phủ"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Việt Bắc'",
+      "note": "🔎 Thấy: 'Căn cứ địa cách mạng của ta trong cuộc kháng chiến chống Pháp xâm...' ➔ 🎯 Nhớ: 'Việt Bắc'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -4143,7 +4143,7 @@ window.VNR_DATA = {
         "Trần Phú"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Trường Chinh'",
+      "note": "🔎 Thấy: '\"Kháng chiến nhất định thắng lợi\"' ➔ 🎯 Nhớ: 'Trường Chinh'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -4160,7 +4160,7 @@ window.VNR_DATA = {
         "Lê Hồng Phong"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Trường Chinh'",
+      "note": "🔎 Thấy: 'Ai được bầu làm Tổng Bí thư của Đảng tại Đại hội đại biểu lần thứ...' ➔ 🎯 Nhớ: 'Trường Chinh'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -4178,7 +4178,7 @@ window.VNR_DATA = {
         "Đại hội Đại biểu lần thứ III của Đảng 1960"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Đại hội lần thứ II của Đảng 1951'",
+      "note": "🔎 Thấy: '\" Đại hội kháng chiến thắng lợi\"' ➔ 🎯 Nhớ: 'Đại hội lần thứ II của Đảng 1951'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -4196,7 +4196,7 @@ window.VNR_DATA = {
         "Kế hoạch Đờ Lát đơ Tátxinhi"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Kế hoạch Nava'",
+      "note": "🔎 Thấy: 'Kế hoạch quân sự được xem là lớn nhất trong quá trình xâm lược Việt...' ➔ 🎯 Nhớ: 'Kế hoạch Nava'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4211,7 +4211,7 @@ window.VNR_DATA = {
         "Đòn đánh mở màn"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Đòn thăm dò chiến lược'",
+      "note": "🔎 Thấy: 'Chiến thắng Phước Long (1/1975) có ý nghĩa như thế nào đối với việc...' ➔ 🎯 Nhớ: 'Đòn thăm dò chiến lược'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": []
@@ -4226,7 +4226,7 @@ window.VNR_DATA = {
         "5 đợt"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: '3 đợt'",
+      "note": "🔎 Thấy: 'Chiến dịch Điện Biên Phủ được coi là một chiến dịch lịch sử của...' ➔ 🎯 Nhớ: '3 đợt'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -4243,7 +4243,7 @@ window.VNR_DATA = {
         "Chiến thắng Thượng Lào 1954"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Chiến thắng Điện Biên Phủ 1954'",
+      "note": "🔎 Thấy: 'Thắng lợi nào của quân và dân ta trong cuộc kháng chiến chống Pháp...' ➔ 🎯 Nhớ: 'Chiến thắng Điện Biên Phủ 1954'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -4260,7 +4260,7 @@ window.VNR_DATA = {
         "Võ Nguyên Giáp"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Phạm Văn Đồng'",
+      "note": "🔎 Thấy: 'Trưởng đoàn đại diện cho phái đoàn Chính phủ Việt Nam Dân chủ Cộng...' ➔ 🎯 Nhớ: 'Phạm Văn Đồng'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": [
@@ -4277,7 +4277,7 @@ window.VNR_DATA = {
         "Liên Xô, Trung Quốc đặt quan hệ ngoại giao với ta \n1950"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Hiệp định Giơnevơ 1954'",
+      "note": "🔎 Thấy: 'Thắng lợi ngoại giao lớn nhất của ta trong cuộc kháng chiến chống...' ➔ 🎯 Nhớ: 'Hiệp định Giơnevơ 1954'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -4294,7 +4294,7 @@ window.VNR_DATA = {
         "Các bên tham chiến thực hiện ngừng bắn, lập lại \nhòa bình ở Đông Dương"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Độc · chủ quyền · toàn vẹn lãnh thổ'",
+      "note": "🔎 Thấy: 'Quyền dân tộc cơ bản của Việt Nam trong Hiệp định Giơnevơ 1954' ➔ 🎯 Nhớ: 'Độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4309,7 +4309,7 @@ window.VNR_DATA = {
         "Đông xuân 1953-1954"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Điện Biên Phủ 1954'",
+      "note": "🔎 Thấy: 'Chiến thắng nào của ta quyết định thắng lợi tại hội nghị Giơnevơ...' ➔ 🎯 Nhớ: 'Điện Biên Phủ 1954'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
@@ -4326,7 +4326,7 @@ window.VNR_DATA = {
         "Chiến tranh chống Pháp"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Kháng chiến chống Pháp'",
+      "note": "🔎 Thấy: 'Chiến dịch lịch sử Điện Biên Phủ 1954 là đỉnh cao của' ➔ 🎯 Nhớ: 'Kháng chiến chống Pháp'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4341,7 +4341,7 @@ window.VNR_DATA = {
         "Chiến dịch Hồ Chí Minh 1975"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Chiến dịch Điện Biên Phủ 1954'",
+      "note": "🔎 Thấy: 'Được ghi vào lịch sử dân tộc như một Bạch Đằng, một Chi Lăng, một...' ➔ 🎯 Nhớ: 'Chiến dịch Điện Biên Phủ 1954'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -4359,7 +4359,7 @@ window.VNR_DATA = {
         "Vĩ tuyến 20"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Vĩ tuyến 17'",
+      "note": "🔎 Thấy: 'Hiệp định Giơnevơ 1954, quy định việc di chuyển, tập kết quân đội ở...' ➔ 🎯 Nhớ: 'Vĩ tuyến 17'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4374,7 +4374,7 @@ window.VNR_DATA = {
         "Hóc môn"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Hà Nội'",
+      "note": "🔎 Thấy: 'Đại hội đại biểu toàn quốc lần thứ III của Đảng được tổ chức tại' ➔ 🎯 Nhớ: 'Hà Nội'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -4391,7 +4391,7 @@ window.VNR_DATA = {
         "Việt Nam hóa chiến tranh"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Chiến tranh đặc biệt'",
+      "note": "🔎 Thấy: 'Từ 1961-1965, Mĩ thực hiện loại hình chiến lược nào ở miền Nam Việt...' ➔ 🎯 Nhớ: 'Chiến tranh đặc biệt'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4406,7 +4406,7 @@ window.VNR_DATA = {
         "Bước đầu làm phá sản kế hoạch Nava của thực dân \nPháp."
       ],
       "a": "B",
-      "note": "🎯 Điểm khác biệt: 'hoàn toàn'",
+      "note": "🔎 Thấy: 'Chiến thắng Điện Biên Phủ năm 1954 của quân dân Việt Nam đã' ➔ 🎯 Nhớ: 'Làm phá sản hoàn toàn kế hoạch Nava của...'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4421,7 +4421,7 @@ window.VNR_DATA = {
         "Lời kêu gọi toàn quốc kháng chiến."
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Chỉ thị Toàn dân kháng chiến.'",
+      "note": "🔎 Thấy: 'Ngày 12/12/1946, Ban Thường vụ Trung ương Đảng đã ra' ➔ 🎯 Nhớ: 'Chỉ thị Toàn dân kháng chiến.'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -4436,7 +4436,7 @@ window.VNR_DATA = {
         "Pháp sợ Trung Quốc đưa quân sang giúp đỡ Việt \nNam"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Bị thất bại ở Điện Biên Phủ'",
+      "note": "🔎 Thấy: 'Pháp chấp nhận đàm phán với Việt Nam ở Hội nghị Giơnevơ năm 1954 về...' ➔ 🎯 Nhớ: 'Bị thất bại ở Điện Biên Phủ'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4451,7 +4451,7 @@ window.VNR_DATA = {
         "10/12/1946"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: '6/3/1946'",
+      "note": "🔎 Thấy: 'Hiệp định sơ bộ được Hồ Chí Minh ký với Sanh-tơ-ny vào thời gian' ➔ 🎯 Nhớ: '6/3/1946'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
@@ -4468,7 +4468,7 @@ window.VNR_DATA = {
         "Đại hội V"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Đại hội III'",
+      "note": "🔎 Thấy: 'Đường lối chung xây dựng XHCN ở miền Bắc (1954-1975) được đề cập ở...' ➔ 🎯 Nhớ: 'Đại hội III'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -4485,7 +4485,7 @@ window.VNR_DATA = {
         "Ngàn cân treo sợi tóc"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Ngàn cân treo sợi tóc'",
+      "note": "🔎 Thấy: 'Vận mệnh của dân tộc Việt Nam ngay sau khi Cách mạng tháng Tám...' ➔ 🎯 Nhớ: 'Ngàn cân treo sợi tóc'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -4500,7 +4500,7 @@ window.VNR_DATA = {
         "Thương lượng và hoà hoãn với Pháp"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Thương lượng và hoà hoãn với Pháp'",
+      "note": "🔎 Thấy: 'Đảng ta đã lựa chọn giải pháp gì trong mối quan hệ với thực dân...' ➔ 🎯 Nhớ: 'Thương lượng và hoà hoãn với Pháp'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -4515,7 +4515,7 @@ window.VNR_DATA = {
         "văn hóa"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'chính trị'",
+      "note": "🔎 Thấy: 'Cuộc kháng chiến chống thực dân Pháp xâm lược của nhân dân Đông...' ➔ 🎯 Nhớ: 'chính trị'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4530,7 +4530,7 @@ window.VNR_DATA = {
         "Đưa nước ta trở thành nước công nghiệp theo \nhướng hiện đại vào năm 2020"
       ],
       "a": "D",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'ưa nước ta trở thành nước công nghiệp theo hướng hiện đại vào năm 2020'",
+      "note": "🔎 Thấy: 'Đại hội XII của Đảng (2016) nêu rõ mục tiêu, nhiệm vụ tổng quát...' ➔ 🎯 Nhớ: 'ưa nước ta trở thành nước công nghiệp theo hướng hiện đại vào năm 2020'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -4547,7 +4547,7 @@ window.VNR_DATA = {
         "Rất nhiều điều khoản trong Hiệp định Giơ-ne-vơ \nchưa được hoàn tất."
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'Rất nhiều · trong · chưa'",
+      "note": "🔎 Thấy: 'Pháp thực hiện rút quân khỏi miền Nam Việt Nam trong bối cảnh' ➔ 🎯 Nhớ: 'Rất nhiều · trong · chưa'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -4562,7 +4562,7 @@ window.VNR_DATA = {
         "Các phương án trả lời đều đúng"
       ],
       "a": "B",
-      "note": "[⚠️ BẪY \"ĐỀU ĐÚNG\" SAI] 🎯 Chốt nhanh: 'Ban hành Luật 10/59'",
+      "note": "[⚠️ Cẩn thận bẫy \"đều đúng\"] 🔎 Thấy: 'sự kiện làm bùng nổ phong trào Đồng khởi năm 1960' ➔ 🎯 Nhớ: 'Ban hành Luật 10/59'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4577,7 +4577,7 @@ window.VNR_DATA = {
         "Tây Ninh."
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Bình Định.'",
+      "note": "🔎 Thấy: 'Hình thức khởi nghĩa chống lại ách thống trị của Mĩ - Diệm đã diễn...' ➔ 🎯 Nhớ: 'Bình Định.'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -4592,7 +4592,7 @@ window.VNR_DATA = {
         "Thương nghiệp tư nhân được Nhà nước ưu tiên \nphát triển nên đã chiếm lĩnh được thị trường."
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'Thương · tư · Nhà nước ưu tiên phát triển nên · lĩnh'",
+      "note": "🔎 Thấy: 'không phản ánh thành tựu của kế hoạch Nhà nước 5 năm (1961 - 1965)' ➔ 🎯 Nhớ: 'Thương · tư · Nhà nước ưu tiên phát triển nên'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4607,7 +4607,7 @@ window.VNR_DATA = {
         "Đất nước còn đối mặt nhiều khó khăn do hậu quả \ncủa chiến tranh và tàn dư của chủ nghĩa thực dân"
       ],
       "a": "C",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'đang · quá trình từ một · mà nền kinh · phổ biến là sản xuất nhỏ'",
+      "note": "🔎 Thấy: 'Theo quan điểm của Đại hội Đảng lần thứ IV (12/1976), đặc điểm nào...' ➔ 🎯 Nhớ: 'đang · quá trình từ một · mà nền kinh'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -4624,7 +4624,7 @@ window.VNR_DATA = {
         "Hai bên thực hiện tập kết, chuyển quân"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Hai bên ngừng bắn ở Nam Bộ'",
+      "note": "🔎 Thấy: 'trong Hiệp định Sơ bộ 6-3-1946 tạo điều kiện cho ta có thời gian để...' ➔ 🎯 Nhớ: 'Hai bên ngừng bắn ở Nam Bộ'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -4639,7 +4639,7 @@ window.VNR_DATA = {
         "Đế quốc Pháp và bọn can thiệp Mỹ"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Đế quốc Pháp và bọn can thiệp Mỹ'",
+      "note": "🔎 Thấy: 'khó khăn của nước ta trong những năm 1953-1954' ➔ 🎯 Nhớ: 'Đế quốc Pháp và bọn can thiệp Mỹ'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4654,7 +4654,7 @@ window.VNR_DATA = {
         "Đông Dương hóa chiến tranh."
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Chiến tranh cục bộ.'",
+      "note": "🔎 Thấy: 'Sau thất bại của Chiến tranh đặc biệt, Mỹ chuyển sang loại hình...' ➔ 🎯 Nhớ: 'Chiến tranh cục bộ.'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4669,7 +4669,7 @@ window.VNR_DATA = {
         "Tiến hành động thời cách mạng xã hội chủ nghĩa ở \nmiền Bắc và cách mạng dân tộc dân chủ nhân dân ở \nmiền Nam"
       ],
       "a": "D",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'Tiến hành động thời cách mạng · miền Bắc · cách mạng · miền Nam'",
+      "note": "🔎 Thấy: 'Đặc điểm nổi bật của nước ta sau 1954' ➔ 🎯 Nhớ: 'Tiến hành động thời cách mạng · miền Bắc · cách mạng'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4684,7 +4684,7 @@ window.VNR_DATA = {
         "Trong cuộc chiến tranh chống Mỹ của nhân dân cả \nnước, miền Nam là tiền tuyến lớn, miền Bắc là hậu \nphương lớn. Bảo vệ miền Bắc là nhiệm vụ của miền \nNam."
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: '...tiền tuyến lớn, miền Bắc là hậu phương lớn. Bảo vệ miền Bắc là nhiệm vụ của cả nước.'",
+      "note": "🔎 Thấy: '\"chiến tranh cục bộ\"' ➔ 🎯 Nhớ: '...tiền tuyến lớn, miền Bắc là hậu phương lớn. Bảo vệ miền Bắc là nhiệm vụ của cả nước.'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4699,7 +4699,7 @@ window.VNR_DATA = {
         "Việt Nam hóa chiến tranh"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Chiến tranh đơn phương,'",
+      "note": "🔎 Thấy: 'Phong trào Đồng khởi làm thất bại loại hình chiến lược chiến tranh...' ➔ 🎯 Nhớ: 'Chiến tranh đơn phương,'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4714,7 +4714,7 @@ window.VNR_DATA = {
         "Tây Nguyên"
       ],
       "a": "B",
-      "note": "[🔁 TRÙNG Q289] 🎯 Chốt nhanh: 'Tây Ninh'",
+      "note": "[🔁 Trùng ý Q289] 🔎 Thấy: 'Mặt trận Dân tộc giải phóng miền Nam Việt Nam được thảnh lập ở đâu' ➔ 🎯 Nhớ: 'Tây Ninh'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -4729,7 +4729,7 @@ window.VNR_DATA = {
         "Trường Chinh"
       ],
       "a": "A",
-      "note": "[🔁 TRÙNG Q288] 🎯 Chốt nhanh: 'Nguyễn Hữu Thọ'",
+      "note": "[🔁 Trùng ý Q288] 🔎 Thấy: 'Mặt trận Dân tộc giải phóng miền Nam Việt Nam được thành lập do ai...' ➔ 🎯 Nhớ: 'Nguyễn Hữu Thọ'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -4746,7 +4746,7 @@ window.VNR_DATA = {
         "Dùng người Việt đánh người Việt và dùng người \nĐông Dương đánh người đông Dương"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Dùng người Việt đánh người Việt'",
+      "note": "🔎 Thấy: 'Âm mưu của Mỹ trong chiến lược chiến tranh đặc biệt' ➔ 🎯 Nhớ: 'Dùng người Việt đánh người Việt'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4761,7 +4761,7 @@ window.VNR_DATA = {
         "Mỹ phải kí hiệp định Pari"
       ],
       "a": "A",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'Chuyển cách mạng miền Nam từ thế giữ gìn lực lượng sang thế tiến công'",
+      "note": "🔎 Thấy: 'Ý nghĩa quan trọng của phong trào Đồng khởi' ➔ 🎯 Nhớ: 'Chuyển cách mạng miền Nam từ thế giữ gìn lực lượng sang thế tiến công'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4776,7 +4776,7 @@ window.VNR_DATA = {
         "Cách mạng hai miền có quan hệ độc lập với nhau và \ncó tác dụng thúc đẩy lẫn nhau"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: '...mối quan hệ mật thiết với nhau và có tác dụng thúc đẩy lẫn nhau'",
+      "note": "🔎 Thấy: 'Nhận xét nào là phù hợp khi nói về mối quan hệ của hai miền đất...' ➔ 🎯 Nhớ: '...mối quan hệ mật thiết với nhau và có tác dụng thúc đẩy lẫn nhau'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4791,7 +4791,7 @@ window.VNR_DATA = {
         "Mỹ buộc phải rút quân về nước."
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'ngồi vào bàn đàm phán'",
+      "note": "🔎 Thấy: 'Tại sao, cuộc tổng tiến công nổi dậy Mậu Thân 1968 bị thất bại vừa...' ➔ 🎯 Nhớ: 'ngồi vào bàn đàm phán'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4806,7 +4806,7 @@ window.VNR_DATA = {
         "Đây là một cuộc chiến tranh chống chủ nghĩa thực \ndân mới của Mĩ, thực hiện giải phóng dân tộc, thống \nnhất đất nước đầu tiên giành thắng lợi."
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'phản ánh tập trung những mâu thuẫn cơ bản · thời'",
+      "note": "🔎 Thấy: 'Cuộc kháng chiến chống Mĩ, cứu nước của nhân dân ta là một cuộc...' ➔ 🎯 Nhớ: 'phản ánh tập trung những mâu thuẫn cơ bản · thời'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -4821,7 +4821,7 @@ window.VNR_DATA = {
         "Nhân dân hai miền tiến hành tổ chức hiệp thương \ntổng tuyển cử thống nhất đất nước"
       ],
       "a": "C",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'bị chia cắt thành · với · chế độ chính trị xã hội khác nhau'",
+      "note": "🔎 Thấy: 'Nét nổi bật nhất về tình hình chính trị ở Việt Nam sau khi Hiệp...' ➔ 🎯 Nhớ: 'bị chia cắt thành · với · chế độ chính trị xã hội khác nhau'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -4836,7 +4836,7 @@ window.VNR_DATA = {
         "Tăng cường công tác bảo vệ, chăm sóc và nâng cao \nsức khỏe nhân dân trong tình hình mới"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Chiến lược phát triển bền vững kinh tế biển Việt Nam đến năm 2030 tầm nhìn đến...'",
+      "note": "🔎 Thấy: 'Hội nghị Trung ương VII khóa XII đã ban hành Nghị quyết số 36 -...' ➔ 🎯 Nhớ: 'Chiến lược phát triển bền vững kinh tế biển Việt Nam đến năm 2030 tầm nhìn đến...'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -4853,7 +4853,7 @@ window.VNR_DATA = {
         "Nước phát triển có thu nhập cao"
       ],
       "a": "B",
-      "note": "🎯 Điểm khác biệt: 'đang phát triển có công nghiệp hiện đại thu nhập trung bình cao'",
+      "note": "🔎 Thấy: 'Định hướng phát triển đất nước đến năm 2030 mà Đại hội XIII của...' ➔ 🎯 Nhớ: 'đang phát triển có công nghiệp hiện đại thu nhập trung bình cao'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -4868,7 +4868,7 @@ window.VNR_DATA = {
         "Sẽ tạo động lực cho phát triển kinh tế - xã hội, góp \nphần làm trong sạch và nâng cao hiệu lực, hiệu quả \nhoạt động của bộ máy nhà nước"
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'Việc trả lương đúng cho người lao động là thực hiện đầu tư cho phát triển...'",
+      "note": "🔎 Thấy: 'Tại sao cần cải cách chính sách tiền lương, bảo hiểm xã hội và trợ...' ➔ 🎯 Nhớ: 'Việc trả lương đúng cho người lao động là thực hiện đầu tư cho phát triển...'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -4883,7 +4883,7 @@ window.VNR_DATA = {
         "Thỏa thuận các bên ngừng bắn để thực hiện chuyển \nquân, tập kết, chuyển giao khu."
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'nước đều cam · tôn trọng những · dân tộc cơ bản · nhân dân Việt'",
+      "note": "🔎 Thấy: 'phản ánh điểm tương đồng về nội dung giữa Hiệp định Giơ-ne-vơ năm...' ➔ 🎯 Nhớ: 'nước đều cam · tôn trọng những · dân tộc cơ bản'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4898,7 +4898,7 @@ window.VNR_DATA = {
         "5 loại hình chiến tranh"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: '4 loại hình chiến tranh'",
+      "note": "🔎 Thấy: 'Từ năm 1954 đến năm 1975, Mỹ đã thực hiện mấy loại hình chiến tranh...' ➔ 🎯 Nhớ: '4 loại hình chiến tranh'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -4915,7 +4915,7 @@ window.VNR_DATA = {
         "Là dấu mốc kết thúc cuộc chiến tranh giải phóng \ndân tộc, bảo vệ Tổ quốc, chấm dứt ách thống trị của \nthực dân đế quốc"
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'Là dấu mốc · thúc · tộc bảo vệ Tổ quốc chấm dứt ách thống trị · thực'",
+      "note": "🔎 Thấy: 'So với chiến dịch Điện Biên Phủ 1954 với chiến dịch Hồ Chí Minh...' ➔ 🎯 Nhớ: 'Là dấu mốc · thúc · tộc bảo vệ Tổ quốc chấm dứt ách thống trị'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": []
@@ -4930,7 +4930,7 @@ window.VNR_DATA = {
         "Chính phủ Mặt trận nhân dân lên cầm quyền ở Pháp"
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'phủ Mặt trận nhân dân lên cầm quyền · Pháp'",
+      "note": "🔎 Thấy: 'Điều kiện trực tiếp mở ra Phong trào dân chủ 1936 - 1939 do Đảng...' ➔ 🎯 Nhớ: 'Chính phủ Mặt trận nhân dân lên cầm quyền ở Pháp'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": []
@@ -4945,7 +4945,7 @@ window.VNR_DATA = {
         "Khôi phục và phát triển thương nghiệp"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Khôi phục và phát triển sản xuất nông nghiệp'",
+      "note": "🔎 Thấy: 'Nhiệm vụ kinh tế trọng tâm ở miền Bắc sau tháng 7/1954 được Đảng...' ➔ 🎯 Nhớ: 'Khôi phục và phát triển sản xuất nông nghiệp'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -4960,7 +4960,7 @@ window.VNR_DATA = {
         "Tiến hành tuần tự hai cuộc cách mạng ở hai miền \nđất nước với mục tiêu thống nhất."
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'Kết hợp khởi nghĩa từng phần · quần chúng nhân dân · tranh'",
+      "note": "🔎 Thấy: 'Ở Việt Nam, cuộc kháng chiến chống Mĩ, cứu nước (1954-1975) có điểm...' ➔ 🎯 Nhớ: 'Kết hợp khởi nghĩa từng phần · quần chúng nhân dân · tranh'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": []
@@ -4975,7 +4975,7 @@ window.VNR_DATA = {
         "trực tiếp đánh đổ ách thống trị của Mỹ và chính \nquyền Sài Gòn."
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'đánh đổ · thống trị · chính quyền Sài Gòn'",
+      "note": "🔎 Thấy: 'Trong thời kỳ 1954-1975, cuộc cách mạng dân tộc dân chủ nhân dân ở...' ➔ 🎯 Nhớ: 'đánh đổ · thống trị · chính quyền Sài Gòn'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": []
@@ -4990,7 +4990,7 @@ window.VNR_DATA = {
         "Đường lối chính sách"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Tổ chức'",
+      "note": "🔎 Thấy: 'Lãnh tụ Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên...' ➔ 🎯 Nhớ: 'Tổ chức'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": []
@@ -5004,7 +5004,7 @@ window.VNR_DATA = {
         "lãnh đạo xây dựng miền Bắc thành hậu phương \nvững mạnh.\n đã kết hợp sức mạnh toàn dân tộc với sức mạnh của \nthời đại."
       ],
       "a": "B",
-      "note": "[⚡ 3 ĐÁP ÁN (LOẠI C)] 🎯 Điểm khác biệt: 'có đường lối cách mạng đúng đắn sáng tạo độc lập tự'",
+      "note": "🔎 Thấy: 'Nhân tố hàng đầu đảm bảo thắng lợi của cuộc kháng chiến chống Mĩ,...' ➔ 🎯 Nhớ: 'có đường lối cách mạng đúng đắn sáng tạo độc lập tự'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": []
@@ -5019,7 +5019,7 @@ window.VNR_DATA = {
         "Mặt trận Việt Minh muôn năm"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Dân tộc trên hết, Tổ quốc trên hết'",
+      "note": "🔎 Thấy: 'Khẩu hiệu được Đảng đề ra trong giai đoạn giữ vững và củng cố chính...' ➔ 🎯 Nhớ: 'Dân tộc trên hết, Tổ quốc trên hết'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -5034,7 +5034,7 @@ window.VNR_DATA = {
         "là đối xứng của tiền tuyến, thực hiện nhiệm vụ chi \nviện cho tiền tuyến."
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'thể · chỉ'",
+      "note": "🔎 Thấy: 'Thực tiễn 30 năm chiến tranh cách mạng Việt Nam (1945 - 1975) cho...' ➔ 🎯 Nhớ: 'không thể phân biệt rạch ròi...'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": []
@@ -5049,7 +5049,7 @@ window.VNR_DATA = {
         "Lê Duẩn"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Trường Chinh'",
+      "note": "🔎 Thấy: 'Hội nghị Trung ương 8 (5/1941) đã bầu ai làm Tổng Bí thư của Đảng' ➔ 🎯 Nhớ: 'Trường Chinh'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -5067,7 +5067,7 @@ window.VNR_DATA = {
         "công nghiệp hóa, hiện đại hóa."
       ],
       "a": "B",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'đất nước ta đã hòa bình độc lập thống nhất cả nước quá độ lên'",
+      "note": "🔎 Thấy: 'Sau năm 1975, đất nước ta bước vào thời kì' ➔ 🎯 Nhớ: 'đất nước ta đã hòa bình độc lập thống nhất cả nước quá độ lên'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -5082,7 +5082,7 @@ window.VNR_DATA = {
         "Khôi phục kinh tế sau chiến tranh."
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Thống nhất đất nước về mặt nhà nước.'",
+      "note": "🔎 Thấy: 'Nhiệm vụ nào được đặt ra một cách bức thiết sau năm 1975' ➔ 🎯 Nhớ: 'Thống nhất đất nước về mặt nhà nước.'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": []
@@ -5097,7 +5097,7 @@ window.VNR_DATA = {
         "Phạm Hữu Thọ"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Phạm Hùng'",
+      "note": "🔎 Thấy: 'Đoàn đại biểu miền Nam do ai dẫn đầu để thống nhất hiệp thương với...' ➔ 🎯 Nhớ: 'Phạm Hùng'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -5114,7 +5114,7 @@ window.VNR_DATA = {
         "Nguyễn Văn Linh"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Tôn Đức Thắng'",
+      "note": "🔎 Thấy: 'Sau đại thắng mùa xuân 1975, đất nước độc lập thống nhất, Chủ tịch...' ➔ 🎯 Nhớ: 'Tôn Đức Thắng'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -5131,7 +5131,7 @@ window.VNR_DATA = {
         "Nguyễn Hữu Thọ"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Lê Duẩn'",
+      "note": "🔎 Thấy: 'Tại Đại hội lần thứ V của Đảng đã bầu chức vụ Tổng Bí Thư Đảng' ➔ 🎯 Nhớ: 'Lê Duẩn'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -5149,7 +5149,7 @@ window.VNR_DATA = {
         "Hoàn thiện thể chế gắn tăng trưởng kinh tế với tiến \nbộ, công bằng xã hội và bảo vệ môi trường."
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Dân chủ phổ thông bình đẳng trực tiếp · bỏ phiếu kín'",
+      "note": "🔎 Thấy: 'Tổ chức tổng tuyển cử trên toàn lãnh thổ Việt Nam bầu ra Quốc hội...' ➔ 🎯 Nhớ: 'Dân chủ phổ thông bình đẳng trực tiếp · bỏ phiếu kín'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": []
@@ -5164,7 +5164,7 @@ window.VNR_DATA = {
         "Giữ vai trò thứ yếu"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Giữ vai trò chủ đạo'",
+      "note": "🔎 Thấy: 'Đảng Cộng sản Việt Nam xác định thành phần kinh tế nhà nước có vai...' ➔ 🎯 Nhớ: 'Giữ vai trò chủ đạo'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -5179,7 +5179,7 @@ window.VNR_DATA = {
         "Kinh tế nhà nước và kinh tế tập thể"
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'định hướng xã hội chủ nghĩa'",
+      "note": "🔎 Thấy: 'Mô hình kinh tế tổng quát của nước ta trong thời kỳ quá độ lên chủ...' ➔ 🎯 Nhớ: 'Kinh tế thị trường định hướng xã hội chủ nghĩa'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5196,7 +5196,7 @@ window.VNR_DATA = {
         "Đại hội IX (2001)"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Đại hội IX (2001)'",
+      "note": "🔎 Thấy: 'Mô hình kinh tế thị trường định hướng xã hội chủ nghĩa ở nước ta...' ➔ 🎯 Nhớ: 'Đại hội IX (2001)'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5214,7 +5214,7 @@ window.VNR_DATA = {
         "Hoàn thiện"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Chưa đầy đủ'",
+      "note": "🔎 Thấy: 'Cơ chế thị trường trong nền kinh tế Việt Nam từ 1986- 1991 được xem' ➔ 🎯 Nhớ: 'Chưa đầy đủ'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -5229,7 +5229,7 @@ window.VNR_DATA = {
         "Một hình thức chiến tranh của chủ nghĩa thực dân \nmới, được tiến hành bằng quân đội tay sai, dưới sự chỉ \nhuy của cố vấn Mỹ, bằng phương tiện chiến tranh Mỹ"
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'tay sai'",
+      "note": "🔎 Thấy: 'Chiến lược — \"Chiến tranh đặc biệt\"' ➔ 🎯 Nhớ: '...hành bằng quân đội tay sai, dưới sự chỉ huy của...'",
       "multi": false,
       "topic": "period_1954_1975",
       "tags": []
@@ -5244,7 +5244,7 @@ window.VNR_DATA = {
         "Độc lập và Thống nhất"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Thống nhất'",
+      "note": "🔎 Thấy: 'Điền thêm từ còn thiếu trong câu trích từ Nghị quyết Hội nghị ban...' ➔ 🎯 Nhớ: 'Thống nhất'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -5261,7 +5261,7 @@ window.VNR_DATA = {
         "Xây dựng nền KT hàng hóa nhiều thành phần vận \nhành cơ chế thị trường, tăng cường quản lý Nhà nước \ntheo định hướng XHCN. Tăng trưởng KT gắn tiến bộ \ncông bằng XH, giữ và phát huy bản sắc văn hóa dân \ntộc, bảo vệ môi trường sinh thái."
       ],
       "a": "D",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'Xây dựng nền KT hàng hóa nhiều thành phần vận hành cơ chế · tăng cường quản lý...'",
+      "note": "🔎 Thấy: 'bài học trong 10 năm đổi mới đất nước 1986-1996' ➔ 🎯 Nhớ: 'Xây dựng nền KT hàng hóa nhiều thành phần vận hành cơ chế · tăng cường quản lý...'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -5276,7 +5276,7 @@ window.VNR_DATA = {
         "Hàn gắn vết tHương chiến tranh"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Kế hoạch nhà nước 5 năm 1976 - 1980'",
+      "note": "🔎 Thấy: 'một trong những nội dung của Đại hội lần thứ IV của Đảng (12/1976)?...' ➔ 🎯 Nhớ: 'Kế hoạch nhà nước 5 năm 1976 - 1980'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5293,7 +5293,7 @@ window.VNR_DATA = {
         "Phong trào giải phóng dân tộc phát triển mạnh"
       ],
       "a": "A",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'hiện thực lâm vào thoái'",
+      "note": "🔎 Thấy: 'Đại hội Đảng lần thứ 8 họp tại Hà Nội từ ngày 28/6 - 1/7/1996 diễn...' ➔ 🎯 Nhớ: 'hiện thực lâm vào thoái'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5310,7 +5310,7 @@ window.VNR_DATA = {
         "Đảng Cộng sản Hồ Chí Minh"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Đảng Cộng sản Việt Nam'",
+      "note": "🔎 Thấy: 'Đại hội lần thứ IV của Đảng họp từ 14 - 20/12/1976 tại Hà Nội quyết...' ➔ 🎯 Nhớ: 'Đảng Cộng sản Việt Nam'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -5328,7 +5328,7 @@ window.VNR_DATA = {
         "Xây dựng con người mới XHCN"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Xây dựng con người mới XHCN'",
+      "note": "🔎 Thấy: 'nhận thức mới của Đảng về chủ nghĩa xã hội' ➔ 🎯 Nhớ: 'Xây dựng con người mới XHCN'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -5343,7 +5343,7 @@ window.VNR_DATA = {
         "Nắm vững các quy luật kinh tế của chủ nghĩa xã hội."
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Đẩy mạnh Công nghiệp hóa xã hội chủ nghĩa'",
+      "note": "🔎 Thấy: 'Nhiệm vụ trung tâm của thời kỳ quá độ xây dựng đất nước' ➔ 🎯 Nhớ: 'Đẩy mạnh Công nghiệp hóa xã hội chủ nghĩa'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -5358,7 +5358,7 @@ window.VNR_DATA = {
         "Các tổ chức chính trị - xã hội"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Các tổ chức chính trị - xã hội'",
+      "note": "🔎 Thấy: 'Mặt trận Tổ quốc Việt Nam, Đoàn thanh niên Lao động HCM, Tổng Công...' ➔ 🎯 Nhớ: 'Các tổ chức chính trị - xã hội'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -5373,7 +5373,7 @@ window.VNR_DATA = {
         "Pháp"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Trung Quốc'",
+      "note": "🔎 Thấy: 'Ngày 17/2/1979, quân đội nước nào tấn công phía Bắc biên giới nước...' ➔ 🎯 Nhớ: 'Trung Quốc'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": []
@@ -5388,7 +5388,7 @@ window.VNR_DATA = {
         "Bảo đảm nhu cầu đời sống của nhân dân, tích lũy \nđể xây dựng cơ sở vật chất kỹ thuật của chủ nghĩa xã \nhội"
       ],
       "a": "D",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'Bảo đảm nhu cầu đời sống · nhân dân tích lũy để xây dựng cơ sở vật chất kỹ thuật'",
+      "note": "🔎 Thấy: 'mục tiêu của kế hoạch phát triển kinh tế và văn hóa 5 năm lần thứ 2...' ➔ 🎯 Nhớ: 'Bảo đảm nhu cầu đời sống · nhân dân tích lũy để xây dựng cơ sở vật chất kỹ thuật'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -5403,7 +5403,7 @@ window.VNR_DATA = {
         "Bình thường hóa"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Phức tạp'",
+      "note": "🔎 Thấy: 'Trong mười năm từ 1979 - 1989, quan hệ Việt Nam- Trung Quốc trong...' ➔ 🎯 Nhớ: 'Phức tạp'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -5418,7 +5418,7 @@ window.VNR_DATA = {
         "Lấy việc phát huy nguồn lực con người là yếu tố cơ \nbản cho sự phát triển nhanh và bền vững."
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'Lấy việc phát huy nguồn lực con người là yếu tố cơ bản · sự phát triển nhanh ·...'",
+      "note": "🔎 Thấy: 'quan điểm của Đảng ta về Công nghiệp hóa- hiện đại hóa đất nước' ➔ 🎯 Nhớ: 'Lấy việc phát huy nguồn lực con người là yếu tố cơ bản · sự phát triển nhanh ·...'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -5433,7 +5433,7 @@ window.VNR_DATA = {
         "Dân giàu, nước mạnh, xã hội công bằng, văn minh"
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'Dân giàu · mạnh · công bằng văn minh'",
+      "note": "🔎 Thấy: 'Mục tiêu xây dựng chủ nghĩa xã hội ở Việt Nam' ➔ 🎯 Nhớ: 'Dân giàu, nước mạnh, xã hội công bằng, văn minh'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -5448,7 +5448,7 @@ window.VNR_DATA = {
         "Xây dựng nhà nước pháp quyền Việt Nam xã hội chủ \nnghĩa"
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'vệ vững chắc Tổ quốc'",
+      "note": "🔎 Thấy: 'nhiệm vụ chiến lược mà Đại hội lần thứ V của Đảng khẳng định' ➔ 🎯 Nhớ: 'Bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -5465,7 +5465,7 @@ window.VNR_DATA = {
         "Dịch vụ"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Nông nghiệp'",
+      "note": "🔎 Thấy: 'Đại hội lần thứ V của Đảng (1982) đã coi lĩnh vực nào là Mặt trận...' ➔ 🎯 Nhớ: 'Nông nghiệp'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -5482,7 +5482,7 @@ window.VNR_DATA = {
         "Đại hội VII 1991"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Đại hội VI 1986'",
+      "note": "🔎 Thấy: 'Đại hội nào được đánh giá là Đại hội đổi mới đất nước' ➔ 🎯 Nhớ: 'Đại hội VI 1986'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5500,7 +5500,7 @@ window.VNR_DATA = {
         "Đổi mới tổ chức và phương thức hoạt động của Mặt \ntrận tổ quốc Việt Nam"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'cơ chế quản lý xóa bỏ cơ chế tập trung quan liêu hành chính bao cấp'",
+      "note": "🔎 Thấy: 'Trọng tâm của đổi mới kinh tế tại Đại hội VI (1986)' ➔ 🎯 Nhớ: 'cơ chế quản lý xóa bỏ cơ chế tập trung quan liêu hành chính bao cấp'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5517,7 +5517,7 @@ window.VNR_DATA = {
         "Công nghiệp, thương nghiệp, dịch vụ"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'và · xuất khẩu'",
+      "note": "🔎 Thấy: 'Ba chương trình kinh tế lớn của ta sau đổi mới kinh tế' ➔ 🎯 Nhớ: 'và · xuất khẩu'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -5532,7 +5532,7 @@ window.VNR_DATA = {
         "Mở rộng phất triển kinh tế hợp tác xã"
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'đối ngoại'",
+      "note": "🔎 Thấy: 'nội dung phát triển kinh tế mà Đại hôi Đảng lần thứ VI đề ra' ➔ 🎯 Nhớ: 'Mở rộng và nâng cao hiệu quả kinh tế đối ngoại.'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -5547,7 +5547,7 @@ window.VNR_DATA = {
         "Hà Nội"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Sài Gòn'",
+      "note": "🔎 Thấy: 'Từ ngày 15 - 21/11/1975, Hội nghị Hiệp thương chính trị của 2 đoàn...' ➔ 🎯 Nhớ: 'Sài Gòn'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": []
@@ -5561,7 +5561,7 @@ window.VNR_DATA = {
         "Hệ thống chính trị thời kỳ đổi mới"
       ],
       "a": "A",
-      "note": "[⚡ 3 ĐÁP ÁN (LOẠI C)] 🎯 Chốt nhanh: 'Hệ thống chính trị Chuyên chính vô sản'",
+      "note": "🔎 Thấy: 'Sự lãnh đạo toàn diện và tuyệt đối của Đảng là điểm cốt lõi của cơ...' ➔ 🎯 Nhớ: 'Hệ thống chính trị Chuyên chính vô sản'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -5576,7 +5576,7 @@ window.VNR_DATA = {
         "Việt Nam mong là bạn, là đối tác tin cậy của các nước \ntrong cộng đồng quốc tế, phấn đấu vì hòa bình độc \nlập và phát triển."
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'sẵn sàng'",
+      "note": "🔎 Thấy: 'Chủ trương trong quan hệ quốc tế của Việt Nam được Đại hội Đảng lần...' ➔ 🎯 Nhớ: 'sẵn sàng là bạn, là đối tác...'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -5593,7 +5593,7 @@ window.VNR_DATA = {
         "Đóng vai trò thứ yếu"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Đóng vai trò trụ cột'",
+      "note": "🔎 Thấy: 'Trong quá trình đổi mới mới đất nước, Đảng cộng sản Việt Nam đóng...' ➔ 🎯 Nhớ: 'Đóng vai trò trụ cột'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -5608,7 +5608,7 @@ window.VNR_DATA = {
         "Đổi mới tư tưởng và phương thức hoạt động của \ncác bộ phận cấu thành hệ thống."
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Kết hợp chặt chẽ · kinh tế với · chính trị lấy · kinh tế làm trọng tâm từng bước'",
+      "note": "🔎 Thấy: 'bài học về đổi mới đất nước (1986-1996 )' ➔ 🎯 Nhớ: 'Kết hợp chặt chẽ · kinh tế với · chính trị lấy'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -5623,7 +5623,7 @@ window.VNR_DATA = {
         "Nguyễn Văn Linh"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Lê Khả Phiêu'",
+      "note": "🔎 Thấy: 'Nghị quyết Trung ương 4, khóa 8 tháng 12/1997 bầu ai làm Tổng bí...' ➔ 🎯 Nhớ: 'Lê Khả Phiêu'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -5640,7 +5640,7 @@ window.VNR_DATA = {
         "WTO"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'APEC'",
+      "note": "🔎 Thấy: 'Năm 1998, Việt Nam trở thành thành viên của' ➔ 🎯 Nhớ: 'APEC'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -5655,7 +5655,7 @@ window.VNR_DATA = {
         "Đại hội X (2006)"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Đại hội IX (2001)'",
+      "note": "🔎 Thấy: 'Đường lối đối ngoại \"Việt Nam sẵn sàng là bạn, là đối tác tin cậy...' ➔ 🎯 Nhớ: 'Đại hội IX (2001)'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5673,7 +5673,7 @@ window.VNR_DATA = {
         "Việt Nam sẵn sàng là bạn và ủng hộ phong trào hòa \nbình thế giới."
       ],
       "a": "A",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'phấn đấu vì · độc lập · phát triển'",
+      "note": "🔎 Thấy: 'Trong quan hệ đối ngoại Đại hội 9 đưa ra chủ trương' ➔ 🎯 Nhớ: 'phấn đấu vì · độc lập · phát triển'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -5690,7 +5690,7 @@ window.VNR_DATA = {
         "Chiến lược bảo vệ Tổ quốc trong tình hình mới."
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'Chiến lược bảo vệ Tổ quốc trong tình hình'",
+      "note": "🔎 Thấy: 'Hội nghị Trung ương 8 khóa 9 tháng 7/2003 đã ban hành' ➔ 🎯 Nhớ: 'Chiến lược bảo vệ Tổ quốc trong tình hình mới.'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5707,7 +5707,7 @@ window.VNR_DATA = {
         "Đổi mới quan hệ giữa các bộ phận cấu thành của \nhệ thống chính trị với nhau và với xã hội là rất quan \ntrọng."
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'ất đai · tài nguyên quốc gia vô cùng quý giá · tư liệu đặc biệt · nguồn nội lực'",
+      "note": "🔎 Thấy: 'Hội nghị Trung ương 7 khóa 9 tháng 3/2003 đã thống nhất coi' ➔ 🎯 Nhớ: 'ất đai · tài nguyên quốc gia vô cùng quý giá · tư liệu đặc biệt'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5724,7 +5724,7 @@ window.VNR_DATA = {
         "Thực hiện đa nguyên chính trị, đa đảng đối lập"
       ],
       "a": "B",
-      "note": "🎯 Điểm khác biệt: 'Làm cho · được · tốt hơn'",
+      "note": "🔎 Thấy: 'Đường lối Đổi mới được Đảng đề ra tại Đại hội VI (1986) nhằm' ➔ 🎯 Nhớ: 'Làm cho · được · tốt hơn'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5741,7 +5741,7 @@ window.VNR_DATA = {
         "Nâng cao năng lực lãnh đạo và sức chiến đấu của \nĐảng, phát huy sức mạnh toàn dân tộc, đẩy mạnh \ntoàn diện công cuộc đổi mới sớm đưa nước ta ra khỏi \ntình trạng kém phát triển."
       ],
       "a": "D",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'đẩy · diện · cuộc đổi mới sớm đưa · ta ra khỏi tình trạng kém'",
+      "note": "🔎 Thấy: 'Chủ đề của Đại hội Đảng lần thứ 10 từ ngày 18 - 25/4/2006 tại Hà Nội' ➔ 🎯 Nhớ: 'đẩy · diện · cuộc đổi mới sớm đưa'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5758,7 +5758,7 @@ window.VNR_DATA = {
         "Đảng viên được tự do kết hôn với người nước ngoài"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Đảng viên làm kinh tế tư nhân'",
+      "note": "🔎 Thấy: 'Quan điểm mới nổi bật của Đại hội Đảng lần thứ X (2006) là đã cho...' ➔ 🎯 Nhớ: 'Đảng viên làm kinh tế tư nhân'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5775,7 +5775,7 @@ window.VNR_DATA = {
         "Đại hội XII (2016)"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Đại hội X (2006)'",
+      "note": "🔎 Thấy: 'Chủ trương cho phép đảng viên làm kinh tế tư nhân được Đảng chính...' ➔ 🎯 Nhớ: 'Đại hội X (2006)'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5793,7 +5793,7 @@ window.VNR_DATA = {
         "Xây dựng kinh tế tư nhân"
       ],
       "a": "A",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'chỉnh đốn Đảng là nhiệm vụ then chốt hàng đầu và cho phép đảng viên làm'",
+      "note": "🔎 Thấy: 'nội dung mới của Đại hội Đảng lần thứ X' ➔ 🎯 Nhớ: 'chỉnh đốn Đảng là nhiệm vụ then chốt hàng đầu và cho phép đảng viên làm'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5810,7 +5810,7 @@ window.VNR_DATA = {
         "Lấy đổi mới chính trị làm thứ yếu, đồng thời từng \nbước đổi mới kinh tế."
       ],
       "a": "D",
-      "note": "⚠️ PHỦ ĐỊNH: KHÔNG PHẢI bài học kinh nghiệm Đại hội X ➔ 'Lấy đổi mới chính trị làm thứ yếu'.",
+      "note": "⚠️ PHỦ ĐỊNH: Thấy 'KHÔNG PHẢI bài học kinh nghiệm Đại hội X' ➔ Nhớ: 'Lấy đổi mới chính trị làm thứ yếu' (sai vì phải kết hợp chặt chẽ kinh tế và chính trị).",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5827,7 +5827,7 @@ window.VNR_DATA = {
         "7"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: '6'",
+      "note": "🔎 Thấy: 'Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã...' ➔ 🎯 Nhớ: '6'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5845,7 +5845,7 @@ window.VNR_DATA = {
         "Thay đổi hệ thống chính trị"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Đảng'",
+      "note": "🔎 Thấy: 'Hội nghị Trung ương 5 khóa 10 tháng 7/2007 ban hành Nghị quyết số...' ➔ 🎯 Nhớ: 'Tăng cường công tác kiểm tra, giám sát của Đảng'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -5862,7 +5862,7 @@ window.VNR_DATA = {
         "Dân giàu, nước mạnh, dân chủ, công bằng, văn \nminh do nhân dân làm chủ"
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'nhân · làm'",
+      "note": "🔎 Thấy: 'Cương lĩnh Đại hội Đảng lần thứ 11 diễn ra từ 12 - 19/1/2011 nêu...' ➔ 🎯 Nhớ: '...bằng, văn minh do nhân dân làm chủ'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5879,7 +5879,7 @@ window.VNR_DATA = {
         "Xây dựng nền kinh tế tựu chủ"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'triển nhanh · liền · triển bền vững'",
+      "note": "🔎 Thấy: 'Đại hội lần thứ 11 đề ra chiến lược phát triển kinh tế- xã hội...' ➔ 🎯 Nhớ: 'Phát triển nhanh gắn liền với phát triển bền vững'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5896,7 +5896,7 @@ window.VNR_DATA = {
         "44 nước"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: '36 nước'",
+      "note": "🔎 Thấy: 'Năm 2012 có bao nhiêu nước công nhận cơ chế kinh tế thị trường của...' ➔ 🎯 Nhớ: '36 nước'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -5913,7 +5913,7 @@ window.VNR_DATA = {
         "1997"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: '1995'",
+      "note": "🔎 Thấy: 'Việt Nam gia nhập tổ chức ASEAN năm' ➔ 🎯 Nhớ: '1995'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5930,7 +5930,7 @@ window.VNR_DATA = {
         "từ ngày 24.1-1.2.2021"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'từ ngày 25.1-1.2.2021'",
+      "note": "🔎 Thấy: 'Đại hội đại biểu toàn quốc lần thứ XIII Đảng Cộng sản Việt Nam họp...' ➔ 🎯 Nhớ: 'từ ngày 25.1-1.2.2021'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5948,7 +5948,7 @@ window.VNR_DATA = {
         "Giáo dục và đào tạo"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Giáo dục và đào tạo, khoa học và công nghệ'",
+      "note": "🔎 Thấy: 'Về Kết quả thực hiện Nghị quyết Đại hội XII, Đại hội XIII đánh giá...' ➔ 🎯 Nhớ: 'Giáo dục và đào tạo, khoa học và công nghệ'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5965,7 +5965,7 @@ window.VNR_DATA = {
         "Học tập và làm theo tấm gương đạo đức Hồ Chí \nMinh."
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'Học tập và · theo tấm gương đạo đức Hồ Chí Minh'",
+      "note": "🔎 Thấy: 'Tháng 11/2006, Bộ Chính trị khóa 10 ra Chỉ thị số 3-NQ/TW là quyết...' ➔ 🎯 Nhớ: 'Học tập và làm theo tấm gương đạo đức Hồ Chí Minh.'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -5982,7 +5982,7 @@ window.VNR_DATA = {
         "Nhiều hiện tượng tiêu cực trong xã hội."
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Nhiều hiện tượng tiêu cực trong xã hội.'",
+      "note": "🔎 Thấy: 'Tác hại nào do cơ chế quản lý kinh tế tập trung, quan liêu, bao cấp...' ➔ 🎯 Nhớ: 'Nhiều hiện tượng tiêu cực trong xã hội.'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -5997,7 +5997,7 @@ window.VNR_DATA = {
         "Xây dựng Đảng trong sạch, vững mạnh"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Đoàn kết-Dân chủ-Kỷ cương- Đổi mới'",
+      "note": "🔎 Thấy: 'Khẩu hiệu của Đại hội lần thứ XII của Đàng' ➔ 🎯 Nhớ: 'Đoàn kết-Dân chủ-Kỷ cương- Đổi mới'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -6014,7 +6014,7 @@ window.VNR_DATA = {
         "Đẩy mạnh học tập và làm theo tư tưởng, đạo đức, \nphong cách Hồ Chí Minh."
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'Đẩy mạnh · đạo đức phong cách'",
+      "note": "🔎 Thấy: 'Bộ Chính trị ban hành Chỉ thị số 5-CT/TW ngày 15/5/2016 về' ➔ 🎯 Nhớ: 'Đẩy mạnh · đạo đức phong cách'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -6032,7 +6032,7 @@ window.VNR_DATA = {
         "Giải giáp quân đội Nhật"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Hòa để tiến'",
+      "note": "🔎 Thấy: 'Thời gian từ tháng 3 năm 1946 đến ngày 19/12/1946, Đảng lãnh đạo...' ➔ 🎯 Nhớ: 'Hòa để tiến'",
       "multi": false,
       "topic": "period_1945_1954",
       "tags": []
@@ -6047,7 +6047,7 @@ window.VNR_DATA = {
         "Hoàn thiện thể chế chính trị"
       ],
       "a": "B",
-      "note": "🎯 Điểm khác biệt: '...về sở hữu và các thành phần kinh tế.'",
+      "note": "🔎 Thấy: 'Mở rộng các lĩnh vực kinh tế thuộc độc quyền nhà nước là vi phạm...' ➔ 🎯 Nhớ: '...về sở hữu và các thành phần kinh tế.'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -6062,7 +6062,7 @@ window.VNR_DATA = {
         "Hoàn thiện thể chế kinh tế thị trường định hướng \nxã hội chủ nghĩa."
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'Hoàn thiện thể chế · xã hội'",
+      "note": "🔎 Thấy: 'Hội nghị Trung ương 5 khóa 12, tháng 5/2017 chủ trương' ➔ 🎯 Nhớ: 'Hoàn thiện thể chế · xã hội'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -6079,7 +6079,7 @@ window.VNR_DATA = {
         "Tăng cường công tác bảo vệ, chăm sóc và nâng cao \nsức khỏe nhân dân trong tình hình mới."
       ],
       "a": "A",
-      "note": "[🔁 TRÙNG Q374 · 📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'Cải cách chính sách tiền lương đối với cán bộ · viên chức lực lượng vũ trang ·...'",
+      "note": "[🔁 Trùng ý Q374] 🔎 Thấy: 'Hội nghị Trung ương 7 khóa 12 đã ban hành Nghị quyết số 27-NQ/TW...' ➔ 🎯 Nhớ: 'Cải cách chính sách tiền lương đối với cán bộ · viên chức lực lượng vũ trang ·...'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -6096,7 +6096,7 @@ window.VNR_DATA = {
         "Cải cách chính sách bảo hiểm xã hội."
       ],
       "a": "D",
-      "note": "[🔁 TRÙNG Q373] 🎯 Chốt nhanh: 'Cải cách chính sách bảo hiểm xã hội.'",
+      "note": "[🔁 Trùng ý Q373] 🔎 Thấy: 'Hội nghị Trung ương 7 khóa 12 đã ban hành Nghị quyết số 28-NQ/TW...' ➔ 🎯 Nhớ: 'Cải cách chính sách bảo hiểm xã hội.'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -6113,7 +6113,7 @@ window.VNR_DATA = {
         "Đảng lãnh đạo, nhà nước quản lý, nhân dân làm chủ"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Hệ thống chính trị'",
+      "note": "🔎 Thấy: 'Hội nghị trung ương VI khoá 6 (tháng 3 năm 1989) lần đầu tiên đưa...' ➔ 🎯 Nhớ: 'Hệ thống chính trị'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -6130,7 +6130,7 @@ window.VNR_DATA = {
         "Đảng phải tiếp tục tự đổi mới, tự chỉnh đốn, nâng \ncao hơn nữa sức chiến đấu và năng lực lãnh đạo của \nmình, khắc phục cho được các biểu hiện tiêu cực và \nyếu kém."
       ],
       "a": "D",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'Đảng phải tiếp tục · đổi mới · chỉnh đốn nâng cao · nữa sức chiến đấu và năng...'",
+      "note": "🔎 Thấy: 'Xây dựng Đảng ngang tầm với thời kì Công nghiệp hóa- Hiện đại hóa...' ➔ 🎯 Nhớ: 'Đảng phải tiếp tục · đổi mới · chỉnh đốn nâng cao'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -6145,7 +6145,7 @@ window.VNR_DATA = {
         "6 đột phá"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: '3 đột phá'",
+      "note": "🔎 Thấy: 'Đại hội XIII đã đề ra mấy đột phá chiến lược để phát triển đất nước' ➔ 🎯 Nhớ: '3 đột phá'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -6163,7 +6163,7 @@ window.VNR_DATA = {
         "Đổi mới an sinh xã hội, đồng thời, từng bước đổi \nmới hệ thống chính trị"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Xây dựng · kết cấu hạ tầng · bộ hiện đại cả về kinh tế'",
+      "note": "🔎 Thấy: 'đột phá chiến lược mà Đại hội XIII đề ra' ➔ 🎯 Nhớ: 'Xây dựng · kết cấu hạ tầng · bộ hiện đại cả về kinh tế'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -6180,7 +6180,7 @@ window.VNR_DATA = {
         "Của dân, do dân và vì dân"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'thụ hưởng'",
+      "note": "🔎 Thấy: 'Mọi công việc của Đảng, Nhà nước phải quán triệt sâu sắc lấy dân...' ➔ 🎯 Nhớ: '...dân giám sát, dân thụ hưởng'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -6195,7 +6195,7 @@ window.VNR_DATA = {
         "Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị \n- xã hội"
       ],
       "a": "D",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'Mặt trận Tổ quốc · và các tổ chức chính trị xã hội'",
+      "note": "🔎 Thấy: '\"Đại diện cho quyền và lợi ích hợp pháp của nhân dân\"' ➔ 🎯 Nhớ: 'Mặt trận Tổ quốc · và các tổ chức chính trị xã hội'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": [
@@ -6212,7 +6212,7 @@ window.VNR_DATA = {
         "tháng 12/1976."
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'tháng 7/1976.'",
+      "note": "🔎 Thấy: 'Việt Nam hoàn thành nhiệm vụ thống nhất đất nước về mặt nhà nước vào' ➔ 🎯 Nhớ: 'tháng 7/1976.'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -6229,7 +6229,7 @@ window.VNR_DATA = {
         "Xây dựng nền kinh tế hàng hóa nhiều thành phần \nvận hành theo cơ chế thị trường"
       ],
       "a": "D",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'nền · hàng hóa nhiều thành phần vận hành theo cơ chế thị trường'",
+      "note": "🔎 Thấy: 'bài học về kinh tế mà Đảng rút ra trong 10 năm đổi mới đất nước...' ➔ 🎯 Nhớ: 'nền · hàng hóa nhiều thành phần vận hành theo cơ chế thị trường'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -6244,7 +6244,7 @@ window.VNR_DATA = {
         "Đổi mới tổ chức và phương thức hoạt động của hệ \nthống chính trị là nhằm giảm bớt vai trò lãnh đạo của \nĐảng, hiệu lực quản lý của nhà nước, phát huy quyền \nlàm chủ của nhân dân."
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'Kết hợp chặt chẽ · kinh tế với · lấy · kinh tế'",
+      "note": "🔎 Thấy: 'bài học kinh nghiệm được rút ra trong 10 năm đổi mới đất nước...' ➔ 🎯 Nhớ: 'Kết hợp chặt chẽ · kinh tế với · lấy'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -6259,7 +6259,7 @@ window.VNR_DATA = {
         "Thực hiện mục tiêu xã hội trên cơ sở thực hiện thắng \nlợi các mục tiêu kinh tế"
       ],
       "a": "B",
-      "note": "🎯 Điểm khác biệt: 'Kết hợp · với'",
+      "note": "🔎 Thấy: 'Quan điểm quan trọng về giải quyết các vấn đề xã hội thời kỳ đổi mới' ➔ 🎯 Nhớ: 'Kết hợp các mục tiêu kinh tế...'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -6274,7 +6274,7 @@ window.VNR_DATA = {
         "Ngày 2/7/1975."
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Ngày 2/7/1976.'",
+      "note": "🔎 Thấy: 'Tên gọi — \"Nước Cộng hoà xã hội chủ nghĩa Việt Nam\"' ➔ 🎯 Nhớ: 'Ngày 2/7/1976.'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -6291,7 +6291,7 @@ window.VNR_DATA = {
         "Gắn liền với phát triển kinh tế"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Nhiệm vụ then chốt'",
+      "note": "🔎 Thấy: 'Trong 10 năm đổi mới đất nước vấn đề tăng cường vai trò lãnh đạo...' ➔ 🎯 Nhớ: 'Nhiệm vụ then chốt'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -6306,7 +6306,7 @@ window.VNR_DATA = {
         "Nhà nước Việt Nam"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Toàn dân'",
+      "note": "🔎 Thấy: 'Công nghiệp hóa- Hiện đại hóa đất nước là sự nghiệp của' ➔ 🎯 Nhớ: 'Toàn dân'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -6321,7 +6321,7 @@ window.VNR_DATA = {
         "Trong từng bước và suốt quá trình xây dựng thể chế \nkinh tế thị trường"
       ],
       "a": "B",
-      "note": "🎯 Chốt nhanh: 'Trong từng bước và suốt quá trình phát triển'",
+      "note": "🔎 Thấy: 'Đại hội lần thứ VIII của Đảng chủ trương tăng trưởng kinh tế gắn...' ➔ 🎯 Nhớ: 'Trong từng bước và suốt quá trình phát triển'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -6338,7 +6338,7 @@ window.VNR_DATA = {
         "Nhân tố quyết định tăng trưởng kinh tế xã hội"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'công nghiệp hóa hiện đại hóa'",
+      "note": "🔎 Thấy: 'Hội nghị Trung ương 2, khóa 8, tháng 12/1996 nhận định phát triển...' ➔ 🎯 Nhớ: 'công nghiệp hóa hiện đại hóa'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -6355,7 +6355,7 @@ window.VNR_DATA = {
         "Công nghiệp hóa được thực hiện thông qua cơ chế \nthị trường định hướng xã hội chủ nghĩa."
       ],
       "a": "D",
-      "note": "⚠️ PHỦ ĐỊNH: KHÔNG ĐÚNG về CNH thời kỳ TRƯỚC Đổi mới ➔ 'thực hiện thông qua cơ chế thị trường' (trước Đổi mới là cơ chế kế hoạch hóa tập trung!).",
+      "note": "⚠️ PHỦ ĐỊNH: Thấy 'KHÔNG ĐÚNG về CNH thời kỳ TRƯỚC Đổi mới' ➔ Nhớ: 'thực hiện thông qua cơ chế thị trường' (trước Đổi mới là kế hoạch hóa tập trung!).",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -6370,7 +6370,7 @@ window.VNR_DATA = {
         "Liên minh công nhân, nông dân và tầng lớp trí thức"
       ],
       "a": "C",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'đủ về số lượng đồng · về cơ cấu'",
+      "note": "🔎 Thấy: 'Hội nghị Trung ương 3, khóa 8 Đảng đã chủ trương: Hội nghị Trung...' ➔ 🎯 Nhớ: 'đủ về số lượng đồng · về cơ cấu'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -6387,7 +6387,7 @@ window.VNR_DATA = {
         "Của Mặt trận tổ quốc"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Làm chủ của nhân dân'",
+      "note": "🔎 Thấy: 'Nghị quyết Trung ương III, tháng 6/1997 đã chú trọng nội dung nào...' ➔ 🎯 Nhớ: 'Làm chủ của nhân dân'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -6402,7 +6402,7 @@ window.VNR_DATA = {
         "Chủ nghĩa Mác Lênin, tư tưởng Hồ Chí Minh ngày \ncàng giữ vai trò chủ đạo"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'nhân'",
+      "note": "🔎 Thấy: 'Hội nghị Trung ương 5 khóa 9 tháng 3/2002 đã thống nhất nhận thức...' ➔ 🎯 Nhớ: 'Kinh tế tư nhân đã phát triển rộng...'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -6420,7 +6420,7 @@ window.VNR_DATA = {
         "Công nghiệp hóa được nhận thức là \"công nghiệp \nhóa- hiện đại hóa gắn với phát triển kinh tế tri thức \ntrong cơ chế thị trường định hướng XHCN và hội nhập \nkinh tế quốc tế\"."
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Giai đoạn chuẩn bị các tiền đề · đất nước đã · bản hoàn thành cho phép ta...'",
+      "note": "🔎 Thấy: 'Đại hội VIII đưa ra luận điểm quan trọng về công nghiệp hóa' ➔ 🎯 Nhớ: 'Giai đoạn chuẩn bị các tiền đề · đất nước đã · bản hoàn thành cho phép ta...'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -6437,7 +6437,7 @@ window.VNR_DATA = {
         "Việt Nam gia nhập hiệp hội các nước Đông Nam Á \n(Asean)"
       ],
       "a": "B",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'tham · ký · định Pari 23 10 1991 về một giải pháp toàn diện cho vấn đề Campuchia'",
+      "note": "🔎 Thấy: 'Sự kiện lịch sử nào mở ra tiền đề để Việt Nam thúc đẩy quan hệ với...' ➔ 🎯 Nhớ: 'tham · ký · định Pari 23 10 1991 về một giải pháp toàn diện cho vấn đề Campuchia'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -6452,7 +6452,7 @@ window.VNR_DATA = {
         "Trước đổi mới (1975-1985)"
       ],
       "a": "D",
-      "note": "🎯 Chốt nhanh: 'Trước đổi mới (1975-1985)'",
+      "note": "🔎 Thấy: '\"Tranh thủ được nguồn viện trợ đáng kể, góp phần khôi phục đất nước...' ➔ 🎯 Nhớ: 'Trước đổi mới (1975-1985)'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -6469,7 +6469,7 @@ window.VNR_DATA = {
         "Trung bình kém phát triển"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Trung bình thấp'",
+      "note": "🔎 Thấy: 'Điền vào chỗ trống. Mục tiêu cụ thể được nêu trong đại hội lần thứ...' ➔ 🎯 Nhớ: 'Trung bình thấp'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -6486,7 +6486,7 @@ window.VNR_DATA = {
         "Phát triển giáo dục"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Người Việt Nam ở nước ngoài'",
+      "note": "🔎 Thấy: 'Hội nghị Trung ương 8 khóa 9 đã ban hành Nghị quyết số 36-NQ/TW...' ➔ 🎯 Nhớ: 'Người Việt Nam ở nước ngoài'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -6503,7 +6503,7 @@ window.VNR_DATA = {
         "12-7-1995"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: '10-11-1991'",
+      "note": "🔎 Thấy: 'Việt Nam và Trung Quốc bình thường hóa quan hệ vào thời gian' ➔ 🎯 Nhớ: '10-11-1991'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -6520,7 +6520,7 @@ window.VNR_DATA = {
         "Các nước công nghiệp phát triển thao túng, chi phối \nquá trình toàn cầu hóa tạo ra sự bất bình đẳng trong \nquan hệ quốc tế và làm gia tăng sự phân cực giữa \nnước giàu và nghèo."
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'cường · lãnh đạo · Đảng với · đấu tranh phòng chống tham nhũng lãng phí'",
+      "note": "🔎 Thấy: 'Hội nghị Trung ương 3 khóa 10 ban hành Nghị quyết số 04-NQ/TW ngày...' ➔ 🎯 Nhớ: 'cường · lãnh đạo · Đảng với'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -6537,7 +6537,7 @@ window.VNR_DATA = {
         "Khuyến khích phát triển tiểu thủ công nghiệp, \ncông nghiệp chế tác, công nghiệp phần mềm và công \nnghiệp bổ trợ có lợi thế cạnh tranh"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Tiếp tục đẩy mạnh xây dựng chỉnh đốn Đảng xây dựng Nhà nước pháp quyền xã hội...'",
+      "note": "🔎 Thấy: 'nhiệm vụ trọng tâm trong nhiệm kỳ đại hội đã được Đại hội Đảng lần...' ➔ 🎯 Nhớ: 'Tiếp tục đẩy mạnh xây dựng chỉnh đốn Đảng xây dựng Nhà nước pháp quyền xã hội...'",
       "multi": false,
       "topic": "khac",
       "tags": [
@@ -6554,7 +6554,7 @@ window.VNR_DATA = {
         "Nước ta đang ở trong quá trình từ một xã hội kinh \ntế sản xuất nhỏ tiến thẳng lên chủ nghĩa xã hội"
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: 'Hoàn thành về cơ bản · đưa nền · lớn · khoảng 20 năm'",
+      "note": "🔎 Thấy: 'Tại Đại hội đại biểu toàn quốc lần thứ IV (1976), chủ trương, nhận...' ➔ 🎯 Nhớ: 'Hoàn thành về cơ bản · đưa nền · lớn'",
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
@@ -6571,7 +6571,7 @@ window.VNR_DATA = {
         "Việt Nam phải trở thành quốc gia mạnh về biển, làm \ngiàu từ biển, trên cơ sở phát huy mọi tiềm năng từ \nbiển, phát triển toàn diện các ngành, nghề biển."
       ],
       "a": "D",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'trên cơ sở phát huy mọi · phát triển toàn diện các ngành nghề'",
+      "note": "🔎 Thấy: 'Trung ương nhận định như thế nào về Chiến lược kinh tế Biển ở thế...' ➔ 🎯 Nhớ: 'trên cơ sở phát huy mọi · phát triển toàn diện các ngành nghề'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -6586,7 +6586,7 @@ window.VNR_DATA = {
         "Kiểm tra, giám sát là nội dung rất quan trọng trong \nlãnh đạo của Đảng, là nhiệm vụ thường xuyên của \ntoàn Đảng, trước hết là cấp ủy và người đứng đầu cấp \nủy."
       ],
       "a": "D",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'nhiệm vụ thường xuyên · toàn · trước hết · cấp ủy và người đứng'",
+      "note": "🔎 Thấy: 'Tại sao phải Tăng cường công tác kiểm tra, giám sát của Đảng' ➔ 🎯 Nhớ: 'nhiệm vụ thường xuyên · toàn · trước hết'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -6601,7 +6601,7 @@ window.VNR_DATA = {
         "Giai cấp lãnh đạo cách mạng thông qua đội tiền \nphong là Đảng Cộng sản Việt Nam, là giai cấp đại diện \ncho phương thức sản xuất tiên tiến, tiên phong đi đầu \ntrong sự nghiệp công nghiệp hóa- hiện đại hóa đất \nnước."
       ],
       "a": "D",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: 'tiến · đi đầu trong sự nghiệp · nghiệp hóa · hóa đất nước'",
+      "note": "🔎 Thấy: 'Vì sao đất nước đã độc lập vẫn xây dựng giai cấp công nhân Việt Nam...' ➔ 🎯 Nhớ: 'tiến · đi đầu trong sự nghiệp · nghiệp hóa'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -6616,7 +6616,7 @@ window.VNR_DATA = {
         "Nhận thức đó phù hợp với nước ta để khai thác \nthế mạnh, tiềm năng của đất nước về lao động, đất \nđai, ngành nghề , động lực phát triển công nghiệp \nhóa-hiện đại hóa đất nước."
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'tạo tiền đề cho những chặng đường tiếp theo'",
+      "note": "🔎 Thấy: 'Tại sao, Đại hội 5 - 1982 lại nhận thức và coi nông nghiệp là mặt...' ➔ 🎯 Nhớ: 'tạo tiền đề cho những chặng đường tiếp theo'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -6633,7 +6633,7 @@ window.VNR_DATA = {
         "Sẽ tạo động lực cho phát triển kinh tế-xã hôi, góp \nphần làm trong sạch và nâng cao hiệu lực, hiệu quả \nhoạt động của bộ máy nhà nước"
       ],
       "a": "C",
-      "note": "🎯 Điểm khác biệt: 'Việc trả lương đúng cho người lao động là thực hiện đầu tư cho phát triển,...'",
+      "note": "🔎 Thấy: 'Tại sao, cần cải cách chính sách tiền lương, bảo hiểm xã hội và trợ...' ➔ 🎯 Nhớ: 'Việc trả lương đúng cho người lao động là thực hiện đầu tư cho phát triển,...'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -6648,7 +6648,7 @@ window.VNR_DATA = {
         "Tình trạng quan liêu, hách dịch, nhũng nhiễu của \ntất cả công chức chưa được khắc phục."
       ],
       "a": "A",
-      "note": "🎯 Điểm khác biệt: '...một bộ phận công chức chưa được khắc phục'",
+      "note": "🔎 Thấy: 'Đảng đánh giá như thế nào về bộ phận công chức nhà nước hiện nay' ➔ 🎯 Nhớ: '...một bộ phận công chức chưa được khắc phục'",
       "multi": false,
       "topic": "khac",
       "tags": []
@@ -6663,7 +6663,7 @@ window.VNR_DATA = {
         "Việt Nam vẫn là nước nghèo nàn, lạc hậu"
       ],
       "a": "A",
-      "note": "[📏 DÀI VƯỢT TRỘI] 🎯 Điểm khác biệt: '...nghèo, kém phát triển, xã hội còn nhiều tiêu cực và nhiều vấn đề phải giải quyết.'",
+      "note": "🔎 Thấy: 'Nhận xét nào là đúng về hạn chế của nước ta sau 10 năm đổi mới...' ➔ 🎯 Nhớ: '...nghèo, kém phát triển, xã hội còn nhiều tiêu cực và nhiều vấn đề phải giải quyết.'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -6678,7 +6678,7 @@ window.VNR_DATA = {
         "Chủ nghĩa Tờ rốt kít"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Chủ nghĩa phát xít'",
+      "note": "🔎 Thấy: 'Đại hội lần thứ VII Quốc tế Cộng sản (7/1935) xác định kẻ thù nguy...' ➔ 🎯 Nhớ: 'Chủ nghĩa phát xít'",
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
@@ -6695,7 +6695,7 @@ window.VNR_DATA = {
         "làm cho mục tiêu đã đề ra phù hợp với thực tiễn đất \nnước."
       ],
       "a": "B",
-      "note": "⚠️ PHỦ ĐỊNH: 'Đổi mới không phải là thay đổi mục tiêu CNXH mà phải...' ➔ 'làm cho mục tiêu ấy được thực hiện có hiệu quả'.",
+      "note": "⚠️ PHỦ ĐỊNH: Thấy 'Đổi mới không phải là thay đổi mục tiêu CNXH mà phải...' ➔ Nhớ: 'làm cho mục tiêu ấy được thực hiện có hiệu quả'.",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -6710,7 +6710,7 @@ window.VNR_DATA = {
         "Tập trung thực hiện các giải pháp nâng cao chất \nlượng tăng trưởng, năng suất lao động và sức cạnh \ntranh của nền kinh tế."
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'Tập trung thực hiện · giải pháp nâng cao · lượng tăng trưởng năng suất lao động...'",
+      "note": "🔎 Thấy: 'nhiệm vụ trọng tâm mà Đại hội XII đã nêu (2011-2016)' ➔ 🎯 Nhớ: 'Tập trung thực hiện · giải pháp nâng cao · lượng tăng trưởng năng suất lao động'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
@@ -6727,7 +6727,7 @@ window.VNR_DATA = {
         "Phát triển nhanh nguồn nhân lực, nhất là nguồn \nnhân lực chất lượng cao."
       ],
       "a": "D",
-      "note": "🎯 Điểm khác biệt: 'nhanh nguồn nhân lực nhất là nguồn nhân lực · lượng cao'",
+      "note": "🔎 Thấy: 'Trong đường lối Chiến lược phát triển kinh tế- xã hội 2011-2020...' ➔ 🎯 Nhớ: 'nhanh nguồn nhân lực nhất là nguồn nhân lực · lượng cao'",
       "multi": false,
       "topic": "period_1986_now",
       "tags": []
@@ -6742,7 +6742,7 @@ window.VNR_DATA = {
         "Đảng cộng sản Việt Nam"
       ],
       "a": "A",
-      "note": "🎯 Chốt nhanh: 'Hội Việt Nam cách mạng thanh niên'",
+      "note": "🔎 Thấy: 'Tháng 6-1925 gắn với sự ra đời của tổ chức' ➔ 🎯 Nhớ: 'Hội Việt Nam cách mạng thanh niên'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": []
@@ -6757,7 +6757,7 @@ window.VNR_DATA = {
         "Quảng Châu- Trung Quốc"
       ],
       "a": "C",
-      "note": "🎯 Chốt nhanh: 'Cửu Long- Hương Cảng-Trung Quốc'",
+      "note": "🔎 Thấy: 'Hội nghị thành lập Đảng Cộng sản Việt Nam được tổ chức ở đâu' ➔ 🎯 Nhớ: 'Cửu Long- Hương Cảng-Trung Quốc'",
       "multi": false,
       "topic": "period_1858_1930",
       "tags": []
