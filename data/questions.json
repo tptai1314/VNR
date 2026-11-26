@@ -123,7 +123,9 @@
       "note": "⚠️ PHỦ ĐỊNH: Thấy 'KHÔNG tham dự Hội nghị thành lập Đảng 1930' ➔ Nhớ: 'Đông Dương cộng sản liên đoàn' (gia nhập sau ngày 24/2/1930).",
       "multi": false,
       "topic": "period_1930_1945",
-      "tags": []
+      "tags": [
+        "tag_bay"
+      ]
     },
     {
       "id": 2,
@@ -138,7 +140,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -185,7 +188,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -202,7 +206,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -236,7 +241,9 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_sinhdoi"
       ]
     },
     {
@@ -268,7 +275,8 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -285,7 +293,8 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -316,7 +325,9 @@
       "note": "🔎 Thấy: 'Vì sao Mỹ buộc phải tuyên bố ngừng hẳn ném bom, bắn phá miền Bắc...' ➔ 🎯 Nhớ: '...lược \"Chiến tranh cục bộ\" ở miền Nam'",
       "multi": false,
       "topic": "period_1954_1975",
-      "tags": []
+      "tags": [
+        "tag_chienluoc_my"
+      ]
     },
     {
       "id": 14,
@@ -426,7 +437,9 @@
       "multi": true,
       "topic": "khac",
       "tags": [
-        "tag_daihoi"
+        "tag_bay",
+        "tag_daihoi",
+        "tag_sinhdoi"
       ]
     },
     {
@@ -492,7 +505,9 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi",
+        "tag_sinhdoi"
       ]
     },
     {
@@ -509,8 +524,9 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_nhanvat",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_nhanvat"
       ]
     },
     {
@@ -559,7 +575,8 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_sinhdoi"
       ]
     },
     {
@@ -576,8 +593,10 @@
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_bay",
+        "tag_daihoi",
+        "tag_hoinghi",
+        "tag_nam"
       ]
     },
     {
@@ -593,7 +612,9 @@
       "note": "🔎 Thấy: 'Luận cương chính trị tháng 10/1930 xác định mâu thuẫn' ➔ Nhớ: 'Mâu thuẫn giai cấp diễn ra gay gắt' (khác Cương lĩnh đặt mâu thuẫn dân tộc lên đầu).",
       "multi": false,
       "topic": "period_1930_1945",
-      "tags": []
+      "tags": [
+        "tag_sinhdoi"
+      ]
     },
     {
       "id": 31,
@@ -625,7 +646,9 @@
       "note": "⚠️ PHỦ ĐỊNH: Thấy 'KHÔNG PHẢI điều kiện thời cơ chín muồi CM Tháng Tám' ➔ Nhớ: 'Lực lượng trung gian đã ngả hẳn về phía cách mạng'.",
       "multi": false,
       "topic": "period_1945_1954",
-      "tags": []
+      "tags": [
+        "tag_bay"
+      ]
     },
     {
       "id": 33,
@@ -641,7 +664,8 @@
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -675,7 +699,8 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -691,7 +716,9 @@
       "note": "⚠️ 2 ĐÁP ÁN (AB): Thấy '1929 Hội VNCM Thanh niên phân hóa thành' ➔ Nhớ đủ 2 đảng: An Nam CSĐ (A) + Đông Dương CSĐ (B). (ĐDCS Liên đoàn là từ Tân Việt!).",
       "multi": true,
       "topic": "period_1858_1930",
-      "tags": []
+      "tags": [
+        "tag_bay"
+      ]
     },
     {
       "id": 37,
@@ -707,7 +734,8 @@
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -741,8 +769,10 @@
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_chienluoc_my",
+        "tag_daihoi",
+        "tag_hoinghi",
+        "tag_nam"
       ]
     },
     {
@@ -759,7 +789,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -776,8 +807,9 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_nam"
       ]
     },
     {
@@ -794,7 +826,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -858,8 +891,9 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_nhanvat",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_nhanvat"
       ]
     },
     {
@@ -876,7 +910,8 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_nhanvat"
+        "tag_nhanvat",
+        "tag_sinhdoi"
       ]
     },
     {
@@ -893,8 +928,9 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_nam"
       ]
     },
     {
@@ -911,8 +947,9 @@
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
-        "tag_so",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_so"
       ]
     },
     {
@@ -929,8 +966,9 @@
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi",
+        "tag_nam"
       ]
     },
     {
@@ -947,7 +985,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -964,8 +1003,9 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_nam"
       ]
     },
     {
@@ -982,8 +1022,9 @@
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
-        "tag_nhanvat",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_nhanvat"
       ]
     },
     {
@@ -1000,7 +1041,8 @@
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -1017,7 +1059,8 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -1048,7 +1091,9 @@
       "note": "🔎 Thấy: 'Thành quả quan trọng nhất của cuộc Tổng tiến công và nổi dậy Tết...' ➔ 🎯 Nhớ: 'Đánh bại ý chí xâm lược của Mỹ'",
       "multi": false,
       "topic": "period_1954_1975",
-      "tags": []
+      "tags": [
+        "tag_chienluoc_my"
+      ]
     },
     {
       "id": 58,
@@ -1111,8 +1156,9 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_nam"
       ]
     },
     {
@@ -1190,7 +1236,10 @@
       "note": "⚠️ PHỦ ĐỊNH: Thấy 'KHÔNG thuộc Luận cương 10/1930' ➔ Nhớ câu nhắc tới 'tiểu tư sản, trí thức, trung nông, địa chủ vừa và nhỏ' (đó là của Cương lĩnh 2/1930!).",
       "multi": false,
       "topic": "period_1930_1945",
-      "tags": []
+      "tags": [
+        "tag_bay",
+        "tag_sinhdoi"
+      ]
     },
     {
       "id": 67,
@@ -1239,7 +1288,10 @@
       "note": "⚠️ PHỦ ĐỊNH: Thấy 'KHÔNG CÓ trong Luận cương 10/1930' ➔ Nhớ: 'Đặt nhiệm vụ chống đế quốc, giải phóng dân tộc lên hàng đầu' (Luận cương nặng giai cấp).",
       "multi": false,
       "topic": "period_1930_1945",
-      "tags": []
+      "tags": [
+        "tag_bay",
+        "tag_sinhdoi"
+      ]
     },
     {
       "id": 70,
@@ -1270,9 +1322,10 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
+        "tag_daihoi",
+        "tag_daihoi_only",
         "tag_nam",
-        "tag_nhanvat",
-        "tag_daihoi"
+        "tag_nhanvat"
       ]
     },
     {
@@ -1321,8 +1374,10 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
+        "tag_daihoi",
+        "tag_hoinghi",
         "tag_nam",
-        "tag_daihoi"
+        "tag_sinhdoi"
       ]
     },
     {
@@ -1371,7 +1426,8 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -1388,7 +1444,8 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_nam"
+        "tag_nam",
+        "tag_sinhdoi"
       ]
     },
     {
@@ -1405,8 +1462,9 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi",
+        "tag_nam"
       ]
     },
     {
@@ -1423,7 +1481,8 @@
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
-        "tag_nam"
+        "tag_nam",
+        "tag_sinhdoi"
       ]
     },
     {
@@ -1499,7 +1558,9 @@
       "note": "⚠️ PHỦ ĐỊNH: Thấy 'CHƯA ĐÚNG trong bài học lãnh đạo CM' ➔ Nhớ: 'Sử dụng lực lượng vũ trang áp đảo tiêu diệt kẻ thù'.",
       "multi": false,
       "topic": "period_1945_1954",
-      "tags": []
+      "tags": [
+        "tag_bay"
+      ]
     },
     {
       "id": 86,
@@ -1532,8 +1593,9 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_nam"
       ]
     },
     {
@@ -1566,7 +1628,9 @@
       "note": "🔎 Thấy: 'Vì sao phải Tổng khởi nghĩa TRƯỚC KHI quân Đồng minh vào' ➔ Cả 3 lý do đều đúng ➔ Chọn 'Tất cả nhận định trên' (D).",
       "multi": false,
       "topic": "period_1930_1945",
-      "tags": []
+      "tags": [
+        "tag_bay"
+      ]
     },
     {
       "id": 90,
@@ -1596,7 +1660,9 @@
       "note": "🔎 Thấy: 'Lần đầu tiên Ban Chấp hành Trung ương Đảng tại hội nghị lần thứ 8...' ➔ 🎯 Nhớ: 'Cộng hòa dân chủ'",
       "multi": false,
       "topic": "period_1930_1945",
-      "tags": []
+      "tags": [
+        "tag_hoinghi"
+      ]
     },
     {
       "id": 92,
@@ -1627,6 +1693,7 @@
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
+        "tag_chienluoc_my",
         "tag_nam",
         "tag_nhanvat"
       ]
@@ -1645,6 +1712,7 @@
       "multi": false,
       "topic": "period_1858_1930",
       "tags": [
+        "tag_sinhdoi",
         "tag_so"
       ]
     },
@@ -1661,7 +1729,9 @@
       "note": "🔎 Thấy: 'Trong giai đoạn 1965 - 1968, ở miền Nam, Mỹ đã thực hiện chiến lược...' ➔ 🎯 Nhớ: 'Chiến tranh cục bộ'",
       "multi": false,
       "topic": "period_1954_1975",
-      "tags": []
+      "tags": [
+        "tag_chienluoc_my"
+      ]
     },
     {
       "id": 96,
@@ -1692,8 +1762,9 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi",
+        "tag_nam"
       ]
     },
     {
@@ -1742,8 +1813,9 @@
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
-        "tag_so",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_so"
       ]
     },
     {
@@ -1759,8 +1831,9 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi",
+        "tag_nam"
       ]
     },
     {
@@ -1793,7 +1866,9 @@
       "note": "🔎 Thấy: 'Chánh cương vắn tắt, Sách lược vắn tắt do Hội nghị thành lập Đảng...' ➔ 🎯 Nhớ: 'Nhiệm vụ chống đế quốc'",
       "multi": false,
       "topic": "period_1858_1930",
-      "tags": []
+      "tags": [
+        "tag_sinhdoi"
+      ]
     },
     {
       "id": 104,
@@ -1809,7 +1884,8 @@
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -1825,7 +1901,9 @@
       "note": "🔎 Thấy: 'Đảng chủ trương thành lập mặt trận Việt Minh vì mục đích gì' ➔ 🎯 Nhớ: 'Để đoàn kết · cách mạng · giải phóng'",
       "multi": false,
       "topic": "period_1930_1945",
-      "tags": []
+      "tags": [
+        "tag_sinhdoi"
+      ]
     },
     {
       "id": 106,
@@ -1888,7 +1966,8 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_sinhdoi"
       ]
     },
     {
@@ -1905,7 +1984,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -1922,7 +2002,8 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -1939,8 +2020,8 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_nam"
       ]
     },
     {
@@ -2004,7 +2085,9 @@
       "multi": true,
       "topic": "period_1945_1954",
       "tags": [
-        "tag_daihoi"
+        "tag_bay",
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -2052,7 +2135,9 @@
       "note": "🔎 Thấy: 'Mặt trận được xây dựng thời kỳ cách mạng 1930- 1931 gọi tên' ➔ 🎯 Nhớ: 'Hội phản đế Đông Dương'",
       "multi": false,
       "topic": "period_1930_1945",
-      "tags": []
+      "tags": [
+        "tag_sinhdoi"
+      ]
     },
     {
       "id": 120,
@@ -2083,7 +2168,8 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_sinhdoi"
       ]
     },
     {
@@ -2175,7 +2261,8 @@
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -2191,7 +2278,9 @@
       "note": "🔎 Thấy: 'Chính sách phát triển kinh tế được Đảng đề ra tại Đại hội VI (1986)' ➔ 🎯 Nhớ: 'Kinh tế nhiều thành phần'",
       "multi": false,
       "topic": "period_1986_now",
-      "tags": []
+      "tags": [
+        "tag_daihoi_only"
+      ]
     },
     {
       "id": 129,
@@ -2206,7 +2295,9 @@
       "note": "🔎 Thấy: 'Nội dung \"tập trung ưu tiên hoàn thiện thể chế kinh tế thị trường...' ➔ 🎯 Nhớ: 'Hoàn thiện hệ thống luật pháp, cơ chế, chính sách'",
       "multi": false,
       "topic": "period_1986_now",
-      "tags": []
+      "tags": [
+        "tag_daihoi_only"
+      ]
     },
     {
       "id": 130,
@@ -2252,8 +2343,9 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_nhanvat",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_nhanvat"
       ]
     },
     {
@@ -2362,7 +2454,9 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_daihoi"
+        "tag_bay",
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -2471,7 +2565,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -2517,8 +2612,9 @@
       "multi": false,
       "topic": "period_1858_1930",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_nam"
       ]
     },
     {
@@ -2568,7 +2664,8 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -2599,7 +2696,9 @@
       "note": "🔎 Thấy: 'Lực lượng chính của cách mạng được xác định trong Luận cương chính...' ➔ 🎯 Nhớ: 'Công nhân và nông dân'",
       "multi": false,
       "topic": "period_1930_1945",
-      "tags": []
+      "tags": [
+        "tag_sinhdoi"
+      ]
     },
     {
       "id": 155,
@@ -2644,7 +2743,10 @@
       "note": "[🔁 Trùng ý Q189] 🔎 Thấy: 'Nhiệm vụ của cách mạng Việt Nam được xác định trong Luận cương...' ➔ 🎯 Nhớ: 'đánh đổ phong kiến và đế quốc'",
       "multi": false,
       "topic": "period_1930_1945",
-      "tags": []
+      "tags": [
+        "tag_bay",
+        "tag_sinhdoi"
+      ]
     },
     {
       "id": 158,
@@ -2660,7 +2762,8 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_nam"
+        "tag_nam",
+        "tag_sinhdoi"
       ]
     },
     {
@@ -2755,7 +2858,9 @@
       "note": "🔎 Thấy: 'Hạn chế lớn nhất của Luận cương chính trị tháng 10 năm 1930' ➔ 🎯 Nhớ: 'đưa ngọn cờ giải phóng · tộc · hàng'",
       "multi": false,
       "topic": "period_1930_1945",
-      "tags": []
+      "tags": [
+        "tag_sinhdoi"
+      ]
     },
     {
       "id": 165,
@@ -2771,7 +2876,8 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -2788,7 +2894,8 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -2821,7 +2928,11 @@
       "note": "[🔁 Trùng ý Q179] 🔎 Thấy: 'Hội nghị lần thứ 8 Ban chấp hành Trung ương Đảng Cộng sản Đông...' ➔ 🎯 Nhớ: 'Chuẩn bị khởi nghĩa'",
       "multi": false,
       "topic": "period_1930_1945",
-      "tags": []
+      "tags": [
+        "tag_bay",
+        "tag_hoinghi",
+        "tag_sinhdoi"
+      ]
     },
     {
       "id": 169,
@@ -2836,7 +2947,9 @@
       "note": "🔎 Thấy: 'Đảng Cộng sản Đông Dương quyết định chuyển hướng đấu tranh, đặt...' ➔ 🎯 Nhớ: 'Mâu thuẫn với Pháp-Nhật trở nên gay gắt'",
       "multi": false,
       "topic": "period_1945_1954",
-      "tags": []
+      "tags": [
+        "tag_sinhdoi"
+      ]
     },
     {
       "id": 170,
@@ -2852,7 +2965,9 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_daihoi"
+        "tag_bay",
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -2915,7 +3030,9 @@
       "note": "🔎 Thấy: 'Lực lượng cách mạng được nêu ra trong Luận cương chính trị (tháng...' ➔ 🎯 Nhớ: 'Công nhân, nông dân'",
       "multi": false,
       "topic": "period_1930_1945",
-      "tags": []
+      "tags": [
+        "tag_sinhdoi"
+      ]
     },
     {
       "id": 175,
@@ -2977,6 +3094,7 @@
       "topic": "period_1930_1945",
       "tags": [
         "tag_daihoi",
+        "tag_sinhdoi",
         "tag_so"
       ]
     },
@@ -2993,7 +3111,10 @@
       "note": "[🔁 Trùng ý Q168] 🔎 Thấy: 'Hội nghị lần thứ 8 Ban chấp hành Trung ương Đảng Cộng sản Đông...' ➔ 🎯 Nhớ: 'Chính phủ Việt Nam Dân chủ Cộng hòa'",
       "multi": false,
       "topic": "period_1930_1945",
-      "tags": []
+      "tags": [
+        "tag_bay",
+        "tag_hoinghi"
+      ]
     },
     {
       "id": 180,
@@ -3023,7 +3144,9 @@
       "note": "🔎 Thấy: 'Vì sao trong những năm 1939-1941 Đảng Cộng sản Đông Dương lại phải...' ➔ 🎯 Nhớ: 'nghiệp · phóng · đặt ra cấp thiết'",
       "multi": false,
       "topic": "period_1930_1945",
-      "tags": []
+      "tags": [
+        "tag_sinhdoi"
+      ]
     },
     {
       "id": 182,
@@ -3069,7 +3192,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -3146,7 +3270,9 @@
       "multi": false,
       "topic": "period_1858_1930",
       "tags": [
-        "tag_daihoi"
+        "tag_bay",
+        "tag_daihoi",
+        "tag_sinhdoi"
       ]
     },
     {
@@ -3255,7 +3381,8 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -3272,7 +3399,8 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -3289,9 +3417,10 @@
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
+        "tag_daihoi",
+        "tag_daihoi_only",
         "tag_nam",
-        "tag_nhanvat",
-        "tag_daihoi"
+        "tag_nhanvat"
       ]
     },
     {
@@ -3322,7 +3451,10 @@
       "note": "[⚠️ Cẩn thận bẫy \"đều đúng\"] 🔎 Thấy: 'Để thực hiện chính sách — \"Tố cộng, diệt cộng\"' ➔ 🎯 Nhớ: 'Luật 10/59'",
       "multi": false,
       "topic": "khac",
-      "tags": []
+      "tags": [
+        "tag_bay",
+        "tag_chienluoc_my"
+      ]
     },
     {
       "id": 201,
@@ -3338,7 +3470,9 @@
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
-        "tag_daihoi"
+        "tag_bay",
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -3354,7 +3488,9 @@
       "note": "🔎 Thấy: 'nhiệm vụ của cách mạng miền Bắc ngay sau khi hiệp định Giơ-ne-vơ...' ➔ 🎯 Nhớ: 'Hàn gắn vết thương chiến tranh, khôi phục kinh tế'",
       "multi": false,
       "topic": "period_1954_1975",
-      "tags": []
+      "tags": [
+        "tag_chienluoc_my"
+      ]
     },
     {
       "id": 203,
@@ -3370,8 +3506,9 @@
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi",
+        "tag_nam"
       ]
     },
     {
@@ -3388,7 +3525,8 @@
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -3420,7 +3558,8 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -3519,7 +3658,8 @@
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -3535,7 +3675,9 @@
       "note": "🔎 Thấy: 'Sau khi lên cầm quyền (1969), Tổng thống Mỹ R. Ních xơn chủ trương...' ➔ 🎯 Nhớ: 'Việt Nam hóa chiến tranh'",
       "multi": false,
       "topic": "period_1954_1975",
-      "tags": []
+      "tags": [
+        "tag_chienluoc_my"
+      ]
     },
     {
       "id": 214,
@@ -3549,7 +3691,10 @@
       "note": "[🔁 Trùng ý Q226] 🔎 Thấy: 'Sau khi Mỹ thực hiện chiến lược — \"Chiến tranh cục bộ\"' ➔ 🎯 Nhớ: 'mới, buộc phải thực thi...'",
       "multi": false,
       "topic": "period_1954_1975",
-      "tags": []
+      "tags": [
+        "tag_bay",
+        "tag_chienluoc_my"
+      ]
     },
     {
       "id": 215,
@@ -3596,7 +3741,10 @@
       "note": "[⚠️ Cẩn thận bẫy \"đều đúng\"] 🔎 Thấy: 'Mỹ Ngụy không thực thi hiệp định Giơ-ne-vơ bằng cách' ➔ 🎯 Nhớ: 'Ngăn cản hiệp thương tổng tuyển cử thống nhất đất nước'",
       "multi": false,
       "topic": "khac",
-      "tags": []
+      "tags": [
+        "tag_bay",
+        "tag_chienluoc_my"
+      ]
     },
     {
       "id": 218,
@@ -3612,7 +3760,8 @@
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -3678,7 +3827,8 @@
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -3725,7 +3875,8 @@
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -3741,7 +3892,10 @@
       "note": "[🔁 Trùng ý Q214] 🔎 Thấy: 'Sau khi Mỹ thực hiện chiến lược — \"chiến tranh cục bộ\"' ➔ 🎯 Nhớ: 'bảo đảm · vững mạnh trong điều kiện có chiến tranh'",
       "multi": false,
       "topic": "period_1954_1975",
-      "tags": []
+      "tags": [
+        "tag_bay",
+        "tag_chienluoc_my"
+      ]
     },
     {
       "id": 227,
@@ -3757,7 +3911,8 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -3806,7 +3961,9 @@
       "note": "[⚠️ Cẩn thận bẫy \"đều đúng\"] 🔎 Thấy: 'Đảng ta đã phát động phong trào gì để ủng hộ nhân lực cho Nam Bộ...' ➔ 🎯 Nhớ: 'Nam tiến'",
       "multi": false,
       "topic": "period_1945_1954",
-      "tags": []
+      "tags": [
+        "tag_bay"
+      ]
     },
     {
       "id": 231,
@@ -3821,7 +3978,9 @@
       "note": "⚠️ PHỦ ĐỊNH: Thấy 'KHÔNG CÓ trong Chỉ thị Nhật - Pháp bắn nhau (3/1945)' ➔ Nhớ: 'Thông qua 10 chính sách lớn của Việt Minh' (thuộc Đại hội Tân Trào 8/1945).",
       "multi": false,
       "topic": "period_1945_1954",
-      "tags": []
+      "tags": [
+        "tag_bay"
+      ]
     },
     {
       "id": 232,
@@ -3898,7 +4057,8 @@
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -3915,7 +4075,8 @@
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -3992,8 +4153,10 @@
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_chienluoc_my",
+        "tag_daihoi",
+        "tag_hoinghi",
+        "tag_nam"
       ]
     },
     {
@@ -4039,7 +4202,9 @@
       "note": "🔎 Thấy: 'Sau khi giành chính quyền, Đảng chủ trương mở rộng mặt trận nào sau...' ➔ 🎯 Nhớ: 'Mặt trận Việt Minh'",
       "multi": false,
       "topic": "period_1945_1954",
-      "tags": []
+      "tags": [
+        "tag_sinhdoi"
+      ]
     },
     {
       "id": 246,
@@ -4164,8 +4329,9 @@
       "multi": false,
       "topic": "period_1945_1954",
       "tags": [
-        "tag_nhanvat",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_nhanvat"
       ]
     },
     {
@@ -4182,8 +4348,9 @@
       "multi": false,
       "topic": "period_1954_1975",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_nam"
       ]
     },
     {
@@ -4378,7 +4545,8 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -4394,7 +4562,9 @@
       "note": "🔎 Thấy: 'Từ 1961-1965, Mĩ thực hiện loại hình chiến lược nào ở miền Nam Việt...' ➔ 🎯 Nhớ: 'Chiến tranh đặc biệt'",
       "multi": false,
       "topic": "period_1954_1975",
-      "tags": []
+      "tags": [
+        "tag_chienluoc_my"
+      ]
     },
     {
       "id": 268,
@@ -4472,7 +4642,8 @@
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -4534,7 +4705,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -4565,7 +4737,10 @@
       "note": "[⚠️ Cẩn thận bẫy \"đều đúng\"] 🔎 Thấy: 'sự kiện làm bùng nổ phong trào Đồng khởi năm 1960' ➔ 🎯 Nhớ: 'Ban hành Luật 10/59'",
       "multi": false,
       "topic": "period_1954_1975",
-      "tags": []
+      "tags": [
+        "tag_bay",
+        "tag_chienluoc_my"
+      ]
     },
     {
       "id": 279,
@@ -4580,7 +4755,9 @@
       "note": "🔎 Thấy: 'Hình thức khởi nghĩa chống lại ách thống trị của Mĩ - Diệm đã diễn...' ➔ 🎯 Nhớ: 'Bình Định.'",
       "multi": false,
       "topic": "period_1930_1945",
-      "tags": []
+      "tags": [
+        "tag_chienluoc_my"
+      ]
     },
     {
       "id": 280,
@@ -4611,7 +4788,8 @@
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -4657,7 +4835,9 @@
       "note": "🔎 Thấy: 'Sau thất bại của Chiến tranh đặc biệt, Mỹ chuyển sang loại hình...' ➔ 🎯 Nhớ: 'Chiến tranh cục bộ.'",
       "multi": false,
       "topic": "period_1954_1975",
-      "tags": []
+      "tags": [
+        "tag_chienluoc_my"
+      ]
     },
     {
       "id": 285,
@@ -4687,7 +4867,9 @@
       "note": "🔎 Thấy: '\"chiến tranh cục bộ\"' ➔ 🎯 Nhớ: '...tiền tuyến lớn, miền Bắc là hậu phương lớn. Bảo vệ miền Bắc là nhiệm vụ của cả nước.'",
       "multi": false,
       "topic": "period_1954_1975",
-      "tags": []
+      "tags": [
+        "tag_chienluoc_my"
+      ]
     },
     {
       "id": 287,
@@ -4702,7 +4884,9 @@
       "note": "🔎 Thấy: 'Phong trào Đồng khởi làm thất bại loại hình chiến lược chiến tranh...' ➔ 🎯 Nhớ: 'Chiến tranh đơn phương,'",
       "multi": false,
       "topic": "period_1954_1975",
-      "tags": []
+      "tags": [
+        "tag_chienluoc_my"
+      ]
     },
     {
       "id": 288,
@@ -4717,7 +4901,11 @@
       "note": "[🔁 Trùng ý Q289] 🔎 Thấy: 'Mặt trận Dân tộc giải phóng miền Nam Việt Nam được thảnh lập ở đâu' ➔ 🎯 Nhớ: 'Tây Ninh'",
       "multi": false,
       "topic": "khac",
-      "tags": []
+      "tags": [
+        "tag_bay",
+        "tag_chienluoc_my",
+        "tag_sinhdoi"
+      ]
     },
     {
       "id": 289,
@@ -4733,7 +4921,9 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_nhanvat"
+        "tag_bay",
+        "tag_nhanvat",
+        "tag_sinhdoi"
       ]
     },
     {
@@ -4749,7 +4939,9 @@
       "note": "🔎 Thấy: 'Âm mưu của Mỹ trong chiến lược chiến tranh đặc biệt' ➔ 🎯 Nhớ: 'Dùng người Việt đánh người Việt'",
       "multi": false,
       "topic": "period_1954_1975",
-      "tags": []
+      "tags": [
+        "tag_chienluoc_my"
+      ]
     },
     {
       "id": 291,
@@ -4764,7 +4956,9 @@
       "note": "🔎 Thấy: 'Ý nghĩa quan trọng của phong trào Đồng khởi' ➔ 🎯 Nhớ: 'Chuyển cách mạng miền Nam từ thế giữ gìn lực lượng sang thế tiến công'",
       "multi": false,
       "topic": "period_1954_1975",
-      "tags": []
+      "tags": [
+        "tag_chienluoc_my"
+      ]
     },
     {
       "id": 292,
@@ -4794,7 +4988,9 @@
       "note": "🔎 Thấy: 'Tại sao, cuộc tổng tiến công nổi dậy Mậu Thân 1968 bị thất bại vừa...' ➔ 🎯 Nhớ: 'ngồi vào bàn đàm phán'",
       "multi": false,
       "topic": "period_1954_1975",
-      "tags": []
+      "tags": [
+        "tag_chienluoc_my"
+      ]
     },
     {
       "id": 294,
@@ -4840,7 +5036,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -4856,7 +5053,9 @@
       "note": "🔎 Thấy: 'Định hướng phát triển đất nước đến năm 2030 mà Đại hội XIII của...' ➔ 🎯 Nhớ: 'đang phát triển có công nghiệp hiện đại thu nhập trung bình cao'",
       "multi": false,
       "topic": "period_1986_now",
-      "tags": []
+      "tags": [
+        "tag_daihoi_only"
+      ]
     },
     {
       "id": 298,
@@ -4902,6 +5101,7 @@
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
+        "tag_chienluoc_my",
         "tag_so"
       ]
     },
@@ -4948,7 +5148,9 @@
       "note": "🔎 Thấy: 'Nhiệm vụ kinh tế trọng tâm ở miền Bắc sau tháng 7/1954 được Đảng...' ➔ 🎯 Nhớ: 'Khôi phục và phát triển sản xuất nông nghiệp'",
       "multi": false,
       "topic": "period_1954_1975",
-      "tags": []
+      "tags": [
+        "tag_sinhdoi"
+      ]
     },
     {
       "id": 304,
@@ -5007,7 +5209,9 @@
       "note": "🔎 Thấy: 'Nhân tố hàng đầu đảm bảo thắng lợi của cuộc kháng chiến chống Mĩ,...' ➔ 🎯 Nhớ: 'có đường lối cách mạng đúng đắn sáng tạo độc lập tự'",
       "multi": false,
       "topic": "period_1975_1986",
-      "tags": []
+      "tags": [
+        "tag_sinhdoi"
+      ]
     },
     {
       "id": 308,
@@ -5053,8 +5257,9 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_nhanvat",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi",
+        "tag_nhanvat"
       ]
     },
     {
@@ -5135,8 +5340,9 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_nhanvat",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_nhanvat"
       ]
     },
     {
@@ -5183,7 +5389,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -5200,8 +5407,9 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_nam"
       ]
     },
     {
@@ -5232,7 +5440,9 @@
       "note": "🔎 Thấy: 'Chiến lược — \"Chiến tranh đặc biệt\"' ➔ 🎯 Nhớ: '...hành bằng quân đội tay sai, dưới sự chỉ huy của...'",
       "multi": false,
       "topic": "period_1954_1975",
-      "tags": []
+      "tags": [
+        "tag_chienluoc_my"
+      ]
     },
     {
       "id": 322,
@@ -5248,7 +5458,8 @@
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -5280,7 +5491,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -5297,7 +5509,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -5314,8 +5527,9 @@
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
-        "tag_nhanvat",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_nhanvat"
       ]
     },
     {
@@ -5361,7 +5575,9 @@
       "note": "🔎 Thấy: 'Mặt trận Tổ quốc Việt Nam, Đoàn thanh niên Lao động HCM, Tổng Công...' ➔ 🎯 Nhớ: 'Các tổ chức chính trị - xã hội'",
       "multi": false,
       "topic": "khac",
-      "tags": []
+      "tags": [
+        "tag_sinhdoi"
+      ]
     },
     {
       "id": 330,
@@ -5452,7 +5668,8 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -5469,7 +5686,9 @@
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_sinhdoi"
       ]
     },
     {
@@ -5486,8 +5705,9 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_nam"
       ]
     },
     {
@@ -5504,7 +5724,9 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_sinhdoi"
       ]
     },
     {
@@ -5580,7 +5802,8 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -5659,8 +5882,9 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_nam"
       ]
     },
     {
@@ -5677,7 +5901,8 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -5694,7 +5919,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -5711,7 +5937,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -5728,7 +5955,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -5745,7 +5973,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -5762,7 +5991,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -5779,8 +6009,9 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_nam"
       ]
     },
     {
@@ -5797,7 +6028,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -5814,7 +6046,9 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_bay",
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -5831,8 +6065,9 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_so",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_so"
       ]
     },
     {
@@ -5849,7 +6084,8 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -5866,7 +6102,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -5883,7 +6120,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -5934,8 +6172,9 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_nam",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_nam"
       ]
     },
     {
@@ -5952,7 +6191,9 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_sinhdoi"
       ]
     },
     {
@@ -5969,7 +6210,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -6001,7 +6243,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -6018,8 +6261,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_nhanvat",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_nhanvat"
       ]
     },
     {
@@ -6066,7 +6309,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -6083,7 +6327,9 @@
       "multi": false,
       "topic": "period_1930_1945",
       "tags": [
-        "tag_daihoi"
+        "tag_bay",
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -6100,7 +6346,9 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_bay",
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -6117,7 +6365,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -6149,8 +6398,9 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_so",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_so"
       ]
     },
     {
@@ -6167,7 +6417,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -6325,7 +6576,8 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -6342,7 +6594,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -6358,7 +6611,9 @@
       "note": "⚠️ PHỦ ĐỊNH: Thấy 'KHÔNG ĐÚNG về CNH thời kỳ TRƯỚC Đổi mới' ➔ Nhớ: 'thực hiện thông qua cơ chế thị trường' (trước Đổi mới là kế hoạch hóa tập trung!).",
       "multi": false,
       "topic": "period_1986_now",
-      "tags": []
+      "tags": [
+        "tag_bay"
+      ]
     },
     {
       "id": 391,
@@ -6374,7 +6629,8 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -6406,8 +6662,9 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_nhanvat",
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi",
+        "tag_nhanvat"
       ]
     },
     {
@@ -6424,7 +6681,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -6473,7 +6731,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -6490,7 +6749,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -6524,7 +6784,8 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_hoinghi"
       ]
     },
     {
@@ -6541,7 +6802,9 @@
       "multi": false,
       "topic": "khac",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_sinhdoi"
       ]
     },
     {
@@ -6558,7 +6821,8 @@
       "multi": false,
       "topic": "period_1975_1986",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only"
       ]
     },
     {
@@ -6620,7 +6884,9 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_sinhdoi"
       ]
     },
     {
@@ -6698,7 +6964,9 @@
       "note": "⚠️ PHỦ ĐỊNH: Thấy 'Đổi mới không phải là thay đổi mục tiêu CNXH mà phải...' ➔ Nhớ: 'làm cho mục tiêu ấy được thực hiện có hiệu quả'.",
       "multi": false,
       "topic": "period_1986_now",
-      "tags": []
+      "tags": [
+        "tag_bay"
+      ]
     },
     {
       "id": 412,
@@ -6714,7 +6982,9 @@
       "multi": false,
       "topic": "period_1986_now",
       "tags": [
-        "tag_daihoi"
+        "tag_daihoi",
+        "tag_daihoi_only",
+        "tag_sinhdoi"
       ]
     },
     {

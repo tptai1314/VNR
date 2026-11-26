@@ -159,6 +159,36 @@ select{
 .cli-q{font-weight:700; color:#0f172a}
 .cli-ans{color:var(--ok); font-weight:800; margin-top:6px}
 
+
+/* Full always-visible category panel */
+.cat-panel{
+  background:#fff; border:1px solid var(--line); border-radius:16px;
+  padding:14px 16px; margin-bottom:16px; box-shadow:0 4px 14px rgba(15,23,42,.04);
+}
+.cat-group{margin-bottom:10px}
+.cat-group:last-child{margin-bottom:0}
+.cat-group-title{
+  font-size:.76rem; font-weight:800; text-transform:uppercase; letter-spacing:.04em;
+  color:var(--muted); margin-bottom:7px; display:flex; align-items:center; justify-content:space-between;
+}
+.cat-grid{display:flex; flex-wrap:wrap; gap:7px}
+.cat-chip{
+  display:inline-flex; align-items:center; gap:6px; padding:6px 11px;
+  border-radius:999px; border:1px solid var(--line); background:#f8fafc;
+  color:var(--ink); font-size:.82rem; font-weight:700; cursor:pointer;
+  transition:all .15s; user-select:none;
+}
+.cat-chip:hover{border-color:var(--brand); background:#fff1f2; color:var(--brand-dark)}
+.cat-chip.active{
+  background:var(--brand); color:#fff; border-color:var(--brand);
+  box-shadow:0 3px 10px rgba(220,38,38,.25);
+}
+.cat-chip .cnt{
+  font-size:.72rem; font-weight:800; padding:1px 6px; border-radius:999px;
+  background:rgba(15,23,42,.08); color:inherit;
+}
+.cat-chip.active .cnt{background:rgba(255,255,255,.25); color:#fff}
+
 .hidden{display:none!important}
 .kbd-hint{text-align:center; font-size:.78rem; color:var(--muted); margin-top:16px}
 kbd{background:#e2e8f0; border-radius:4px; padding:2px 6px; font-family:monospace; font-weight:700}
@@ -167,7 +197,7 @@ kbd{background:#e2e8f0; border-radius:4px; padding:2px 6px; font-family:monospac
 <body>
 
 <div class="wrap">
-  <div class="nav-back"><a href="index.html">← Về trang chủ VNR202</a></div>
+  <div class="nav-back" style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px"><a href="index.html">← Về trang chủ VNR202</a><a href="meo-hoc-thuoc.html" style="color:var(--brand)">💡 Mở trang Mẹo học thuộc ➔</a></div>
   
   <header>
     <div>
@@ -175,22 +205,25 @@ kbd{background:#e2e8f0; border-radius:4px; padding:2px 6px; font-family:monospac
       <div class="sub">Thuật toán lặp lại ngắt quãng SM-2 (kiểu Anki) · 415 câu trắc nghiệm</div>
     </div>
     <div class="top-controls">
-      <select id="selTopic" onchange="changeTopic(this.value)">
-        <option value="all">📚 Tất cả câu hỏi (415 câu)</option>
-        <option value="period_1858_1930">🌱 Thành lập Đảng & Tiền đề (1858 - 1930)</option>
-        <option value="period_1930_1945">🚩 Đấu tranh giành chính quyền (1930 - 1945)</option>
-        <option value="period_1945_1954">⚔️ Kháng chiến chống Pháp (1945 - 1954)</option>
-        <option value="period_1954_1975">🚀 Kháng chiến chống Mỹ (1954 - 1975)</option>
-        <option value="period_1975_1986">🇻🇳 Cả nước quá độ lên CNXH (1975 - 1986)</option>
-        <option value="period_1986_now">🌐 Đổi mới & Hội nhập (1986 - nay)</option>
-        <option value="tag_so">🔢 Dạng câu: Con số & Bộ số</option>
-        <option value="tag_nam">⏱️ Dạng câu: Mốc thời gian & Năm</option>
-        <option value="tag_nhanvat">🧑 Dạng câu: Tổng Bí thư & Nhân vật</option>
-        <option value="tag_daihoi">🏛️ Dạng câu: Đại hội & Hội nghị TW</option>
-      </select>
       <button class="ghost" onclick="toggleSettings(true)">⚙️ Cài đặt</button>
     </div>
   </header>
+
+  <!-- FULL CATEGORY PANEL (Synced 1-to-1 with Mẹo học thuộc) -->
+  <div class="cat-panel">
+    <div class="cat-group">
+      <div class="cat-group-title">
+        <span>💡 Luyện theo từng Mục Mẹo học thuộc (học xong mẹo nào, luyện bộ đó ngay)</span>
+      </div>
+      <div class="cat-grid" id="catGridMeo"></div>
+    </div>
+    <div class="cat-group">
+      <div class="cat-group-title">
+        <span>📅 Luyện theo Giai đoạn lịch sử (Toàn bộ 415 câu)</span>
+      </div>
+      <div class="cat-grid" id="catGridPeriod"></div>
+    </div>
+  </div>
 
   <!-- View tabs -->
   <div class="view-tabs">
@@ -594,6 +627,7 @@ function undoLast(){
 
 function changeTopic(t){
   curTopic = t;
+  renderCategoryChips();
   buildPracticeQueue();
   loadNextCard();
   if(curTab === "list") renderCardList();
@@ -736,9 +770,71 @@ window.addEventListener("keydown", e => {
   }
 });
 
-// Init
+const MEO_CATEGORIES = [
+  { id: "tag_sinhdoi", label: "🧠 Cụm sinh đôi dễ nhầm" },
+  { id: "tag_so", label: "🔢 Mục 1: Bộ số ma thuật" },
+  { id: "tag_nam", label: "⏱️ Mục 2: Mốc năm & Thời gian" },
+  { id: "tag_nhanvat", label: "🧑 Mục 3: Tổng Bí thư & Nhân vật" },
+  { id: "tag_daihoi_only", label: "🏛️ Mục 4: 13 Kỳ Đại hội" },
+  { id: "tag_hoinghi", label: "🚩 Mục 5: Hội nghị TW & NQ" },
+  { id: "tag_chienluoc_my", label: "⚔️ Mục 6: 4 Chiến lược Mỹ" },
+  { id: "tag_bay", label: "⚠️ Mục 7: Bẫy đề (2 Đ/A · Phủ định)" }
+];
+
+const PERIOD_CATEGORIES = [
+  { id: "all", label: "📚 Tất cả" },
+  { id: "period_1858_1930", label: "🌱 1858–1930" },
+  { id: "period_1930_1945", label: "🚩 1930–1945" },
+  { id: "period_1945_1954", label: "⚔️ 1945–1954" },
+  { id: "period_1954_1975", label: "🚀 1954–1975" },
+  { id: "period_1975_1986", label: "🇻🇳 1975–1986" },
+  { id: "period_1986_now", label: "🌐 1986–nay" },
+  { id: "khac", label: "📖 Tổng hợp / Khác" }
+];
+
+function countForCategory(catId){
+  if(catId === "all") return ALL_QS.length;
+  if(catId.startsWith("tag_")) return ALL_QS.filter(q => q.tags && q.tags.includes(catId)).length;
+  return ALL_QS.filter(q => q.topic === catId).length;
+}
+
+function renderCategoryChips(){
+  const renderList = (elId, items) => {
+    const el = $(elId);
+    if(!el) return;
+    el.innerHTML = "";
+    items.forEach(item => {
+      const cnt = countForCategory(item.id);
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "cat-chip" + (curTopic === item.id ? " active" : "");
+      btn.innerHTML = `<span>${item.label}</span><span class="cnt">${cnt}</span>`;
+      btn.onclick = () => changeTopic(item.id);
+      el.appendChild(btn);
+    });
+  };
+  renderList("catGridMeo", MEO_CATEGORIES);
+  renderList("catGridPeriod", PERIOD_CATEGORIES);
+}
+
+// Init: support direct deep-link ?topic=...&tab=free from meo-hoc-thuoc.html
+const urlParams = new URLSearchParams(window.location.search);
+const paramTopic = urlParams.get("topic");
+const paramTab = urlParams.get("tab");
+if(paramTopic) curTopic = paramTopic;
+if(paramTab && ["practice","free","list"].includes(paramTab)){
+  curTab = paramTab;
+  $("tabPractice").classList.toggle("active", curTab === "practice");
+  $("tabFree").classList.toggle("active", curTab === "free");
+  $("tabList").classList.toggle("active", curTab === "list");
+  $("viewPractice").classList.toggle("hidden", curTab === "list");
+  $("viewList").classList.toggle("hidden", curTab !== "list");
+}
+
+renderCategoryChips();
 buildPracticeQueue();
-loadNextCard();
+if(curTab === "list") renderCardList();
+else loadNextCard();
 </script>
 </body>
 </html>
